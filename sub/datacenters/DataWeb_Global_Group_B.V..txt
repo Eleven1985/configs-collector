@@ -1,10 +1,10 @@
-trojan://oys2tbl0-wjy2-2vow-05pk-7plyyt2zabji@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://9g19w05e-wgxz-w7bp-v87k-03n1aejsna18@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://93lkyv3v-qxb0-w05z-88ea-2pqe68lr5hm8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cjvtrj17-wse1-jtl4-4usz-kdo0h3bg3kdp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
+trojan://pflss8y7-qa5l-bkec-02qx-wqnz3lsh9y7u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://kr7peekr-vnti-aqbz-gewr-jzeaar05gvyc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2nz2w34q-lobt-4uzj-la3r-0s8b3eost3l1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3vnanzv5-ztvf-3oys-1q3n-kr77jj9y4xnl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.158.181:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.158.181
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.46
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@2.59.38.185:8443?type=ws&security=tls&path=Telegram@V2ray_Alpha/?ed&sni=gozargah.validbv7996.ir#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.185
-trojan://x1t43ypi-zq1f-kwk9-61ci-d63daqxlak0m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ueoe5bti-o3bm-fxqz-0dk0-08nuerel3wsn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

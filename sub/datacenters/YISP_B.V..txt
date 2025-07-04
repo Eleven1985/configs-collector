@@ -1,7 +1,7 @@
-trojan://tf655hp4-nb0m-a1zp-v855-eox5ai6y0dsc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://xdtduu1k-scqt-qchq-ztiz-qjwoluj2s7mh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yy4taf5x-ideg-odmo-1ooh-k7kmio8sc5ev@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kpaks83t-qd1f-hvrg-i7am-m5v13qputhto@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f1ph1g3c-pwax-3ybb-ar6i-mu6jp0ugv3eh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://aumfjtqq-679k-pg0k-n217-vvqbnuco3uf7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vi2f6tl4-f7tm-p3pw-40yf-3otf853dh404@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ps18spjp-6b35-rph7-1fmu-j4qjo9242fk1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDQ2LjE4Mi4xMDcuMTA5IiwiYWRkIjoiNDYuMTgyLjEwNy4xMDkiLCJwb3J0Ijo0MTAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjQyMDMxNzQyLnh5eiIsInBhdGgiOiIvcGF0aC8xNzA3MzMxMzIyMzMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuNDIwMzE3NDIueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDQ2LjE4Mi4xMDcuNDUiLCJhZGQiOiI0Ni4xODIuMTA3LjQ1IiwicG9ydCI6NDQzLCJpZCI6ImZlNWY2OWU3LWUxODMtNDM5Yi05NTBiLTk2NjFlZjA2NTFmMiIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDQ2LjE4Mi4xMDcuODIiLCJhZGQiOiI0Ni4xODIuMTA3LjgyIiwicG9ydCI6NDQzLCJpZCI6IjM3YzI5ZjQyLWI3YzctNDBjNy05ZGE5LTc0M2RjYzQ4OTViYyIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
@@ -106,4 +106,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDQ2LjE4Mi4xMDcuODEiLCJhZGQiOiI0Ni4xODIuMTA3LjgxIiwicG9ydCI6NDQzLCJpZCI6IjM3YzI5ZjQyLWI3YzctNDBjNy05ZGE5LTc0M2RjYzQ4OTViYyIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDE1NC44NC4xLjExNiIsImFkZCI6IjE1NC44NC4xLjExNiIsInBvcnQiOjQ0MywiaWQiOiIyMGIzMDkxNi1lMjAzLTQxMmUtOGVjMC05MDBmM2FjZDM1ODgiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZm9vdGVycyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBZSVNQIEIuVi4gXHUyNTA3IDE1NC44NC4xLjE0NiIsImFkZCI6IjE1NC44NC4xLjE0NiIsInBvcnQiOjQ0MywiaWQiOiIzMjY4NzI3YS03NTU2LTQyMTEtOGE0OS0yY2Y1YzUwOTZkYTQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZm9vdGVycyIsInRscyI6InRscyJ9
-trojan://i9v4bjkk-bti8-fo3u-ludu-01hz14mwytrd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yuo09m7o-ocoq-lqbg-epb5-i4hxt6pvtcof@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

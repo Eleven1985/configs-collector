@@ -1,6 +1,6 @@
-trojan://m3k6zcyb-1r2p-aerw-bvuh-xq3z2uqp6sr1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://1rjhmj8x-we5w-zvz2-n9bn-x0l5dcho9jgc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bpbfvuz0-cpon-c63o-v1ry-8pnzh1j34np7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jniy4kcm-kjsu-d5tm-ht97-xxjc3apwldp5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pd9q3pre-t4mw-07tg-8xfi-p485uklqm6vj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://cezbxqvq-7i8o-kpdr-uqg1-2d4qj02j4ddg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v166h9de-ig2r-q15h-29ad-ht13lt4ei4e7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6092i259-cym0-37up-c560-7z2mk893x8hs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a7c1d8e-1234-4567-890a-bcdef0123456@65.254.242.180:443?type=ws&security=tls&path=/v2raypath&sni=mydomain.com#US 🇺🇸 ┇ VLESS-WS-TLS - BIZLAND-SD ┇ 65.254.242.180
-trojan://oj64oxvp-g5l0-puux-21ys-gxh5og4j3s9p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://x60sieur-vfb7-w5vn-2egb-2nf4wnnl55z5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

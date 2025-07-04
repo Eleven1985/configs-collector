@@ -1,9 +1,9 @@
-trojan://qcq4r7ej-ok3m-ftpi-c0xm-67gwijw9ns51@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://ynl8hzf7-ws6t-otnc-wk9r-nv4oeitfmrz1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9pmg8sod-xajq-y02h-9t0i-5se52w8heys8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7rmp5n8t-reii-hbpq-9uv7-0gvublemljqc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://02sqrayl-8dit-zzn2-bk25-g0ngk48j6lkb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://oajl0l80-x120-c4w8-9t4g-6v4sp0xs3vls@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3ps6vqtk-90q4-r0e3-e7yo-5p5rx4nnbp6t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://67aashde-gnvt-h15a-t589-fksbk9e4uf8f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d3c44d08-7657-4bb2-b661-0f57fd2572dd@shida.ntbz.xyz:15040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.136
 vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.99
 vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.63
 vless://348cd64e-a551-422b-93f2-55e34fdb1601@193.107.48.54:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.54
-trojan://dd7w02cp-xp8d-ogya-haat-cduzvqkst8n4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://85rc9fvp-1k4a-hgcy-4cwd-hhjhvizgp6zo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,11 +1,11 @@
-trojan://fmcosq8u-877m-crb5-r1e4-myuc5g6u3f4i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://qddzh9ky-vbnc-46oo-jb4t-vj5rf28w9bii@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i2jxhy87-xj5i-mtb3-c6oz-mrz9xzv8m77w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6qa78ixx-k5ty-ie8a-e16n-e9uuca53yvtc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://aqpo6cuk-odzn-7zgk-5lap-szik54i2xu3q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://uv8g5pt3-vhs7-4yjv-5sc4-k3ekjlh9ilz6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2nhuz9wm-6btc-9kld-wek9-e2by89t9ab2c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ync330bo-gekm-dcp3-96ad-exnbcr30lij9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGZkMWRkZS0wY2UyLTNkOWQtYjdlMi0zOTA3NzFkODAwYTk@cm.kapoknode.com:21809#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - SEDO GmbH ┇ 91.195.240.12
-trojan://3r372@91.195.240.94:443?sni=tj786.37927.online&peer=tj786.37927.online&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - SEDO GmbH ┇ 91.195.240.94
+trojan://3774827088566296576@natural-aphid.insect388.motorcycles:443?sni=natural-aphid.insect388.motorcycles&peer=natural-aphid.insect388.motorcycles&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - SEDO GmbH ┇ 91.195.240.94
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0VETyBHbWJIIFx1MjUwNyA5MS4xOTUuMjQxLjIzMiIsImFkZCI6ImFwaS5jbG91ZGJhemFhci5kZSIsInBvcnQiOjgwLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0Rhbmh1YW5nL0ppYW5nIn0
 vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?type=grpc&security=tls&sni=deg.iranasanejesh.org#DE 🇩🇪 ┇ VLESS-GRPC-TLS - SEDO GmbH ┇ 91.195.240.13
 vless://aaaaaa@www.aaaa.net:8443?type=ws&security=tls&path=/video&sni=www.aaaa.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SEDO GmbH ┇ 64.190.63.222
 vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?type=grpc&security=reality&sni=iranbax.spacex.com&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - SEDO GmbH ┇ 64.190.63.111
-trojan://ey6jwv9l-z8k0-6js3-jsm5-ugg85ptebe3c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tplg9xqe-4w9l-8gsn-1x8z-mzgiotzhikrh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

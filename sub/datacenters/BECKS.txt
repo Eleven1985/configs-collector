@@ -1,13 +1,13 @@
-trojan://7mhy8tb2-dzjd-ed9y-32c3-hpdff7hk2xs0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
-trojan://s3mueox9-q2u2-sj27-2yrk-wu482gwsal6j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sqomuvj1-k8jr-nr0s-r8za-2moub4irf5gn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vr7kvvan-z97p-3yuo-g535-6kxwzlw05rqf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.29
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.193.27.177:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.177
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.213
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@141.193.27.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.251
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@141.193.27.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.13
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.193.27.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.247
+trojan://a7b1blpa-4gpg-5mcv-pb9w-kgzw4hh6s8nu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
+trojan://8lx75gze-ouv6-qr88-bool-sq3zq268y6o8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1e2bta8r-0hw8-eoqk-8kc6-asihn1lmxehh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q68gxlvb-y8is-5ol4-qh07-wvwz8b3yxdsg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@141.193.27.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.77
-trojan://0hqz60tr-cgvi-4ddx-isrz-pq635gx695tp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@141.193.27.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.251
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@141.193.27.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.13
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.29
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.193.27.177:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.177
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.193.27.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.247
+trojan://4s71ml00-fv81-apj1-ep3m-be1vmbw1pnr8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
