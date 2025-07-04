@@ -1,7 +1,7 @@
-trojan://wg6c4deb-g4lq-61qt-2n92-ntfayxwbpbf1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://bsoi2ol6-tx0o-b0eb-tf42-1yi02mflg80f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hjkn9na5-wfxu-3aat-v41d-153vtx4de0ls@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e9gyli87-yui6-fs70-m5ya-e3e4fy434kix@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://58nut34v-q7c2-b5yj-58xh-uh0vq7u2kyc9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://sg1lr794-x8dl-9gnx-i14c-gt49poq4397p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3g0161b9-g0d7-tylx-5fie-r8dato4xz1z0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://apxddtdz-bfmd-8ifg-qead-x39deakagrjg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
 vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
-trojan://9ome3a8c-ai5k-7q3h-g07p-9nxx8iozds2k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://38ookc8u-alr3-z8m7-cool-21hnpxlsl7xb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,9 +1,9 @@
-trojan://v5uxd758-gtq0-15zf-drro-mzr7a3naj43m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://cynpx1w2-quym-62lg-9j7o-xcz0rc32oxe1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q022cyyz-8brp-xv4q-xjg4-urzbet5nr9vi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e9m050vw-aaw5-0xy6-l4ju-fcdr1v6lycsa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z9vn9ec5-p281-hlx7-extb-dtxmylqynahe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://634j0rk5-7l41-7ufz-yeq1-j2gwcyxpnbir@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0ww1mpk6-flq0-jc98-zorj-c9qbwrxigfh1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://woehsbwv-tz6z-lad5-ew11-qps7bdtm9zwd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b722886c-e0aa-4720-9812-0f8ccf7a24aa@homee.oops.wtf:8866?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.154
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpYmEgQ2xvdWQgT3BlcmF0aW9uIENvbXBhbnksIExMQyBcdTI1MDcgMjE2LjkuMjI1LjYxIiwiYWRkIjoiMjE2LjkuMjI1LjYxIiwicG9ydCI6MzM5ODQsImlkIjoiOTU2YWU4YzItZTJiYy00NzlkLWRjNDUtN2VkMjFkZTVlOGUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@216.9.225.159:8000?type=tcp&security=tls&sni=tr-1.claudify.org&fp=randomized&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.159
-vless://885a03bb-4797-3fd8-5446-c770066cb87e@turkeynode.iranwebfa.com:4141?type=tcp&security=reality&sni=TurkeyNode.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=HC6mNBrJbEp_AQ_TLO0yqglzadGYG-jv6KfPMcbr7xU&sid=a8d8ae605613aebb#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
-trojan://mpxltoym-j9tj-4xin-69x4-ajfn85hokt6n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4141?type=tcp&security=reality&sni=TurkeyNode.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=HC6mNBrJbEp_AQ_TLO0yqglzadGYG-jv6KfPMcbr7xU&sid=a8d8ae605613aebb#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
+trojan://78d49zk7-1ndh-53pn-tvwy-hqho29g3cy4e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

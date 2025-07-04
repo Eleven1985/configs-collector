@@ -1,11 +1,11 @@
-trojan://461io9ho-7ja1-s20j-wvoy-y6sr9c5nyrqo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://3yqtdz9x-ulb7-5fit-7epf-gdbgjgqm4dck@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o9dmozm3-qnie-vxxe-80yk-dzpzdhzgiib2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8kk9r47w-tkp2-ucc3-21wo-tshgfvdfq44i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://k1wtli4s-xt74-yejq-vz56-yyvsohopuhcr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://yqfvfvhq-hj4r-dof4-6t1o-fzqpwmj0e515@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7v6u71bt-opne-y2wo-srm0-eljrfjske1l7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ncnnihqj-m3cp-z83a-iewv-nhbjr741y0z2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206RzlOVWxXS28yVWRXMkZ0V3h1dW9Pa1RXVktWUEkvR09hQnVWVndScmRtMD0@79.174.85.241:59927#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 79.174.85.241
 ss://YWVzLTI1Ni1nY206aVVxRjkwVnVybjZCREFrODdERzgvSWhYTGpxaGhSSGFlNWZiR0pQaENJVT0@193.227.240.37:39705#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 193.227.240.37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphdWZmc2Fscw@194.58.114.23:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 194.58.114.23
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERvbWFpbiBuYW1lcyByZWdpc3RyYXIgUkVHLlJVLCBMdGQgXHUyNTA3IDk1LjE2My4yNDMuMjM1IiwiYWRkIjoiOTUuMTYzLjI0My4yMzUiLCJwb3J0IjoxMzkzNiwiaWQiOiJlZWNhN2Y5Ni04MjU1LTQ1M2UtYzAwMC00NmQwMzk2ZTc3YTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvRFFzYWZSSm4vIn0
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@89.111.172.106:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 89.111.172.106
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.46.8.17:8000?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 185.46.8.17
-trojan://bn3yj5lc-81a8-nrt5-kmn6-6qpqluerod2w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tbv81bq8-jtko-bfsy-yih7-beximm5q8m0o@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

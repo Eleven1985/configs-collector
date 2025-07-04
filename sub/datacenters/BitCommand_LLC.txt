@@ -1,7 +1,7 @@
-trojan://5an1jo45-y7s3-7vig-9sbx-0gc0cvdepg2p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://rp7vmp21-ijym-q9hz-1box-fty5ancjsg60@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9882xwl5-di2r-qsbp-zo6m-9kv40kxo7sjp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bi4j6h2a-qlf5-8ky6-imdl-yi7cpvmbm3j0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ifenxm32-163n-eis0-6cjb-6ja94xnlcp9a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://z9344iq4-gfnp-4lfs-38pq-7aibfm7148o0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mbx4oaox-acj0-3pq2-dnn6-v5rn4ff0jnwf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2m20vqqi-phgm-fy50-jdy8-1y0gzd7rpu67@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0Q29tbWFuZCBMTEMgXHUyNTA3IDgyLjExNS4xNy4yNDIiLCJhZGQiOiI4Mi4xMTUuMTcuMjQyIiwicG9ydCI6Mjg3MCwiaWQiOiI2NTZmN2RkYy1kMzY3LTQ2MGQtODg3Mi0xOGYxZjViYzgyZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy0tTlRMUyAtIEJpdENvbW1hbmQgTExDIFx1MjUwNyA4Mi4xMTUuMjUuMTczIiwiYWRkIjoiODIuMTE1LjI1LjE3MyIsInBvcnQiOjIwMDkxLCJpZCI6IjVmNzVmMGRjLTg5OTEtNDcyMy1kZTM1LWFmODFjOWIyZmU5NiIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
 vless://052ac018-69f4-4e0c-880f-22715132d5b9@82.115.16.123:54022?type=tcp&security=tls&sni=www.speedtest.net#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.16.123
@@ -10,4 +10,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVT
 vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0Q29tbWFuZCBMTEMgXHUyNTA3IDE1NC4yMTEuMi4xMjQiLCJhZGQiOiIxNTQuMjExLjIuMTI0IiwicG9ydCI6MTkyMDgsImlkIjoiN2ViNDdhMDctNjJmMS00YmMxLWNkNjQtMjA3MjE3OTVlOTIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0Q29tbWFuZCBMTEMgXHUyNTA3IDE1NC45MS4xNzAuMTUyIiwiYWRkIjoiMTU0LjkxLjE3MC4xNTIiLCJwb3J0Ijo0MTc0MSwiaWQiOiJlNzBiNzBkYy1mNTE5LTRjZjktZDhhZi03NTViYjk4NzllZjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-trojan://7lq9y950-bbey-hng3-y5dy-opzqm17893r6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://aocxd140-3371-bnh4-0vxs-amw8q9kogf4u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

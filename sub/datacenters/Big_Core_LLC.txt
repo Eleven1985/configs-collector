@@ -1,9 +1,9 @@
-trojan://497awwmk-12qs-8r2v-slkt-ba00c1b2x6ta@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://1xxx7vuv-w84n-vcfw-gbc1-hq3td8s8evyx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n1jrxauv-b0sy-anzd-f6bm-1sxy6l6kv7ge@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://grh8tdkm-54nj-jquf-lfpi-6q84lx1ym3di@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sm52pq6t-g48m-iz1d-w4xb-gwrfm7ohldbv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://v264rqrh-96bu-nop5-oi2c-whxcf5zicac8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5xapeqgn-j7lz-h2qd-vbn9-8lt838u4uh2f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nr206d05-vtgi-f5ha-9gqf-65i1d9lo3kd0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://fsoOufuTGmSKzRDaAwAbww@185.226.93.9:443?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - Big Core LLC ┇ 185.226.93.9
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBCaWcgQ29yZSBMTEMgXHUyNTA3IDE4NS4yMjYuOTIuMTMwIiwiYWRkIjoiMTg1LjIyNi45Mi4xMzAiLCJwb3J0Ijo4NDQzLCJpZCI6ImM1ZmM0MDA1LTY0ZjctNDVlNS05ODVkLTVjZTlhMDdhZDkwZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoibm9uZSJ9
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@185.226.92.172:3528?type=ws&security=none&path=/path#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.172
 vless://44afbf4a-29cc-4dbb-8817-61d4cad861b5@185.226.92.168:10460?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.168
-trojan://yy5irmev-utka-01qk-mgle-hdgm4ahqxugl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5rtn2zee-88kj-8cek-qzic-rywn9plofmt3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,8 @@
-trojan://8arvwp5k-qvp4-gkkm-c2fh-g98r14h4nfrd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://5gyeb8qt-jd3z-fhnx-1h1l-p1e1ai4g8lwm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2pj3k272-mg7n-tng2-izyb-4u8cvs1r2p3j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://24asf2oa-p9ry-42qc-k00u-pw7ixu22ypci@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206QUZHRVVHSFNNWlRQTUJBUw@185.47.252.16:20009#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.16
+trojan://eqcp8cwz-2hzf-o9xc-rlxd-lfeqhxbjeo7m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://upo4fq23-rjzs-jbqy-nra2-5in0v6oelxt9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ehl8wt53-4irz-2u33-r3gf-qldjp6uwric6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sndz9o0d-9jjh-cj5b-6vkn-o5lugo7bnvw1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206RTRWV1RTWDBHVVBRT1ZPOA@185.47.252.16:20009#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.16
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.251
 trojan://Aimer@154.219.5.242:2053?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.242
 trojan://Aimer@154.219.5.55:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.55
@@ -17,4 +17,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=ws&security=t
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.229.28
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 138.186.143.32
-trojan://bfkjo5nn-a86b-r9h5-kpvl-yx6rx3v8gg05@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://51x7ml5u-tr9g-gnk5-u034-i2ecezax46lg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

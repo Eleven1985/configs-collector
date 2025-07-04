@@ -1,7 +1,7 @@
-trojan://h408m539-bs2l-6syx-8oq7-921qog6mefo7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://y7zvffs0-19sk-nvgj-q1rq-1szxumbs8y30@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tw2gu6qm-r1in-3y64-hn0w-1uuf6fjf1ruz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hhj8i2w4-hr23-2oh7-yt14-ilyy9f8xvy7v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1dxc571f-ysul-80ss-srl1-gmm0tgp2o4rh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://01wapltz-3p8v-4ahh-xq12-yyrzblfw1giv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sysntb7u-ya26-le6u-btzw-qt3ziosbsv53@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bl96xb39-9ct3-kgh9-r5fc-oz8z2k03elyf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04@217.61.62.166:38257#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.62.166
 trojan://3767107462583558144@95.110.142.205:443?sni=grown-cardinal.treefrog761.one&peer=grown-cardinal.treefrog761.one&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Aruba S.p.A. ┇ 95.110.142.205
 trojan://900zMQxYJX@188.213.171.8:2053?sni=tgju.org&peer=tgju.org&security=reality#IT 🇮🇹 ┇ TROJAN-TCP-REALITY - Aruba S.p.A. ┇ 188.213.171.8
@@ -21,4 +21,4 @@ vless://c314940c-1bc3-4a6d-bd47-cda662f88eb0@195.231.66.153:55138?type=grpc&secu
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vless://ZEDMODEON--ZEDMODEON@80.211.252.85:45956?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.85
 vless://ZEDMODEON--ZEDMODEON@80.211.252.196:59438?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.196
-trojan://zflgfks2-wcza-ibhw-56u4-n3cs2grtehqn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://difr9xjf-vutu-65hv-fo86-hage05ttf2g5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

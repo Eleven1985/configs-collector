@@ -1,7 +1,7 @@
-trojan://p4o4nei9-88de-l3ir-j20x-nuadkfcgw0e8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 10:57 ]
-trojan://kz38oq53-whl5-q035-enaf-5163arpat0ir@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ejmixker-9aub-q52c-0wfu-thh2940fpz3l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mh5piqce-sivy-pnep-3vml-lqzdgtn2ggu4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://drb0uaqm-vnnw-mqzw-bhkg-yurej53849br@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
+trojan://xcq3gfw7-7vw5-39fg-xbn6-v47qdlzgcp30@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jdvbw7l1-b85s-dugc-ypgj-jrss0cgbkj00@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xcmwkq7o-yuix-14a1-dgn0-cur7v5uw16lw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIDIzVk5ldCBLZnQuIFx1MjUwNyAxODUuMjI1LjY5LjEzNCIsImFkZCI6IjE4NS4yMjUuNjkuMTM0IiwicG9ydCI6NDUwODEsImlkIjoiM2MzYmZkNzUtZGMzMC00ZTc2LTg5NDAtNDdlMTEzN2UyMWY5IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDE4NS4xMjguMjYuNjciLCJhZGQiOiIxODUuMTI4LjI2LjY3IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDE4NS4xMjguMjYuNjgiLCJhZGQiOiIxODUuMTI4LjI2LjY4IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzI0MzUzNTMyMjkwNiIsInRscyI6InRscyJ9
@@ -11,4 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?sni=customer-77-91-72-197.stark-industries.solutions&peer=customer-77-91-72-197.stark-industries.solutions&security=tls#HU 🇭🇺 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 77.91.72.197
 vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJhY2tmb3Jlc3QgWnJ0LiBcdTI1MDcgMTA5LjEyMi4yMjEuOTgiLCJhZGQiOiIxMDkuMTIyLjIyMS45OCIsInBvcnQiOjI4NjMzLCJpZCI6ImQ0N2Q2YTA1LTkyZDAtNDJkNS1iNjI0LTIyNDMxZjI2MzQ1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJhdXRvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.102
-trojan://mvod69me-dfod-nhwo-flw8-kkmj3wqh8i11@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://798swvly-b071-uljr-gsb8-r2si11jjx3cj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
