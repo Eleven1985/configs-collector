@@ -1,7 +1,7 @@
-trojan://m9sw6pmn-buht-om8a-7jbr-fpphc37jyudy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
-trojan://a9bvtbij-4h9c-i5tl-chk0-jeysaf9wicnd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k1d19nka-c8i0-6xby-20y9-wv2c6l5qww5j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://30q5x6ek-2ktd-tp9o-ujxi-qqonz3mh5oml@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qq9rkucr-gpyj-580m-vkjn-xyfae95i9203@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
+trojan://g8ftippp-8ant-9rk0-bg8l-9rx2l4udf4yw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wpz1pipp-sxbe-uuli-agxw-sm0vs1kviwt5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://00db803a-dpi1-k8ft-p0eq-aos64m5l7uxs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@85.208.108.61:8008#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.61
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2375#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.90
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.60:3306#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.60
@@ -27,4 +27,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVEFOR1JBTS1DQU5BREEtSU5DIFx1MjUwNyAxOTMuMjAzLjIwMy42MyIsImFkZCI6IjE5My4yMDMuMjAzLjYzIiwicG9ydCI6ODAsImlkIjoiZjYxMjAzYmQtZjM4Ni00ZDEyLTk4NTMtY2M4MjlkNmI3YzlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRBTkdSQU0tQ0FOQURBLUlOQyBcdTI1MDcgMTkzLjIwMy4yMDMuNTMiLCJhZGQiOiIxOTMuMjAzLjIwMy41MyIsInBvcnQiOjI4MzY0LCJpZCI6ImMxNGI5ZmFhLWIyZmYtNGYyYi04MGM1LTQ5OWJiZGI5Yjg4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://74b56295-1845-4b22-b9a7-85b733218451@91.194.11.78:81?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#CA 🇨🇦 ┇ VLESS-WS-TLS - TANGRAM-CANADA-INC ┇ 91.194.11.78
-trojan://rf3qnf9f-ud72-rgj8-4xhi-51tuc3c4o9c4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://aofcxnd6-40vg-ksrd-hjbe-i5h6cuczdowc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

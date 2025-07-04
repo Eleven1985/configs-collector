@@ -1,7 +1,7 @@
-trojan://kud812ya-byuo-oop8-ndo6-0fz8kyp8mtun@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
-trojan://tgn6ujaq-cgq0-az1i-s4uf-bynhvlb7cjcn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yf0cf399-vl47-ys0s-qjbe-5kmza71zhyl0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tmm645v0-z2ly-yw49-82q0-soxjzfpvgtpq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://eg96w8xm-kh57-43gy-favt-9m3mgngmydih@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
+trojan://b5gr1vkc-l8ru-vg22-xhli-agao2ik1lzy1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h5fl1aph-nqfg-d5b4-8enp-jm1p8o4lf7fn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hmcwj7bg-6r0m-79wn-0uyo-vfboiujyp5nu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 193.235.207.28
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENPR0VOVC0xNzQgXHUyNTA3IDE1NC42Mi4xODUuMTYyIiwiYWRkIjoiMTU0LjYyLjE4NS4xNjIiLCJwb3J0IjozNTgxNiwiaWQiOiI2Y2ViYmRhYS03NGNlLTQzY2UtZGZlMi0xY2VjYmE5Y2VjYjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://YWVzLTI1Ni1nY206STlvZUgxNmlsTzd2ZUNIdVdpL3FMZ3ZIQU1JaHc4cGZZUXlqaDgxMkRhWT0@38.134.189.111:23937#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 38.134.189.111
@@ -51,4 +51,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.237.3:587?type=ws&security=tl
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.239.219:587?type=ws&security=none&path=/?ed=2560fp=chromesecurity=tls&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 154.64.239.219
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.77
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@us-2isp.aloofly.eu:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.79
-trojan://w5jrb2g0-4aff-f6wb-b2gx-yi4d99k9d3hs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ig2yywjq-1g8s-7m9l-w92v-tj2iatbm1is0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://ed2134v1-29th-t2ka-4pu8-2t5ty0kv22up@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
-trojan://n6bzsk9a-v2dg-u2ll-a8j6-mdvyjcqzcpop@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1hay5bht-ptyn-j6nu-wuhe-lku64bgao2b8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4xg8hdjx-ffvm-g0ft-9c0g-n9791qq7yob6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jf1b7mte-ywoo-rdbe-vk4r-nj4bclymvbzj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
+trojan://k7lz8103-ojb2-2exs-odsh-8ith3zt41mqz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nugggo3v-6sxz-xxl3-5bs7-ym03efoi8hxt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5fx6x2z3-tuez-0idr-4ras-5v5d6zd9avbc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 43.249.36.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk@203.23.128.79:51348#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.79
@@ -10,4 +10,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgMjA5LjU4LjE4NC4yNDIiLCJhZGQiOiIyMDkuNTguMTg0LjI0MiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgNjQuMTIwLjEyMS4yMSIsImFkZCI6IjY0LjEyMC4xMjEuMjEiLCJwb3J0IjozMDAwMCwiaWQiOiJiMmFlYTNmNC1jNmJiLTRlZmEtYmM0NC04NWZlMGJiOWFhZjciLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@203.9.150.104:443?type=ws&security=none&sni=edccs.aimercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.9.150.104
-trojan://ud37hdg6-b37q-kjc5-m0pn-1hffjojxsmnx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wyhy3pem-f7wx-lpto-ahyb-mul1iegdnjr9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

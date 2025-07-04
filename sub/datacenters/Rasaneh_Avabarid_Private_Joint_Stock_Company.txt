@@ -1,22 +1,22 @@
-trojan://b29edxti-0pwl-1bjm-xlb4-i36ryxqz3apc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
-trojan://1huohgpa-u153-4xtu-qspy-vbg9z7oqlp3f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://27t6xcvf-nrpe-43zc-8yw9-5q200iqvz5pj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v5ssmc84-5h63-sddx-d4s3-qaqf4do8d3jc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1631w257-541o-4mqo-l31n-jb9wy5dl8o1j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
+trojan://3gk1lba3-x15z-f234-4swi-e2mhjbqsnpt6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4da6v52m-g511-cgw0-7aiw-4ivoxdp1dwhe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://adb8onbt-gh36-xmvx-sj9a-zqcdxegl6rr0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 31.58.239.159
 vless://f5e4ce3c-1ade-491d-9b5d-ab87cef79b9a@tak.domuuss.com:40179?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 31.58.239.132
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJhc2FuZWggQXZhYmFyaWQgUHJpdmF0ZSBKb2ludCBTdG9jayBDb21wYW55IFx1MjUwNyAxODguNzUuNzkuODUiLCJhZGQiOiIxODguNzUuNzkuODUiLCJwb3J0IjoyMDIzNiwiaWQiOiI1MTljYWM0OC00ZTllLTQ5YTYtYjE5NS0xZWI5YTEzNDI3ZTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJhc2FuZWggQXZhYmFyaWQgUHJpdmF0ZSBKb2ludCBTdG9jayBDb21wYW55IFx1MjUwNyA1LjE2MC4xOTcuMTIwIiwiYWRkIjoiNS4xNjAuMTk3LjEyMCIsInBvcnQiOjU0ODc3LCJpZCI6ImUwYzg0YTZiLWJmMDItNGI5Yi05ZGRmLWRlOWZlOThiYjAyOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJhc2FuZWggQXZhYmFyaWQgUHJpdmF0ZSBKb2ludCBTdG9jayBDb21wYW55IFx1MjUwNyAxODguNzUuNzkuODUiLCJhZGQiOiIxODguNzUuNzkuODUiLCJwb3J0IjoyMDIzNiwiaWQiOiI1MTljYWM0OC00ZTllLTQ5YTYtYjE5NS0xZWI5YTEzNDI3ZTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJhc2FuZWggQXZhYmFyaWQgUHJpdmF0ZSBKb2ludCBTdG9jayBDb21wYW55IFx1MjUwNyA1LjE2MC4xOTcuNzgiLCJhZGQiOiI1LjE2MC4xOTcuNzgiLCJwb3J0IjoxNzU2NCwiaWQiOiJhYTdkZDk2YjBhN2Q4MWRiMmU3MTU1M2FiZTE5MjYyMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://51e1b3df-4de4-493d-b661-aaf8dc2433ab@sub8.noviisop.com:41901?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.79.125
+vless://8a08c187-594b-4e14-b875-856913cee3bb@185.137.27.165:443?type=ws&security=tls&path=/?ed=2048&sni=dl.arvancdn.lat#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 185.137.27.165
 vless://d80186bd-2fa4-4908-95a0-95d56516f038@188.75.78.35:33508?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.78.35
 vless://7c4d6a7b-8d18-481b-be71-2b06231d6cc8@188.75.78.87:27113?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.78.87
 vless://0d2b8ae1-e740-4e75-ba36-646d77eea301@185.191.77.7:443?type=ws&security=tls&path=/wsloc1003&sni=fresh1002.fresh60.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 185.191.77.7
 vless://1364334f-7361-4ebc-86a1-ac06e918631f@188.75.79.105:8002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.79.105
-vless://8a08c187-594b-4e14-b875-856913cee3bb@185.137.27.165:443?type=ws&security=tls&path=/?ed=2048&sni=dl.arvancdn.lat#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 185.137.27.165
 vless://8fecc7fd-2ea5-4dce-96a2-b0b2dd5c01a2@188.75.78.45:31542?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.78.45
 vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@185.191.77.6:443?type=ws&security=tls&path=/&sni=office1001.avaoffice.cloud#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 185.191.77.6
 vless://b1ed2801-388b-4bf0-a5e8-95d8830ddde4@ed.piko-network.top:55114?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.79.90
 vless://d1a6d391-8b15-427a-9e68-4849c624d99f@woom.nicev2.click:35547?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rasaneh Avabarid Private Joint Stock Company ┇ 188.75.78.90
 vless://1765be0d-dc75-4a54-e95c-7739ef465ab2@185.137.27.254:443?type=ws&security=tls&path=/offc3&sni=office1003.avaoffice.cloud#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 185.137.27.254
 vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?type=ws&security=tls&path=/&sni=office1001.avaoffice.cloud#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.47.71
-trojan://v4zadqpi-gel3-996x-b6t1-jxw7usyl536p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://db3ytfcr-eecm-d140-319f-ej5mzr0zdl2f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

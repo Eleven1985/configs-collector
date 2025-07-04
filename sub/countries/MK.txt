@@ -1,10 +1,10 @@
-trojan://n9uycmuq-q0tt-771v-dzzy-yhfxf6mv3lkr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
-trojan://520ppmhs-djfu-313k-cn8b-dynhjdx1l836@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://13lhafwe-hm4b-k2hy-bluh-4fuvw4rt4qvi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://emjj8spr-yzic-999c-aq7b-9bef1ij8docm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
+trojan://rojp499o-9y1m-iztg-u6gg-myyjvdjwhhja@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
+trojan://4o0xifmj-r8b1-e4x9-0h3i-nmjhzrwc4kjm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://12rjb4c9-ajr3-yis6-2q35-j31skg8cvt3d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4tz7euun-a3p4-2g6z-9tsa-fmb116rfmksy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
 vless://0878eb75-6121-6138-8f06-1aed31aeabe0@macedonia.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#MK 🇲🇰 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 89.185.82.97
 vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@45.83.141.23:443?type=tcp&security=reality&sni=tgju.org&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#MK 🇲🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.141.23
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - TELEKS DOOEL Skopje ┇ 185.225.28.85
-trojan://61oneujk-05j7-wx2h-8acq-5t5zqyd1eooh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n20crr1h-kg6b-hnkq-3bmd-ze8kxh4hrnzt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
