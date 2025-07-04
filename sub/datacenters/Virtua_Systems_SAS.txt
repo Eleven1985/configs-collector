@@ -1,8 +1,8 @@
-trojan://f60qilzs-zirg-don9-uwke-8ckgrlvon43j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
-trojan://39fcvqcn-1grm-8yx3-ns6b-067tixj7fyad@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x5xgtnf1-pd8y-hnly-u0fx-5fpadfbvs7hu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y6x60gkd-txkb-friy-5nzf-chf05qh4a2gh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4rlhxhhv-zabw-kc7k-3x19-oo5u0pmxf0y2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
+trojan://r3zk9ped-3ydg-275h-y0s5-opxxkc4k9y42@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bh6w82xx-4vus-0a7m-ea3b-5f34frlqhdvl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://03xjpuxq-4lca-6jqo-b6q3-9ohhmjf7nzrp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d2a7bc4a-1166-4bc5-b3a5-e71a67d282bc@hormoz.losehismind.ir:2083?type=httpupgrade&security=none&path=/hormoz.hormoz.hormoz.vp#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Virtua Systems SAS ┇ 185.10.19.62
 vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
 vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&sid=e876e7#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.18.161
-trojan://25xvkzsv-x1wm-s7hh-vgf1-33uhv1g4bkho@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dbgu3jbm-4z7l-kx8a-fac0-1fa7vaan4296@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://i9edj21z-x0d0-6j0u-4182-cusk681es5fs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
-trojan://kvfifo8p-2cfz-2baa-yuwa-9bjz3nl6n83r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n2aa1ed7-o63t-vjxc-86x7-sxcrtzygxcww@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vff7qabu-hmlj-vh34-j6af-7feihbp1oj5e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@23.226.8.80:443?type=ws&security=tls&path=/Telegram🇨🇳&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-TLS - UDomain Web Hosting Company Ltd ┇ 23.226.8.80
-trojan://i1zhdp3t-9pta-6jl1-ufbs-b5wd3x1ti81z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xbpyhuey-abia-jado-b9fz-6pszjz46w3dg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
+trojan://uuchf9q1-b8wy-glwe-erv3-2hhmxdvho2pj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cpn1chfe-3ecv-vin4-8nb8-b0dtmcdyobmu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uyd7gm3s-9rz0-65pu-shbw-82hvb69k1cht@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@23.226.8.80:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-NTLS - UDomain Web Hosting Company Ltd ┇ 23.226.8.80
+trojan://kvzke4g4-54mb-suxm-03sk-ptkp3oh4ghkk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,13 +1,13 @@
-trojan://t8t9vm8l-0nbq-1mxq-gtuz-obf1xukj6gj9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
-trojan://mj4gw9yu-teiv-u92z-mnju-9gf1gk3vy1i1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://njjgjaot-hkix-6j74-vzqo-h77eit9vffnf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lqd47hv6-txq2-p2hh-ec3b-xghg71p1fa3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j82662ee-awns-9tuy-ynsw-13z87248rs3r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
+trojan://6zd56qzd-uegx-awi7-q87w-lgntc0fjj7cc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jw6kcwjn-c767-jbnj-qlqv-cofcvi5yjc4v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hfjrfkhe-zl2f-subf-qr0g-coabwckf2fd1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA2OS4xNjUuNzQuMTMwIiwiYWRkIjoiNjkuMTY1Ljc0LjEzMCIsInBvcnQiOjgwLCJpZCI6ImRmNDFlMjNhLTc4YWItNDdhZC05ZTcxLTg5YzIyMWIwNmQwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0NS4xNDQuMi4xMTMiLCJhZGQiOiI0NS4xNDQuMi4xMTMiLCJwb3J0Ijo4MCwiaWQiOiIxY2I5OTZjOC1lNWJmLTQwZDItOWEzYy0xNDliM2I3MjFjNWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-ss://YWVzLTI1Ni1nY206MWFhMjNlY2VmZWJhNjY2OQ@194.87.196.7:50120#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 194.87.196.7
-ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:50120#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
 ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw@185.22.152.92:1019#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 185.22.152.92
 ss://YWVzLTI1Ni1nY206MDU4Nzk4ZDlhMzA4N2U0Mw@185.22.153.235:10980#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 185.22.153.235
+ss://YWVzLTI1Ni1nY206MWFhMjNlY2VmZWJhNjY2OQ@194.87.196.7:50120#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 194.87.196.7
+ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:50120#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
 ss://YWVzLTI1Ni1nY206N2YyMGJlOTE3NDliNTg3NA@195.133.5.185:2023#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 195.133.5.185
 ss://YWVzLTI1Ni1nY206YjU1YzdlODRhZmRkNTJjYg@185.22.153.67:51002#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 185.22.153.67
 ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ@194.87.69.122:30112#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 194.87.69.122
@@ -17,8 +17,8 @@ ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ@195.58.49.147:10981#RU 🇷🇺 ┇ 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@185.22.152.16:8080#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 185.22.152.16
 ss://YWVzLTI1Ni1nY206ZDdhMTVmN2E0YzgwNmEzMw@195.133.5.176:2022#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 195.133.5.176
 ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ@195.58.49.92:2015#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 195.58.49.92
+trojan://1PvCIrxP6l@ru2.asc-sam.ir:8443?sni=ru2.asc-sam.ir&peer=ru2.asc-sam.ir&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 176.32.39.29
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:2087?sni=ru2.asc-sam.ir&peer=ru2.asc-sam.ir&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 195.133.52.153
-trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:2087?sni=ru2.asc-sam.ir&peer=ru2.asc-sam.ir&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 176.32.39.29
 trojan://xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV@get.fragmentary.info:443?sni=get.fragmentary.info&peer=get.fragmentary.info&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 195.133.11.229
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@45.130.147.76:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 45.130.147.76
 trojan://5ea6f474-ba78-4f83-b10f-8138b02e8cbc@188.119.65.50:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - LLC Baxet ┇ 188.119.65.50
@@ -32,9 +32,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0NS4xNDcuMjAxLjIzMSIsImFkZCI6IjQ1LjE0Ny4yMDEuMjMxIiwicG9ydCI6MjMxMTIsImlkIjoiZTlmYjgxNDgtMGI1Mi00ZjMyLTgxODItNzUyMjkwZTc5OTJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxNzYuMzIuMzUuMTQ4IiwiYWRkIjoiMTc2LjMyLjM1LjE0OCIsInBvcnQiOjIxMDEzLCJpZCI6IjAxZDhmZmM2LTA5MmUtNDZkNS04YTA5LTY3NjZmMmJiMjE4OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMjIuMTUyLjIzNiIsImFkZCI6IjE4NS4yMi4xNTIuMjM2IiwicG9ydCI6MjMwMjIsImlkIjoiMGUzMjYxNjItMGVlMC00NTAzLTk2ZmMtYmM2N2NhNDlkYWNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMS45OSIsImFkZCI6ImVlZHAyNTdidWJ1MndlZnkxLmxvdmViYWlwaWFvLm5ldCIsInBvcnQiOjgwLCJpZCI6Ijg0MzdkNmU4LTg0OTItNGVmMi04ZWIzLTBlOWVlMjgxODgyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvaXBob25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExMQyBCYXhldCBcdTI1MDcgNDYuMjkuMTY2LjIzNyIsImFkZCI6IjQ2LjI5LjE2Ni4yMzciLCJwb3J0Ijo0NzU1NSwiaWQiOiIwYzQ5Y2QxOS0yNzU4LTRkMzgtZTZhOC0xMWYyZDY2MzU4NjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDkuODQiLCJhZGQiOiIxOTUuNTguNDkuODQiLCJwb3J0IjoyMjAwMSwiaWQiOiI0NmViNmI4Yy0yZmQ2LTRkODYtYTFlZC0xODhmYmM2ZmVhYTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMS45OSIsImFkZCI6ImVlZHAyNTdidWJ1MndlZnkxLmxvdmViYWlwaWFvLm5ldCIsInBvcnQiOjgwLCJpZCI6Ijg0MzdkNmU4LTg0OTItNGVmMi04ZWIzLTBlOWVlMjgxODgyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvaXBob25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuMTMzLjUuMTI3IiwiYWRkIjoiMTk1LjEzMy41LjEyNyIsInBvcnQiOjIzMDMxLCJpZCI6IjMxYmUyYWNmLWVkNzAtNDk2MC05NTE3LTZlMmE0MzY2YjEwNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDkuNDIiLCJhZGQiOiIxOTUuNTguNDkuNDIiLCJwb3J0IjoyMDMyNiwiaWQiOiIxY2M1OWEzYS05NjI1LTQwZjctYjBlNi1lMjMzMjg2YWU4MmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0NS4xMzAuMTQ2LjgxIiwiYWRkIjoibXouZmxtd2ViLmNjIiwicG9ydCI6NDAwNDUsImlkIjoiMWNiYjhmMDQtYjBjYy00NTIwLThiMTctZWQ0MTJmNDU3YjlmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
@@ -63,4 +63,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMS4xMjEiLCJhZGQiOiJlZWRwMjU3YnVidTJ3ZWZ5My5sb3ZlYmFpcGlhby5uZXQiLCJwb3J0Ijo4MCwiaWQiOiIxYzBiOGQ3Yi01NjE3LTRhMDctYWNkMi0zMTVkYTIzNDBlYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvaXBob25lIn0
 vless://088472ec-700f-4735-9201-8cf6a73f0851@46.29.162.87:25885?type=tcp&security=tls&sni=makefree.internet.000.pe&fp=random&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC Baxet ┇ 46.29.162.87
 vless://f3ba3679-f2f4-465f-92a5-de320b775a88@185.22.155.105:42632?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qtqcKrPLXaN-jpo7Zs1_80QDmA2uvCZKFGanJLJFFXA&sid=1f8b5201#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 185.22.155.105
-trojan://vuh2y7x7-s3t3-liih-npfi-v9wpo2sdza4e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://epqooji0-w5at-e3dk-mr2i-zu52yxxzdyhy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

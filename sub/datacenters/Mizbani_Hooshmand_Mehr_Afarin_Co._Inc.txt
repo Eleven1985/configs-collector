@@ -1,7 +1,7 @@
-trojan://md8934nf-pm11-fcqy-n1m7-9eln8xincx1b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
-trojan://u0fg2cdv-1cx1-k186-k4l7-bwttmw9a8a9t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://16rcwitr-wezk-k7n6-z0w6-lydqj4k6tywg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7bivrdan-lnp5-i8il-g2y8-0dxx6mcrytu3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1de9r2ro-g1y0-5fm7-l3yu-bnafh06f0qcb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:04 ]
+trojan://wffofy5a-fwp0-kcm5-6z1v-z0zos2j2lbpq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q7nbt235-o7ih-axhi-rqy6-ks96nm34oy41@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g5nsepb9-tpuf-veol-kvk5-xgwd907ll0hk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pemJhbmkgSG9vc2htYW5kIE1laHIgQWZhcmluIENvLiBJbmMgXHUyNTA3IDE3OC4yMzkuMTUwLjE3MSIsImFkZCI6IjE3OC4yMzkuMTUwLjE3MSIsInBvcnQiOjgwLCJpZCI6IjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pemJhbmkgSG9vc2htYW5kIE1laHIgQWZhcmluIENvLiBJbmMgXHUyNTA3IDE3OC4yMzkuMTUwLjE3MCIsImFkZCI6IjE3OC4yMzkuMTUwLjE3MCIsInBvcnQiOjgwLCJpZCI6IjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://64826a3c-b875-45d8-a746-7613e0d4a75b@109.122.251.87:35762?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.87
@@ -15,4 +15,4 @@ vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@109.122.251.74:46958?type=tcp&secur
 vless://dcb0ea73-b52a-4751-c47a-8acf3533727a@178.239.150.221:4040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.221
 vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@germany.mytopmedia.xyz:46958?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.199
 vless://96750608-cfd9-4b1c-bd7e-fc9815803a73@109.122.251.3:8001?type=tcp&security=reality&sni=hostdl.com&fp=randomized&flow=xtls-rprx-vision&pbk=4BNkudIPt7bMS-DZ2olXt3AMgJhGxPzqta9G-ES5KCU&sid=74afcbbb#IR 🇮🇷 ┇ VLESS-TCP-RLT - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.3
-trojan://zvobhjts-9wep-n5or-2fud-cmnc10eyovoq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://a95ie8tn-fjsv-i2ge-s1gn-tby653fztkle@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
