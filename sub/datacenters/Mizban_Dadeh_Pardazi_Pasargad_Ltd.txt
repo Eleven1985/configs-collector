@@ -1,10 +1,10 @@
-trojan://8dxfccrg-j990-1879-jczc-ciea5d3p9vew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://z8fe18hi-htkl-2sdv-0u2c-2ccyde8a8lya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://deb3grkh-l52g-xbo7-lcgq-rmip39hv578z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zrngsn6w-9nle-1rif-0o36-byqg451fxlax@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c3b5hm74-b3uj-td0f-r1p5-1jcfyno1iu6n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://s26fz2cn-t8b0-35pc-w8fv-0ympytkj7xpl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xzgu1cv9-7824-wbs4-us6h-wclkj4q68d6a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://117hl1aj-37dz-9rrw-iedb-41y9j6hpeop6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e@178.239.146.154:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
 vless://28f8ba91-b3ff-4935-9a3f-4253d1fda074@api4.callback.cdn.nim.file.plsvi.online:2020?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.76
 vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.93
 vless://9f22cf6d-175d-40ee-87ef-bc638fcd2532@178.239.146.105:37153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.105
 vless://6322fa6a-2612-43a3-baea-f549261c6b2d@178.239.146.222:64560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.222
-trojan://sz0elbt4-nf83-ewej-1l8n-ydidhovl9zd9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8sm4zqgg-yoer-hrqm-pdbf-t0mibn37bb6d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

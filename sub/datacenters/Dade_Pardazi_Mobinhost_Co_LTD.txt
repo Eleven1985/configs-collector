@@ -1,11 +1,11 @@
-trojan://6pmlkzdb-usn4-1xyi-t8g0-78tfpm9g5m5y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://uiw3lh8w-3lus-dbg5-qmrf-hswjy0dqmidj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aqqosu1t-9f24-otwb-ydv0-kpd26zrrqhn1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iyly8ykk-w1zp-79qo-rd7k-26ovy5r61kbb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0ljdq6jj-ahxx-0cn0-ph2o-0706yiq8bvli@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://tp8shu1y-47qe-2222-dvev-uvj07n49xpew@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yxvdg822-owqj-35gq-96mm-q30atfbgwokj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://29dolr9y-ywef-j3td-fsgv-jz2teaozoopf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.58
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.47:6000?sni=node1.servernode.store&peer=node1.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.47
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@62.220.127.60:8080?sni=node5.servernode.store&peer=node5.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.60
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.57:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.57
-trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.58
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4MS4xMi4yNy40IiwiYWRkIjoiODEuMTIuMjcuNCIsInBvcnQiOjIwNTEyLCJpZCI6IjVkMGI2MWEwLTY0ZmMtNGE5Zi1lNGJjLTUwZWNkYmMzNzYyMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy0tTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4MS4xMi4yNy4yIiwiYWRkIjoiODEuMTIuMjcuMiIsInBvcnQiOjU4NzY4LCJpZCI6IjMyNGQzODY4LWNmZWYtNGJkNC1hYjQ0LTE3NzZhNDA2NjM1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA3OS4xNDMuODQuMTE3IiwiYWRkIjoiNzkuMTQzLjg0LjExNyIsInBvcnQiOjExNTQxLCJpZCI6IjQ2NDY1YmJlLTYyOGEtNDk4OC1hZTNjLTBjMTY0MjM3YTAzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -20,5 +20,5 @@ vless://c4439ad6-9fd8-42af-b937-64450bb9c455@81.12.27.85:14551?type=ws&security=
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.90
 vless://fdb60214-1d03-4b83-c4b7-3d2d33c08073@81.12.27.91:21807?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.91
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.93
-vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.132
-trojan://6biwx50n-r4sf-hc5k-fp7t-99c6p5e9ebdu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.133
+trojan://oantbkgd-ok74-v8q2-8hay-d27selzyiya4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

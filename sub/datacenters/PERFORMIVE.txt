@@ -1,7 +1,7 @@
-trojan://itdq9q5p-gmio-36dx-evqz-sd843kuqrvhp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://tqt1re02-ois4-0jky-do1y-3b22eff96h3p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y4k642kx-uruq-k04j-j585-0wdieln27meq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e3nk0r6k-7343-n7dj-5229-87g5rgj8vgcf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://poglqfja-za6b-46mr-6wpf-vbuuo4bter23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://6d9auzuk-80hj-zyba-m9lo-25fcx7pv0f33@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nxc68hz4-n6yk-mq1j-9bmh-82uovvxm52gr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tehvhgrp-ygu8-nsdo-pb4u-e2mvvmcyum4y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.8.92.84
 ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hl@198.147.22.87:33998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.147.22.87
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@66.115.175.37:50168#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.175.37
@@ -9,4 +9,4 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#US 🇺🇸 ┇ SHADOWS
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@199.58.187.67:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 199.58.187.67
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@66.115.182.68:33992#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.182.68
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?sni=107.181.161.163&peer=107.181.161.163&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PERFORMIVE ┇ 107.181.161.163
-trojan://hock0isq-uo63-dps8-ra94-3wld7ypysv36@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://if667gd8-ebx4-cgba-z0ln-0ja2ldg0stvl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

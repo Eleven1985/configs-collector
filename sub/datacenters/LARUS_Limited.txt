@@ -1,7 +1,7 @@
-trojan://6y0ahd9q-5n7a-sd5q-97lq-516ofvdznf9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://0nq161uw-6sh7-qmkw-4suj-xeyrd5nnp42c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0khtikyc-47o5-3zrd-s5bl-2xql9743yowc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nvnosmcn-4wt8-hckw-0vzs-hqwksl17l00t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://graadh55-wri6-774g-j6lg-rslficzl1zy9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://ifz6ul29-lcux-fmk3-a9hf-00f4bo53223z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zc0cru61-fp56-90d1-cwq7-xho5bwmuj9dn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t781akhd-l5y8-3rbp-29hy-oaetae6er6i6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@154.219.5.44:2053?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.44
 trojan://Aimer@154.219.5.242:2053?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.242
 trojan://Aimer@154.219.5.55:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.55
@@ -13,11 +13,11 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.219.5.251:8880?type=ws&security
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.68
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.92
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.177
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.20:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.20
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.85.99.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.3
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@154.85.99.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.13
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.85.99.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.3
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.177
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.254
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.85.99.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.77
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.20:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.20
 vless://0132a95b-c439-4396-82ae-13e27e865f0d@154.85.99.106:8080?type=httpupgrade&security=none&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - LARUS Limited ┇ 154.85.99.106
-trojan://re6574j2-soui-asn6-u0lq-bsatqkp572g5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://a035kurs-w71f-dqad-yx1e-uowwp1nh2wd6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

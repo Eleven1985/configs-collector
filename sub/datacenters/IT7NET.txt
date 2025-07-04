@@ -1,7 +1,7 @@
-trojan://8hygqvdr-jl18-922a-95hh-lky8ypr84gb5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://i2dvzuvd-mxod-r4i6-cwbb-angshhob04l2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tu5k2egi-eel2-3jz3-y1yu-3kl1gvitv8tp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://450b8c7s-pz2p-clb8-gzc0-x1vy4pp0c1cf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l6u88frn-gefq-wmkk-a6it-lzbyypa2b1sf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://bsetvfiy-hgb9-cl0x-cs0j-wd8r23qnw5ga@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yi5v3sux-gjjl-gja5-2th5-2crrnczezssl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o79tael8-rowq-vtms-dfgj-uakivjle3hze@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.78.16.178:443?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - IT7NET ┇ 45.78.16.178
 trojan://share.mjj-home.com@185.212.56.168:443?sni=tw.softbank.mjj-home.com&peer=tw.softbank.mjj-home.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - IT7NET ┇ 185.212.56.168
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAyMTIuNTAuMjU0LjU1IiwiYWRkIjoiMjEyLjUwLjI1NC41NSIsInBvcnQiOjU2ODkzLCJpZCI6IjBhNTlhNjBiLTUyNmUtNDM3OC1mOWNiLTM0ODVlNjg4YWE5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
@@ -66,7 +66,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAyMy4xMDUuMTk5LjIxOCIsImFkZCI6IjIzLjEwNS4xOTkuMjE4IiwicG9ydCI6ODAsImlkIjoiYTdkMGI3ZGEtOTgyMS00MGU5LWRiY2QtMjFlMDBkMjM5YThmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElUN05FVCBcdTI1MDcgMTkyLjY5LjkwLjE0OSIsImFkZCI6IjE5Mi42OS45MC4xNDkiLCJwb3J0Ijo2MzM3LCJpZCI6IjEzOThiOGZlLTlhNmUtNGEzZS04YWJjLWZlYTUwYTZjMTlmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBJVDdORVQgXHUyNTA3IDE0NC4zNC4xNjUuMzMiLCJhZGQiOiIxNDQuMzQuMTY1LjMzIiwicG9ydCI6MTA1MTIsImlkIjoiNTg3ODFlZWUtYmFiYS02NjY2LWJhYmEtMmNhMGFkYTY1NjhiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJmYWxzZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElUN05FVCBcdTI1MDcgNDUuNjIuMTAzLjkiLCJhZGQiOiJjMjNzODAxLmphbWphbXMubmV0IiwicG9ydCI6NjExNzMsImlkIjoiOWQxMDQzYTYtZTg3ZS00YmI3LTg4NTgtYzExODVlOWMwYzNiIiwiYWlkIjo4LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzMxOTI4NWViMmQvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElUN05FVCBcdTI1MDcgNDUuNjIuMTA2LjE3MCIsImFkZCI6ImMyM3M4MDEuamFtamFtcy5uZXQiLCJwb3J0Ijo2MTE3MywiaWQiOiI5ZDEwNDNhNi1lODdlLTRiYjctODg1OC1jMTE4NWU5YzBjM2IiLCJhaWQiOjgsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvMzE5Mjg1ZWIyZC8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElUN05FVCBcdTI1MDcgMTc0LjEzNy40OC42MiIsImFkZCI6IjE3NC4xMzcuNDguNjIiLCJwb3J0Ijo2MzM3LCJpZCI6IjEzOThiOGZlLTlhNmUtNGEzZS04YWJjLWZlYTUwYTZjMTlmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBJVDdORVQgXHUyNTA3IDY0LjY0LjI1My4xMjciLCJhZGQiOiI2NC42NC4yNTMuMTI3IiwicG9ydCI6NTAzODgsImlkIjoiNTc0ZjI5OTEtMDEyMC00MjgxLWRiM2MtNjllODFkYTNlNDZhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJmYWxzZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElUN05FVCBcdTI1MDcgMjMuODMuMjM1LjEyIiwiYWRkIjoiYzUwczgwMS5qYW1qYW1zMy5uZXQiLCJwb3J0IjoxMjUxNiwiaWQiOiIzY2UxMzk1NC1iNDliLTRhM2EtOGFmMi1lM2ZkZGNlMTlhZjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -84,4 +84,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://f19ed531-81cb-433e-8746-1a69e009f9df@66.112.216.70:443?type=ws&security=tls&path=/bing&sni=usa.rtot.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 66.112.216.70
 vless://74049a59-4a76-48bb-9689-efa31e4dad6f@192.243.113.108:443?type=ws&security=tls&path=/bing&sni=usa.cayuo.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.243.113.108
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.34.247.227:13506?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 144.34.247.227
-trojan://8y73qdxj-xqqc-fr3l-nz4n-pjxcoyxmfztb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xw0mzi0r-vp58-7nzp-kmlw-py5zzfu5l411@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

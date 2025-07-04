@@ -1,7 +1,7 @@
-trojan://4x1ghcj7-yo5b-db81-mywj-3g80o5zozbff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://1zshkqow-vpq6-d9zl-1din-ien4lkrcsy3f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l7oa9enp-krqz-5h9p-v6ku-6722j5j1y0ja@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3uzeqpyi-whmp-2bye-zu57-ixbmhmsd7tdk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r3mufnn5-l3fh-1tun-e1dy-1nq4oihu9gu8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://qvu7z4k5-54i5-eynn-rjjw-lgudc7964rua@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ebo221s1-s5pr-brv8-byh8-a7dh7f7x5j67@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://01cbu2we-jcx4-apg4-3eth-0tiy65bctxz5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 146.19.90.10
-trojan://jzdmtmjh-cdep-enli-sbjo-n5hc3ieu4cvg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8nkae2rr-33fs-efm0-9lq8-ge9lmpeb7l9e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

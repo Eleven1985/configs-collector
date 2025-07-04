@@ -1,7 +1,7 @@
-trojan://by2i8q61-omba-j0a0-qcz3-ynw351q5z6xq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
-trojan://9y89ombo-2oli-t5rm-hyzp-ta75m35390g4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0383zpqy-vnbs-3zvb-j2bl-gxltltkao3sh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o5q0gizu-6luo-9sbn-urc8-1pk3r4j7q8s5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q34os142-5sna-l0xf-i18g-78w4dilcbft0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
+trojan://i6gqeiwx-vvkq-ao75-7gk1-5wkypz4cs9e7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wpxsndew-eoce-loew-zrlk-ehiiw47wd9g3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://txdf1z6r-mjev-gosl-if13-lvvfcmyxeq5z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.103.245.125
 trojan://58236154-f8ba-42cd-91b0-88cff4634702@cn-hk-30.fnhffffe4.cc:50208?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.20.223.168
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?sni=telewebion.com&peer=telewebion.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.234.53.23
@@ -18,10 +18,10 @@ ss://YWVzLTI1Ni1nY206MjVlYzQ2N2M3OGNi@156.251.179.238:443#US 🇺🇸 ┇ SHADOW
 ss://YWVzLTI1Ni1nY206MGIxOTEwNzZkMThm@156.251.179.136:636#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - CNSERVERS ┇ 156.251.179.136
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 162.209.175.122
 trojan://Aimer@45.12.88.145:8080?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 45.12.88.145
-trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.201.226.117
+trojan://Aimer@185.183.84.163:60022?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.183.84.163
 trojan://Aimer@156.251.180.181:21698?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 156.251.180.181
 trojan://Aimer@185.183.84.93:30001?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.183.84.93
-trojan://Aimer@185.183.84.163:60022?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.183.84.163
+trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.201.226.117
 trojan://Aimer@193.9.46.181:50080?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 193.9.46.181
 trojan://Aimer@193.9.46.16:13333?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 193.9.46.16
 trojan://Aimer@212.103.62.244:19560?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 212.103.62.244
@@ -130,4 +130,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@45.12.88.150:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 45.12.88.150
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.222:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.222
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.37:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.37
-trojan://0vkkbsbz-2vvs-f83c-04w5-n4eflmnpn0im@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://04bsgghv-crn3-f2k7-jlpd-n8hr9n5287t0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
