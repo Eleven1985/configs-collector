@@ -1,10 +1,10 @@
-trojan://06vrgtdq-pknn-xp5o-g59n-llnnhk8h4xt6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
-trojan://vv02r8xt-pc30-0t0o-vez5-7swrqa0zu1lm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xv2y2m2p-vne5-k2mq-plw5-rgn9iurlkoyi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zazx6g1b-s3b1-2lcg-6ygi-yr2jambtfaqf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7ryundnr-jvb6-br9z-e9wz-vznikerzb5u0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:06 ]
+trojan://nk5fpi9y-x410-gb5w-8sum-afaghoe7ufip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c7wta81j-r1tl-7d2y-cska-s49g5x1ixm9b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8z5d0e5h-c0fm-h69t-go6k-w0tupx687rgc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.139
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.141
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRVJWRVItTUFOSUEgXHUyNTA3IDE5Mi4xODYuMTI5LjY2IiwiYWRkIjoiMTkyLjE4Ni4xMjkuNjYiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ1c2EtYnVmZmFsby5sdnVmdC5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoidXNhLWJ1ZmZhbG8ubHZ1ZnQuY29tIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0VSVkVSLU1BTklBIFx1MjUwNyAxOTIuMTU3LjU2LjE0MiIsImFkZCI6Inhpbi5tb29vb29iYWkudG9wIiwicG9ydCI6NTEyMiwiaWQiOiI5NjI3YzQ2OC02NGYxLTMxYWMtOGY4OC1iZDM5ZTE3NDhhYTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRVJWRVItTUFOSUEgXHUyNTA3IDE5Mi4xNTcuNTYuMTQwIiwiYWRkIjoiY2RuLm1vb25mcmVlLnRvcCIsInBvcnQiOjg0NDMsImlkIjoiZWRmMTQwZjEtMzVlOS00MTYwLWI1YTAtNmIyN2YzNDE5YTZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1c3Y2d2FycC5oYXBweWZyZWUudG9wIiwicGF0aCI6Ii9maWd1cmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c3Y2d2FycC5oYXBweWZyZWUudG9wIn0
 vless://8b3f5838-7129-4b8e-9ced-35c2940ca8bc@209.127.253.154:28957?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - SERVER-MANIA ┇ 209.127.253.154
-trojan://9j83bdo2-qgxy-pmfs-sx9i-i5aq6ux5q7qk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1tidpv0s-2cgy-z3ra-gfmr-vfy8731763hi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

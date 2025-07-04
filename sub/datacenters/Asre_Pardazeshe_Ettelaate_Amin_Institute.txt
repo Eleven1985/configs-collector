@@ -1,7 +1,7 @@
-trojan://mruzob34-zsb8-rb2u-tic1-nhy0ve0ypesp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
-trojan://8rsjls54-0r43-jfoa-as9h-6smw06lzywvf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ktigk5js-5kzg-qm8a-ecdl-w49rqhv54kox@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t1he74hh-5xsk-zqd9-suyb-rb2b39qs4f72@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://o1juq80r-cqkc-pily-3ade-bjgswq8kjg2b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:06 ]
+trojan://52204zdi-m79y-718w-8px9-jewnvn6o0kn2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pgkddiq7-fe8y-13f7-z704-zpanjyrtiso0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ugw3mja4-6yo2-vd7n-zz99-fymjd0013skd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM@85.133.241.75:1935#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.75
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDIxMi44MC4xOS4yMDQiLCJhZGQiOiIyMTIuODAuMTkuMjA0IiwicG9ydCI6NDY3NCwiaWQiOiJlM2Q3ZjZkZi1hMjg4LTQ3MzctOGQ2YS05YWY2NTJmNWM5OGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDYyLjYwLjIyMi4yMzIiLCJhZGQiOiI2Mi42MC4yMjIuMjMyIiwicG9ydCI6MjE1MDIsImlkIjoiODY5YzVlYjEtOWQ0MS00ZGJkLWEyMmItMDhjZWVlYjM4MDVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -16,18 +16,18 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDg5LjQyLjEzNy4xMDMiLCJhZGQiOiI4OS40Mi4xMzcuMTAzIiwicG9ydCI6ODAsImlkIjoiMzBhYjY5MjAtYjNmYS00ZjgxLWI0ZmQtMWNjOTEyMzUzZDU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvUGpnTzA4dG5mT2FYbjFuUmZFeW5jNkZUIiwic25pIjoic3BlZWR0ZXN0Lm5ldCJ9
 vless://3099662d-8e95-4edf-90f2-86589816db8f@sv1.iranazizm.com:70?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.137.100
 vless://b02b6036-9bba-4f86-95fc-28aa52e5408c@tunwebfr.ar-web.ir:2048?type=ws&security=none&path=/qFvaeh9777uPTNRcnH7V#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.118
-vless://4f83c530-ae0f-4ecf-92ea-34cd6fa2bb41@85.133.241.154:58519?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.154
-vless://99aafb72-246b-474f-b7cc-7ce07c5b1e32@85.133.247.48:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.48
-vless://bb589abb-ae22-468c-95ad-fd522121e22b@85.133.247.38:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.38
-vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@85.133.241.220:2050?type=http&security=none#IR 🇮🇷 ┇ VLESS-HTTP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.220
-vless://53626222-f79d-422e-ab49-f12540af3d81@62.60.223.7:7642?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.223.7
-vless://df73212d-0481-4528-89eb-6aa322d05e50@85.133.247.103:38495?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.103
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.77
 vless://49c10256-2a90-4b0e-abad-0354dbdf7312@conf.chargerdodge.ir:80?type=xhttp&security=none&path=/?ed=2048#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.243.156
+vless://53626222-f79d-422e-ab49-f12540af3d81@62.60.223.7:7642?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.223.7
+vless://bb589abb-ae22-468c-95ad-fd522121e22b@85.133.247.38:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.38
 vless://bc6ad722-5aa7-46b9-bb20-f3f1ca8c567f@195.190.144.177:58235?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 195.190.144.177
+vless://4f83c530-ae0f-4ecf-92ea-34cd6fa2bb41@85.133.241.154:58519?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.154
 vless://78b7e785-8b1e-4374-970e-845ff8f3044a@85.133.241.73:3000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.73
-vless://7ee9482b-18d1-478f-8208-1395c80048c4@212.80.20.138:999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.20.138
 vless://ec46cba7-458c-81b1-ade9-5471757087d1@212.80.18.216:2894?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.18.216
+vless://7ee9482b-18d1-478f-8208-1395c80048c4@212.80.20.138:999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.20.138
+vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@85.133.247.103:38495?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.103
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.77
+vless://99aafb72-246b-474f-b7cc-7ce07c5b1e32@85.133.247.48:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.48
+vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@85.133.241.220:2050?type=http&security=none#IR 🇮🇷 ┇ VLESS-HTTP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.220
 vless://6182db55-e6bc-4a5c-bae5-87e760a53a4c@185.158.175.248:6666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.158.175.248
 vless://d0c8d5e7-2789-4e9a-bf59-6a7c796d5982@62.60.163.4:38295?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.4
 vless://b77bbf9b-96f3-4417-9ba3-1aabd14aa033@2.189.243.132:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.243.132
@@ -63,10 +63,12 @@ vless://e10a6d1d-0bcf-4ccd-8f95-e20d1fbc0fbf@sr26.darkskys.sbs:2082?type=tcp&sec
 vless://56c1e261-c9c3-4ac0-b5d1-db746e3e320b@85.133.247.51:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.51
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.30
 vless://f927e1f9-262f-4bd2-938d-fdf8e038f358@netherlands.farstar.top:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.222.151
+vless://849e78cd-8d1c-42f2-9401-1791387e82c9@0lpeytbk.fivem.fun:34364?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 195.190.144.13
 vless://73692651-6ad1-4856-8ee3-74b48cb9e004@grr.x2net.top:443?type=ws&security=tls&path=/&sni=grr.x2net.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.229.204.248
 vless://59359b9c-3a3c-471e-9cc9-3cc4d49b07ed@se5.reata.ir:2026?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.179
 vless://2a03bc0a-be4a-46d9-83db-6033290aafed@195.190.144.162:28116?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 195.190.144.162
 vless://685b3afc-94f4-4e31-9b73-179b561d97b3@195.190.144.205:44013?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 195.190.144.205
+vless://006e443a-49f1-4a09-a76a-e7eac23f9047@all2network.qwertyuiopasdfghhjkkllzxcvbnm.blackkwolff.com:443?type=httpupgrade&security=tls&path=/?ed=2560&sni=e5e82bb0ddbc6e7b.filmiranidownloadsitemoviesub.ir.&fp=randomized#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.152
 vless://d21865c1-781e-466f-b8e7-3fefdc6b7551@sr30.flysky.sbs:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.39
 vless://zigma-config-bot-2338@212.80.19.27:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.19.27
 vless://119b2bf2-8a2c-4ffe-8f06-55a415e61f53@62.60.198.208:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.198.208
@@ -76,4 +78,4 @@ vless://0a84776a-5e28-4011-ba88-8905c50858e7@sr49.toast.sbs:2082?type=tcp&securi
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.223.6
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@2.189.243.145:55700?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.243.145
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.222.158
-trojan://f6rbiku9-z99z-7pc2-st48-eywlwxg5rcat@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://b85234kl-2gen-p333-b79c-k0icjcbxli3i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
