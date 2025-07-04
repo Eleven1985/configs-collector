@@ -1,7 +1,7 @@
-trojan://5vu8agqk-smpd-zear-n2m8-fcqp5nokgemy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://675bsabd-lufz-um69-tbg7-vrdp433elqlr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wtfuyet6-x497-5nip-d9dw-nu9r0qdpgfq4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://60dbt9dh-nrip-clqn-n4rf-ref5l57maiab@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6jvdeczz-7n38-8x86-w8p0-9saye7fesz7a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://29yngtxj-sk09-h23x-cga8-ihmfdap5vz90@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v8k6gfvv-z8u3-721y-hopf-174e0m1z8vfm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5aam7kvb-xpil-y2j4-1ltg-mj8gy2e5tre0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.5
 ss://Y2hhY2hhMjAtcG9seTEzMDU6UU1lS1d1cTJ0WGJaT25PTGlHL1dBUFNoWW5JQWZxRkw5bE1jUkFMRytzUT0@185.112.83.224:27315#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 185.112.83.224
@@ -18,4 +18,4 @@ vless://35eaae35-6a9e-4b92-aa9a-1aa0c175fbf3@0000:0000:0000:0000:0000:ffff:5275:
 vless://d80814e0-1195-486f-94fb-af2c4831a003@83.147.255.88:2083?type=grpc&security=reality&sni=oivahymy.fi&fp=chrome&pbk=KLfu08enqbDsM6_h09LNRoafJlkXnm9kV54qaKekKmM&sid=4068316141d177#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 83.147.255.88
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?type=tcp&security=reality&sni=spb33.hipay.su&fp=random&flow=xtls-rprx-vision&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&sid=afc6da8dd99e4b83#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 103.71.22.3
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 194.113.106.139
-trojan://mkxecz2k-wfnt-z7l6-7z8p-rsq7blufupp8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dni6zrwv-l3td-qubu-n292-0vv6nc67dd4z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

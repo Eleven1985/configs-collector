@@ -1,7 +1,7 @@
-trojan://c3lkek00-2t0b-50q3-c0cl-9y8rentljvni@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://cwl6gx9x-usws-hfla-u8im-shrc4iprt5k4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d9u35tny-tdhq-ar1v-96cz-8h6imse3beb0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://flxglptc-qz8x-ql1r-prcw-e3jqb9rz3dzy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qvcfwnsl-4nyr-lrki-n3lx-z8722k79s4nq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://o1p2wdnj-9o1d-wrtt-7azq-obq4bfqo0u6c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fciqeyt6-5zb2-rhb8-474t-cl5b5ai1bznl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jnibqi8z-4scx-ys96-cj6c-eue3z0pmlafo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - Meric Internet Teknolojileri A.S. ┇ 194.146.26.40
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?type=tcp&security=reality&sni=apps.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&sid=77#TR 🇹🇷 ┇ VLESS-TCP-RLT - Meric Internet Teknolojileri A.S. ┇ 31.40.205.42
-trojan://0qmzuxur-kkol-58dw-4pz2-4d7pb2fmh8ef@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2pale6p8-cgin-j0ws-840o-ovq8sjgd3g4v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

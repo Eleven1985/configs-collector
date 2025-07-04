@@ -1,11 +1,11 @@
-trojan://5sm4ca0w-1x82-jjdy-73d0-im6i6eutxm10@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://spf1e3sp-3mnj-vffl-m6id-uoljphmh9zup@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://itcjay70-gjfb-yn4s-17m7-wbn6tx3ai9en@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v2k22rc7-tp85-ex9w-coq5-6fbl8khhtbe3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://gap4nq8v-sxs4-wn0y-sazf-e0ktfk6p9jj0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://yza5oh3r-3khi-1v4q-lm5r-75iawf9ngnkh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3o1a6ud6-uea9-f0u5-iot8-nfns9f883v30@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6vp7qzn7-i0l8-lltf-thdh-noxifra26u92@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.60
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
-trojan://gteulbcm-pxjy-0i91-3ow2-mzhsh83okj0u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
+trojan://weujxzy4-egtp-hip9-a3wc-5bawmhu0jwjn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

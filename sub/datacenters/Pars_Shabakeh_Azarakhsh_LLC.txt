@@ -1,7 +1,7 @@
-trojan://swsd1nqa-hyvf-a2b3-d7oy-yhjlx7fqk5w5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://qjtd83nx-os9x-mvit-ypok-k0kn74cd8o8x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o7xep6wu-ebo3-6qpe-e182-npqyno1ce04s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iqnneeee-xuxe-vy2y-9ncx-w50dgkt1z9lq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yt98pb7i-8ztu-e4ft-b5bs-pp2fj8ce7g83@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://kpetnuro-bkvv-9wzl-8gcp-f97syknese7r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f0hhat9p-noiw-be9v-i7mw-vblhqeouxn91@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wshjh0o4-efc0-qh7m-3xdj-95ywe9hu5p44@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZkVlZjU1VlhaeWd5M3NJNk5YTmhuSUQ2NjZBWmhyZzRMTmhuR2hSSzlZPQ@81.12.52.37:33064#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 81.12.52.37
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgU2hhYmFrZWggQXphcmFraHNoIExMQyBcdTI1MDcgODcuMTA3LjEyLjEzNCIsImFkZCI6Imlyc2VydmVyLmNvbHN2cG4udG9wIiwicG9ydCI6NTU3MDEsImlkIjoiOWU2ODFlZjUtNWVkZS00NmUzLTlmZDAtYWUwMGJlMTEyZjQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgU2hhYmFrZWggQXphcmFraHNoIExMQyBcdTI1MDcgODcuMjQ4LjEzOS4xMSIsImFkZCI6Ijg3LjI0OC4xMzkuMTEiLCJwb3J0IjoxNTM4MiwiaWQiOiIxNTA1MmUwNy00MzcxLTRjNjktODg1Mi0xMTEyMTE0YzU5NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -13,4 +13,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vless://9155e3fe-d418-4f5c-a5a1-c26cfe862af1@194.60.231.31:29879?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 194.60.231.31
 vless://0f8572d9-52b2-4bf5-82cf-7b418b375135@87.248.152.16:34750?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.152.16
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@kitab.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 45.156.185.106
-trojan://kpkvqmpv-iuvm-jpnn-dk5s-zc9y42a21ljb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9ig2l7cf-cxgq-h7py-r6hn-p1t7qqyt3njx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,11 +1,16 @@
-trojan://q6t51d7f-5n1o-i1bx-k9u0-8tfew48wtx67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://9g7uptoq-fhwe-l8od-bpmm-sjlh5g2pbtc6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wnoocoff-shh2-ce93-193h-txx032a29k6a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u1x1obfe-mwap-b43o-s0yg-nwcvcq31f8gz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7lbqxp97-d6wm-uio2-xi18-21vk2plnpxbv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://0b60i0lh-wtnp-clqc-a2ug-fj7vds7wd589@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cia2ag4v-iz7i-5auu-kqs9-6w110hysal5b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9jjygyg8-p1bz-rnxg-rsml-0xoj0q5wf0qf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZUpwODFDZWo0MFp1MU91UFJQblR4@3.255.250.127:23456#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.255.250.127
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.249.52.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzIxZjQzZQ@102.zikgu.com:10039#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.213.36.28
 ss://YWVzLTI1Ni1nY206RkdVQ29zTWc@54.220.29.22:33650#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.220.29.22
+trojan://telegram-id-privatevpns@3.253.67.209:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.253.67.209
+trojan://telegram-id-privatevpns@54.78.157.126:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.78.157.126
+trojan://telegram-id-directvpn@34.253.231.7:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.253.231.7
+trojan://telegram-id-privatevpns@3.252.69.131:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.252.69.131
+trojan://telegram-id-privatevpns@3.249.15.72:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.249.15.72
 trojan://telegram-id-privatevpns@54.220.132.216:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.220.132.216
 trojan://telegram-id-v2rayvpnchannel@54.195.48.159:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.195.48.159
 trojan://telegram-id-directvpn@34.251.149.7:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.251.149.7
@@ -214,11 +219,8 @@ trojan://telegram-id-directvpn@3.254.246.221:22223?sni=trojan.burgerip.co.uk&pee
 trojan://telegram-id-privatevpns@18.200.164.138:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.200.164.138
 trojan://telegram-id-privatevpns@54.155.189.0:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.155.189.0
 trojan://telegram-id-privatevpns@63.33.124.133:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.33.124.133
-trojan://telegram-id-privatevpns@3.253.67.209:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.253.67.209
-trojan://telegram-id-privatevpns@54.78.157.126:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.78.157.126
-trojan://telegram-id-directvpn@34.253.231.7:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.253.231.7
-trojan://telegram-id-privatevpns@3.252.69.131:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.252.69.131
-trojan://telegram-id-privatevpns@3.249.15.72:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.249.15.72
+trojan://telegram-id-directvpn@52.48.33.180:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.48.33.180
+trojan://telegram-id-privatevpns@52.17.98.224:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.17.98.224
 trojan://telegram-id-privatevpns@52.30.152.51:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.30.152.51
 trojan://telegram-id-privatevpns@54.72.213.32:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.72.213.32
 trojan://telegram-id-privatevpns@52.209.192.144:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.209.192.144
@@ -227,8 +229,6 @@ trojan://telegram-id-privatevpns@52.49.40.61:22222?sni=trojan.burgerip.co.uk&pee
 trojan://telegram-id-privatevpns@54.77.81.247:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.77.81.247
 trojan://telegram-id-privatevpns@54.74.212.208:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.74.212.208
 trojan://telegram-id-privatevpns@52.48.226.90:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.48.226.90
-trojan://telegram-id-directvpn@52.48.33.180:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.48.33.180
-trojan://telegram-id-privatevpns@52.17.98.224:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.17.98.224
 trojan://telegram-id-privatevpns@34.251.230.25:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.251.230.25
 trojan://telegram-id-privatevpns@46.137.191.115:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 46.137.191.115
 trojan://telegram-id-privatevpns@54.195.238.232:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.195.238.232
@@ -335,8 +335,7 @@ trojan://telegram-id-v2rayvpnchannel@52.213.173.200:22222?security=tls#IE 🇮�
 trojan://telegram-id-privatevpns@54.75.191.55:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.75.191.55
 trojan://telegram-id-privatevpns@63.35.128.231:22222?security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.35.128.231
 trojan://telegram-id-privatevpns@99.81.99.248:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 99.81.99.248
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDU0LjczLjUzLjEzNCIsImFkZCI6ImFjMjA4OC5oZXJva3VhcHAuY29tIiwicG9ydCI6NDQzLCJpZCI6ImQxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2QxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYy12bWVzcyIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDU0Ljc4LjEzNC4xMTEiLCJhZGQiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwYXRoIjoiLzE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMS12bWVzcyIsInRscyI6InRscyIsInNuaSI6InhyLTEuaGVyb2t1YXBwLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDU0LjIyMC4xOTIuMTc2IiwiYWRkIjoieHItMS5oZXJva3VhcHAuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoieHItMS5oZXJva3VhcHAuY29tIiwicGF0aCI6Ii8xN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4ci0xLmhlcm9rdWFwcC5jb20ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMzQuMjUzLjE4NS4yNDQiLCJhZGQiOiIzNC4yNTMuMTg1LjI0NCIsInBvcnQiOjExMTExLCJpZCI6IjdjYjcyODgzLTk2MzUtNDZlYi04NTMxLThkNjk3OTI3ZmYwNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgNTIuMjE0LjIyNS41MiIsImFkZCI6IjUyLjIxNC4yMjUuNTIiLCJwb3J0IjoxMTExMSwiaWQiOiI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLCJhaWQiOjAsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgNTQuMTcxLjIxNC4yNDUiLCJhZGQiOiI1NC4xNzEuMjE0LjI0NSIsInBvcnQiOjExMTExLCJpZCI6IjdjYjcyODgzLTk2MzUtNDZlYi04NTMxLThkNjk3OTI3ZmYwNCIsImFpZCI6MCwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -547,6 +546,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.224.82:22222?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.51.132.25:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 46.51.132.25
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.228.203.201:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.228.203.201
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.96.251:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 176.34.96.251
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.123.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.169.193:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.246.169.193
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.78.233.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.78.233.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.44.241:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.155.44.241
@@ -559,7 +559,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.243.188.125:22222?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.35.78.25:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.35.78.25
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.133.122:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.76.133.122
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.80.212:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.154.80.212
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.123.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.50.147.228:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.50.147.228
 vless://cccc4339-5d60-4d65-9027-d36e102e025b@54.246.131.170:17804?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.246.131.170
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.35.128.99:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.35.128.99
@@ -610,8 +609,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEF3TUdFdw@185.231.207.247:8388#IE 🇮🇪
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTUuMTY0LjQ0Ljc4IiwiYWRkIjoiOTUuMTY0LjQ0Ljc4IiwicG9ydCI6MjA1MiwiaWQiOiIzODUzNTAzMS1jY2MzLTRhOTQtYmQ1NC1jNjg4MDY0ODY0MDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTUuMTY0LjQ0LjEwIiwiYWRkIjoiOTUuMTY0LjQ0LjEwIiwicG9ydCI6ODAsImlkIjoiZTc5MDQyZjYtOTdhYS00Y2FhLTljOGEtMjU3YTE4YjA3NTZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.108.129.51:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - WebWorld ┇ 185.108.129.51
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguMTM3IiwiYWRkIjoiMTg1LjEwOC4xMjguMTM3IiwicG9ydCI6MzAwMDAsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsInBhdGgiOiIvcGF0aC8zMDAwMjIxMTMzMjkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuMTQ2MDExNzYueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguNjAiLCJhZGQiOiIxODUuMTA4LjEyOC42MCIsInBvcnQiOjQ0MywiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguMTM3IiwiYWRkIjoiMTg1LjEwOC4xMjguMTM3IiwicG9ydCI6MzAwMDAsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsInBhdGgiOiIvcGF0aC8zMDAwMjIxMTMzMjkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuMTQ2MDExNzYueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguMTQwIiwiYWRkIjoiMTg1LjEwOC4xMjguMTQwIiwicG9ydCI6MzAwMDAsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV2ViV29ybGQgXHUyNTA3IDE4NS4xMDguMTI4LjU5IiwiYWRkIjoiMTg1LjEwOC4xMjguNTkiLCJwb3J0Ijo0NDMsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2In0
-trojan://bpghne59-s8at-dnn9-1bqb-b3etdz29gr64@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8xglbp75-6y5j-klit-9214-d2oyn5dazmk8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://96z6bk2y-u9op-ynrp-7c9c-ls3w1woy0nsw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://40fod246-07s8-5zqo-08ht-corgmv13uuj3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ewjdyxoy-m9kr-7wsy-c07j-zhkuyq57kaqx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t4bncav5-8yb9-onug-gmi0-ae30kj9uqal9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xcg3o93u-ogry-s5bz-50r1-tjgyfwbjsssa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://okoqq30w-287c-plr0-nxix-9f1ebqoz5fuu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eakmwwfk-tdtm-uh6i-fyw9-pn6sbcrvre7s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wvqtja88-1grv-8kom-zjnc-7ityqghcej3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206S1ZSMzlCU1NYMVM3SUgzRA@185.126.238.37:20004#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.238.37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE@185.39.207.60:443#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.207.60
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
@@ -11,4 +11,4 @@ vless://25af5a1a-d708-4e95-b2fd-ad43b0650335@94.131.8.32:80?type=ws&security=non
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
-trojan://7snf05zm-067p-gj2u-1cyr-zwkjit0vi1x7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rnaulhvh-62qy-jfgk-nb6k-e5gvuj75ff1l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://08jphljf-2guv-gyj3-qtti-2eff8k6bpsac@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://antmptit-nvet-gnws-qcso-e6i7baoka7m1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8q59mzpp-scii-w96b-0xi2-6jt74i5swi2h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dpj2c704-dqkf-bkax-rzew-6f93qqxrx82m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pixz9tzv-qcli-q0j8-fj3n-jdfhgip0jfma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://vt3bmabm-rpxu-4wfa-e7y4-mqwkg4hepv6l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o0ihocns-eh5l-xapa-pb4d-z338upy95ci5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sht7qf79-2eya-5xyg-lazl-t3zmlazhmw2x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - 453 Ladplacout Jorakhaebua ┇ 119.59.98.58
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSA0NTMgTGFkcGxhY291dCBKb3Jha2hhZWJ1YSBcdTI1MDcgMTE5LjU5Ljk4LjE0IiwiYWRkIjoiMTE5LjU5Ljk4LjE0IiwicG9ydCI6MzAwMDEsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSA0NTMgTGFkcGxhY291dCBKb3Jha2hhZWJ1YSBcdTI1MDcgMTE5LjU5Ljk4LjQyIiwiYWRkIjoiMTE5LjU5Ljk4LjQyIiwicG9ydCI6MzAwMDEsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
@@ -31,4 +31,4 @@ vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?type=ws&securit
 vless://c1h8i2ke-30h8-9204-hi14-l1i1g2940i62@45.91.134.12:8443?type=ws&security=none&path=/vless/#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.91.134.12
 trojan://ttfang@171.103.232.58:20475?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.232.58
 vless://948f6596-66f9-4707-aa92-3107a214ce53@171.103.13.77:30157?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#TH 🇹🇭 ┇ VLESS-WS-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.13.77
-trojan://0umgheqo-pkpt-osck-kofb-aoo0zsowmqmh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://s54hjmjd-ahk6-pyeq-4x47-7wjo3lfu8ovv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

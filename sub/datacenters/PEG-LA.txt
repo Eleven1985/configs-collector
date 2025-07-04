@@ -1,7 +1,7 @@
-trojan://nohpnux1-q1l0-4avy-42n7-jgno0pdm4n32@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://p8nl8uus-ecuh-pn4x-v1ih-3nszmx0cx22m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1p66fiot-o2lu-6byo-vh67-p2r9pf8s3pik@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eh2092je-ogfw-urhg-jhyu-govmf1dmk0wr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l0g48jrq-a5cq-j5ee-t5c8-8khve49fl00t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://c6jlmfsm-cji0-jm90-xuog-kparx83m8tfh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xge2jd76-0h84-6kje-jvg7-lqgx9sq295ja@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kph5vcc2-i4af-l5jy-rc09-5ce0rsl7ubzv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@38.28.197.130:443?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 38.28.197.130
 trojan://Aimer@154.212.46.70:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 154.212.46.70
 trojan://Aimer@38.28.194.67:443?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 38.28.194.67
@@ -9,4 +9,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguODYuMTUwIiwiYWRkIjoiMTA3LjE0OC44Ni4xNTAiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguMjUuMTI5IiwiYWRkIjoiMTA3LjE0OC4yNS4xMjkiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
 vless://0f8b0f9e-fb84-443e-8a0d-41a789378989@38.28.194.88:443?type=ws&security=tls&path=/?ed&sni=vless.caoni.nyc.mn&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - PEG-LA ┇ 38.28.194.88
-trojan://9jd4zwh4-96i4-blnl-t8ml-71a9b6sbgu24@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5wocike3-pzh8-plpc-w1u4-5fg2a310e95y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

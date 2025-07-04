@@ -1,7 +1,7 @@
-trojan://c2npfzce-zrk4-xpgx-c75i-0yfobtvg44j5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://2y0cfz6x-pnls-jbrs-j6pt-8m4h2z8m9t2l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tm18luwy-pxi2-zuyz-h16o-eg9e1n7dzmky@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://llhj78jl-3j6j-bm89-fcge-vojjnc1uqvzg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://htmyavh4-2az1-b1dq-3u52-djqphfym7lkg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://iramghxy-q1zh-po0m-c6o2-medcn6kb20qh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://y9btr2fe-kdq4-dir3-m86f-fbluur23sfxv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://82k3mr7o-5w7c-7uq3-7tzv-nfef9omvac98@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.186.77.220:989#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.77.220
 ss://YWVzLTI1Ni1nY206T0pSMEpRUDdCVzkyOFFWMg@185.186.77.137:20025#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.77.137
 vmess://eyJ2IjoiMiIsInBzIjoiUlMgXHVkODNjXHVkZGY3XHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRHJ1c3R2byB6YSB0ZWxla29tdW5pa2FjaWplIE9yaW9uIHRlbGVrb20gZG9vIEJlb2dyYWQtWmVtdW4gXHUyNTA3IDg5LjIzLjg2LjE4OSIsImFkZCI6Ijg5LjIzLjg2LjE4OSIsInBvcnQiOjU5NDkyLCJpZCI6IjNjZDFhMmYwLTQ5OWYtNGViMC04NjJhLWNkZDBlY2Q4MjFjNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbXpjYyJ9
@@ -18,4 +18,4 @@ vless://a730bb73-660e-54db-a4d3-49bc6a17822a@193.57.139.23:80?type=httpupgrade&s
 vless://I_Love__SSHMax_8214e3c@0:0:0:0:0:ffff:2d59:37bc:443?type=grpc&security=tls&sni=zula.ir#RS 🇷🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:2d59:37bc
 vless://6d23644d-0100-4c50-abc5-0e9fc300b6c9@185.234.67.214:44030?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&sid=0bd674#RS 🇷🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.234.67.214
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@217.196.104.83:8443?type=ws&security=tls&path=/?ed=2560&sni=happy.mianfeicf.lol#RS 🇷🇸 ┇ VLESS-WS-TLS - eServer ┇ 217.196.104.83
-trojan://6d7cjezb-pr40-ks8j-9b36-v27dqdnevhvd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nddk4izy-dlnn-x1nj-168x-akop2h7cwy54@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

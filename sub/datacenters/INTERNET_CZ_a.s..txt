@@ -1,7 +1,7 @@
-trojan://oorsf3ow-99up-w6wh-jz55-7k61saeds0f5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://wf8txrje-9na7-o0eq-qnt7-hajrtsagwdvk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fb7ev124-t64m-3tzk-wx9z-qrd3wbtfvipy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3qj8yhft-gbt9-ad92-dypt-0wh40lfa6294@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tcp6sky8-ednr-mp57-f0us-u42vy6smjpvm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://g7fld1ct-rq4z-g1q6-v446-q116ovhn3x63@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pyuwwnwl-nsre-mln2-i17y-fcvoqlct3i8z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bzoewpvo-jd4m-nqk7-gwm8-qqcj81ucehtf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck1vaGViaTIwNzQ@194.182.79.158:443#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck1vaGViaTIwNzg@194.182.79.159:23721#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.159
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck1vaGViaTIwODI@194.182.79.164:23721#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.164
@@ -59,4 +59,4 @@ vless://q7r8s9t0-u1v2-3456-0123-7890123456qr@194.182.79.162:23721?type=grpc&secu
 vless://8395f80e-052f-4377-8132-566f1d8059f8@80.211.203.132:12901?type=httpupgrade&security=none&path=/#CZ 🇨🇿 ┇ VLESS-HTTPUPGRADE-NTLS - INTERNET CZ, a.s. ┇ 80.211.203.132
 vless://a7920b71-5da4-4e49-b331-82f851c3dad3@194.182.79.222:59791?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.222
 vless://3743e72f-a5f2-4b4f-a38e-7f7299a54028@194.182.84.53:443?type=grpc&security=reality&sni=wordpress.org&fp=randomized&pbk=DpSW8adQoMP_hcXxdAGD6PPdrHuwYbFomzJmBmtsqxM&sid=e3f189ed#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.84.53
-trojan://7otbg36u-p56w-lpdm-2m74-8k7d4wx25tyw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lsxjf99v-qdgk-t0io-akkv-6f2vsvzyexq0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

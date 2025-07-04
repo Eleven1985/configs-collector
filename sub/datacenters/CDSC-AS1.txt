@@ -1,8 +1,8 @@
-trojan://qn37p0te-dy20-f5ws-yptx-jy842yhkbnim@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://bgz4pz3b-91jf-szyj-idis-ogqcby4miyhh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4l3n53e9-3lb0-696i-fh2n-w7c02if04kvt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r6pulrnt-ss9j-y0qk-dh1d-b8bjfe8o0m5p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4xnsinh8-oke9-4xof-h0kg-s77o8ac8y4nz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://7ad23m1l-dasn-byik-nxc3-wyntkxs9scwt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qsekj5cd-kwgc-eimi-9q9n-196ewcgyjz5g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2s5fcko0-09yb-eowm-r34r-saf490krw7iy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
-trojan://zd5wy14q-gcnt-j2j7-zalg-s8kulujr2ga9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
+trojan://ylkdx2ew-5718-qrb5-2lgf-ylla7a11u0dh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

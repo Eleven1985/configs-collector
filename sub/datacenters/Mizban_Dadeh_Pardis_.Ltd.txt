@@ -1,8 +1,9 @@
-trojan://3yt6s1zo-2zr6-z7o0-w8pl-1v3o0ki5l0dx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
-trojan://7azify8i-44jm-th0r-gbcg-dok6c7ajo1v0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://38h08kx7-2v21-fb7e-un78-9ei2g62rgzwq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6h88m12y-6hig-f8kg-5pdm-wk0ado6uadhx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uoeqhbol-zacj-859j-l0q6-kt2eks6jcmfk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
+trojan://kxcsvlzl-08wf-8w2g-iohi-g5g5evsnqx0o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ug5ucup3-qy7z-m37u-8hty-k2ar0ze4jurt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qzkochra-1n0b-z3bu-p28q-t128bznpam56@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4dc8a288-f838-4b1b-8768-c0b8fe9f45c5@193.228.168.66:41376?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.66
+vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@dc1.zeroboostspeed.org:1231?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.228
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.246
 vless://6b36f549-0c35-4e9c-ad55-c43a960f7704@193.228.168.43:5519?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.43
 vless://6e0aeeb8-1665-4caf-bbae-a8fc2b9287f9@193.228.168.85:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.85
@@ -13,7 +14,6 @@ vless://f2b7bb82-95df-4cbf-a5fa-56526e25a08a@193.228.169.136:2081?type=tcp&secur
 vless://eab079f9-3661-26d8-fcd0-e7284b5405a3@88.218.16.164:4010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.164
 vless://beeebddb-ae8e-4dcb-c4b9-5c2011f2f590@88.218.16.251:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.251
 vless://db1de21d-fa2b-4706-bb1f-e37efa4d7684@88.218.16.19:26817?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.19
-vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@88.218.16.228:1231?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.228
 vless://f613350a-52ad-41b0-b5f3-00855a5287fa@88.218.16.202:12012?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.202
 vless://dab270bc-12cf-4f5c-a435-c40143b345b5@193.228.168.157:50733?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.157
 vless://4729624d-316b-42e7-85ce-eb7bdfc23774@193.228.169.131:2081?type=tcp&security=tls&sni=client.imesaagetext.ir&fp=random#IR 🇮🇷 ┇ VLESS-TCP-TLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.131
@@ -25,4 +25,4 @@ vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&security=non
 vless://355e2377-16b6-4882-9762-2de0d9823521@193.228.169.62:11011?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.62
 vless://8b3f00b3-fd2c-488a-9acc-276ec9838ded@193.228.169.12:19296?type=tcp&security=none&flow=xtls-rprx-vision-udp443#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.12
 vless://7a1a3f11-fa58-44e5-8e65-dd1334927e19@shopplay3.playshoptv.com:42772?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.76
-trojan://0cccjoh8-lluy-9akl-brm3-4e0bpuh5udyw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://400ung45-p6v3-8kn1-quz3-qz1lybjvc8bi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
