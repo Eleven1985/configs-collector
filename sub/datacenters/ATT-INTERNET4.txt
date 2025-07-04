@@ -1,7 +1,7 @@
-trojan://987lgsh9-ngpx-qpvd-ytnm-8ck26s46ioq8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://j3t4fpz1-vo10-e3uk-zz8l-qnwsmq71d39z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g5nwgpzh-ze6d-rhq5-ixys-05g0rae4f91g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://opjs8kgc-f53a-vc70-9yqe-hc5mxnnteslt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://id2hboms-9va9-efi0-btps-aggvkqg2pys8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://lz0lrkqd-bn75-a1up-y3ar-z4qqmnmcj47v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fd669l1h-rvrj-0a3a-5jc7-3ow3k3g0nwey@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qgjntf5z-bzy8-snod-qn0n-3epdkq21h14c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbHRyQHIwMHRfMjAxOA@104.185.79.76:7527#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ATT-INTERNET4 ┇ 104.185.79.76
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVRULUlOVEVSTkVUNCBcdTI1MDcgMTIuMzIuNjUuOTAiLCJhZGQiOiIxMi4zMi42NS45MCIsInBvcnQiOjgwLCJpZCI6IjYzZjhkOWQ3LTAyZDUtNDEyOC05NmNiLTViYmNlZjRkYzM1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBVFQtSU5URVJORVQ0IFx1MjUwNyAxMi40OC4zMi44MCIsImFkZCI6IjEyLjQ4LjMyLjgwIiwicG9ydCI6NDQzLCJpZCI6ImIyMzI3ZjYwLWNkOTMtMTFlZC1iNjMyLTIwNWM2ZDVmNWQ3OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibHUuMHJkLm5ldCIsInBhdGgiOiIvQGhvcGV2MnJheSIsInRscyI6InRscyIsInNuaSI6Imx1LjByZC5uZXQifQ
@@ -16,4 +16,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVRULUlOVEVSTkVUNCBcdTI1MDcgMTIuNDUuODAuMjMiLCJhZGQiOiIxMi40NS44MC4yMyIsInBvcnQiOjgwLCJpZCI6IjdhNWFmMjAxLWI1ODgtNGYxMy05ZjAyLTE4NWM2OGFjZDg5YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYW5hZ2VpdCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBVFQtSU5URVJORVQ0IFx1MjUwNyAxMi40OC4yNS4xMyIsImFkZCI6IjEyLjQ4LjI1LjEzIiwicG9ydCI6NDQzLCJpZCI6Ijc0MzAyZTJhLWI5MmUtNGUxMi04MzRhLTA5MzliNWJiYzkxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InMxLm1laHJtYWguc2hvcCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiczEubWVocm1haC5zaG9wIn0
 vless://c7d8e9f0-a1b2-7890-3456-6789abcdef01@104.188.82.79:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=ABC1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 104.188.82.79
-trojan://ufekwerk-2k8t-3ezo-14b3-7djz2vqdytp2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uwat4q57-g634-scii-uw9z-zfma7nvtj4e8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

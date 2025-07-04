@@ -1,7 +1,7 @@
-trojan://3jv9vpzb-osbi-ypz0-2c32-txmn3g2luua6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://5t5hvu0p-2q96-y4bq-zube-kieg9q1sp2rw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4x6mj79a-3tla-sfdb-3ycd-q9xnsbhqqh9f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://thrfkqiu-kd6b-wcco-nvky-ig0bx70lurdl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jpvwrbqf-oxf6-enso-lpcw-08th5drh51rm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://fxxs7mgj-eyv7-ewwb-24tq-6gqjbbkoybcy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6e0nmvwl-0nqj-ag38-542d-ol3gqr35c0eu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2x9jxjt6-0j23-k949-zy3e-hnpc0la24lnp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=tls&path=/blue&sni=ly.ylks01.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.22.142.117
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?type=ws&security=tls&path=/?ed=2048&sni=aw.ylks.xyz#ES 🇪🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.175.202.195
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@35.228.36.82:443?type=ws&security=tls&path=/blue&sni=lg.ylks01.eu.org#FI 🇫🇮 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.228.36.82
@@ -25,16 +25,16 @@ vless://d0e445a5-abe8-498b-ae96-1c43d63cd5f6@34.92.225.59:443?type=tcp&security=
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR09PR0xFLUNMT1VELVBMQVRGT1JNIFx1MjUwNyAzNC4xMzEuNTkuNTciLCJhZGQiOiIzNC4xMzEuNTkuNTciLCJwb3J0Ijo4MCwiaWQiOiJlMGIzYTBmZS1hODljLTQ2YWQtZDI5MS03ZDI3ZjhiMWM5ZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@34.84.20.249:443?sni=34.84.20.249&peer=34.84.20.249&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.84.20.249
 trojan://jpgcp@35.221.86.68:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.221.86.68
-vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.11:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.11
-vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.14:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.14
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.18:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.18
 vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.17:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.17
 vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.10:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.10
-vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.18:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.18
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.13:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.13
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.14:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.14
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.11:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.11
 vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.19:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.19
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.16:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.16
 vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.15:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.15
 vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.12:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.12
-vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.13:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.13
-vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.16:8443?type=ws&security=tls&sni=planasli.vpn&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 185.146.175.16
 trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@34.143.164.67:443?sni=34.143.164.67&peer=34.143.164.67&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.143.164.67
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdPT0dMRS1DTE9VRC1QTEFURk9STSBcdTI1MDcgMzQuMTI2Ljk0LjExNyIsImFkZCI6IjM0LjEyNi45NC4xMTciLCJwb3J0Ijo0MjcyNywiaWQiOiIyNWRmZjllOS1jNTFiLTQ4OGMtZjMwYy0zMGMyNmFjODkxYTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR09PR0xFLUNMT1VELVBMQVRGT1JNIFx1MjUwNyAzNC44Ny44Ni4zMiIsImFkZCI6ImNsb3Vkc2V2ZXI2LnR1YW5hbmg0Zy5jb20iLCJwb3J0Ijo4MCwiaWQiOiJiOTlkMzcwMi0yZjdkLTQ2YmMtYWFhMS1kNzRkNWUxYTNiYWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNsb3Vkc2V2ZXI2LnR1YW5hbmg0Zy5jb20iLCJwYXRoIjoiL3R1YW5hbmg0ZyIsInNuaSI6ImNsb3Vkc2V2ZXI2LnR1YW5hbmg0Zy5jb20ifQ
@@ -43,8 +43,8 @@ vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@35.187.251.244:443?type=tcp&securit
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.240.184.147
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TVRFM016bGhNR05qWWpSbU1EUTBNekl5TUdKa056YzNObVUxWXpFM1pURT06TXpFNFpESmhaVFl0WkRReE9DMDBOR0U1TFdJeU1ESXRaRGM1TVROaU1HST0@107.167.188.250:31125#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 107.167.188.250
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TVRFM016bGhNR05qWWpSbU1EUTBNekl5TUdKa056YzNObVUxWXpFM1pURT06WW1JeU1HWTFZelF0Tm1ReE9TMDBZVE01TFRsaE1EQXRNVFV6WW1Oa1lXRT0@tw1.gcp.yushin100.top:31124#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 35.194.134.107
-trojan://Aimer@35.234.3.153:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.234.3.153
 trojan://bpb-trojan@35.201.203.106:443?sni=skwygx.top&peer=skwygx.top&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.201.203.106
+trojan://Aimer@35.234.3.153:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.234.3.153
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR09PR0xFLUNMT1VELVBMQVRGT1JNIFx1MjUwNyAxMDcuMTY3LjE4Mi4yMzAiLCJhZGQiOiIxMDcuMTY3LjE4Mi4yMzAiLCJwb3J0Ijo4MCwiaWQiOiJlZmNiN2Q3Yy1jNTgyLTQ2ZjUtZWVmZi0wZTU1MzM0MjUyOGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii90Z0Boa2FhMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdPT0dMRS1DTE9VRC1QTEFURk9STSBcdTI1MDcgMzQuODEuNjEuMjQiLCJhZGQiOiIzNC44MS42MS4yNCIsInBvcnQiOjQzNjMyLCJpZCI6IjE4ZjQ5Mjg5LTllZTEtNDM5YS1iYmFhLWRiYjU5MTcyYzQyZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzIyMDEyODA3MTEwMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR09PR0xFLUNMT1VELVBMQVRGT1JNIFx1MjUwNyAzNS4yMDEuMjM5LjEzMiIsImFkZCI6IjM1LjIwMS4yMzkuMTMyIiwicG9ydCI6ODAsImlkIjoiYzFkOGEwN2YtMWU1Yi00ODE5LWI3OWItMjJkZjcxMjJlMWZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byJ9
@@ -65,4 +65,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.69.150.180:443?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.82.76.253:443?type=ws&security=tls&path=/?ed=2048&sni=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.82.76.253
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.49.234:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.105.49.234
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@35.247.124.181:443?type=ws&security=tls&path=/blue&sni=ck.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.247.124.181
-trojan://crrbctya-kvl9-t0w2-6zn4-pz0dpr6d5a77@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://581lc83x-7e3x-xfq2-oocj-z2k7yv9cohbc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://9zqqj6ho-8pt2-1njp-c1vq-4gsd6yovekuo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://wzzh868i-jj4y-gvrf-50b7-dxv26rndj77k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://svwt3til-0ixa-6or6-it00-nk2oyxsm45pa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fn5yluiz-jwu3-piao-kl76-bd223881ela0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM01EZzRabVZtWXkxaU1ETmhMVFJqTVRZdFlUVm1aQzFpTTJGaFpqRTVZek15TkdJ@hncu.donghui.tech:27100#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
+trojan://s29tmer9-zn27-f9kk-fwj4-4zte0l32u05f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://2fhoczmq-6wa2-8gn7-hoe2-7a8q7tb6z0h1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yg4ybci9-uuqx-u553-qt7w-eupl7kvstv85@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j5mzkrtu-djli-78fj-y6lm-2k4p3980h5vq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDZjY2VjOC00M2I1LTRjZWQtYjY4MC03MzVlMTgwYzhhZGE@jscm.r1u.cn:25978#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
 vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
-trojan://94tvf1hu-s1l6-6icm-8rn7-m10fqhumvpr0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9whwwr2z-virg-xjhz-jvb2-x3h2revdh01c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

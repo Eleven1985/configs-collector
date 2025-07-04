@@ -1,7 +1,7 @@
-trojan://c7j8z0ls-2g6u-q4g7-vf9b-a6d4qccl29o1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://wjs9sq7m-l8ph-j0ip-an3l-b9kyt1ojtw1o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yczb5595-5auu-rd3a-9vz4-k44383ltmbxz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nnktljbg-seaf-8fdn-3xvm-svl58bk3ez7s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0o2asmqj-2tv0-pfyr-ilbm-nmrkalfltxgb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://jc191qxq-bbng-1abj-j6r7-e7wlvfix2xdb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q72tvyq2-7uj8-wd11-4sqn-g29idfi6yjk2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://064qe12l-xujn-yhg4-sn1r-qcioxpkxcbgu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://764f360b-3fdf-96b8-e197-f974380d1eb0@194.61.3.26:3950?type=ws&security=tls&path=?ed=2084&sni=nde2-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.26
 vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.144:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.144
 vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.92:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.92
@@ -11,4 +11,4 @@ vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=n
 vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
 vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
 vless://0ef91a88-b5c7-4195-9132-3a7b5eb2ee21@217.18.90.81:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.81
-trojan://5p4rmfrw-fuql-1ntt-eb02-0d6ows734up2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nfxz48ld-mnt4-t730-jkyp-e0xhpn607bkq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

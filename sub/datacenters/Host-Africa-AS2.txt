@@ -1,7 +1,7 @@
-trojan://yq7yptmc-z9ut-ivxz-ot1p-7kh6x9sicblp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://1gelitvv-omrl-udnz-ly4g-ihn8x9qy8sq7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7puwquux-wixk-l1dm-95v7-sxc6475fpxtf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5n1s3o9w-n5ih-0p9e-eain-lbxj6m2hm11c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fce36fe4-1f0b-5533-9a21-d84a4339d790@102.129.165.116:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.116
+trojan://h8bssoob-apfw-iik4-tn1a-szlf4j86rmvb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://2a0rnagq-yhh4-o5u6-oba5-dx6dilgvuow1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2cwjekkq-r37a-hy3o-c4p3-x1gclysqji6a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6lr4nee2-xzce-9s9y-motm-me28u40cxxdt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
 vless://af0ae7d4-088a-57be-8d59-e8d02e4514fe@sitespeedtest.zaf.v2vless.site:2052?type=ws&security=none&path=/vless#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Host-Africa-AS2 ┇ 102.129.165.109
-trojan://wgf977lc-oaih-frba-cwah-qpl4h3llvmjl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://e8e56x3k-3qgv-jezd-4aue-5tr0z3pef6sr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

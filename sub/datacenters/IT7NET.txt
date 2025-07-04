@@ -1,7 +1,7 @@
-trojan://hixpn907-te8a-140j-y5bs-9n1qx6tdx5xh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
-trojan://jak4cwls-qui6-ovmn-om4i-dl02v8jyxjjs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tgbpzzlp-drbx-55to-hrp8-zr5s5tlr55k9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xyonuuk9-q1sy-pgsk-68dz-2d15pflxbivt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mr2mhe4a-cigj-5fs1-fdgn-z7qarqat337z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
+trojan://i6d719k4-ll8g-3u3p-t26t-2ug75i1ke502@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fl1nxe6r-gvfo-nv59-vsbg-7q1t7gdmutiu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ywn4ot56-80ij-f7o0-m6i2-5e7qha58orst@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.78.16.178:443?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - IT7NET ┇ 45.78.16.178
 trojan://share.mjj-home.com@185.212.56.168:443?sni=tw.softbank.mjj-home.com&peer=tw.softbank.mjj-home.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - IT7NET ┇ 185.212.56.168
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAyMTIuNTAuMjU0LjU1IiwiYWRkIjoiMjEyLjUwLjI1NC41NSIsInBvcnQiOjU2ODkzLCJpZCI6IjBhNTlhNjBiLTUyNmUtNDM3OC1mOWNiLTM0ODVlNjg4YWE5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
@@ -84,4 +84,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://f19ed531-81cb-433e-8746-1a69e009f9df@66.112.216.70:443?type=ws&security=tls&path=/bing&sni=usa.rtot.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 66.112.216.70
 vless://74049a59-4a76-48bb-9689-efa31e4dad6f@192.243.113.108:443?type=ws&security=tls&path=/bing&sni=usa.cayuo.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.243.113.108
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.34.247.227:13506?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 144.34.247.227
-trojan://snyohe3l-ndl4-cojb-xwrg-qlil2vufkdxl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://97javm4f-tw22-riey-hayz-3xzfgjd11vwu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
