@@ -1,12 +1,12 @@
-trojan://nj3cbu12-r6vf-i7zo-d9b9-mihx1qzj44jk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
-trojan://t0ntb15h-f7ar-ejoa-5cgc-lr5uze9cj95t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://odni7akj-pwwa-u6tt-3i3c-la5mzjlenrp6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fdgt6b0f-2r27-olgu-qax0-dzjgk1ornuup@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jcu9xg2p-221m-lfd4-s0gg-a6vj4f40kv8d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
+trojan://8og61hx2-w23f-yshc-8236-j3yqid2st8yn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0ha5staw-it1j-w4xk-m3qt-2lkm6mq9o7yl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://51hntz2s-zb7y-uz5f-2jo2-472j58gbuu2r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?type=tcp&security=tls&sni=www.hkust.edu.hk&fp=edge&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - NewMedia Express Pte Ltd ┇ 38.225.102.22
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.82
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.31:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=edge&flow=xtls-rprx-vision&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.31
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.100.135:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.100.135
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.82
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.231:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.231
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.77:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=firefox&flow=xtls-rprx-vision&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.77
 vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#KR 🇰🇷 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 113.29.230.65
-trojan://d9pxfpe7-7icj-6mka-398o-kcqj0bmq4y03@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vd8va1xv-l489-nkai-tbkp-nmsfduv7b4wh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

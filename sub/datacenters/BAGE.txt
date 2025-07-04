@@ -1,7 +1,7 @@
-trojan://gzwsx6v8-23cv-f35u-mm8d-0bevygxtbt9k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
-trojan://lkvol05y-10hs-s5no-uoed-lcaayyxuizm7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://57ibw1jx-wxa0-z5xc-ts1i-t9sxoly96vfz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nk193tu7-b1ad-0ekb-19md-m4gbqznshgkc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://81c2ctut-9exc-2145-tnz1-8uw54vokv2bv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
+trojan://7sgjno8e-m8a3-p716-jm3q-l016mgb3e87y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k0l9mx03-cttr-vt9y-hqc1-24m4dbbd6tot@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n5n8rc30-jx2q-vc4w-3b9b-n33jsrqqm174@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-TLS - BAGE ┇ 213.210.55.72
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@213.218.255.99:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 213.218.255.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@89.213.150.45:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 89.213.150.45
@@ -19,4 +19,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@sg2.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 23.150.33.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@jp.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 23.150.33.47
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJBR0UgXHUyNTA3IDY4LjE2OC4yMC4xMDUiLCJhZGQiOiI2OC4xNjguMjAuMTA1IiwicG9ydCI6MTAwMCwiaWQiOiIzYmI1OWVkZC1iOWJkLTRmMzktZTg4Zi03ODY5NzQzYTU0YTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://nu38aybd-yj44-xzkp-f39v-jng9gr934g5p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://78kibo6f-m57n-omcn-0n63-oklzb435593p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

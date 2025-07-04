@@ -1,7 +1,7 @@
-trojan://kdlsh9lv-382b-otke-uwdk-7h4mx16c334w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
-trojan://y8716cez-py3r-4ifb-16z5-bcdafsg0ncde@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wrehers7-wwqc-thjh-a71s-1qh0x6nr600s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m1veiafa-xo1s-w11w-orwr-4olo9mhe9jl0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ngan528b-wfsa-92dy-oeau-sof5twvop7ti@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
+trojan://5pzdgpjq-vyja-t08a-uvfa-cbnddxyar3da@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://099wqid9-0lak-2klg-67nf-o93l4f9ec2yb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f0z46hdv-kldw-ntnj-spj2-h4j8abj9rkzp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@43.218.139.54:443?sni=aws-id-jakarta-1.f1rocketnode.com&peer=aws-id-jakarta-1.f1rocketnode.com&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.218.139.54
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@108.137.18.26:8443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 108.137.18.26
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFSREggR0xPQkFMIElORE9ORVNJQSwgUFQgXHUyNTA3IDExMy4yMC4yOC4xMDIiLCJhZGQiOiIxMTMuMjAuMjguMTAyIiwicG9ydCI6MjIxODgsImlkIjoiMDA2NzdlYjQtOTFjMi00MWYxLWU3OTAtOTYzYjlhMDkzZmQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -35,4 +35,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVT
 vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNjbG91ZCBQdGUgTHRkIFx1MjUwNyAxNjUuMTU0LjIyOC4xNTciLCJhZGQiOiIxNjUuMTU0LjIyOC4xNTciLCJwb3J0Ijo0NjUzNiwiaWQiOiIwNjA5ZmZlZC00YjlmLTQxNmYtOWQyNS04OTBhZDc0OTZiYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LTIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVW5pdmVyc2l0YXMgSXNsYW0gTmVnZXJpIEFudGFzYXJpIEJhbmphcm1hc2luIFx1MjUwNyAxMDMuMTgwLjk1LjI5IiwiYWRkIjoibG1zLnVpbi1hbnRhc2FyaS5hYy5pZCIsInBvcnQiOjgwLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-trojan://avti66zs-jaaf-adjs-e7db-14q363w7i1er@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://slp7jui3-3r4k-3dk2-zlbg-2hz9pm5wjnb0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

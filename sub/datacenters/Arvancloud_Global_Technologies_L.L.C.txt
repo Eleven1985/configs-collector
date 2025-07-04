@@ -1,7 +1,7 @@
-trojan://dq7atphn-nonf-kumr-v11i-gfv93oxfhpx0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
-trojan://bgugk4l8-y24b-6wak-hn89-hpszvt3gif4v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q816yfl7-tlc9-zt7d-rayl-9b8scqyr7c2u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s9oes486-sz8w-s1rw-oe2x-414r43l103lt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9od4gblr-jb6t-ej58-jbvs-6bgv4x2nrwy4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
+trojan://jydi0uxp-nhfp-m5ze-iday-qis7oydtqnum@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j4vjrcm6-3aww-dbg6-sfwu-ntxugpsvkb6d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xc39vec3-ahej-5x7x-uw3m-luzqxy0wnpks@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNC4yMSIsImFkZCI6IjE4NS4yMTUuMjM0LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNS4yMSIsImFkZCI6IjE4NS4yMTUuMjM1LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ3JhcGhxbCJ9
 trojan://X98ViOdiRw@xs.srvice.shop:14127?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
@@ -10,4 +10,4 @@ vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&secur
 vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.53
 vless://3cf9d970-6b52-4c72-b8f5-cb4e52e5f389@185.204.169.20:47138?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.20
 vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.31
-trojan://4u15u2e9-9glh-hztg-uwp3-odhv0byh2pvy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://j9edjmpo-6vpa-qqn9-kiys-b9utcnu0i9yh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

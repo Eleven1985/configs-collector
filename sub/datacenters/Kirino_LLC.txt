@@ -1,16 +1,16 @@
-trojan://pjx1k47n-6kxw-bs25-7yz1-amj70mpzaviy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
-trojan://3yo6pb4z-ww24-k1wn-04h0-lki7jd1402vw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ijdy2tdq-o1m5-m1m8-qvh0-isb1d1u781ls@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hkwy2sb3-47sw-o857-3o1k-zfx7tpsujqa1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7fc0wf6f-o9is-exge-p57h-h1m15714trx5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
+trojan://skcq7540-sk3a-l0sx-a10b-3j6agys6vehm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1h9z9mhh-f4zv-fyt0-7c1r-t15bwr9ims50@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rx8v9awo-dwhh-77db-brka-e692sph98s9y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://shenmegui@37.123.196.250:28895?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 37.123.196.250
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 45.9.10.103
 trojan://Aimer@185.218.7.155:6667?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.218.7.155
 trojan://Aimer@185.148.13.158:587?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.148.13.158
-trojan://Aimer@185.218.6.24:443?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.218.6.24
-trojan://Aimer@185.148.14.143:12145?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.148.14.143
 trojan://Aimer@185.148.13.32:10005?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.148.13.32
 trojan://Aimer@38.59.242.169:27738?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 38.59.242.169
+trojan://Aimer@185.218.6.24:443?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.218.6.24
+trojan://Aimer@185.148.14.143:12145?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.148.14.143
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2lyaW5vIExMQyBcdTI1MDcgMzguNTkuMjQzLjEzMyIsImFkZCI6IjM4LjU5LjI0My4xMzMiLCJwb3J0Ijo4MCwiaWQiOiI1OGM3NmQ3NS01NjNjLTQ2OTQtODRjNC1hNzk4ZDU1ZTkwZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtpcmlubyBMTEMgXHUyNTA3IDEwMy4xMzYuMTg1LjEzNiIsImFkZCI6IjEwMy4xMzYuMTg1LjEzNiIsInBvcnQiOjQxMDgyLCJpZCI6ImI5MDdjZmM1LTcxYWUtNDY2My04M2RhLTUxMjgzNTY1YWRiYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://f14506ed-d55f-4b04-dc11-5282a5924ab4@sjc.aloofly.eu:24158?type=tcp&security=tls&sni=sjc.aloofly.eu&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Kirino LLC ┇ 185.218.7.156
-trojan://t04z7aim-0xdv-l7jd-ysiz-d405qpqrrcg9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://txxbcv3k-mto8-5w9p-606v-1ow5cxg9o14a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
