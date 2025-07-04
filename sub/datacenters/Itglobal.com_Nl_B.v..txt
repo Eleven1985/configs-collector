@@ -1,26 +1,22 @@
-trojan://c8fs5icc-5glh-2kme-uoam-tdfae0hk3zcc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://g4bi4eyu-9a62-3jbg-n28z-szjl8cgfl7g6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ohylfnkk-6xgk-g82c-o3hr-x4acrace730j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2rc2m2lq-z524-6ets-q9o8-vd34ljh4254g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g07myxqr-c83r-y7um-qz7l-wpp96hh81txk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://jug9dhzc-xgnv-jcub-24o2-3el8wytrjojd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ut7nle5z-3fmb-uliz-0101-f15h93l4a1nd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h243c4cf-fbkh-iu0l-7gi3-iqdhptmcj38m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEl0Z2xvYmFsLmNvbSBObCBCLnYuIFx1MjUwNyAxODguMjI3Ljg0LjE1NCIsImFkZCI6IjE4OC4yMjcuODQuMTU0IiwicG9ydCI6ODQ0MywiaWQiOiI2ZjgzNGY1NS0xN2FiLTRkNWQtOGNjZC1iMWU0ZDU3MzQ1Y2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
-vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.128
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.44.0.68:25?type=ws&security=tls&path=/?ed=2560&sni=a.xn--i-sx6a60i.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 31.44.0.68
-vless://42958c34-2d11-4067-91a7-d8770b7b53f2@188.227.84.85:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.85
-vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.137
-vless://369d4236-4cd8-4dc1-bb85-72557dd349eb@188.227.84.99:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.99
-vless://3f24ba6f-7546-41e3-b97f-69f6cb101493@78.111.84.142:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.142
+vless://2e566e67-71ec-4b14-b421-6aec35b8fa24@78.111.84.71:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
 vless://1e7e2325-b256-4843-b2dc-09cbf0a1d144@109.207.171.150:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.171.150
+vless://3f24ba6f-7546-41e3-b97f-69f6cb101493@78.111.84.142:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.142
 vless://fd9ae1e1-051f-4822-a8de-bcb162cd8b39@188.227.84.158:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.158
+vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.137
+vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.128
 vless://863a79a8-b56b-41cc-b7fb-c7d7314c2fa2@109.207.173.6:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.173.6
 vless://f8e0ebf5-d1e0-4779-9d39-43037e624c9a@188.227.84.119:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.119
 vless://03cece37-1de5-4f08-b25e-dc82920be39b@78.111.84.138:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.138
+vless://42958c34-2d11-4067-91a7-d8770b7b53f2@188.227.84.85:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.85
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.44.0.68:25?type=ws&security=tls&path=/?ed=2560&sni=a.xn--i-sx6a60i.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 31.44.0.68
+vless://369d4236-4cd8-4dc1-bb85-72557dd349eb@188.227.84.99:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.99
 vless://0b83624e-ca3f-4761-9b77-954a49f608e4@188.227.84.74:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.74
 vless://973faeb3-2cdb-4533-bc62-faea7309cbcc@78.111.85.150:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.85.150
-vless://d4037889-13c7-4674-a681-70e08dbd1a7d@188.227.84.146:8443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=l8ozTaW6l-Gq8r6nPODzJG6ahs5NmuB8QqZf6Th1H2g&sid=ca05#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.146
-vless://49879c69-6aba-48ea-a390-3d5ee5764e08@188.227.84.144:8443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=w95kbMnhi27IviBfn9LCDgKQOwTDSHeGNgRtGt0HFxY&sid=367ed38841c465#NL 🇳🇱 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.144
-vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&sid=08d8a4e0#NL 🇳🇱 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.78
-vless://f35f19d3-fecf-4ad5-8f0b-110c96f1b164@188.227.84.155:8443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=c0X78_TuhEEPN-wICIgKw7nAhkPKpdHLn4flkjc6NFA&sid=cd0c89292b#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.155
 vless://a4be0cc0-67a0-4b19-959e-06e4c2c9ec01@78.111.86.113:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=btaC-4IwgXj-SqKxJqhmrFzn-7bzuOOcDS0VMhyar0k&sid=966cc1f0bc0ec166#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 78.111.86.113
 vless://2d60ab1a-84d6-424b-861f-bc4f2ce379b7@45.138.25.121:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=qVHdSghMhjKw4KpNVHg5JumMaxKjN5MvQdLL4lRJs10&sid=a61d6949#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 45.138.25.121
 vless://7bedb4fd-ab2d-44a8-a344-4633d7bb0911@45.138.24.42:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=vwXaTB-lph1ZoqPRFCToL6ecjE0eRoGxeASkPto93kQ&sid=53#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 45.138.24.42
@@ -34,7 +30,11 @@ vless://02762cc1-cbc1-4a00-9c31-e0a64da3be67@45.138.24.82:8443?type=grpc&securit
 vless://e68b1ed2-fbaf-4808-aada-d79fb7714de5@188.227.85.89:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=fYrfIC-Mg5Ju1c-8Rt9Tj5QsUjERqHyZkpIDSL9OTGs&sid=5554353c62#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.85.89
 vless://d1dd6d8c-116c-4645-9581-1afee48dc354@188.227.86.60:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=fYrfIC-Mg5Ju1c-8Rt9Tj5QsUjERqHyZkpIDSL9OTGs&sid=5554353c62#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.86.60
 vless://79e1374d-7f94-4da6-97ad-5ce28a5d393e@188.227.84.54:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.54
+vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&sid=08d8a4e0#NL 🇳🇱 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.78
+vless://f35f19d3-fecf-4ad5-8f0b-110c96f1b164@188.227.84.155:8443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=c0X78_TuhEEPN-wICIgKw7nAhkPKpdHLn4flkjc6NFA&sid=cd0c89292b#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.155
+vless://49879c69-6aba-48ea-a390-3d5ee5764e08@188.227.84.144:8443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=w95kbMnhi27IviBfn9LCDgKQOwTDSHeGNgRtGt0HFxY&sid=367ed38841c465#NL 🇳🇱 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.144
+vless://d4037889-13c7-4674-a681-70e08dbd1a7d@188.227.84.146:8443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=l8ozTaW6l-Gq8r6nPODzJG6ahs5NmuB8QqZf6Th1H2g&sid=ca05#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.146
 vless://0d764a5a-2253-4f8c-a96e-672605cdd7c4@45.138.24.85:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=w9dxQEolo0f6jqwN83zcbUoWzq44Pkg4JUscEUXIY1M&sid=5b5eef729163af#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 45.138.24.85
 vless://9f287123-2b97-4b43-8ddd-d3354a0ed6bc@188.227.107.152:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=pYkSwLdGRkBtw2tczaVqPukucwFAn90U3iOcx6jVvyI&sid=54980f#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 188.227.107.152
 vless://c97729c5-0833-4501-9600-081d4330d1ce@78.111.86.105:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Yfsv32R_HAXEi1l8Tc-sEHiMiNEuqAEL_7dFSFWwtzQ&sid=3ea6#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 78.111.86.105
-trojan://86uzgcnw-xig6-pb37-xsbw-zjmighyvyclh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://gj7q1tre-7s12-lgkh-26tt-5by7ukr6776q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

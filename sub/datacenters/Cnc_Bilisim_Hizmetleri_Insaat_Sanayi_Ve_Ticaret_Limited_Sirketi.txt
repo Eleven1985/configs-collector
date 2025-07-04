@@ -1,8 +1,8 @@
-trojan://lq72t7l9-opgn-xmsp-3oxw-2p28kyvh2eqx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://qeg7fv1d-ym0b-zz9n-q2fz-eziorisng5zu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i0dsxp2q-ij60-30j7-8tt9-9obpjazg59kg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bi97g8h7-n8of-anwm-judn-eyzhl6sqvknb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w8s185jq-8lbs-eo4g-c59q-sstd0472cmdc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://0f3cl1pl-1yww-qvvo-5jyf-4niqheftfsn5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rgdux88d-txgu-knry-l789-q0znig0s30ad@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xsfnd59s-l0jx-dxyp-qfl8-d0qdxdt2yyyh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ25jIEJpbGlzaW0gSGl6bWV0bGVyaSBJbnNhYXQgU2FuYXlpIFZlIFRpY2FyZXQgTGltaXRlZCBTaXJrZXRpIFx1MjUwNyAxODUuMjQyLjE2MS4yMDYiLCJhZGQiOiIxODUuMjQyLjE2MS4yMDYiLCJwb3J0IjoyNTIxMiwiaWQiOiI0M2E5ODhkMS04YzhjLTQzMDMtOWUwMy04ZDY1MWRlNmYzNzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENuYyBCaWxpc2ltIEhpem1ldGxlcmkgSW5zYWF0IFNhbmF5aSBWZSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMi41Ni4xNTQuMTE4IiwiYWRkIjoiMi41Ni4xNTQuMTE4IiwicG9ydCI6NTcwMjIsImlkIjoiY2RlYTc2OTYtMWNiMi00ZjljLWIxOGEtOWY0OTU1ZTQyMzljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://09874b38-975f-11ee-8b6c-06263e24424e@185.242.161.214:10004?type=tcp&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cnc Bilisim Hizmetleri Insaat Sanayi Ve Ticaret Limited Sirketi ┇ 185.242.161.214
-trojan://bbf5fied-fkvg-vdbq-0yjw-wqezkgqi59fd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h5rtd8xv-95km-0qqu-rbwi-sp12ajo84f58@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

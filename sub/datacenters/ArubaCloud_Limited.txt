@@ -1,11 +1,11 @@
-trojan://y6gdu2q3-g5ib-40el-5go5-z5kgahwsiia7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://gjcjhlrg-pxx2-83pv-gw2f-9v720c27ghlb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mnssvhij-sduz-pg7j-rq0d-bxc32np971u4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a4rdg3mj-83hp-1s24-cwl1-vpb10ixq448a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://unt7g4go-smqp-7txh-yd61-4wyer9exudjf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://vuzaqla7-u11j-ovrk-38i2-vepgeb1tj0xu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nufizvzw-tbw7-uq3s-y1ec-vgbap9aon17f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yy9e5hcm-wprk-w89y-8ju9-x3gndj1nxktw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ce93d15-9488-4208-914b-6ee32af0df0e@gb.france-learns.ir:42536?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 94.177.253.183
 vless://ZEDMODEON--joinZEDMODEON@217.61.20.228:55475?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.228
 vless://ZEDMODEON--ZEDMODEON@217.61.20.130:16987?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.130
 vless://cf25a07b-798a-4912-9611-04d906a9189c@217.61.20.71:55443?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.71
 vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.57
 vless://13f270a4-d367-4ce4-b257-80751a074889@185.43.211.99:42536?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 185.43.211.99
-trojan://p69ll6q6-rbka-rwuz-f4j3-q2vgeyxfzwlw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://x1khyrr8-25g7-zlm9-bnzy-qsb664nb3wr0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

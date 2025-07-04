@@ -1,8 +1,8 @@
-trojan://tp5u0wcm-9j7y-k64s-4oiu-8dzm3fxd141y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://0kxkj2ek-zqus-o5n5-jixj-ol3juqzwg5oa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zyexsefn-96vn-kyf4-6196-87txiil1fdux@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qoluppll-iv9m-vkjt-tmmc-rfxnud8rd53w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://p8m0npqo-k4kf-5wbb-11jr-e2a1miobeqq0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://tmc91y9t-z7oy-kumk-o8cv-8jouxquqykf6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1avpm8q9-mx6r-q8so-ghbj-21bn8bu3v4dx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xikrpiv7-w1fz-se8c-805k-gdn9sa5ek876@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dd21b55c-a1e5-47db-dc93-eb6fcba28226@185.215.229.97:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 185.215.229.97
 vless://5214cf54-b6e4-4379-8953-a4b9923d5f62@pars3.parsnetwork.com.tr:20803?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Milad Ahadpour ┇ 185.215.229.147
 vless://c205e218-39f0-43aa-a90d-65242d8c6bf5@poland.espyr.online:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 185.215.229.80
-trojan://eol50ezb-7plu-wqev-89mm-7tkv03oglevj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kdl8dda9-focp-oo7h-zy2y-616hqlu4civg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

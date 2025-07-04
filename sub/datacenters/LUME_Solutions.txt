@@ -1,8 +1,8 @@
-trojan://myz6wm6l-lmoe-vm7n-mou8-tbfv5j31wji1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://pt1d2n2b-vp48-xqga-3uyc-r957yugnnk3x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g7mnqiph-ucwg-a952-2qw6-t8tbke5vy9f7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s938mvnt-n2s8-vf3z-a8ji-lrpsy6q0z794@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.25.236
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.35.100
+trojan://7qe6lm8r-sx67-k66h-0uos-c06kfmzuy3ff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://34bprk84-ayyx-epv6-ihiq-zikf02qgaram@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6navz8ug-3n8v-x3tn-qitz-nvlfi4l84if9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fvyarv4p-xh5b-8p0y-idob-l0obvqyag4yf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
-trojan://gpfenxbs-z97d-dqdb-j1tq-mi152pkm74ly@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM@MARAMBASHI_MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.25.236
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM--@MARAMBASHI--@MARAMBASHI--@MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.35.100
+trojan://yj6zc4qv-m6hx-cf7q-lnh2-re2xvelkwh34@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

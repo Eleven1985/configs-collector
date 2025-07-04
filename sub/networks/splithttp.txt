@@ -1,7 +1,7 @@
-trojan://1vojy1rh-tw2o-45o4-bliw-anwjt2kwjocv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://mj9ezj1n-d546-pbpx-ofyh-yewwmc5vz9y5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iihz4ur9-8vzi-gdqt-kajv-lgvhhoph72fk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t49n0ey9-ios2-estz-cfq9-ll0zlkqd2mon@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qx5sdmia-2cil-m1og-rbb2-kzgaycc7y5nc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://u9o35ckd-eu5k-vda6-m07v-9c6a8zt6kz4x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qf6zaq6t-wtnl-df5u-dv87-cknu5k4ngbig@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mml5nzgy-9lwr-3usr-d8zn-w0zp4fcfynvm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?type=splithttp&security=tls&path=/eaglexw&sni=nxginix.pages.dev&fp=random#FR 🇫🇷 ┇ VLESS-SPLITHTTP-TLS - Bjt Partners SAS ┇ 185.16.110.1
 vless://5931f598-e766-4829-9e3b-89406b6b3606@109.61.91.231:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 109.61.91.231
 vless://5931f598-e766-4829-9e3b-89406b6b3606@185.246.209.21:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 185.246.209.21
@@ -27,7 +27,6 @@ vless://5931f598-e766-4829-9e3b-89406b6b3606@89.187.183.14:443?type=splithttp&se
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.53:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 143.244.51.53
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.58:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 143.244.51.58
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.245:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 143.244.51.245
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1TUExJVEhUVFAtTlRMUyAtIEZBU1RMWSBcdTI1MDcgMTUxLjEwMS42Ny44IiwiYWRkIjoiZnJlZS5mYXN0bHk4MC5ob3N0aW5nLWlwLmNvbSIsInBvcnQiOjgwLCJpZCI6IjI2NTVmMDY3LTI0MDItNDE1YS05NzQyLTRjMzYxOTJlNTM2ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InNwbGl0aHR0cCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8/ZWQ9MjA0OCJ9
 vless://51c3d458-b5d4-4542-a725-e24c2c783b76@192.0.63.44:8443?type=splithttp&security=tls&path=/v2nex¹box&sni=f41.maryam1500.top&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Q2HOLDINGS ┇ 192.0.63.44
 vless://51c3d458-b5d4-4542-a725-e24c2c783b76@192.0.63.43:8443?type=splithttp&security=tls&path=/v2nex¹box&sni=f41.maryam1500.top&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Q2HOLDINGS ┇ 192.0.63.43
-trojan://mn99rzm8-wlly-uun3-66zf-tt5y78kyiojr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8gk82t0i-i33b-mcch-ooee-b0u58dqu7zde@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://0pwchhdh-1vkv-c4wb-du8k-qf3htuxov7dh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://n5r998bu-aupe-2alc-4vuc-nhfr4ei8pwto@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qsoc8y3c-4dh9-e5ii-626q-916ihhyq157i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vn3unybq-efg9-krn5-qdl4-9dl6jg7veqsx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ 206.71.158.10
+trojan://xhoifwca-fhc2-q9rd-ijqa-yeschte52lhf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://e2nrm8oe-3kjt-co3q-lxqq-ynhp2psqcgca@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gln6xg51-u884-b6e9-51iq-ld4sos62aq7b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d4ieabdq-l1fw-k42c-hohc-kv8yvkwb27fk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?type=tcp&security=tls&sni=YAPC-1.afshin.ir&fp=randomized&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ 206.71.158.37
-trojan://xjp4fb3p-hizc-7j8k-znys-bmwy36zvz1cs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ 206.71.158.10
+trojan://5j4kdr6c-dbra-wz0u-gbgb-jfhr4hhfxg1s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

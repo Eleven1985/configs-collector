@@ -1,10 +1,10 @@
-trojan://7g3euegh-vy9x-c1xn-zyyd-cu4l3mf94lbg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://80l5cuvz-xjx0-h7a7-b5eg-4c8bueafcnvk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bzkg7j0a-7dvl-bfu2-dk1i-5yze0rjflo82@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qo0era1q-7wuc-wtiq-8ghe-woyy2rigp7b2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b1a355a4-6994-4759-94dd-00fa0de64dde@info-4.nobifay.ir:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
+trojan://fjvsp75t-p5z5-0im5-6pme-qifeau72syfp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://031zfbky-cb2m-05zf-0mlt-rdclf1relqqp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1bn3i1q1-e3o1-39dl-bvv1-a6bnaej423nu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://28n7vzyx-ngbo-3anl-smv4-0hfyu8z3m32s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://28f8ba91-b3ff-4935-9a3f-4253d1fda074@api4.callback.cdn.nim.file.plsvi.online:2020?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.76
+vless://9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e@178.239.146.154:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
 vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.93
 vless://9f22cf6d-175d-40ee-87ef-bc638fcd2532@178.239.146.105:37153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.105
 vless://6322fa6a-2612-43a3-baea-f549261c6b2d@178.239.146.222:64560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.222
-trojan://x5rotl5a-zj7t-s3ch-rwf1-aicf4auh8kgo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uk3syn1n-lv2r-0d8s-8eys-u65mrffnnzgv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

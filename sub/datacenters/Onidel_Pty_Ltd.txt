@@ -1,9 +1,9 @@
-trojan://jl6lmzgh-4v1v-9z59-oieg-9dddlhia2xs8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
-trojan://88oixd1x-xfvj-38nb-p8d3-fyzv8agsceid@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ayx9meiw-g0yb-a9va-6a1r-wcj4pz1orrtj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://46up1gxy-fcw2-l3kq-a5vv-rw37ki8wcasv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2nfbqctc-31sv-begx-f0eq-0cylc44a3uj0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
+trojan://u0jn4jr8-fzgn-3ntd-kbi8-00u8r66xwc5g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s0kq4gh3-9v8e-ea39-tjff-4pqty7ae3137@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fs2u8nt9-m1fh-e1i0-rnui-bm6p26jwqjpo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ttfang@160.22.79.191:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.191
 trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
 trojan://ttfang@160.22.79.166:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.166
-trojan://ttfang@160.22.79.191:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.191
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
-trojan://xi3jop3m-y905-rhgk-5ol8-ca0i6dws8npr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@160.22.79.155:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=digitalscientificresearchgroup.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
+trojan://p6b6hum3-toi8-hllf-to9f-znu63zcdu1vp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
