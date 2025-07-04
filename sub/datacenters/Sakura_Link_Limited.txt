@@ -1,7 +1,7 @@
-trojan://v2aduci6-6lki-g70v-vgmd-6761z2ih1fbf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://9rb1xl9x-u1b9-7lwb-f7p4-w7v2j7ndq43v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6mi6k11v-h95x-0snj-5fgf-qqifkmg32mm5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://db18975s-tx7w-tyiy-u0lx-awa2lqlfz769@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5imho6wi-yemj-yl54-bbie-i9mue0k9qfs7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://scu92ulq-6yff-2agp-5x8u-oitv21raq5u8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mcpusuly-m0lp-8jj6-b79f-s4gq5h9yszha@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i6ka9z9y-86md-tlel-bsiv-nrxemkhqey69@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNha3VyYSBMaW5rIExpbWl0ZWQgXHUyNTA3IDQ2LjMuMTEwLjg3IiwiYWRkIjoic2g2YzN6dWMwLnh6NTZibTJ2OC5sem1nM2tocHEuc29hYmdvLmNvbSIsInBvcnQiOjQ1MDAxLCJpZCI6IkZGNUQzQkY1LTEyOTYtRkIwQS00NTk2LUIzQ0QwQzg4NDIwMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjEwMy45OSIsImFkZCI6ImpwbHV4MDItMS5uYWl6aS52aXAiLCJwb3J0IjoxMDAwMiwiaWQiOiJlMjMyODg1Yy1mMDM3LTRlOTYtYTk5YS0xY2UwZjkzYmU5MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImpwbHV4MDItMS5uYWl6aS52aXAiLCJwYXRoIjoiL25pc2hpZGFzaGFiaSIsInRscyI6InRscyIsInNuaSI6ImpwbHV4MDItMS5uYWl6aS52aXAifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjEwMi43IiwiYWRkIjoieXh2bWpwMDMtMS5uYWl6aS52aXAiLCJwb3J0IjoxMDAwMiwiaWQiOiIxNDA0NTg1Yi1mZTYxLTRmNGQtOTY4MC1mNjNkMjAwMmI0MjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ5eHZtanAwMy0xLm5haXppLnZpcCIsInBhdGgiOiIvbmlzaGlkYXNoYWJpIiwidGxzIjoidGxzIiwic25pIjoieXh2bWpwMDMtMS5uYWl6aS52aXAifQ
@@ -10,4 +10,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?type=ws&security=
 vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Sakura Link Limited ┇ 46.3.100.3
 trojan://bfc552e8-2607-4386-9c90-81437ac5ba23@sg6.naizi.vip:2024?sni=sg6.naizi.vip&peer=sg6.naizi.vip&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Sakura Link Limited ┇ 46.3.96.108
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjk5LjY2IiwiYWRkIjoieXh2bXNnbHV4MDEubmFpemkudmlwIiwicG9ydCI6MTAwMDEsImlkIjoiZTIzMjg4NWMtZjAzNy00ZTk2LWE5OWEtMWNlMGY5M2JlOTA4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ5eHZtc2dsdXgwMS5uYWl6aS52aXAiLCJwYXRoIjoiL25pc2hpZGFzaGFiaSIsInRscyI6InRscyIsInNuaSI6Inl4dm1zZ2x1eDAxLm5haXppLnZpcCJ9
-trojan://nqpxx2p1-fjzs-snkd-eyd2-t10eee60y8vj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://iz8rmnm5-6g46-lcvx-jgyc-63m08vg2s3wa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,19 +1,19 @@
-trojan://dt90k4ug-csr8-te7v-2sog-hhmq6b5c2tkf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://6hq2eiod-7cv8-81c2-jy7i-1pn87c6ii130@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0rv7314b-4k03-j6xl-zbao-etrpth95v36w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sbr74kdk-m6qw-47l0-46t8-9hz2kefx9tbq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j2wcf70j-f0gc-owl9-vzc1-tdacf43pyi3u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://2k3p55vx-vw0w-fz67-7ztg-mxwsso98f0u1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9f5eapb-rmqu-a4lm-iowe-z3pnc1gt06e0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://onzrjizf-qdc1-hxdq-qdz1-2rxh7uxpunym@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ajNyWGplZVhKNFB0ZjFxTnhwN3d3@t-tr1.myatris.org:4301#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.209
 vless://6ce93d15-9488-4208-914b-6ee32af0df0e@tr.france-learns.ir:42540?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.134.162
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 193.31.117.25
 vless://67525da1-a606-4725-98f3-513c13904d9d@213.142.133.184:11928?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.184
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 193.31.117.25
 vless://5fa643a7-1ff2-417c-fcfa-fe9006b308c4@213.142.150.181:48917?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.150.181
 vless://64f4fbf0-b0b1-4bb4-b925-75c2513a13c4@213.142.156.169:443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.156.169
 vless://c5fcc6d2-aa4a-4c1c-a9d8-cea6e5a30dd5@80.253.255.104:9536?type=tcp&security=none&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 80.253.255.104
 vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?type=xhttp&security=reality&path=/pwpw&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&sid=5942e2#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 46.31.76.3
+vless://eeba92b0-7204-4ccc-b0c9-50213c1d8b1c@213.142.133.76:4920?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=xSKFCOvniPfPNbue8I_OjLigMECtNzSAjXDuyGziwyw&sid=e446638013d88e20#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.76
 vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@213.142.134.9:6900?type=tcp&security=reality&sni=Uplader-Game.zx-shop.ir&fp=chrome&pbk=1_9XT9SMmExJYv7ejpQwzYTXmZlqX7grBo5KNxk_IFE&sid=f49fd7abeda30e80#TR 🇹🇷 ┇ VLESS-TCP-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.134.9
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.142.133.172:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.172
 vless://076e6490-466e-4fef-9fab-4bc257be7a11@213.142.133.143:443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&sid=67dcdbd6ed95f729#TR 🇹🇷 ┇ VLESS-TCP-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.143
-vless://eeba92b0-7204-4ccc-b0c9-50213c1d8b1c@213.142.133.76:4920?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=xSKFCOvniPfPNbue8I_OjLigMECtNzSAjXDuyGziwyw&sid=e446638013d88e20#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.76
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@213.142.156.12:3036?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#TR 🇹🇷 ┇ VLESS-TCP-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.156.12
 vless://3678da03-f4f3-4445-a665-1959b80bc8d5@213.142.133.80:2053?type=xhttp&security=reality&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&sni=google.com&fp=chrome&pbk=sQupn29zGHPcqYEQbpXS-Z53ONPZPhoiXNuvV72SKC8&sid=222234cdb5dea4ec#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.80
-trojan://0rf6wb5x-j09m-degg-zwoi-kkdtod7a8zkv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jcuq5md3-tswc-n8x4-4qic-h2qtda66e2zh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

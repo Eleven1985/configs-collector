@@ -1,11 +1,11 @@
-trojan://nk7wh3tk-69id-trdu-2zx3-61e5jyrndp5o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://zdb37ezr-21l7-j2zq-4sz4-x0zspuww1npb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4tjjgeur-2txk-hdlw-s7yh-lcfpkbea4ypt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vws4hwqd-9zq5-yx1j-9qsp-gs86fpskqyyc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cvptdpoo-ybh9-jkg6-0yq0-5pgznkxuktre@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://y5uzyxtm-79rk-3quj-w917-6ns5is9wmb5a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xq5otobz-8bjy-gapa-urz7-nkf0ixtmbq7p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mgdefxmi-ct9k-yn6s-q818-hv004fi9x5pk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://d1e51771a3f5a3b@45.93.171.151:44758?sni=sorena8.bernoclub.top&peer=sorena8.bernoclub.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.151
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFR1cnVuYyBTbWFydCBCaWxnaXNheWFyIFRla25vbG9qaSBWZSBEaXMgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDQ1LjkzLjE3MC4yMDQiLCJhZGQiOiI0NS45My4xNzAuMjA0IiwicG9ydCI6MTg3NjIsImlkIjoiMGRkMGE0NTgtZDllNy00M2VjLWI1YzMtZDA4N2IzMTg3MDAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFR1cnVuYyBTbWFydCBCaWxnaXNheWFyIFRla25vbG9qaSBWZSBEaXMgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDQ1LjkzLjE3MS4xNTIiLCJhZGQiOiI0NS45My4xNzEuMTUyIiwicG9ydCI6MjgxMDQsImlkIjoiZmZlMzBmZTctZWI4Zi00Y2ZmLTg1YjctYjg3MGM2MjMwYmYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIFR1cnVuYyBTbWFydCBCaWxnaXNheWFyIFRla25vbG9qaSBWZSBEaXMgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDQ1LjkzLjE3MS4xMjIiLCJhZGQiOiJyb2Jsb3hzLmlyIiwicG9ydCI6NDQzLCJpZCI6IjQ4MzdkZjY0LWJlYzYtNDUwNS1hZmY3LTcxZjI4MWIyN2M4ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6InN0aC5oYXBweWdyb3VuZC5pciIsInBhdGgiOiI2bUh3cUkxSFNTVnRYeEN4c2hjViIsInRscyI6InRscyIsInNuaSI6InN0aC5oYXBweWdyb3VuZC5pciJ9
-vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@45.93.171.171:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171
+vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVHVydW5jIFNtYXJ0IEJpbGdpc2F5YXIgVGVrbm9sb2ppIFZlIERpcyBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMTg1LjE4Mi4xMDUuMjU0IiwiYWRkIjoiMTg1LjE4Mi4xMDUuMjU0IiwicG9ydCI6MjMxNzIsImlkIjoiMjViYzBkZjMtMjU0ZS00MzdlLWNiZmQtZDIxNmJmNjU1MDc2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://yi3unz34-ttbi-7j0r-0ku1-o13kbyy90rbc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mvnbbbco-ajlv-pc8n-nb6i-92tr6kthf81k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

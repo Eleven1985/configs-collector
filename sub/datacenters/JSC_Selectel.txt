@@ -1,7 +1,7 @@
-trojan://kcdmzjzn-7lcb-1jjz-ly9k-zzam3h3akchi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://v9nhi616-tfgx-ul52-2or1-rx4ube28o36w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mwupw52b-vsv5-ji9u-9vvm-zj33lcyro0rq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8ugjrt6l-a6by-n3sn-3sdt-jji2dvm8s89v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nmhb8iyu-mhr6-vdjj-ovg2-je45bnybhj6m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://d02f1f1e-0q5h-qpri-6rs6-hjr77qphy6t5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://se5f4q2h-jfun-ge4c-2u5n-8qfewhyh7tmf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3ox03cq4-8r9q-vrwh-dcs5-c10mduvwaqs0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdzZoTVhRMlo3ZXk3bWYyVXF5cg@82.202.220.242:8389#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC Selectel ┇ 82.202.220.242
 trojan://Aimer@212.41.15.119:443?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 212.41.15.119
 trojan://Aimer@89.248.207.37:443?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 89.248.207.37
@@ -9,4 +9,4 @@ vless://f184c89c-80a4-4a3a-bc67-97db43266c11@202.49.176.124:8443?type=ws&securit
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?type=ws&security=tls&path=/proxyip=proxyip.us.fxxk.dedyn.io&sni=aa.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 31.129.48.139
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.129.49.103:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 31.129.49.103
 vless://b06e7395-eb4e-4ebb-8dc5-2397f5da3c72@45.89.189.130:443?type=tcp&security=reality&sni=microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 45.89.189.130
-trojan://98i6vfgg-y1k8-tow0-gtdg-bh3swzse85za@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ou2nsn6p-gnmz-9y1d-c8ju-dp7hpr061i0n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

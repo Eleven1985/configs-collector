@@ -1,12 +1,12 @@
-trojan://hsh19g2l-waki-j5op-hvm7-mbqnl9vfrewm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://usprz8nv-vq47-rign-be0a-wyq4plnr3n1q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yfziqucj-0oyq-93dp-mabx-1itay3a2dfkr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://adlkr4n0-i894-6xud-17hq-pi25uf8v8vqb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ug5k94kj-15kb-3bq8-nuw7-1a8a7ocf3vsm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://z2dgzmca-icc4-d48d-yef4-y13eigdu27b8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mupvxrec-2xye-3ytf-vede-d47gt4b2ogcy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2zrdf45m-h80k-vddh-qkfz-1749bf1dgyrs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVudGVnaGFsIERhZGVoIE1haGFuIENvLiBQSlNDIFx1MjUwNyAyMTMuMTc2LjcuMTQ3IiwiYWRkIjoiMjEzLjE3Ni43LjE0NyIsInBvcnQiOjEyMjgyLCJpZCI6IjVkMjk0YmMzLTljZGMtNGZjYS1mNzk5LTk4ZWIwODc3ZjM5NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://7f94f8ce-2b0d-41ae-997b-705b4ecff69b@213.176.127.108:34300?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.108
-vless://3543696d-46ed-435e-9df4-d21cfb203572@213.176.127.12:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
 vless://2a891f1d-8727-46e2-b7b4-a8f56c43fd4b@213.176.2.16:2099?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.2.16
 vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
+vless://7f94f8ce-2b0d-41ae-997b-705b4ecff69b@213.176.127.108:34300?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.108
+vless://3543696d-46ed-435e-9df4-d21cfb203572@213.176.127.12:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
 vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
 vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
-trojan://zwas073s-z60d-dq1d-x1xj-l7eqzktzugls@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zibg59y0-n866-h1z4-na4n-l8mpu1tzugmu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

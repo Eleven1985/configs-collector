@@ -1,8 +1,8 @@
-trojan://bib0qn0g-azxu-seno-1jvr-17rg90b5i1ki@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 11:18 ]
-trojan://jbzetvv5-o22p-wp7u-fefs-2vxefrg1ofy4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9qkpfjsz-iips-qr4i-4ch2-78pu9wmqzpld@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7pa9wlzh-slbf-oam3-9ack-1tp68yz7e3re@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
+trojan://4h0no6fb-j7f6-blg1-26pr-djn5skcn055y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 12:12 ]
+trojan://fns92k2k-x4ry-9i83-82to-yreilxiyhubs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6dinqkrv-ao19-78u2-jwye-35uxg8f1ae5w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e7x8441f-6lbg-g5nk-vsk1-k6e2ltry96co@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
 vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:6784?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
 vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@2.189.118.209:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
@@ -12,4 +12,4 @@ vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
 vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
-trojan://asss7q90-27r0-55yy-t93q-p7n1h21x7767@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n6mkpgo8-pnaj-5jw0-llxp-qmve4s9n5wvd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
