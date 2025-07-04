@@ -1,7 +1,7 @@
-trojan://a1z9akp3-dypq-058i-byr8-vzrj3e5elgf7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://ilzitwz4-6izn-9grb-aq22-kgs12fbvescq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://spuonbl7-szcd-l4gv-3xkw-221off2nurh6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l0xchmgz-nin4-donj-qj9f-yazp1crxfqau@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pcyi7kaq-ziea-7w7t-vsyo-vj0g5eba6q2m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://1jty93k3-rmmy-nzjd-jrff-iz5089hxlv34@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://02hadtf8-pfk5-27fz-890q-ebapmvvyb02e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c04lmsij-p9qe-vv7f-88ln-qboa7gqpa6i5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw@45.196.235.33:48019#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - ACCK-LTD ┇ 45.196.235.33
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNDSy1MVEQgXHUyNTA3IDQ1LjE5Ni4yMzkuMTQxIiwiYWRkIjoiNDUuMTk2LjIzOS4xNDEiLCJwb3J0Ijo1Mzg2MSwiaWQiOiI0MWE4ZDlkNC0wM2VmLTRhYzctZGM0Zi0zY2VhNGUxY2I0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjE5LjE3NCIsImFkZCI6IjQ1LjE5Ni4yMTkuMTc0IiwicG9ydCI6NDc2ODAsImlkIjoiZDFmMjBlMGMtOTY3Zi00ZjlhLWZiOGMtMzAyN2VlMzZjY2E2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
@@ -11,4 +11,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRC0yOTgtODc5NiBcdTI1MDcgNDUuMjA3LjIwNy4yMDIiLCJhZGQiOiI0NS4yMDcuMjA3LjIwMiIsInBvcnQiOjIxNDc1LCJpZCI6Ijk0Yjk5MmUwLTg1YzEtNDI2MC05ODU2LWZjNmVhNjRiNDA5NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1czAyLm1sc2IubG9sIiwidGxzIjoidGxzIiwic25pIjoidXMwMi5tbHNiLmxvbCJ9
 ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.148:53004#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 45.196.248.148
 ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.144:59001#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 45.196.248.144
-trojan://nav1rzg3-2nlq-8sbh-xuor-dll0qxvf4rx5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2pbqu4yc-l6l7-65sf-yhd4-2juas6jg8tor@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

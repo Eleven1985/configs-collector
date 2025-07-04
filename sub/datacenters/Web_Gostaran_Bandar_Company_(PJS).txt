@@ -1,7 +1,7 @@
-trojan://f64hdl2a-4ih1-jd5v-i8pf-s2s431r2akzf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://hkms9ko9-sgek-sgx7-jzps-tfmjowgot0ob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qo66n968-y7t9-mraq-s5c6-nsgzrxn7pif4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gh30ezof-f8bm-c99a-dhc4-48a4caztpj5v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hz3nm69f-s6s5-6a64-5jzh-10rplchlj93n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://2voj864i-agji-i7wb-9ozs-z9dujv59u8mv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fjvisgid-ds7j-3n1d-57ao-9hyzw2sygng2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1jic7yj4-z3te-mo0y-7v9t-5uxbp46yayle@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.192
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.221.116
 vless://d78d4b61-9dde-4379-bd4b-7d541cef8919@195.238.240.3:39971?type=ws&security=none&path=/allcdn.v2tode.co.uk#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.3
@@ -9,4 +9,4 @@ vless://02c0a435-b281-a9b3-8108-8713da0eb66f@195.238.240.47:8880?type=tcp&securi
 vless://33750dde-2801-4708-80be-680218439b01@195.238.240.126:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.126
 vless://33750dde-2801-4708-80be-680218439b01@195.238.240.53:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.53
 vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.221.219
-trojan://r4frgtue-xa9z-pyiw-o926-k6xcdau06mcv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vmpz4c5z-w34p-cl1l-wapy-4hjea10ih51h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

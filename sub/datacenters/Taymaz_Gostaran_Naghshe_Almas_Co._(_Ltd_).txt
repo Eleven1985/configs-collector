@@ -1,7 +1,7 @@
-trojan://ql66fwg6-a62i-griq-3h7q-z8hr4qvm4u0y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://1fswopeh-k4lo-gu5e-9c4k-xqc3jkexomm1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vnjg4tnh-459f-37w7-enyk-p7zlzrd4j9h9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v9glfran-tm8q-q7zc-xff3-p8jzuck2f9gv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qn7ngq8b-yav4-lncb-twkj-l5japb7jrw7i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://ve54am4c-5shf-9tti-b378-h3f7gvxi722n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rya5vb58-qxv1-95ct-y5g0-pmpheik300j9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hy1ten16-xrpc-p8ru-ar2m-l9turb65ctcc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.174
 vless://dcd7a24c-530a-4e38-98f8-c62a15d20e35@194.1.155.46:9501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.46
 vless://d7640e7f-63a3-419e-9835-614ad4494583@194.1.155.180:2003?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.180
@@ -10,11 +10,11 @@ vless://30e09ed1-4b76-45e6-b744-d3a03bca8b98@194.1.155.186:4001?type=tcp&securit
 vless://447b8797-1429-4e3e-9137-f29d8b2b414d@185.235.197.40:1022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.40
 vless://61a291cc-259a-4ca1-b788-503b21fa0bf0@185.83.182.8:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.8
 vless://f8765e8a-8e83-41da-8379-451ddd2cf56a@185.83.182.217:1007?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.217
+vless://06ae467d-6c3b-42f2-a582-4ff5649c0e24@vip.noirc0re.ir:8010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.223
 vless://637b631a-b512-4106-a5b7-9f3efd836e14@185.235.196.122:4001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.196.122
-vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.21
+vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.94
 vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@grn.ipcl0ud.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.98
 vless://27a26589-47c2-4e4c-9c94-718fd969150a@panel-germany-16.subcenter.net:1016?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.156
-vless://06ae467d-6c3b-42f2-a582-4ff5649c0e24@vip.noirc0re.ir:8010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.223
 vless://be6ddce1-4a40-4f26-abbb-e1a6a9dae3b4@194.1.155.126:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.126
 vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@api2.gamingserverstream.ir:8443?type=tcp&security=reality&sni=api.gamingserverstream.ir&fp=firefox&flow=xtls-rprx-vision&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&sid=711bc39b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.19
-trojan://y8un323c-ff78-ca1h-jmjx-zderrxq2tzzz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://cnm64zsr-wpjy-k8sg-h3p2-lmvvnxkt1xct@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

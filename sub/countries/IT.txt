@@ -1,7 +1,7 @@
-trojan://p9arujjn-6xt4-hwnv-ahxa-9t7my4xc8bv3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://jr6wdd1v-amhu-gljx-14hb-yoi4nf1e8zw3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jm81wmxv-xzaw-ipjd-qi94-vwi7ts66yaww@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rdord54v-vu3v-00gg-it67-hy0qok61726a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qgpntgry-aezg-v4mh-9bk2-4h1inpoyjf8x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://n07rgvvl-ovn0-kf1e-w3a6-qs1m6b5hcpna@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://12qeq2op-jv8l-jhvb-8xf2-90esrussz802@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nx9db6oj-sug6-ndg6-be8a-7y3vy2i70ajh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://your_password@15.160.138.221:443?sni=aws-it-milan-1.f1rocketnode.com&peer=aws-it-milan-1.f1rocketnode.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.160.138.221
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@15.161.104.142:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.161.104.142
@@ -28,8 +28,8 @@ vless://c314940c-1bc3-4a6d-bd47-cda662f88eb0@195.231.66.153:55138?type=grpc&secu
 vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.63.148
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgNDUuODYuMjMxLjE5OSIsImFkZCI6IjQ1Ljg2LjIzMS4xOTkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjZjMmQ3OC1iZGQ0LTExZWQtOThlOS0wMDE2M2NmNGViZGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
-ss://YWVzLTI1Ni1nY206VE8wNUdDUDI2WUJMSTM4WQ@185.213.20.36:20029#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.36
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+ss://YWVzLTI1Ni1nY206VE8wNUdDUDI2WUJMSTM4WQ@185.213.20.36:20029#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.227
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@sv37a.tsteamu1.top:37443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#IT 🇮🇹 ┇ VLESS-TCP-RLT - C1V ┇ 5.59.249.230
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@188.114.100.87:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 188.114.100.87
@@ -41,7 +41,7 @@ vless://710aab57-66d5-4426-8b54-8c4cb6940e89@146.75.55.82:80?type=ws&security=no
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@151.101.242.133:80?type=ws&security=none#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.242.133
 vless://78f80c31-ff76-4bca-b43c-c991a9168f11@151.101.241.19:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.19
 vless://tell--ZEDMODEON@146.75.54.228:443?type=ws&security=tls&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&sni=zmaoz.faculty.ucdavis.edu#IT 🇮🇹 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.54.228
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFzdHdlYiBcdTI1MDcgOTMuNDYuOC45MCIsImFkZCI6Im0ubHd2em1kdS5jbiIsInBvcnQiOjE2NjE3LCJpZCI6ImFmNGRjNjZhLWVjODgtNDA1Ny05ZTQ2LTc3N2I1ODQ1NzdmNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFzdHdlYiBcdTI1MDcgOTMuNDYuOC45MCIsImFkZCI6InVzLmhlLjA3Lm5la29jbG91ZC5jbiIsInBvcnQiOjEwMDAyLCJpZCI6IjljMmI2NGViLTAzZDgtM2NjNy05YmE2LTJlMjUwMDJmNTliNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2NhdG5ldCJ9
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
 trojan://Aimer@87.120.237.36:81?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.237.36
@@ -82,7 +82,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDEyOS4xNTIuNi40NiIsImFkZCI6IjMwaXQubmV0d29ya2xpbmtwcm8ubmV0IiwicG9ydCI6MTUzNTcsImlkIjoiNTA0NTJmM2UtZjkwNC00MmIwLWEyMWYtYTY5MDU1MmJiNGY2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoiZmFsc2UifQ
 vless://5ea08aa1-96db-4614-b5b5-823717d27c17@158.180.231.216:443?type=ws&security=tls&path=/?ed=2560&sni=vless3.114514660.xyz&fp=random#IT 🇮🇹 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.180.231.216
 vless://526e9f2d-fc0e-412a-baeb-740f0dc5ec73@141.227.140.216:1210?type=grpc&security=tls&sni=ubuntu.com&fp=chrome#IT 🇮🇹 ┇ VLESS-GRPC-TLS - OVH SAS ┇ 141.227.140.216
-vless://96ee343f-c352-425f-83c3-8f0dfaebc531@ns6.esfahansiman.com:2030?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#IT 🇮🇹 ┇ VLESS-GRPC-RLT - OVH SAS ┇ 141.227.140.214
+vless://edf0202e-fb0f-4c74-b556-78a01d250f9f@ns6.esfahansiman.com:2030?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#IT 🇮🇹 ┇ VLESS-GRPC-RLT - OVH SAS ┇ 141.227.140.214
 vless://d57b2a9e-e0c8-4cfe-898a-62f5f95f7eca@141.227.140.42:2030?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#IT 🇮🇹 ┇ VLESS-GRPC-RLT - OVH SAS ┇ 141.227.140.42
 vless://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?type=tcp&security=reality&sni=tgju.org&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#IT 🇮🇹 ┇ VLESS-TCP-RLT - OVH SAS ┇ 141.227.140.217
 vless://d60e0480-c8e8-4237-b34c-846210674870@141.227.140.218:2030?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#IT 🇮🇹 ┇ VLESS-GRPC-RLT - OVH SAS ┇ 141.227.140.218
@@ -96,4 +96,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@158.58.173.240:806#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 158.58.173.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcFpXaGs1cjFSTFQ@149.86.105.76:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Tecno General S.r.l ┇ 149.86.105.76
-trojan://nwmf9e2x-abft-gliy-8kw5-5mfd759lrzu4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lleufe9o-4fxc-ekx3-f6xe-wl53cqw2afky@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,8 @@
-trojan://7qw6t3vz-7c60-7aep-usjh-4ybxnrtx1b8r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://ouzwa2om-78z4-2ul5-ggdz-20jgglm0qsf6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9i7cfv9x-oone-8ubq-kpwg-e5zaq07mk35v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r39bq8lj-zqvo-hjmw-3uom-psu8g6mza4b6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t4ihbjj3-9xge-sgyh-hwd1-jx6w2drrtusu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://oa2yzcbi-snxi-voy1-rgt3-0b15260lfm4x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h2agb06c-5nm5-njlz-zc8w-3klebh2yzqsx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d2t7dpwv-ua53-s8pd-e5cr-1eo9fbxtdpn2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.223:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.223
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
 vless://d5a35da6-ad01-4d23-89c3-0566134b2051@178.160.211.100:34443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.100
-trojan://rrt3cec2-qbzx-nec1-41bo-4qa75b0odmi9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f40v3qe0-xohn-zjd6-4hhg-3bbbxkk1x504@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

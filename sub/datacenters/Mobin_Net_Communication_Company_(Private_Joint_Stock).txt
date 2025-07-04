@@ -1,12 +1,12 @@
-trojan://ddbpvyoh-06i3-pe33-w9i0-r4khnxtge40e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://bh88it43-cx1u-epwi-d5av-6nqzmnx8bkj6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2hz4fbci-mdep-ijf2-qc25-w2zdoad438u9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zpwc6vta-1ggh-a04b-25vo-l76vosdtqcdj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODguMjEzLjY3LjIxNCIsImFkZCI6IjE4OC4yMTMuNjcuMjE0IiwicG9ydCI6NTI0NjEsImlkIjoiYWVkNDRkMzctNzc0My00OGJkLThlOWUtNTBiMmY2NWRkMDlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://dd5665dd-a284-40d8-88f7-cfa4d1cbe0ab@92.114.19.148:443?type=ws&security=tls&path=/&sni=nv193.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.19.148
+trojan://n8t28s03-mlx0-w7vn-ko3e-uc1k6z954ifw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://nrix5xps-6s0m-quce-x37d-7odf737fa6q8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i390pzfo-6j43-5hho-g388-llj2fn3b1nc8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v8fjxl6e-21nr-gvd0-51a2-wy6c69wg4ou3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODguMjEzLjY3LjIxNCIsImFkZCI6IjE4OC4yMTMuNjcuMjE0IiwicG9ydCI6MjA4ODMsImlkIjoiMWE1ZjVjMzAtZGFmOS00NmM2LTk2ZGEtNGRlNGI0MmJlZjg1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://fff37630-2460-449d-8cbe-604484e2eddd@92.114.24.54:580?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.54
 vless://15375cc6-a999-4c82-a0bd-94a138db59ac@92.114.19.152:443?type=ws&security=tls&path=/&sni=nv197.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.19.152
 vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@92.114.17.90:443?type=ws&security=tls&path=/&sni=nv139.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.17.90
+vless://dd5665dd-a284-40d8-88f7-cfa4d1cbe0ab@92.114.19.148:443?type=ws&security=tls&path=/&sni=nv193.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.19.148
 vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@92.114.19.153:443?type=ws&security=tls&path=/&sni=nv163.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.19.153
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@92.114.20.10:443?type=ws&security=tls&path=/&sni=nv137.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.10
 vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@92.114.20.23:12048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.23
@@ -17,4 +17,4 @@ vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@dk.euroserv3.vip:12048?type=tcp&sec
 vless://bb138034-fb6a-4668-8736-222b4a15dbd8@no.europlus3.us:600?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.16
 vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 46.36.100.232
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.114
-trojan://cyuc78t1-esrb-yy15-st34-m20n31poj4pg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7qunsatp-ffkt-v4bw-654v-fj3rk14mih8q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

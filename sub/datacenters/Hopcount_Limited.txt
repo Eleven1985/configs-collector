@@ -1,9 +1,9 @@
-trojan://czntkp3w-kapr-6325-ihp2-x05jt12o8m4o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://4e4jypzb-y04d-mwf8-qf38-tgz6p7rx2mv3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g3ay35dl-xb31-ky5x-yr2u-tjxvecv8zxvd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p4cbsjm7-x39v-nbnc-y1ez-f6jf9z2wawt5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mnxnorxz-o84n-sozs-gd2d-4kvtomj7ivu3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://bfh5daub-99cv-ba2w-1u0v-9l6g2o9jyavi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r5lqrv6x-6obs-fi66-knwr-t6us1xifrfns@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sqhfjcsp-d6cy-ea51-kg6x-xv4cjdv5hll4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIEhvcGNvdW50IExpbWl0ZWQgXHUyNTA3IDE5OS4yMTIuOTAuMTA0IiwiYWRkIjoiMTk5LjIxMi45MC4xMDQiLCJwb3J0IjoyMDUzLCJpZCI6IjQwZjA0ODJiLWNiNjQtNDFkMy1hZDJkLTgxMGJjMGU0OWU1MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6Imdlcm1uLnVuaXF1ZW5ldC50ZWNoIiwidGxzIjoidGxzIiwic25pIjoiZ2VybW4udW5pcXVlbmV0LnRlY2gifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIb3Bjb3VudCBMaW1pdGVkIFx1MjUwNyAxOTkuMjEyLjkwLjE0IiwiYWRkIjoiMTk5LjIxMi45MC4xNCIsInBvcnQiOjQ0MywiaWQiOiI2MTQ3RjA2NS05QUMwLTQwODEtQTVBMy1BMkVCNEVCQjg5NTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJ0bHMiOiJ0bHMifQ
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.49:443?type=ws&security=tls&path=/?ed=2048&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Hopcount Limited ┇ 199.212.90.49
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.8:443?type=ws&security=tls&path=/?ed=2048&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Hopcount Limited ┇ 199.212.90.8
-trojan://6tvl5hvm-gscc-uvzx-gh41-ms4jlwd9bfym@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6echxrh0-97q0-zafo-28tq-h03viul3mblk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

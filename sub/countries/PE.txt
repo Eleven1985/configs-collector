@@ -1,7 +1,7 @@
-trojan://qve3i0zu-mm6q-ugnb-r3r2-d1dbj0mz1ow4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://zyofzxh4-342e-uji7-525n-2qrsepkogm77@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a07agd0f-h3j1-de6n-rw5t-mk6f2wftapx3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://klvcl16x-6gxk-j45d-9b1x-91ujjohwcsvy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n0ubdz05-ub53-zq4d-6dl8-g2rd8oroi3ir@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://m3ornmf4-uw3p-9zp7-rjcd-20ffqjmllx5k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0ca3n7hu-4bcj-5smw-767z-7hkwm3bv59sz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9sh80jvx-s1xm-muzp-5ra9-nlzivlqtgbg1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206RTRWV1RTWDBHVVBRT1ZPOA@185.47.252.16:20009#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.16
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.251
 trojan://Aimer@154.219.5.44:2053?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.44
@@ -17,4 +17,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=ws&security=t
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 138.186.143.32
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.229.28
-trojan://36xjdp3b-6edw-mlqy-gg7q-v1u0pyvpnkqd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://abghrm2f-30uq-39mf-xdrl-4jodvv0x6sem@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

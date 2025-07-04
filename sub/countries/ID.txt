@@ -1,12 +1,12 @@
-trojan://tz7btax2-bviq-ym3l-p33k-7611zdo2s4b2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
-trojan://tdx7vlpz-2ykr-mjgw-e8si-4nup20hevtro@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wm25yjnq-oxca-vnxd-1a2c-qogijfdb1zdv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nfsyk0mg-ewfo-gia9-fst6-2dydy5bfhmiq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://05g9heod-p58a-299l-5cs4-t2yyz9nixf0b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:19 ]
+trojan://m4jfxqj5-tmio-gujj-vkgv-lr1otuk66dr1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1l7rz0ea-00uz-phzv-qo33-bvor75pvopz6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vo23lmln-ai6p-wms9-pmks-v60u59lgupg9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@43.218.139.54:443?sni=aws-id-jakarta-1.f1rocketnode.com&peer=aws-id-jakarta-1.f1rocketnode.com&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.218.139.54
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@108.137.18.26:8443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 108.137.18.26
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFSREggR0xPQkFMIElORE9ORVNJQSwgUFQgXHUyNTA3IDExMy4yMC4yOC4xMDIiLCJhZGQiOiIxMTMuMjAuMjguMTAyIiwicG9ydCI6MjIxODgsImlkIjoiMDA2NzdlYjQtOTFjMi00MWYxLWU3OTAtOTYzYjlhMDkzZmQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.237.24
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&security=false&path=/&fp=chrome#ID 🇮🇩 ┇ VLESS-TCP-FALSE - Akamai Connected Cloud ┇ 172.232.248.242
+vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.248.242
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.251.52
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWxpYmFiYSBVUyBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgMTQ3LjEzOS4xNjAuMTMwIiwiYWRkIjoiMTQ3LjEzOS4xNjAuMTMwIiwicG9ydCI6ODAsImlkIjoiYjlmNmVmMDEtYTRhNi00YTk1LThjMjItNTk2NjZiZTE0NTk5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
@@ -35,4 +35,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVT
 vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNjbG91ZCBQdGUgTHRkIFx1MjUwNyAxNjUuMTU0LjIyOC4xNTciLCJhZGQiOiIxNjUuMTU0LjIyOC4xNTciLCJwb3J0Ijo0NjUzNiwiaWQiOiIwNjA5ZmZlZC00YjlmLTQxNmYtOWQyNS04OTBhZDc0OTZiYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LTIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVW5pdmVyc2l0YXMgSXNsYW0gTmVnZXJpIEFudGFzYXJpIEJhbmphcm1hc2luIFx1MjUwNyAxMDMuMTgwLjk1LjI5IiwiYWRkIjoibG1zLnVpbi1hbnRhc2FyaS5hYy5pZCIsInBvcnQiOjgwLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-trojan://dvqvafyj-63dc-2ll6-03s9-0obdt7edkj2z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ul7f1vj0-9unq-otuo-scjk-jvyvqxnotch9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
