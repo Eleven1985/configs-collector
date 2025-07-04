@@ -1,16 +1,16 @@
-trojan://gglnrzqo-vm32-3hea-plf5-hyfkil2free2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://pxaa4gz2-llqx-yh6z-7sg7-b2oru4qhfd0r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bu6dnyjn-neii-4h6v-0buw-w3hw1rt9e8de@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pretjdus-16xs-egfr-5za1-wof7imjlneku@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5ayutogn-m3rx-p45y-ua7p-6dpdbw4iuyqb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://donhtzbp-vwlt-zu5z-hkbh-6vqugv2vixz0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qpvwqgrh-b3tq-oe79-b0u0-d1shq8y7z4zt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vievavas-g1nx-ul0j-u6vp-v6v7werkbn4y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@135.84.76.152:2087?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - USG-NPE-WEST01 ┇ 135.84.76.152
-vless://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.115:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - USG-NPE-WEST01 ┇ 135.84.76.115
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.76.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.63
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.115:443?type=ws&security=tls&path=/?ed=2560&sni=in.youlingkais.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - USG-NPE-WEST01 ┇ 135.84.76.115
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.105:443?type=ws&security=none&sni=vb.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.105
 vless://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.110:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - USG-NPE-WEST01 ┇ 135.84.76.110
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.76.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.63
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.94:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.94
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?type=ws&security=none&path=/?ed&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.75
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.76.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.77
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.143:443?type=ws&security=tls&path=/?ed&sni=zl.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - USG-NPE-WEST01 ┇ 135.84.76.143
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.76.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-NPE-WEST01 ┇ 135.84.76.177
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@135.84.76.97:443?type=ws&security=tls&path=/blue&sni=hz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - USG-NPE-WEST01 ┇ 135.84.76.97
-trojan://h37qlqye-cn3e-k8u5-uk26-lzp6xir7arcu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nkoc1tj5-ezj6-px36-n1a8-n7l0278nx36c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

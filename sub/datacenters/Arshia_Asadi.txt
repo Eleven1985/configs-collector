@@ -1,7 +1,7 @@
-trojan://fm6nqbi5-zair-hb7t-npw0-cv3jujdupqdc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://zafxssq9-qfpa-29gz-wfuu-lhbvsek2006h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s4esjnjs-57sy-eo6f-r8y6-rzrmdjl3ozb4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fqc3zmyv-g90m-0fil-ekxa-qtvk87ubmulj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ubxsx0qw-xkm1-b5ck-4o0a-794rxigd7vmk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://4w3zgrmg-mim8-4rqe-2awh-wq0cdha4a6lg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cdhk19c0-92g9-jp05-mt9c-xf3k41406n6t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ydye5683-l4sd-fop7-bcnr-bd5pibpmpp38@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.31
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@46.249.110.26:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
 vless://41ccc2f6-e4ed-48b6-bb9f-bce8cbfc4f0d@asanaf.ir:48624?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arshia Asadi ┇ 45.135.195.227
@@ -14,15 +14,16 @@ vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?type=ws&security=none&path=/path#IR 🇮🇷 ┇ VLESS-WS-NTLS - Arshia Asadi ┇ 45.159.148.180
 vless://00a86b74-d101-4105-afc0-0579aecbafc5@45.159.148.165:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.165
-vless://491f0cb0-c90d-49d5-8339-5bfc48e7bd00@syntax.leaksfa.com:2589?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.205
 vless://5fbe83c8-8211-4a99-b0a1-653ad9930549@45.159.148.196:1106?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.196
-vless://b622f3a5-ca1d-456c-8766-cc1d8c0d2110@tr-server-vip-n-g-s-is.tr-vip-nightgemshop.pledh.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.139
+vless://491f0cb0-c90d-49d5-8339-5bfc48e7bd00@syntax.leaksfa.com:2589?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.205
 vless://41cab7f4-a25d-467f-4830-b4cc805aa68f@45.159.148.122:2030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.122
 vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.152:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.152
 vless://8daf992d-bb72-42db-ba48-7fb1f7605822@45.159.148.111:42535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.111
 vless://ef2f4153-ac17-4b4f-8e11-a8c6a3c8db5e@45.159.148.80:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.80
 vless://74e42edc-d8d6-4c45-b3bc-74ac4b2f9af9@45.159.148.84:7074?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.84
 vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.154:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.154
+vless://ca737a09-9eb9-4c59-a55c-f3cfddf573f1@45.159.148.139:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.139
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@45.159.148.68:45001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.68
+vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
 vless://e20c0278-5cf2-4657-8ea2-f4f0033f82ef@45.159.148.54:10597?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.54
-trojan://6ynevgkx-azge-5dhe-zhf1-bzea4koffg1f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uiqx1ivj-h819-zajc-5sc1-pbtngde82wtx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

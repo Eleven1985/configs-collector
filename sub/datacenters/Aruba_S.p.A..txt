@@ -1,7 +1,7 @@
-trojan://8w3fn4hz-v2i2-5pa6-qi3j-dpxa665sbyff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://e1u3ygar-oe1n-qh3i-ylxg-8dy33kb91352@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dg27dxk7-8llb-lmyp-ai3u-w97fsvmnkyon@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h6hc81le-awnw-pxwq-lrtl-do2xra4t7141@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ngk4hf0n-zjlw-sw6g-qs8g-mfgnc1uqqhem@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://4ohg6vj5-5g2d-w43h-uiek-7sgykyi03pe0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ifrpk60l-75up-tbef-nzjx-yn3pwoixanue@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2vt927hm-0niu-d1p2-0buy-oh50ahd19wyo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04@217.61.62.166:38257#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.62.166
 trojan://3767107462583558144@95.110.142.205:443?sni=grown-cardinal.treefrog761.one&peer=grown-cardinal.treefrog761.one&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Aruba S.p.A. ┇ 95.110.142.205
 trojan://900zMQxYJX@188.213.171.8:2053?sni=tgju.org&peer=tgju.org&security=reality#IT 🇮🇹 ┇ TROJAN-TCP-REALITY - Aruba S.p.A. ┇ 188.213.171.8
@@ -21,4 +21,4 @@ vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?type=tcp&securi
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vless://ZEDMODEON--ZEDMODEON@80.211.252.85:45956?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.85
 vless://ZEDMODEON--ZEDMODEON@80.211.252.196:59438?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.196
-trojan://1yzeivqv-efed-uqte-pijs-nuox9ws62wys@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f0o40jyw-m26b-wlfl-kiim-4z5t0jd7sr8f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

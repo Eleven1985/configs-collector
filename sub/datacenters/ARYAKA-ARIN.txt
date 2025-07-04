@@ -1,8 +1,8 @@
-trojan://1x1vmksf-qcoh-9pa4-r1vl-7x841n4nyc94@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://doiv0uto-i20a-a7mc-mtgv-zk47bc4sw2ks@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aaechiol-4swm-gucx-axe5-xi3wzjwanm7j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j04cgrgg-kenf-fpfu-mtvt-ykup0ve76d23@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uyqsvjf6-v8xi-eqpy-vdid-6srj1zk8zx5p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://q1c7jlrw-eihi-7ovq-w1v9-a6qk9y00m0ih@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://scusa8wz-rfuz-ps36-252s-w2wo64kd2223@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lunfqmmu-64ew-59fi-y01k-zjvsdxgdw9nl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTY3LjE3OS4zMi41MyIsImFkZCI6IjE2Ny4xNzkuMzIuNTMiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGczMC5jZmNkbjMueHl6IiwicGF0aCI6Ii9yYXkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsZzMwLmNmY2RuMy54eXoifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVJZQUtBLUFSSU4gXHUyNTA3IDE1OS4xMDAuMjA2Ljg4IiwiYWRkIjoiMTU5LjEwMC4yMDYuODgiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcmF5In0
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
-trojan://2lpdzbw9-7m60-mmr4-ei3a-3020qavniyus@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
+trojan://nq959abu-zcuf-ui7c-xyzc-pq0lsi7wmc93@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

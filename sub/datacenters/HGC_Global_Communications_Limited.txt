@@ -1,7 +1,7 @@
-trojan://fdxu7d5y-nujr-eggh-d87o-vgut947ql024@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://jar1v9g7-vamq-t1xq-1k8z-42vhr5ol9yp4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iazabs5i-1llk-k3zt-20zx-g85ni7ttry4y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3jycgttv-nskx-hul2-4qov-5gxep5uln154@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qba4iiem-jx3x-baj0-o9io-3nlf6iff30yi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://8cdxbkk7-xb6u-bocr-euz8-vatmnrin254c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9xx9mujn-74hc-1gdv-44sf-4g02qp653aq3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l65v1pyl-w9l5-aph1-mk4w-yo0k7xf0l8qn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206MzMzNDQ0@218.188.154.60:12001#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HGC Global Communications Limited ┇ 218.188.154.60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM0k2MEVOQjh1OU9EbFRaQTJGeDR5M0ZLWHBwUnh5M1plZ2V3Y2FZOFNDbkMzcVJDU1NsWWFEREFhNTdPeg@31.22.110.233:18332#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HGC Global Communications Limited ┇ 31.22.110.233
 ss://YWVzLTI1Ni1nY206YXNkMTIyMw@210.0.244.137:42756#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HGC Global Communications Limited ┇ 210.0.244.137
@@ -19,4 +19,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEdDIEdsb2JhbCBDb21tdW5pY2F0aW9ucyBMaW1pdGVkIFx1MjUwNyAyMTAuMC4xNTkuODkiLCJhZGQiOiIyMTAuMC4xNTkuODkiLCJwb3J0Ijo2NjE2LCJpZCI6ImU0NDc3N2RlLWYyZTQtNDMzNy04ZTI3LTE0MTc0M2IwYTY3YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhHQyBHbG9iYWwgQ29tbXVuaWNhdGlvbnMgTGltaXRlZCBcdTI1MDcgMjE4LjE5MC4yMzUuMjQ5IiwiYWRkIjoiaGdjMS5haXJ0Y3AudmlwIiwicG9ydCI6MTAwMDEsImlkIjoiN2Y2N2ZiMTEtODMyZC0zNDkyLWFkZmUtNjNlMGNjZWFmYmUwIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@223.16.138.113:12457?type=ws&security=tls&path=/?ed&sni=zz.bgm2024.us.kg&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 223.16.138.113
-trojan://etcj3jia-njiv-f5q3-wwif-3na9bu5g7zxi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ejvl59q2-y1jp-nti9-oit2-38n0k4b55g9v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

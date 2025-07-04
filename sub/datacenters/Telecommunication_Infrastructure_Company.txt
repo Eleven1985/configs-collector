@@ -1,15 +1,15 @@
-trojan://vjbcs8z9-kbk1-sdhn-3pcb-3zdixdvy80gl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://t7xiz7x6-5uvr-8oz5-7vuj-b6uqmjmd59zb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yu4b78ra-622h-ltub-apie-a0tka4e9dfl4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://smc2f9vb-b38u-ejg9-jdj3-zknbf3mx5n8t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3m6gajhp-elt0-ab3z-1mdv-gftfp10gx6ow@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://3sh8frq1-xjyf-cjmt-o2el-zxc8ktad8otk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r6id40xu-unwq-fnne-10le-ludxsu7166qy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0xx3g2ei-uw62-ypsf-6xx4-av7tvxm9l8ts@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
-vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.61
-vless://3d18bdb6-9e63-46e7-a2c9-025f7fa10309@lightning6.tm.12speedtest.store:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
 vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:6784?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
+vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@2.189.118.209:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
 vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@2.189.118.212:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.212
 vless://130e7f81-c2af-45f6-85f6-c9602e9fc179@2.189.118.211:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.211
+vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.61
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
 vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
-trojan://quh6yr4c-c4ys-h552-6clc-4yjewypdylir@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6aw58vka-lemm-r6yq-4unr-modt6bo154jw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,10 +1,10 @@
-trojan://yyh8v0cs-wmcd-xue2-9ldg-8l70e083cmp9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://axf06m3i-1oso-06zg-dz9c-vv9551fw86e5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o8y2egih-ct7e-5bbp-w08w-ap8m9g2dhuvb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ow67a4rh-ps34-ykmq-7kan-lf9og8cy1403@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m27ef7nj-7n1g-zuv3-7cfz-e1w80ebsqlx1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://qf6rjwxw-1rof-uckf-g11j-zlo8xsixvjzt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qf24rfxe-1d7n-5mt3-l5k8-t8wq5t0r7qj0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lu3uxsh1-au3d-3f2j-s4sf-94wzxuemy2fn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?type=tcp&security=reality&sni=server-11769.prod.hosts.ooklaserver.net&fp=chrome&flow=xtls-rprx-vision&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&sid=982264#DE 🇩🇪 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 193.24.208.146
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@sv36a.tsteamu1.top:36443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#DE 🇩🇪 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 193.24.208.76
 vless://293d766a-6d83-420b-a4c4-42be4ffa1636@st1.ulpmme.top:50443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk&sid=4fe6a82ff811fa13#FR 🇫🇷 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 88.214.24.132
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@88.214.24.198:35443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#FR 🇫🇷 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 88.214.24.198
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@sv35.utsteam2.top:35443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#FR 🇫🇷 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 185.55.240.213
-trojan://puues2q1-0hxo-4re2-acm2-3h9a8snn8xk7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wfth0rxg-s4w4-emjw-w0qw-utdr0qv5ztws@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

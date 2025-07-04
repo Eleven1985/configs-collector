@@ -1,8 +1,8 @@
-trojan://qkafd9sb-72f2-cyci-e641-5klkt82cr9f6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
-trojan://ibck1gjg-x13x-yqyh-2ba8-b26gfgq72dei@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kgq4laah-dis3-b5s6-ik8f-dy1fsddyj2eg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://axmj25hg-uoo7-e6ua-z9kx-o9rhqchsco8a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206S1ZSMzlCU1NYMVM3SUgzRA@185.126.238.37:20004#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.238.37
+trojan://498202xn-cjal-3y8l-xx3v-qysb2qa3azxd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
+trojan://t2s3c1lo-f0lc-yzws-1ndk-jd7zj74vpftr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n9ggfogp-0iq1-919p-lm20-tnfk7xgwvgho@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7yqvb873-mq7t-hu6v-qvvm-z4haroeivxvf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206RzU4WDlRQlJVSzNXRTM3Sw@185.126.238.37:20004#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.238.37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE@185.39.207.60:443#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.207.60
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
 vless://e79c9267-846d-46e2-ad6d-b99a5f899e01@46.20.109.108:14961?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=wbQjriu3XACnc8brsd6FoVP1Jva3B4dn0GWXU9Cyqg4&sid=1b2462f9#GR 🇬🇷 ┇ VLESS-TCP-RLT - Nearoute Limited. ┇ 46.20.109.108
@@ -11,4 +11,4 @@ vless://25af5a1a-d708-4e95-b2fd-ad43b0650335@94.131.8.32:80?type=ws&security=non
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
-trojan://ak9dfg4i-galq-fx8m-oagx-rvf6ack5qyp9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qtza3kpy-psij-34iy-4yn9-hz2edsol9ct4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
