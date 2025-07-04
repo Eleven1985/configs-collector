@@ -1,7 +1,7 @@
-trojan://o1whnakn-e6ow-0a5q-arue-j92v5j2lmhfc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://d8qmmpy1-pwlk-9t75-0jli-whrx7n8se1pc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8mrgr9m3-xor3-7sbw-04f5-o1qhxceczysp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8ftsmbm0-9qjn-vbxk-papj-gk17fq9t1eep@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jkhqd1t6-c3nl-sq4x-2rqz-dptnv4hpfubu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://c95gi5x2-seia-nb1k-q2fy-jr90ss2ehx6r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gy9t4w1k-6ofy-kxe2-0hhk-sgyb1fyfhk4q@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qexsfv88-27vn-h9wj-7myt-2jpqm4hfeskk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.8
 vless://39502dba-b0dc-59bb-b332-f75194b1689c@45.136.117.14:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ@194.124.250.4:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 194.124.250.4
@@ -16,7 +16,7 @@ vless://c7d4b0f6-0f18-45a3-97c7-caaf373f032d@5.253.30.14:8880?type=grpc&security
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.180.46.9
 vless://dfcf379e-2d92-514e-84ca-77cdb1bd73c6@5.253.30.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekl3WQ@85.209.194.6:8388#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.194.6
+vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.12
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.8
 vless://a5d8f419-7776-5afd-a765-e57d868d1c47@85.209.194.2:2052?type=ws&security=none&path=/vless#@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad#US 🇺🇸 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.194.2
-vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=grpc&security=none&sni=vpnAndroid2..com.vpnAndroid2.org#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.12
-trojan://napochmw-0ycr-kmny-ewcb-3j9g4xqgyjzo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qegyveo9-amed-v8oi-pud2-qpk9ih3fnwqg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,10 +1,10 @@
-trojan://mlnyoa70-mrk6-8nav-bd19-a9n92e2blvpj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://62evgqbc-oys7-grgy-q4ij-j9ebom5oaqzg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rlqouno2-nsks-1jg6-8op7-4gcyogabr6g3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z5k99um1-kx3c-o31e-rtbi-dsqvu580bojb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://x7h76mvj-e45g-imrs-88cx-h2e4c86xf226@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://rgp8v6jd-i2kg-6j6t-rx8v-aen4iaxa10c8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hioj8h9d-vazk-ayf7-cr7c-6lf3yj52rf0f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vid0so0l-tuo5-9ioi-1iwl-uvs1lk45cwrz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2bc31b80-7870-47e2-b6d7-4358108c0646@0us.amazon-osishop.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.170
-vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@tr.vixsm.ir:35111?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.158
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.8
 vless://4d2f4a48-c525-419e-97ac-317ff398aa7b@93.180.134.171:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.171
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none&sni=divarcdn.com&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.8
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@tr.vixsm.ir:35111?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.158
 vless://013877b2-c1b9-4288-bcd3-ded6ee20c00d@176.223.66.182:4673?type=http&security=reality&path=/StDNeNqkbQxrj6Xy?ed=2560&sni=refersion.com&fp=chrome&pbk=o2sacmqNjp9zNFdMIUZB1V7oQuDmwU2sf8VGW8c1vzw&sid=0a3df65e8c94b271#TR 🇹🇷 ┇ VLESS-HTTP-RLT - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.182
-trojan://tmos6gqq-yc1j-5jpf-ffil-5g64ju6z5pe4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vzjefqx2-du0b-kwvi-jf7x-hg22tm19pojg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

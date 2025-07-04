@@ -1,7 +1,7 @@
-trojan://xwisep4s-7pqj-l6tk-cfof-hujpq97vad84@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://9anzgsio-qx3r-7hr9-tpxk-jffb1p24r7jj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6r7qg4ed-7qas-fmjc-3aoz-eccwtqipsute@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oisp3nz9-f1gt-p542-n4dv-fk8pyfz92sdn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://o1l08tnt-fsnf-27od-uy55-74c18elijnp3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://xnmhe2oq-t243-y77t-hl4w-4yhpv249m94q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wxfb2sgk-7wf9-ivdp-cult-qih5mmj9n2ph@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j61l5nwv-lv3w-kszo-9aa0-l6pplt1htav4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VjBRb19pclUwUkhWR0FfemlEeThn@multi.gameworld.sbs:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.118
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhZGlkZWggU2F6YW4gUG9zaHR2YXIgQ28uIFBKUyBcdTI1MDcgMzEuNDEuMzUuMTk1IiwiYWRkIjoiMzEuNDEuMzUuMTk1IiwicG9ydCI6NDcwNTcsImlkIjoiZDVjMDg2MjEtODhhZS00ODk4LTg4MzgtYWRmNDY1M2Q1OWU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhZGlkZWggU2F6YW4gUG9zaHR2YXIgQ28uIFBKUyBcdTI1MDcgMTk1LjE4Mi4zOC4xNjgiLCJhZGQiOiIxOTUuMTgyLjM4LjE2OCIsInBvcnQiOjE3ODM2LCJpZCI6IjZjYmY0YzY0LWYyOTAtNGQ4ZC1lZTYzLWZlNzM5MTBiZmE5ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -15,9 +15,9 @@ vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@195.182.38.165:1916?type=tcp&securi
 vless://cae8bd96-0c46-43de-9c02-f617e1a6af27@195.182.38.118:9044?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.118
 vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@31.41.35.174:2281?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.174
 vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@195.182.38.245:2281?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.245
-vless://51626927-72ad-43f4-9b14-e9550161f2dc@askasnasd.arcanpayer.com:1952?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.30
 vless://0e61f612-c6e5-4855-9324-30594cc62b66@195.182.38.176:91?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.176
 vless://8d201d45-0638-4bf5-a1f6-ab7d4d715380@195.182.38.28:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.28
 vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@31.41.35.210:2281?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.210
+vless://51626927-72ad-43f4-9b14-e9550161f2dc@askasnasd.arcanpayer.com:1952?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.30
 vless://de2e02fb-3542-4f20-91dd-dc8783efb8fb@tunnel.ciinemaahhashtag.top:2055?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.82
-trojan://452xoad5-m6xi-9k1b-lunh-la1sgwnnfeu2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://72ycsf06-c2s2-nzcl-qj9g-wj433uxogmu4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

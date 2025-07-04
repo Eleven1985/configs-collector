@@ -1,7 +1,7 @@
-trojan://5w701f1h-9yy7-ikw6-hxug-xc4cpq0dlu5z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://i3lfmv8u-ntve-n0nt-xsop-eoiznhcqpqyl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jj1k8ofp-rdfg-l73n-e936-5w4lwg6t9wek@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kacn5e8x-5z6t-2ifq-hxkf-kxzomh89rtp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xh8wopun-rcf7-7ipm-o3qn-qmtrfv16sddg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://upvd093j-e2ok-3mko-ay0n-gg9t2b54y4pd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ymtkiw5b-48bd-52g3-3tj9-mx32wjvxrrvu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h71h5329-iu1g-o7md-tzx1-tmjxszr4l8k0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@154.64.226.149:9150?sni=hk.catxstar.com&peer=hk.catxstar.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Nearoute Limited ┇ 154.64.226.149
-trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20053?sni=au.catxstar.com&peer=au.catxstar.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Nearoute Limited ┇ 157.254.38.210
-trojan://utv1uh0r-ora0-vptp-x8op-xq64w6cw83v9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20033?sni=hk-iepl.catxstar.com&peer=hk-iepl.catxstar.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Nearoute Limited ┇ 157.254.38.210
+trojan://l8kjhz4r-jhl8-76hd-sf61-c7xm51euucjs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

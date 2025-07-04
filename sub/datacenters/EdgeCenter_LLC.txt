@@ -1,10 +1,10 @@
-trojan://au1d8vjy-aqht-2jg2-w9ha-q2y7vcrdvix1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://2z1sbnwr-gzlv-nwf9-qsru-iyoow0x95ql0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ziuvxqsf-3xr6-wi3s-i7tw-x8bp1wwngwe4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c29aq1fy-vbcg-50km-cet9-baicjve8z1kd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg@5.189.201.250:31348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 5.189.201.250
+trojan://t8lzlfuy-pzry-2hkq-9ug8-u0kofasuhkis@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://6h3kp4bq-gbr0-v9ug-1cod-d2fep8549l10@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mo7c0e7m-364r-ouet-zjv8-7gi461uwv9gp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6es3yyhy-9xx3-i8yr-53fm-mucfg4obpduc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.223.109.126:989#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.109.126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4@146.185.198.44:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 146.185.198.44
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg@5.189.201.250:31348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 5.189.201.250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ@92.223.109.205:51348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.109.205
 ss://YWVzLTI1Ni1jZmI6NzYyMDQ0Nzg4MA@92.38.139.95:50005#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.38.139.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3Q@92.223.65.31:29092#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.65.31
@@ -16,4 +16,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRWRnZUNlbnRlciBMTEMgXHUyNTA3IDkyLjIyMy4xMTQuNCIsImFkZCI6IjkyLjIyMy4xMTQuNCIsInBvcnQiOjQ0MywiaWQiOiI1Yzg1NGUyZS0yMDVjLTQzMDktODM2My1mZjYwZWE3YjJhMTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jZ2ktYmluL2FwaS9kYXRhZmxvdy8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFZGdlQ2VudGVyIExMQyBcdTI1MDcgMTQ2LjE4NS4yMTguMTcxIiwiYWRkIjoiMTQ2LjE4NS4yMTguMTcxIiwicG9ydCI6NDQzLCJpZCI6Ijk0N2FmMTgxLWM1MDktNDI0NS04MGRlLTliYWY2NGYxYWE1MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&security=none#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - EdgeCenter LLC ┇ 95.181.182.182
-trojan://1iv827b2-s0zi-0ef7-1nw4-609jhby751o8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6n5mvpqo-ptt6-74s7-knbn-6r86vra3jknt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

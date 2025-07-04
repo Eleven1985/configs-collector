@@ -1,33 +1,33 @@
-trojan://symgzfdb-k3vr-81e6-d7zq-6sk2p0w855qe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
-trojan://hk7ryg77-g786-uheq-duej-u8zed98saim0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fm6i6ymg-cw5x-tuds-ai6k-ztqwpkebqbgp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dq83l95s-976o-ey5y-l6wr-ocafpg7g88s9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zkdhrltv-wpsi-6hwr-aj0g-u7i6cruh83av@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:26 ]
+trojan://q2yutwrw-81jk-u7fq-8o64-ntd2ccxo4nlu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://auem2br6-amtn-kvxz-z3tj-ihc1ow0jkdiz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7w4zwtw7-apbs-3l38-e2v7-vadwkmj7tnvp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://36ebef7d1b1d6205fd0c55f28800e674@72.167.45.6:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 72.167.45.6
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHTy1EQUREWS1DT00tTExDIFx1MjUwNyAxNjAuMTUzLjEuMTAwIiwiYWRkIjoiMTYwLjE1My4xLjEwMCIsInBvcnQiOjQ0MywiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.29
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.213
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.137.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.247
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.29
-vless://8e63322f-94fc-4d6c-bbfa-5b89118e8930@198.71.188.119:8880?type=ws&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 198.71.188.119
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.153.137.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.254
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@50.62.172.113:80?type=ws&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 50.62.172.113
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.153.1.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.254
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.29
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.1.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.63
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@50.62.172.113:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 50.62.172.113
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.138.213:8880?type=ws&security=none&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.213
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.138.247:8880?type=ws&security=false&path=/Telegram&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.138.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.137.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.138.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.138.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.137.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.1.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.1.29
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.137.247:8880?type=ws&security=false&path=/Telegram&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - GO-DADDY-COM-LLC ┇ 160.153.137.247
+vless://8e63322f-94fc-4d6c-bbfa-5b89118e8930@198.71.188.119:8880?type=ws&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 198.71.188.119
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@160.153.1.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.13
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.153.1.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.251
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.138.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.247
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.63
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.1.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.247
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.204:2053?type=grpc&security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - GO-DADDY-COM-LLC ┇ 160.153.138.204
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2053?type=grpc&security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - GO-DADDY-COM-LLC ┇ 160.153.138.178
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.40.154.139:2053?type=grpc&security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - GO-DADDY-COM-LLC ┇ 45.40.154.139
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.153.137.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.3
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.138.213:8880?type=ws&security=none&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.213
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.153.1.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.3
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.153.138.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.138.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.63
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.153.1.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.254
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.153.137.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.63
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.213:8880?type=ws&security=none&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.213
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.153.138.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.254
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:2053?type=grpc&security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - GO-DADDY-COM-LLC ┇ 160.153.137.128
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.1.18:443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.18
@@ -36,4 +36,4 @@ vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.1.109:443?type=grpc&securit
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.153.1.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.177
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.153.137.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.137.177
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.153.138.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.177
-trojan://pexp1q7m-6ex2-f9w3-30wj-kt97tgex57m4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qojjnj9x-ln34-zuv4-c589-o5qjnf852snx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
