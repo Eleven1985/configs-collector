@@ -1,8 +1,8 @@
-trojan://9aeug3mw-vncs-ioiu-qdpf-89tc4ahayiat@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:06 ]
-trojan://8rhryugm-szrv-n5i0-g11g-o23e384xsu01@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://svedoq7n-17mr-3d70-9hsb-mdfcb5zd01mm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h0cnveja-87h8-e1sz-o3l4-3qyzciz1vl78@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM@MARAMBASHI_MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.25.236
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM--@MARAMBASHI--@MARAMBASHI--@MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.35.100
-trojan://w4vb3wvl-iq0l-8thz-amoq-gdejxn80j4t8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://o7gt169t-jxva-y89r-9wdl-7iyjx9trl7u2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 14:27 ]
+trojan://u6n6wzfz-d5y8-s49l-wxee-cvlmjtz9vhya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0hyda8gr-4mvn-aebu-kotv-jpk9b77pirqg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o86cvh7n-lqub-aq02-jgah-8kcq5f2d3bns@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.35.100
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.25.236
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
+trojan://s432heks-dacr-pz94-03vw-o7yn8a6i9bke@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
