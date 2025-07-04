@@ -1,7 +1,7 @@
-trojan://034ayjgt-wdnl-gtnw-r2vd-poqzrmxc7mn1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
-trojan://s8ellx18-qbjz-0nic-1kf2-cpc9w0dnjfrk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mb8cc2o5-gysc-z8bc-fo4d-sfy2kxmdmhpq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lchi84zn-tyqu-bec6-3ryw-blkiolmd6v0f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://oxagkr9j-2vhr-fq44-hlwd-iliymfy912v9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
+trojan://ezmvirru-rh69-4la3-i0su-f2uvwpxracox@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s7xdow1e-7tum-8028-3y8i-nzdhfxuk3gcj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://10hdxtsi-rjbh-5eec-etw2-o1xw1tvle5a3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p080.panda001.net:36379#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.135
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG DACOM Corporation ┇ 112.218.196.26
 trojan://Aimer@106.240.1.52:20443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG DACOM Corporation ┇ 106.240.1.52
@@ -12,4 +12,4 @@ vless://948f6596-66f9-4707-aa92-3107a214ce53@61.37.230.26:31173?type=ws&security
 vless://948f6596-66f9-4707-aa92-3107a214ce53@123.143.9.5:14041?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 123.143.9.5
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@106.244.68.249:50000?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.68.249
 vless://948f6596-66f9-4707-aa92-3107a214ce53@112.223.212.219:10543?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 112.223.212.219
-trojan://94gmirx0-fxej-vwjf-n1nc-3h38zu6cm6yu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kfcp8i7r-ed1z-zc5e-29c4-mb6bv400e7dr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

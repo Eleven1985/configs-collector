@@ -1,7 +1,7 @@
-trojan://jxhftmjy-dz26-ckwb-ahwp-r4ytnfv6t1y3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
-trojan://9akz8ipa-a2jz-5z33-p9kx-owtwoofgokc7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://23xkb30b-8h2t-j8xd-f8vj-lufn9b735kj7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://95nng8dp-jz2s-a4f0-auoc-8termb1jq8le@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r7faxc2w-oydj-fa6o-02ei-77injbfdgl9a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
+trojan://5pyd88gg-dgh4-5n5w-jpag-jh39yr70abfk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bboxlbp7-0lse-54hk-zlsy-kzr5bddhul6d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s0m7t635-8di8-3kdn-222g-vl21gbp1ccjl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.167:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.166:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.165:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.165
@@ -24,4 +24,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.80:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.80
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 134.195.101.32
-trojan://aees5day-e0kz-4ll8-27pl-alt82a18mc11@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3h1xk48l-yaxo-bq7k-hvrv-9kxfeipn9f0w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

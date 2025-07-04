@@ -1,7 +1,7 @@
-trojan://g98oimxb-3n2e-p9zy-9puu-tpexa2hl24f3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
-trojan://o4yp2dkm-pqa8-8eoy-x2v7-wj8968jecrnz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://puzag51z-0xg4-07ct-2l5n-q6ivb9ks36ou@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qlkfqz7c-f3ye-kiqi-ut6l-u1vfvpcmdlqe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bbmgmbto-s24d-bwz9-awcg-cj2rqbz6xqxn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
+trojan://pc2er5ii-gwid-sdcg-kpgt-67vmmofjbrzl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qn68l33s-mf9q-w5h2-8pg6-cf436cyf4py3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m0856mig-vt9u-x3ks-6o1t-6cohxo15s0ny@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - ASNET ┇ 194.87.240.190
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@45.91.140.67:443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bank J. Van Breda & Co NV ┇ 45.91.140.67
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@45.91.141.89:443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bank J. Van Breda & Co NV ┇ 45.91.141.89
@@ -13,21 +13,21 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZW4zMjFUQXY0YmZEWUQ1RTZCbjRy@141.98.233.98:1443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.98
 vless://840fce73-112f-44e1-8bdf-cee760ed7a03@141.98.233.95:1518?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.95
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@141.98.233.103:3045?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#BE 🇧🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 141.98.233.103
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.108:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.108
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.115:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.115
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.125
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.78
 ss://YWVzLTI1Ni1nY206N0NVV1UxTE9RMDFSTFdRUg@185.213.22.93:20026#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.213.22.93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.146
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.108:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.108
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@194.110.115.83:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:801#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.236.147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.232.21.53:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.232.21.53
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.218.253:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.218.253
 ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.93
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.71.227.178
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.232.21.53:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.232.21.53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.146
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.108:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.108
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0dIM3dRUnc3VjRaaGQzNWJGcw@77.243.191.178:8389#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 77.243.191.178
 vmess://eyJ2IjoiMiIsInBzIjoiQkUgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDM3LjEyMC4yMzYuMjUxIiwiYWRkIjoiMzcuMTIwLjIzNi4yNTEiLCJwb3J0Ijo0NDMsImlkIjoiZWQxNjJkYWEtZWUyMC00NGVkLTgzMGYtYjUyMmM1MDEzODdhIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE0MzAxMzA5MjQyNSIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQkUgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDM3LjEyMC4yMzYuMjU0IiwiYWRkIjoiMzcuMTIwLjIzNi4yNTQiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
@@ -35,4 +35,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQkUgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@95.164.62.152:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.152
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@95.164.62.196:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=kz.ylks.xyz#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.196
 vless://2a2b5866-9f43-4506-98c0-32fc33dea21a@45.83.20.76:10088?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=2RiVd3l0ofPW-qMOnDXDltcJ6eNP8hWR4xuKBMoY4Bo&sid=e555559bf185992c#BE 🇧🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.20.76
-trojan://3m8lzdkm-68q6-1i96-nep5-6iw4ypetsryb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0zu1pnmy-v6nq-wurp-2e1i-0bba7oripa0z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

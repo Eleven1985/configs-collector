@@ -1,7 +1,7 @@
-trojan://4t4kyxr2-la71-2fsk-3box-724zh56vf5dj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
-trojan://rgvrkknb-qiz5-resi-4x8e-z2agne5inr1q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://prompdky-jivs-vsiv-4cuj-rzw0t6sr21mx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vix44m4b-5alf-16kf-d0gt-pr143hncgyo4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bf0suqef-hb0s-tuzf-yyzo-miqjy28ukrh1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
+trojan://0k7df4iu-0fg5-h9tf-wmu9-0gmq70cuwdte@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://91hzqxak-v906-l8j9-g08c-qpd6dl15ikrs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q7ckb3eu-gf9t-th17-30mh-fkddxnmy4mcn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://19f3b302-fc7c-4fb9-9d35-e55083e97a03@154.53.164.213:443?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=jqrTHDmU7xOCdGGUNZ_orv2GvVHDoCCttUucmaCAH3M&sid=cc#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.213
 vless://9175264d-11b6-431f-86a7-69adf9fa24f2@84.32.230.160:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=cY7T3CiF0ysvFgyTXliMsXSTBM0Icd_VOhuDkxM9nFY&sid=75e19bf5087c4f0c#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 84.32.230.160
-trojan://i8jh43j1-6yy5-ibd2-dqhx-f55zv04k0ej9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://cvhydjw5-aglt-6mwk-o2k8-zqlm1hv9sb42@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

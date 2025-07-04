@@ -1,7 +1,7 @@
-trojan://6lq304jj-g6iv-t1gh-okwg-zmgebdjkc22u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 16:30 ]
-trojan://8ukz6fxi-l5la-jy95-h8vn-2g86tzdryfo5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3gxkdumk-mx60-rbzl-gklp-46q4ar1uxfu0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yr9az94y-p13f-wqax-izxs-4l395e9bfegy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4bw7ob18-fmuh-is4s-mmqx-ar5n6hq7i6gf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
+trojan://jibuohpx-g7tq-brqr-j9cm-q2l5tdxyilcq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mvpha0it-wowa-1tjw-zv1v-9canu9ewpnkx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5731ouc4-p6rk-sxei-fd7h-69yeifsy8v9i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YXVQRDg5ejdKbmVSc0ZBMjI4WXdGTXJoR0tBbUczMEF0cTZIYlpZNEthOD0@46.202.130.110:49693#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostinger International Limited ┇ 46.202.130.110
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmdlciBJbnRlcm5hdGlvbmFsIExpbWl0ZWQgXHUyNTA3IDg5LjExNi4zOC4xNzAiLCJhZGQiOiI4OS4xMTYuMzguMTcwIiwicG9ydCI6MzQ1NiwiaWQiOiIzMmU0OTUzOS1mNTY5LTQwM2QtYjRiNi1hODk3OGMwNDBkNWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmdlciBJbnRlcm5hdGlvbmFsIExpbWl0ZWQgXHUyNTA3IDg5LjExNi4zOC4xODQiLCJhZGQiOiJzdy04OS4xMTYuMzguMTg0Lm5pcC5pbyIsInBvcnQiOjM0NTYsImlkIjoiMzJlNDk1MzktZjU2OS00MDNkLWI0YjYtYTg5NzhjMDQwZDVkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
@@ -26,11 +26,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@88.223.92.197:2398?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 88.223.92.197
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 82.25.101.123
 vless://2910bf90-502e-47c6-a278-ba527e465100@31.220.111.160:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#GB 🇬🇧 ┇ VLESS-TCP-RLT - Hostinger International Limited ┇ 31.220.111.160
-vless://v2Rayfast_7@cloud.updatte.tech:8880?type=ws&security=none&path=/?ed=2048#LT 🇱🇹 ┇ VLESS-WS-NTLS - Hostinger International Limited ┇ 84.32.84.33
+vless://70484c19-54ce-4cab-ad3e-04bd35f8373a@cloud.updatte.tech:8080?type=httpupgrade&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#LT 🇱🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Hostinger International Limited ┇ 84.32.84.33
 vless://5744c1a5-1f2b-4a8b-a99c-47b906d05c1c@vip1.proxystore11.news:2052?type=xhttp&security=none#LT 🇱🇹 ┇ VLESS-XHTTP-NTLS - Hostinger International Limited ┇ 31.97.47.248
 vless://1f3747e8-8beb-4a30-a52c-97efd9829b08@194.5.157.239:16977?type=xhttp&security=none#LT 🇱🇹 ┇ VLESS-XHTTP-RLT - Hostinger International Limited ┇ 194.5.157.239
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGluZ2VyIEludGVybmF0aW9uYWwgTGltaXRlZCBcdTI1MDcgMTg1Ljc3Ljk2LjI5IiwiYWRkIjoiMTg1Ljc3Ljk2LjI5IiwicG9ydCI6NTc4ODgsImlkIjoiM2E4ZGJkODUtZDQ4My00OGVjLWNjNTctZmNmODU3YzMyZjAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 179.61.219.170
 ss://YWVzLTI1Ni1nY206c2dnN3ZSZUhuZkV0VXRBc1dGUGVlRk9TSjZRM2Q5b3dZZkNRU3dRTVBuaz0@45.80.181.77:28187#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Hostinger International Limited ┇ 45.80.181.77
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmdlciBJbnRlcm5hdGlvbmFsIExpbWl0ZWQgXHUyNTA3IDE1Ni42Ny4yMTAuMjIwIiwiYWRkIjoiMTU2LjY3LjIxMC4yMjAiLCJwb3J0IjoyNDc3MywiaWQiOiIzMGE5MDAzNy1lNDFlLTRkODQtZGYxYi00OTIxM2U3NGExYzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://ct0rmjhz-ycac-oarn-bjo6-w31uuaumadnn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q145wsa2-2jju-6jnd-41us-xyn04a0ab9jm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
