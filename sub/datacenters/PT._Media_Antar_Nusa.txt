@@ -1,8 +1,8 @@
-trojan://znxwl3xo-1zcx-abrn-odcn-d4fua1ue3mld@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://hn5vl56u-cjnc-usl7-rq2d-o9qs52fkjbm6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vvc6a93v-n142-xgnr-o17p-sgte9qt01e3f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k6lk0s3l-qjsd-beo6-l728-ku0d1xcpv9br@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e97n402a-i7u3-604l-pldp-p54co9ui8plq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://344mi5sq-fqqz-ba1u-39vb-sljdqg4ek8wh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0eap1rd2-liee-ojzl-3cvo-x0sl7dg9m3v0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://up6vmyqb-1wq1-3pu9-w4ud-nx5b0bipk40e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQVC4gTWVkaWEgQW50YXIgTnVzYSBcdTI1MDcgNDMuMjI5LjI1NC45NiIsImFkZCI6IjQzLjIyOS4yNTQuOTYiLCJwb3J0Ijo0NDMsImlkIjoiNDg1N2Y5MjUtZmFiNy00ZmJjLWJjMTctZDFkNDYzN2E2NWJjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMifQ
 vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
-trojan://sv8t8tfr-jeth-7959-l7dg-p7sqrpg23kod@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ygul736j-p8il-ngrc-kes3-cwed0fdac95v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

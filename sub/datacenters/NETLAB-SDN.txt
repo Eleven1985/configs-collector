@@ -1,7 +1,7 @@
-trojan://1nhq6rw2-58e3-o5mw-m7y1-0b9f2p30gani@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://706zsml5-h271-upwx-42kq-exbxovh5npc9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://398iy89q-pz8m-g5b6-fi57-3d80csamljve@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://on11wvg2-txf1-n0lo-y8eq-nb26zh5d6u39@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qwzkjnh5-c00k-n7zw-61vf-qmu4sjck3z5q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://ftoglt9a-9yzy-wc69-cxhw-rt8anngniuao@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6n0dnfmz-6ikn-w8zs-v0ih-bqfcnti1i41z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yojiin3j-n082-qau7-vjya-i38fbv4jwjgy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13655?sni=tw.lihua.click&peer=tw.lihua.click&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.64.246.217
 trojan://Aimer@38.22.88.199:18026?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 38.22.88.199
 vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589?type=tcp&security=reality&sni=www.cisco.com&fp=chrome&flow=xtls-rprx-vision&pbk=g_56k7ui9UrIxf6FL4bc5JJ4tYQ0wwENzddsybcRNHo&sid=11aa857ce52a1392#HK 🇭🇰 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 38.246.249.90
@@ -44,4 +44,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.40.57.223:587?type=ws&security=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.228.166:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.64.228.166
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.9.224.214:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.9.224.214
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@154.9.224.58:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 154.9.224.58
-trojan://jctig5y1-ogbt-wnur-7sle-4y49rkbytvwi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://740txepy-6icb-cvex-f7yl-t1raqng0i5jk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

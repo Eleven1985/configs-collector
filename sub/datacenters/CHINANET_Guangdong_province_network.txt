@@ -1,12 +1,12 @@
-trojan://w1edmica-85jm-f29v-sbjb-0zjntfkacxd9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://gf580ey9-r6xn-j96h-0ti7-lse5uebf9uqb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xtypmxi8-3p6e-ohlp-9hbs-vehntpnfjg59@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nlyh5up6-0dcu-pfjz-vp3e-usxzhumezovm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j8n5xilt-vhdy-lwqp-xcgq-dic3m15jj40n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://acyso3br-bbeh-yidg-pknd-mn1c7vq5ppzq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wcgs8owj-mdfy-eole-uxfr-a1lhh9ubxpfn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t84h58ws-bmee-n2h4-lzos-2m89w1zp2l84@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTpkNHIwRUg@hkt05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.18
 ss://cmM0LW1kNTpkNHIwRUg@sg05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.27
-trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?sni=brwx.spvpv.com&peer=brwx.spvpv.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 42.240.152.238
 trojan://069a7054-7269-554b-bfab-a7f2651f92e5@160.22.188.200:5306?sni=tw-06-592.flztjc.net&peer=tw-06-592.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 160.22.188.200
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?sni=brwx.spvpv.com&peer=brwx.spvpv.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 42.240.152.238
 trojan://b09d2aaa443af97a@106.75.154.24:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.154.24
 trojan://3c4e10af98c30972@106.75.157.65:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.157.65
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENISU5BTkVUIEd1YW5nZG9uZyBwcm92aW5jZSBuZXR3b3JrIFx1MjUwNyAxMDYuNzUuMTQ2LjY4IiwiYWRkIjoiaGsub2NlYW4uMjAyMi4yMDIzLm1saW51dS50b3AiLCJwb3J0IjozNTAzLCJpZCI6ImZhNjc4NDkyLTY1ZGQtM2RmMC04MDBkLTExZjEzOGI4NjhhYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://f8icpidm-ibdi-x58k-39uw-z7z2um6gi99b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://r03e57gg-zxfo-c1w1-sgs8-jed91dhbrp58@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://cmfhould-78bi-y1hj-cpd4-lrbc7coafvn3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://5ne7mbqr-hpyg-ptab-blhs-g5v2fp5bwcix@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mniqikfh-l4sz-q2wl-36q9-qvcmflyi00mh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yz49gxfq-2x5i-hvu0-3hah-hbwwssb4knmc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mg2kaomy-6muw-tiqg-11iw-yf1i1c1wlepk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://3ukn7txz-8dg9-cgib-himn-4425j74c99c6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xmuu2tz4-k741-si2g-sros-tacvfzphyj71@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1fubxe3r-u4lq-6aqt-ndja-bogdx17v1unp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.103.245.125
 trojan://58236154-f8ba-42cd-91b0-88cff4634702@cn-hk-30.fnhffffe4.cc:50208?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.20.223.168
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?sni=telewebion.com&peer=telewebion.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.234.53.23
@@ -130,4 +130,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@45.12.88.150:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 45.12.88.150
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.222:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.222
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.37:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.37
-trojan://g1y14k2s-l2nu-n3ga-yksf-sfk5fc7557q9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0dc8hot0-p1c4-scki-ctp0-0hbtfz8edybm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

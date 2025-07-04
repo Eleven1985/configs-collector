@@ -1,7 +1,7 @@
-trojan://6mnvl2hz-vyyv-akmm-gen8-j3wu6ks9ktlw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://zr4z68wu-nlt0-4bit-11hd-564w4ywnawr4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aaxnj1ll-a97j-59wa-2n9h-orzf6dpn6zs3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ve89m62s-plw0-i8nm-a4bw-e1yiwder5bh6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://otpqor96-cu89-6nv6-4id9-50wksvnqutjy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://d3dnlmiv-9h8v-3h77-8ltf-6tuxlqu33p3r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2vcs334z-0y5h-g7yt-flhv-06vodt27z9sd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8e8w5gvr-eg5v-sn56-3j6e-sk0h4v4odqzo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.173
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.134
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.18
@@ -37,4 +37,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.242:443?type=ws&securit
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.60:443?type=ws&security=tls&path=/?ed=2560&sni=dse.bgm2024.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.60
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.79:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.79
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.85:443?type=ws&security=tls&path=/?ed=2560&sni=uxb.vs2024.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.85
-trojan://0s0hx0wm-g0zd-wh2t-kdwo-rrexvsqd5wmw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rbq0ucz3-q2ln-nc5o-6nq1-5exciewchd7o@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

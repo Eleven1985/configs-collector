@@ -1,8 +1,8 @@
-trojan://d9dzuyga-6mva-7t8y-ivtc-lbv759a53wvw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:02 ]
-trojan://aofabfj6-9042-d6sn-togv-1h8jfxt5jl0z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c3usltb7-1uy4-6n2d-96av-xha8btbe6275@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n1ujpt1x-6gkt-p52q-osom-5evbmtx7i2w0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.25.236
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.35.100
-trojan://kdwt3670-trne-8k6v-fw48-7fotrz4tz043@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qx8gjjiv-ri7c-d63w-yyx4-9gj5ah7gru2a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
+trojan://bbihwe35-1i52-4t3t-r0vy-96qykb0a10bg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rocddwse-dbp8-bx7u-g2hd-sg50x7prxhl2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bt2x11r7-n70i-zc0r-piga-jb2iqd4in5jb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM@MARAMBASHI_MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.25.236
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM--@MARAMBASHI--@MARAMBASHI--@MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.35.100
+trojan://f5z17yft-bvm9-c7zq-vssp-x53lufnlz6md@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
