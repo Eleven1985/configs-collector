@@ -1,12 +1,12 @@
-trojan://nyq9qu23-qx20-brwl-q851-us91pa4eevl4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://pmhcs5de-d85g-x60h-yy9v-ncta36oq4wm2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8x6zngva-5ryl-3b1d-t7i4-tyhk817kpck0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g2vmn8ka-86b6-a7r8-zjzt-7rldbp80m180@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://34ncfjdf-6cgp-g0iq-q0ag-uz4wmbhaurei@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://upmv047v-tm6y-adt0-c46m-vj973k72kjnf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t6x4mj6c-zots-flog-r2lg-nvfnqowiipbo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eu92evlh-77e7-elk2-r4t8-6c538vlhpwua@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206RDlFT1RCMkpIRlVDQVJSQQ@150.116.11.9:21005#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS ┇ 150.116.11.9
-ss://YWVzLTEyOC1nY206Y2EzNWZhZDQtMDk5MC00ODgwLTgwYzktYjUwN2ZmMTliYmNh@tw02.dns-node.top:45614#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 83.147.13.92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@83.147.15.46:30002#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 83.147.15.46
+ss://YWVzLTEyOC1nY206Y2EzNWZhZDQtMDk5MC00ODgwLTgwYzktYjUwN2ZmMTliYmNh@tw02.dns-node.top:45614#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 83.147.13.92
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUtJTEUgTFREIFx1MjUwNyAxNDEuMTEuODcuMTAxIiwiYWRkIjoiaGluZXQuZ3VndXl1bi5wdyIsInBvcnQiOjM2NTU1LCJpZCI6ImIyMjNhYzdlLTRmMTQtNGVjNy1iZDlkLTdhYWVkZWNkYTMyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888?type=ws&security=none&sni=edccs.aimercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?type=ws&security=none&sni=edmq.aimercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#TW 🇹🇼 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 141.11.86.24
 trojan://Aimer@188.253.6.210:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 188.253.6.210
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthcmkgTmV0d29ya3MgXHUyNTA3IDEwMy4xNTYuMTg0LjIxIiwiYWRkIjoiMTAzLjE1Ni4xODQuMjEiLCJwb3J0IjoxNTMsImlkIjoiNDhkMzA2MDAtZmI2ZC0zYzFiLWI4ZTUtOWI3ODBiZDliNzFmIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
@@ -107,34 +107,34 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNWJiNDZlOC1kODBmLTRiNDgtOTI3Mi03MTI5ZTg4MzY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWRjZWU2MmRlNzI@61.220.176.248:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 61.220.176.248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTMyNGNjMTQyMzY@211.21.112.117:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 211.21.112.117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowM2I1ZTFjNC1hNGRiLTRkYTgtODg1Yy0zNWY3MThiOGY4MDM@1.170.200.20:26900#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 1.170.200.20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWQwMGY0Ny02NjQ1LTRjMTItOGM3Yi1lZGQ5ZmNjMTM1ZTI@hinetiw0k.yooddns.stream:26900#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 1.170.192.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWQwMGY0Ny02NjQ1LTRjMTItOGM3Yi1lZGQ5ZmNjMTM1ZTI@hinetiw0k.yooddns.stream:26900#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 1.170.199.72
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.155
 trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.125
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.157
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.152
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.20.245.139
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.89.247
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.158
 trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.227
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.231
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.221.189.241
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.100.222
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 59.125.131.163
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.248.240.223
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.105.164
 trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.230
 trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.154
 trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.226
 trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.228
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.105.164
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.89.247
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.20.245.139
 trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.229
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.93.52
 trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.153
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.156
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.93.52
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.248.240.223
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.221.189.241
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 59.125.131.163
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.228.100.222
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 36.227.217.5
 trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.136:28504?sni=green2.cdntencentmusic.com&peer=green2.cdntencentmusic.com&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.130.58.136
-trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.135.202.250
 trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.144:28507?sni=green2.cdntencentmusic.com&peer=green2.cdntencentmusic.com&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.130.58.144
 trojan://Aimer@210.61.97.241:81?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 210.61.97.241
+trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.135.202.250
 trojan://moist@59.124.90.154:32495?sni=trojan.freenods.sbs&peer=trojan.freenods.sbs&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 59.124.90.154
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?sni=twnode11.oportal.cc&peer=twnode11.oportal.cc&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 61.220.126.180
 trojan://moist@211.72.156.17:23555?sni=trojan.freenods.sbs&peer=trojan.freenods.sbs&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.156.17
@@ -239,8 +239,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdPT0dMRS1DTE9VRC1QTEFURk9STSBcdTI1MDcgMTA0LjE5OS4xMzEuMTcyIiwiYWRkIjoiMTA0LjE5OS4xMzEuMTcyIiwicG9ydCI6NDU2NzUsImlkIjoiYjczOTExYTYtYmIzNS00OTQxLWExOTAtNWQ5N2U2YjZkNmY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 185.189.160.98
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.241.42
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.157
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.43
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.157
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.241.45
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.20.79
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLYW9wdSBDbG91ZCBISyBMaW1pdGVkIFx1MjUwNyAzOC41NC4xMDcuMjYiLCJhZGQiOiIzOC41NC4xMDcuMjYiLCJwb3J0IjoyOTIwMywiaWQiOiJjMTY5ZDM2My1kMDg0LTRjM2UtYjlhOC02MzRlMzgyMWYzYzIiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdHcxL2dldERhdGEiLCJ0bHMiOiJ0bHMifQ
@@ -276,7 +276,7 @@ ss://YWVzLTI1Ni1nY206Nzg0ODk1YTVmYzBh@103.177.33.202:443#TW 🇹🇼 ┇ SHADOWS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODg5YmMwZGFiZmI@103.177.33.188:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Sky Digital Co., Ltd. ┇ 103.177.33.188
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTa3kgRGlnaXRhbCBDby4sIEx0ZC4gXHUyNTA3IDEwMy4xNzcuMzMuMTkiLCJhZGQiOiIxMDMuMTc3LjMzLjE5IiwicG9ydCI6MzAwMTMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoid3d3LjM1NzA5NjIwLnh5eiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoid3d3LjM1NzA5NjIwLnh5eiJ9
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.190
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.189
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.189
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIEhLIExJTUlURUQgXHUyNTA3IDQ1LjQzLjM3LjI1MyIsImFkZCI6IjQ1LjQzLjM3LjI1MyIsInBvcnQiOjE3MDIzLCJpZCI6ImZlNzk3ZDMyLTY2MDctNGI0Ni04ZTM5LWM0ZmIxZTNjMDg3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIEhLIExJTUlURUQgXHUyNTA3IDExOC4xOTQuMjUzLjE1IiwiYWRkIjoiMTE4LjE5NC4yNTMuMTUiLCJwb3J0Ijo1NjYzLCJpZCI6Ijk4NmIzYmM4LWQwZmItNGI2MC1iMDFmLTI4MTY0ZTQ0Y2Q0OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVUNMT1VEIElORk9STUFUSU9OIFRFQ0hOT0xPR1kgSEsgTElNSVRFRCBcdTI1MDcgMTIzLjU4LjE5Ny43MCIsImFkZCI6IjEyMy41OC4xOTcuNzAiLCJwb3J0Ijo0NDMsImlkIjoiNGNhMDE5NmMtMDVlNy00NWViLTkwMzYtNjkyYzIwMWY0NWZiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
@@ -289,4 +289,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWY3ODRlYzE1ZDE@103.177.32.253:443#TW 🇹�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDQwZGFlZTQ0M2E@103.177.32.213:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Zhilian Technology CO., LTD. ┇ 103.177.32.213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDQwZGFlZTQ0M2E@103.177.32.214:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Zhilian Technology CO., LTD. ┇ 103.177.32.214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZmE5MzljODJhN2I@103.177.32.149:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Zhilian Technology CO., LTD. ┇ 103.177.32.149
-trojan://4etp16vk-2x71-vogh-zbst-c4x39u24otyg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hi2wmykz-av71-cwuf-1vam-7ucgh5x2gtbk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

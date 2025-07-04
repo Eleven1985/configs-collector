@@ -1,7 +1,7 @@
-trojan://aqkxdpmh-hb5y-qrkl-yble-ocj40jzp8sjk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://k70465ps-tz85-exho-xut1-nccw6l9177mb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://okiapln9-e40r-f0bh-b3hd-yjt6qe073snj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ieplhdzh-2j0a-tqta-cwkq-y00wxircg4r0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fx7zq9ob-lzqi-dvch-lqzq-zm1casg9arcx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://belt5rw5-45my-3k1t-nfm1-g1kr8k1k5s5l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sb3o97r7-rhlt-g34h-2ycv-wkwj1fsrewv4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c1uc1skv-0n8x-91cm-6n2q-7z4z4qaabc9p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@173.234.79.117:45615#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb UK Limited ┇ 173.234.79.117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM3dTMGp4QjhBUkNaZ2FwT0Y4YTRDcEZjNWxTT3FDRFpZU1hEMmEzenVZN2VFVEQ2SUFOeTM5ZWxueEt5Mw@23.106.33.156:18332#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb UK Limited ┇ 23.106.33.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTM1lxQUNDNTh1YWphcHhSeTdTM0Q2M3hjWE9lRm5sMnc5TlplekFLRGdTWUQwUlpCRlR5M3BJOEVsQ2FPNA@23.106.33.152:18332#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb UK Limited ┇ 23.106.33.152
@@ -10,4 +10,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNld2ViIFVLIExpbWl0ZWQgXHUyNTA3IDE3My4yMDguNTEuMTc2IiwiYWRkIjoiZW5nbG9taWFuZG9hc2NuZC5hc2xhbm1hc2xhbi5jb20iLCJwb3J0Ijo4MDgxLCJpZCI6IjBjYTE0NWM2LWQyNDEtNGQ0Yi04ODU4LTY1OTVkZWExNWFhMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://6fcd3c2a-e0f8-4e07-bf42-a3570084f877@173.234.79.156:1020?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=-RyTywuH2pogbOrdVF2tbjPoXIZYLHquY6ROCMN9UC0&sid=ad057e6200dca0dd#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 173.234.79.156
 vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@173.234.79.240:2020?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 173.234.79.240
-trojan://csqlpmhz-e6no-upqa-6m5h-8yf4skna1f79@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://toqwuc86-h7qv-7ulk-a1ki-cgy51e0kku5w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

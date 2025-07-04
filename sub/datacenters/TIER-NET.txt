@@ -1,11 +1,11 @@
-trojan://4lufbv5p-j6w2-7i4c-wtrx-swkn2y8bppr1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://dz5mnzls-pwel-jktl-dp1c-aptna5ggbqfz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y9crkhj1-qrro-d5zs-qujp-652p8ssdz4r1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wabr639y-3dyf-w0ns-ahpj-vylcmco95yrs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.168.186
+trojan://xs309q4h-m7oc-34rf-81da-fh77tr100fbz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://8pjxhw3f-n3n6-68z1-4572-r42yeq0oik5e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9k4hbh5-xhme-jsns-jygv-zb3bz7lwog0v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p9qzurmj-m3c7-sfgv-8tsc-e77kcnkdw08r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.82
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.68
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@154.16.171.215:47121#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.171.215
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
+ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.168.186
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVElFUi1ORVQgXHUyNTA3IDg4LjIxNC41OS4xOTciLCJhZGQiOiI4OC4yMTQuNTkuMTk3IiwicG9ydCI6ODAsImlkIjoiMGY4MmJlZmYtZDU1YS00ZDI2LTgwMDAtNjc0NzAxMmFkMWI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIn0
-trojan://brd4atjc-s7zf-21lb-c1ve-grwm8e9e8zx5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yf3xggbl-022h-68f0-1wl3-abec7c2gkv4x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

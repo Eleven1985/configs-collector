@@ -1,10 +1,10 @@
-trojan://ramyjufc-q0zi-1ngf-x9ko-kbpen698hbz2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://rkmuxczm-2hcz-zodd-j77e-dn5nvmvl6bbk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tuctl9em-sumy-fdst-rgjr-yralh9r0av8u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zu0kude2-9ivw-ms5h-rxlm-tjh2merux4nm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://864e44d5-2cd8-c1e5-966a-4e59474db8b3@81.12.92.231:80?type=ws&security=none&path=/IVApi/NL/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.231
+trojan://wadl1xmh-rzxo-amia-roe9-df1vpe7xhe9x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://qway5zk9-xh49-rvaq-pcxu-tfkqqho4yhe8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ervz377u-m3oz-b1fy-od2l-6ov2ocdk44nn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://krafbjlr-cdmp-rtlj-7usn-xklogfqf0pcp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d2901eeb-586c-45d5-9347-86a093ff3713@81.12.92.228:32348?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.228
+vless://864e44d5-2cd8-c1e5-966a-4e59474db8b3@81.12.92.231:80?type=ws&security=none&path=/IVApi/NL/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.231
+vless://41f14179-648c-4554-963c-2c09d43e901f@fin7.ipstatic.info:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.84
 vless://e3133685-3ecc-4c2e-86cc-2f65bedca783@81.12.92.83:47162?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.83
-vless://41f14179-648c-4554-963c-2c09d43e901f@81.12.92.84:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.84
 vless://053381ac-6c3d-4272-ba3d-ca1f5220fb57@iras1.cipdoraextra22.shop:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.135
-trojan://4l1clniw-rq0u-8ct7-8jy1-wjy4so25p1yk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://utq6krxd-hprs-ncdu-ug9d-5350n8gqahfo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

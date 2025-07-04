@@ -1,9 +1,7 @@
-trojan://emsahn16-rq7b-sol3-p1up-ar2zjy8ssumc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://j58lihcb-tscr-1gt4-avef-j4jogvevv1t6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l59wwoyj-p8du-fv9e-wnr3-mu5fakq69eex@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3q0xpqg7-i8hc-iu9v-i1fo-r42meqsfws7b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NmVkYzdkNC03NDkwLTQ4ZmYtOTljYy00OTZiMGY0YTI3ZTk@103.37.45.155:19240#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.155
-ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@a1.1tsm-sab2qkybzqc4ujzufu5yqppaomvbqfmrjunx7dmbde1ktmr.cv:50008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.158
+trojan://al5o9nm4-r8tn-12t4-dm7h-oitdj5ovepl1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://1u4ui7ir-ztjh-hgfm-5xsy-bj8408z4h8hv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0w17eeno-sds9-t7t8-rt85-apo0swv2gulx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://glsjdz9h-wfl2-bs55-5avy-69c7wnsr4a0o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTcyYWJjZS0xOWM5LTQ5YzgtYWE1NS03NmFlNDBkNzFlNzE@xm.miloli.cc:41667#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.155
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WVRjM01qZzRZamd0TTJFeFlpMDBaakZoTFdGbU5HVXRaRGN5TVdOallqa3lNamsz@sx.75886993.xyz:41681#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.44.67
-ss://YWVzLTI1Ni1nY206NDIzY2Y2NDItNjUyOC00MTBjLWI1NDItMmFhZTA0MTEzZDMz@cdn-p1-hk.weibo-dns.com:11531#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.69
-trojan://3qgcx1r7-i59w-q5d1-7ih5-up1vte55yx20@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nded9ews-u83v-vspb-h28y-6bu63wo7xvv4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

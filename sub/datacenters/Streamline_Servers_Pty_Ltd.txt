@@ -1,8 +1,8 @@
-trojan://a6slzn06-4c40-4co1-zyyo-zw7gpd9t4k3q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
-trojan://90fuq2du-cdh2-01h7-vd3r-fsyokisuh7mv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vi22a7y8-uaj3-ne7u-17hd-t8zh1b12c5bp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9kfb9qxv-fumw-yusn-2ig9-z1l1pqq6nkyt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://909uqla4-u7yw-cu1f-1g9g-srnps4y7mnde@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
+trojan://2jthfhzl-e157-4pv3-de00-tx1or5h03xp3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zhpmirtr-wh7f-z0yx-xx3s-zu8wt5qjn24u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://paucmioo-6me2-9jg2-zhmv-umop7l40qt0d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@83.142.30.5:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Streamline Servers Pty Ltd ┇ 83.142.30.5
 trojan://ttfang@83.142.30.4:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Streamline Servers Pty Ltd ┇ 83.142.30.4
-vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?type=ws&security=tls&path=/vlessfp=chrome&sni=zula.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Streamline Servers Pty Ltd ┇ 38.76.247.230
-trojan://fsfdkfyv-r2wo-oj8c-lhwd-idb2zrrcv7d5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://71b2732c-851f-544b-b95a-b36ef08e5f5e@38.76.247.230:443?type=ws&security=tls&path=/vless&sni=38.76.247.230&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Streamline Servers Pty Ltd ┇ 38.76.247.230
+trojan://tqwjlosy-qfn3-rjfm-yxna-el3bd9mqlzbp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
