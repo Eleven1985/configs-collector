@@ -1,12 +1,12 @@
-trojan://yl676t66-us3q-wvzh-a9pn-vnxj9ow6daz9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://4xvujhz2-lnd9-2zrx-qopw-fzk08xxquu7p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nbfo2khj-110f-40bd-cs9k-sh7qo9i4tf5h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lqrbneff-itom-mm0k-o8fq-w7bboe37miqw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w0voaqa6-6b6o-ojqm-jrh5-e9udkyx16qp7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://j5l4un4m-yg7z-iz96-twi8-cfxzfg1rtgp0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://165rn6hc-2pyc-y3gb-k2uj-g4dqvtl2jse3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dtjos8fg-c26y-jn24-r70i-yonv84aqxwnr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
-ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.45
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
-trojan://mjjcef5f-nzyo-e1bg-r4ml-8pd7l2skgv5l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
+trojan://a55lb5cs-xwg9-f74t-8g9e-m1ykqkh318ul@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

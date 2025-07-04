@@ -1,7 +1,7 @@
-trojan://cmfguik9-04cz-q8an-ypjr-400nrz4qi9dy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://5b5upuea-njnu-uah1-zdf8-ttykqdf8eo1l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o6x3x8pl-k0h7-pada-r01g-ln1xubjbbxtv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ybk3g1j2-e8lv-gmnh-788d-nw69nuvadup9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iptbyeyu-4jxb-ggng-myx4-nn7etds20nw3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://f73y4ay8-bg5q-17fn-ifvd-zbabu5nieyz7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ffuhslbu-izsx-puzm-0vwo-v1xj5jxialiu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xgr5o4cs-59cs-tksd-zs6i-0e48sfeslyro@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.13:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.13
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.12:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.12
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.18
@@ -23,4 +23,4 @@ vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.18:443?type=ws&security
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.17
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.15
 vless://d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a@185.146.178.12:443?type=ws&security=tls&sni=config.9527521.xyz&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.178.12
-trojan://9erx2hjy-rlts-cm33-y0cw-1xi1d96pj0r3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kyiwntum-xlz2-mhpj-l4bg-zpkvi5jircgy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

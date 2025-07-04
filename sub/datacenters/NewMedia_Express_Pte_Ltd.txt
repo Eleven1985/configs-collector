@@ -1,12 +1,12 @@
-trojan://rrf3wgch-7efj-zhff-11of-b22t7ldvdh7a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://kklwz5mz-u75j-1922-8fvw-6run8hgq5hcb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://musslv3h-yspd-s1kq-kdzz-esl1na55ir75@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dirarodv-0hui-9k2m-8bgw-h2m5ob0grxiq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4h0hic32-trf5-2ohc-tolk-qid2zncwgbim@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://g5kkejt6-65l0-tms6-q8jx-p346moe40221@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://w0p6hnsy-humf-91rh-7wl0-d3u7olikugg8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lv7u5wyz-shxd-d4dv-3c63-33hoeexxye8i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?type=tcp&security=tls&sni=www.hkust.edu.hk&fp=edge&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - NewMedia Express Pte Ltd ┇ 38.225.102.22
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.82
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.231:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.231
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.31:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=edge&flow=xtls-rprx-vision&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.31
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.100.135:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.100.135
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.77:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=firefox&flow=xtls-rprx-vision&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.77
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.100.135:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.100.135
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.31:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=edge&flow=xtls-rprx-vision&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.31
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.82
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.231:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.102.231
 vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#KR 🇰🇷 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 113.29.230.65
-trojan://fptrhphv-qlmd-vjvh-isxr-nkul96l1qn5w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k83fobq8-rlw9-qext-kul9-m75kzu1ymh2v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

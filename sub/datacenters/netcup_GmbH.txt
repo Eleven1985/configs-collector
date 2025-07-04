@@ -1,8 +1,8 @@
-trojan://gsjoy7o2-yi0q-y3on-rtz4-qvnzws5h2j0p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://uhftbo6m-gshz-779q-1a1w-isb4i1tcdn6b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i6mgqk9w-5qbz-dp6z-d4e2-kdf9etmpt1ma@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t5ky39mn-evo7-8uvl-qohx-fosq1jqem5r3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45602#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
+trojan://16os7i2v-rm8n-3coo-ogf2-bhowvqm02emt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://5n55n4id-pluu-ri2n-cw1d-zw5jc93ef6ms@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://84j0afhw-bdqq-vr9u-9147-hkhsqrdjma0x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ij9m6wjp-t7h0-wo6u-tw7q-nogdncrma9d2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45597#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuMTMzLjE2OCIsImFkZCI6IjE1Mi41My4xMzMuMTY4IiwicG9ydCI6NTYzMjIsImlkIjoiYzRlYzY3YTgtMWRjYy00NzFkLWE2ZDctNGQ5YjllYzE3MjZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL2FwaS92MS9zdGF0dXMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDcuMTYiLCJhZGQiOiIxNTIuNTMuNDcuMTYiLCJwb3J0IjoyMzc4NiwiaWQiOiJkNjRlZTg1NC1lY2RiLTQyOTItOWJlYy1jMTFjODZmZTBjMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDguMzciLCJhZGQiOiIxNTIuNTMuNDguMzciLCJwb3J0Ijo1NjMyMCwiaWQiOiJjNGVjNjdhOC0xZGNjLTQ3MWQtYTZkNy00ZDliOWVjMTcyNmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3YxL3N0YXR1cyJ9
@@ -20,7 +20,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@202.61.193.248:443?type=ws&security
 vless://09a88f8d-f9b6-4985-95ac-fe889f07cac7@91.132.144.134:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 91.132.144.134
 vless://25dc4687-1fcf-4380-b633-b88a2afe9781@37.120.167.155:4444?type=grpc&security=reality&sni=nobitex.ir&fp=firefox&pbk=XiW81p0vPWFZYd7YtQMBh3T9GNaO6F7BfHqxsGmHLkM&sid=4b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 37.120.167.155
 vless://c5f665de-e820-44d0-abf4-d23aa2d6f977@93.177.65.104:51688?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KZ8OnDaJyDfaF9iwzXYuFdo796yoIy6fIh5JmdJ5fAs&sid=12ea6200#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 93.177.65.104
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuMTA0LjM5IiwiYWRkIjoiMTUyLjUzLjEwNC4zOSIsInBvcnQiOjU2MzIyLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9hcGkvdjEvc3RhdHVzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuMTA0LjM5IiwiYWRkIjoiMTUyLjUzLjEwNC4zOSIsInBvcnQiOjU2MzIwLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9hcGkvdjEvc3RhdHVzIn0
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@152.53.105.60:55700?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#NL 🇳🇱 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.105.60
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@152.53.104.110:55700?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#NL 🇳🇱 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.104.110
-trojan://sh5s5gnr-6ed2-5y0q-sxmj-q10dohsn4zge@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://eisxul91-pnc0-x3xs-81t5-uji0qqc1o5kt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

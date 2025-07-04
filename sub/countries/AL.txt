@@ -1,7 +1,7 @@
-trojan://yacy03rk-gj0x-kmqq-spqg-2nkc49pe8okg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://58ktnexh-m7zk-qxke-k3zh-n9812zb397oy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m054jnhg-ny96-gari-zkpi-la8y4mudqyp1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vommbf43-phhv-nkdh-hd9b-gwbmp9i7nlp0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7ecwa2gb-u7rb-8rxh-ecm3-8cfb1pzsr119@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://gvktnm07-h42a-m8xc-6zb4-z5dnc1ecd99l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://txxpqdhc-n62j-lj2n-7d4c-777yv5ifca9l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lx5bwkeg-c9kd-rnt5-y6kc-rk289jm5kie0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.98
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.250
 vless://ab03c163-c098-44ce-8e68-ed1578c82035@103.167.234.248:1182?type=tcp&security=none#AL 🇦🇱 ┇ VLESS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.248
@@ -14,4 +14,4 @@ ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#AL �
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.178
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.80
 vless://2d96c29e-4974-4bbb-a0f2-33e5c912458e@45.15.170.53:2443?type=tcp&security=reality&sni=api.snapkit.com&fp=chrome&pbk=QgyNvrlHczufNmykfEZlNojkJNtz_BSc8JCVGZlpdT0&sid=c104a7dd#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.53
-trojan://sls3ug9f-twqf-ejvw-27zb-cmhg10lek73i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tmx67kma-jd61-afgx-d7cl-qeexp32gn3kq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

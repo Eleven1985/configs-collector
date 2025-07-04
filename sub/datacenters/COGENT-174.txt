@@ -1,7 +1,7 @@
-trojan://ibn35714-55wn-pzgy-bmr9-9htkpq1xp6b3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://lk62d68s-i5hh-y05l-zxte-0eykwfc3nzcp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1fuztyf7-qmzq-q5kq-vbzu-ttx7ame95azt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pg3in7f3-qg3c-wf6e-lc5f-kuwyswb5fz2c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kud812ya-byuo-oop8-ndo6-0fz8kyp8mtun@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://tgn6ujaq-cgq0-az1i-s4uf-bynhvlb7cjcn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yf0cf399-vl47-ys0s-qjbe-5kmza71zhyl0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tmm645v0-z2ly-yw49-82q0-soxjzfpvgtpq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 193.235.207.28
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENPR0VOVC0xNzQgXHUyNTA3IDE1NC42Mi4xODUuMTYyIiwiYWRkIjoiMTU0LjYyLjE4NS4xNjIiLCJwb3J0IjozNTgxNiwiaWQiOiI2Y2ViYmRhYS03NGNlLTQzY2UtZGZlMi0xY2VjYmE5Y2VjYjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://YWVzLTI1Ni1nY206STlvZUgxNmlsTzd2ZUNIdVdpL3FMZ3ZIQU1JaHc4cGZZUXlqaDgxMkRhWT0@38.134.189.111:23937#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 38.134.189.111
@@ -41,7 +41,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC42My4wLjgzIiwiYWRkIjoiMzguNjMuMC44MyIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuMTk0NTgxNjIueHl6IiwicGF0aCI6Ii9wYXRoLzEyMDMwNjE4MjUyNSIsInRscyI6InRscyIsInNuaSI6Ind3dy4xOTQ1ODE2Mi54eXoifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAxNTQuMzEuNDEuMTAiLCJhZGQiOiIxNTQuMzEuNDEuMTAiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
 vless://f103ce28-d683-4c53-8279-aafb7bbfff42@38.79.119.43:16093?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 38.79.119.43
-vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-us.kcjb.org:443?type=ws&security=tls&path=/&sni=node-new-us-1.clashr.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 38.150.34.2
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.79.117.108:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 38.79.117.108
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.76.144.59:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 38.76.144.59
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@209.146.103.197:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 209.146.103.197
@@ -52,4 +51,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.237.3:587?type=ws&security=tl
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.239.219:587?type=ws&security=none&path=/?ed=2560fp=chromesecurity=tls&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 154.64.239.219
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.77
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@us-2isp.aloofly.eu:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.79
-trojan://rloq5iuy-bkb2-yf4y-95on-mt2akcj6wfiw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w5jrb2g0-4aff-f6wb-b2gx-yi4d99k9d3hs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,11 +1,12 @@
-trojan://4f6lpvgu-pfvg-pwnh-8r8r-freuvzc2afzw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://ynezst2j-vgqj-mkpu-kq8c-dbcbw8ouvkts@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yh6stmfi-z0ox-p8g1-xz28-pp2mko0hxatd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mk44xu2b-uroe-65vi-qsjj-ces4hgrdjxgi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fhbyi1zs-t95z-vn7l-q0ds-t1by4p8j7lzh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://r54k10rf-2tym-lraw-a5vu-kufumumjhuv2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9tcwrcp-1cxh-nmh4-yv4p-csyca7j5l582@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ngny4796-n8vf-t7ki-gebl-k2nlx8ghcnrm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 109.201.152.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTI5ZGFkMy1jN2ZmLTQ4NzMtYTk1Yy1hYjIxOWE3MmU1ZGU@cm3.naichald.xyz:38878#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 77.247.179.82
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.192
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.55
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.89
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.192
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.86:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.86
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.53
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.52
@@ -15,7 +16,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4xODcuMTI5IiwiYWRkIjoiMTQxLjExLjE4Ny4xMjkiLCJwb3J0IjoxNTM4NCwiaWQiOiIwYzI3YjVhNS1iNmYzLTQyMzUtYTU1YS1iODIyYzQ1YmMyZTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjQ1LjExNiIsImFkZCI6IjE0MS4xMS40NS4xMTYiLCJwb3J0Ijo0MzQzMiwiaWQiOiJjNjFiOTllNy1hZjM4LTQwNzQtZmEyNi00Yjk4NGVkYWU0MzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjEwMy4xNjMiLCJhZGQiOiIxNDEuMTEuMTAzLjE2MyIsInBvcnQiOjEwMDQ4LCJpZCI6IjFkNGU5NDZmLTI5Y2MtNDJkNy1iZDdkLWFiYzE1NTMyMjAwNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UUlVFIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTg1LjEwNy41Ni4xOTQiLCJhZGQiOiJyYWNrZWRnZXVrNTEwLm1vb25mcmVlLnRvcCIsInBvcnQiOjQ0MywiaWQiOiI2ZTllZWFlNi1jM2QxLTQzOWUtOWY3YS0yMTNmZTA5YjJkYmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0cnVlIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgNzcuMjQ3LjE3OS44NCIsImFkZCI6ImNkbnR3b2xheWVyaGsuZmFzdGlxaXlpLnh5eiIsInBvcnQiOjQ1Mjk5LCJpZCI6IjlkMmQ0Y2JmLWFjNzYtM2U2OC05NmM2LTA2ZGQ5MGZkNGRkZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3Nwb3J0L2NjdHY2aGRzLm0zdSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4xODcuODIiLCJhZGQiOiIxNDEuMTEuMTg3LjgyIiwicG9ydCI6MjU5MDEsImlkIjoiMGZiMjA5MmItNDk4Yy00MzhhLTgxMTctZjJlMzY4ZjU0YzZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4yNTAuODUiLCJhZGQiOiIxNDEuMTEuMjUwLjg1IiwicG9ydCI6NDMzODcsImlkIjoiN2IzZDgzMzgtZDU2Ni00ZjM3LThlMmUtNWQ1YjE2ZDc4YmExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@181.41.194.136:15734?type=tcp&security=tls&sni=www.tarafdari.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 181.41.194.136
@@ -26,4 +27,4 @@ vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?type=grpc&secur
 vless://5c94fa63-8762-495a-af4e-ca681f926202@a.mdproxyi.site:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - NForce Entertainment B.V. ┇ 181.41.194.210
 vless://c88af787-6347-4041-97df-acc98f6a6a17@141.11.250.213:45143?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.250.213
 vless://701e3595-6225-42c8-b1ec-d8074f1bd801@sd.sahand.knowledgeispower.com.tr:32387?type=ws&security=tls&path=/&sni=speedtest.com&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - NForce Entertainment B.V. ┇ 154.16.16.171
-trojan://fjawgu6w-o4ny-9s5t-vd3i-qb080ft76s3i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zh97rrvt-m14g-9kt9-sch4-a2fsim2il2gq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

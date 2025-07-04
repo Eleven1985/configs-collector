@@ -1,10 +1,10 @@
-trojan://dbdtx9kv-xirb-k2ed-3zbt-ibvdr89ffanr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://3u7my0hx-xle9-0wkf-2xt5-jbre1hnrxl8k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bxs3rpev-gwu5-5k6r-5tc1-4wzbk6kl05dt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kp1lw0rp-d4uy-v8ex-b11h-ite7aohf44cv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://czcxn0g3-cjie-g08i-ml1m-xili8fivfjcu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://yh9e0ys8-ktxc-pqzr-csgh-kjhb6gxnqqtq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1slno171-00xe-2qma-pol7-nke8wg2ul97x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m3b40cbv-r3lv-683y-kr1n-0fmevxtshz76@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@91.232.105.253:2375#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM@62.112.10.201:8090#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 62.112.10.201
 trojan://0na0e6fTAw@91.238.93.127:51708?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - WorldStream B.V. ┇ 91.238.93.127
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdvcmxkU3RyZWFtIEIuVi4gXHUyNTA3IDEwOS4yMzYuODQuMjM1IiwiYWRkIjoiMTA5LjIzNi44NC4yMzUiLCJwb3J0IjoxMDE3NSwiaWQiOiIyMDcwZjVkYS04MjllLTQ2MDAtZjMyZC1hOThjZjU0NTU5NmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - WorldStream B.V. ┇ 2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e
-trojan://damlx8zz-dbay-r96j-2q61-nek2oougvuhf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1y175iqs-420b-j8qc-wupw-gir9833z8mf3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

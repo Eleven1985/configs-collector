@@ -1,7 +1,7 @@
-trojan://6fziwml8-4sl7-0424-2uja-ul68qzq6mc9y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://lq1d4umq-ywbg-r0ol-d544-0fh4gxsedvd3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7kedyq20-ej4o-54l2-9t9r-uyxrbtgts9l0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gmuc0oed-6jt8-0j1e-xfb9-bqbwqpe0li4t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tahtasa1-0db2-jkue-cm1q-acmgciyqpfd6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://bfesp74x-6jfq-tgjj-mfnx-0q32n21lrukg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8p7ad2fm-pot7-3phb-pnbo-g66saauye5bq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e93388if-b7v7-o8wm-1808-gl5edmr67mxz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://juzi@217.160.216.30:443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 217.160.216.30
 trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net&peer=x4ger-ionos.devefun.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 194.164.57.9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxNy4xNjAuNDUuMzEiLCJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwicG9ydCI6ODg4MCwiaWQiOiI0ZTE4NjY3OC1mY2NhLTQzMjUtZTRiYy1iMjkxNmJkZjY3MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
@@ -15,4 +15,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxMi4yMjcuMjI4LjkxIiwiYWRkIjoiMjEyLjIyNy4yMjguOTEiLCJwb3J0IjoxMDAwMCwiaWQiOiJlN2NmNGQ0YS1lNWZlLTExZWQtYmEyYi1hZmRkMGZjNTRkMzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
 trojan://Julius@104.219.41.229:443?sni=miami.juliusnet.com&peer=miami.juliusnet.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 104.219.41.229
 vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@66.179.243.212:443?type=ws&security=tls&path=/&sni=vkvd127.mycdn.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IONOS SE ┇ 66.179.243.212
-trojan://pqicdppk-kque-poo8-zr2l-uuye4cp7m121@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://t91ew5l9-7f1w-d4z8-cexd-2klo630o4kza@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

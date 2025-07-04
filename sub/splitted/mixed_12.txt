@@ -1,7 +1,11 @@
-trojan://hovz32ju-58gk-8oy5-3zps-42iq5sbrij3k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:01 ]
-trojan://dcl0r2k2-v1vj-4h1d-mchl-3rg1yus6jz3y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://56bok3cg-xduv-4aah-19bg-ovi9t3xvi549@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kqb7xl9p-8e51-lrph-i6lx-fvvlrebven6j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hcrnh9uq-3hmp-6ish-1i8p-bc7hlp26s8xk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 15:20 ]
+trojan://xlsxwkyk-eacx-m1fw-00rr-8tyil1am0ox8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z4g2mpkf-r7wt-4q8l-epln-6pwd79atytcu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ghdvi57x-wyqo-dprf-ch27-kvx9v6rpq9v2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud56.jafiyun.world:22056?sni=scloud56.jafiyun.world&peer=scloud56.jafiyun.world&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud57.jafiyun.world:22057?sni=scloud57.jafiyun.world&peer=scloud57.jafiyun.world&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud58.jafiyun.world:22058?sni=scloud58.jafiyun.world&peer=scloud58.jafiyun.world&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://bLYUuMKgn1aHGKID@usa10.wujie8.xyz:443?sni=usa10.wujie8.xyz&peer=usa10.wujie8.xyz&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://bLYUuMKgn1aHGKID@usa7.wujie8.xyz:443?sni=usa7.wujie8.xyz&peer=usa7.wujie8.xyz&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://bLYUuMKgn1aHGKID@usa8.wujie8.xyz:443?sni=usa8.wujie8.xyz&peer=usa8.wujie8.xyz&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://biwe49r2Tv@amini2.ddns.net:2096?sni=Qoakq.mookomeilz.homes&peer=Qoakq.mookomeilz.homes&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
@@ -145,8 +149,11 @@ trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw4-tg-data.amazonwebservicess.co
 trojan://02d79af1-e121-401a-a294-fc72a50eb8b8@fscus.fscloud123456789.com:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://64df0a67-97aa-4140-9643-d1d4cceae6ef@fscsg.fscloud123456789.com:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw10-tg-data.amazonwebservicess.com:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://TJCfE7Mx2YcA8kX8zg@us2.chuqiangtou.net:4003?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://746b6774-e899-4205-a097-3da55c26f5b3@pqawsjp1.gsjc.cfd:443?sni=18-140-66-207.nhost.00cdn.com&peer=18-140-66-207.nhost.00cdn.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://746b6774-e899-4205-a097-3da55c26f5b3@pqawssg1.gsjc.cfd:443?sni=18-140-66-207.nhost.00cdn.com&peer=18-140-66-207.nhost.00cdn.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://TJCfE7Mx2YcA8kX8zg@au1.chuqiangtou.net:4003?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://TJCfE7Mx2YcA8kX8zg@nl1.chuqiangtou.net:4003?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://ce433528-39fa-4711-bc0d-25a5b1579574@us-05.licom.ml:12501?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@jgwhdlb1.gaox.ml:443?sni=jgwhdlb1.gaox.ml&peer=jgwhdlb1.gaox.ml&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443?sni=jgwcc1.gaox.ml&peer=jgwcc1.gaox.ml&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
@@ -921,7 +928,6 @@ trojan://44d67160-97f1-4e4b-aa82-9f8818eadcf7@awsjp19-data.amazon-azure.com:443?
 trojan://44d67160-97f1-4e4b-aa82-9f8818eadcf7@awsjp14-data.amazon-azure.com:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://99993945-3df7-4a80-91dc-e3fbff84c39b@sgp-2.fuckjdieng.uk:50162?sni=sgp-2.fuckjdieng.uk&peer=sgp-2.fuckjdieng.uk&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@de01.awcloud.top:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://df3ce737-09ae-4c2a-98fe-73840561ab67@tu1.worldwide.my.id:45890?sni=tu1.worldwide.my.id&peer=tu1.worldwide.my.id&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://fe7f5eaa-82bf-3857-99ef-780452a72a7c@scloud43.jafiyun.world:22043?sni=scloud43.jafiyun.world&peer=scloud43.jafiyun.world&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://44d67160-97f1-4e4b-aa82-9f8818eadcf7@awsjp4-data.amazon-azure.com:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://82lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eba3fa58b581353bb375d2ddad0f327938@ned-server-01.selfupay.com:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
@@ -3200,10 +3206,4 @@ trojan://b12c2eb0-b9e9-11ed-a046-1239d0255272@de.test3.net:443?security=tls#XX �
 trojan://74260716866785000@discrete-shrimp.shiner427.skin:443?sni=discrete-shrimp.shiner427.skin&peer=discrete-shrimp.shiner427.skin&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://S%2AvVs%23PaV5p_RrjF@domain2025.dpdns.org:8443?sni=DOMAiN2025.DpDns.ORg&peer=DOMAiN2025.DpDns.ORg&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://74260714362785500@driving-rhino.shiner427.skin:443?sni=driving-rhino.shiner427.skin&peer=driving-rhino.shiner427.skin&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://ba7a37e3-033a-e1ab-06f6-9027aa4630f5@e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net:15229?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://5FTlL946VG@fc.v2rayngvz.online:2087?sni=fc.v2rayngvz.online&peer=fc.v2rayngvz.online&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://1eb9fcd3-4875-4eae-a66e-bb054b84384d@id.artunnel57.host:443?sni=id.artunnel57.host&peer=id.artunnel57.host&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://1eb9fcd3-4875-4eae-a66e-bb054b84384d@id.artunnel57.host:80?security=none#XX 🏳️ ┇ TROJAN-TCP-NTLS ┇ None
-trojan://vvip-periantara@id3tr.jagoan.vip:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://&cfEoA9%21BsIJ@iran.itn24.ir:2083?sni=iran.itn24.ir&peer=iran.itn24.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://p65wg4x2-sxa8-en3y-c06p-rnym2p0gfvu9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://g8pmtm6x-w1os-o1u5-sflw-2ek58ls3othx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
