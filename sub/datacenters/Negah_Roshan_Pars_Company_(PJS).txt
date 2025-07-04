@@ -1,11 +1,11 @@
-trojan://j2yjp9pe-3heq-ka2g-vfl0-pvwb34vfkffi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
-trojan://kg7fhjwu-hwdh-zsag-zpyf-4psypbhcjk3a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://06g48nuk-kplh-u4wz-idnd-48fgu9d3y8jh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1zbifr71-gg00-g7xj-i511-0mul7yi8zrhr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@5.61.29.175:45326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
+trojan://i0e5l9ep-i2i8-x1m4-ebke-2l9x1vssvey0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
+trojan://sxidnsyx-d2ca-5z8y-14a4-ua2trygpm7e9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jng8xy2m-dnow-moxl-zi0d-0sngvpnjbz72@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xilvvf64-h4y2-977s-1zdg-g8fgosm70463@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
+vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@5.61.29.175:45326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
 vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@92.119.58.114:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 92.119.58.114
 vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
 vless://6530be69-28a5-4507-f5fc-51cfb7994317@5.61.24.228:20732?type=ws&security=none&path=/drgpu#IR 🇮🇷 ┇ VLESS-WS-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.228
 vless://7bdc9023-6873-49d1-8325-1404b6427e28@configmastervip.khalilv2.com:46991?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 92.119.57.130
-trojan://g75m79lt-vza1-mlmp-1402-txz19asjhis7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uv2kc230-cwr1-2mid-gk4m-8t8og0s1qdyo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

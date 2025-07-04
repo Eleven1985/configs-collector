@@ -1,7 +1,7 @@
-trojan://axa1tfcr-kivr-63e0-9f4w-79mf1zrox97d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
-trojan://cs9i09v6-vogd-9pq3-dsrm-gfq44agjeep6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://er25xabg-ml84-j0s8-q8cm-nsd4ssbt1dtg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c03kyq99-l1o7-4mx6-ac2g-rtzjfvyafzv4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://crb95k0e-0q9d-2f0t-k5gh-lteilx9qh7k1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
+trojan://1uhjesgb-tane-3fih-heal-vdn3hy1fpxhi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3np66cdy-viat-h70s-v9lj-lp3bf7vu3a3s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l7dekdlv-7edu-7mrs-m7jd-1lfsb50hkk3k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://414df689-dc19-418b-849c-f0f15967d71e@185.253.116.130:443?type=tcp&security=reality&sni=adobe.com&fp=chrome&flow=xtls-rprx-vision&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&sid=4048A3da#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.130
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.178
 vless://41f84081-f7d0-5444-9b92-1edcedddc51c@85.158.108.33:443?type=grpc&security=reality&sni=fauxid.com&fp=chrome&pbk=1nNTQrZmWpNvvl8_DjAHomTBLs15hjLqgVSw13wKyjo#BG 🇧🇬 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 85.158.108.33
@@ -11,4 +11,4 @@ ss://YWVzLTI1Ni1nY206SG40NmR6QmhoT1Q5WWxINA@85.158.110.62:8388#NL 🇳🇱 ┇ S
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIWiBIb3N0aW5nIEx0ZCBcdTI1MDcgMTg1LjQwLjg2LjE5MSIsImFkZCI6IjE4NS40MC44Ni4xOTEiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIWiBIb3N0aW5nIEx0ZCBcdTI1MDcgMTg1LjQwLjg2LjE5OCIsImFkZCI6IjE4NS40MC44Ni4xOTgiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMDUxMTExMjMwOTEwIiwidGxzIjoidGxzIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HZ Hosting Ltd ┇ 193.42.36.207
-trojan://22u4xjxw-hg4c-qp4b-4a2w-cbdwu66wcx3e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hcbrrzuh-5joi-81x4-c477-acbpmitl3q5v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

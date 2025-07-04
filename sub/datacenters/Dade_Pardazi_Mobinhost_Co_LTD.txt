@@ -1,11 +1,11 @@
-trojan://idgz1id1-9eie-sn2v-0ger-bowzdic8v5pt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
-trojan://ei97zw2k-w0fw-5xov-hbfc-mqzprg77ox2j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0ud7ghqd-435k-i1ez-mgao-3gqj6pe2ieio@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0n5j3vg1-i2wj-1c5p-9a25-40r59vul0kox@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mjxlm5r2-zsj8-wcqf-og8w-632yi6u1r2o5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
+trojan://rkbytius-5tae-m2ra-h5pc-82f015fsz7m0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dzbbzubi-l9rj-q6kf-8iyc-nzptssf5xjjp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ndep35vn-q869-ft18-4hca-vdtqxwgy811v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.58
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.47:6000?sni=node1.servernode.store&peer=node1.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.47
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@62.220.127.60:8080?sni=node5.servernode.store&peer=node5.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.60
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.57:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.57
-trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.58
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4MS4xMi4yNy40IiwiYWRkIjoiODEuMTIuMjcuNCIsInBvcnQiOjIwNTEyLCJpZCI6IjVkMGI2MWEwLTY0ZmMtNGE5Zi1lNGJjLTUwZWNkYmMzNzYyMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy0tTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4MS4xMi4yNy4yIiwiYWRkIjoiODEuMTIuMjcuMiIsInBvcnQiOjU4NzY4LCJpZCI6IjMyNGQzODY4LWNmZWYtNGJkNC1hYjQ0LTE3NzZhNDA2NjM1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA3OS4xNDMuODQuMTE3IiwiYWRkIjoiNzkuMTQzLjg0LjExNyIsInBvcnQiOjExNTQxLCJpZCI6IjQ2NDY1YmJlLTYyOGEtNDk4OC1hZTNjLTBjMTY0MjM3YTAzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -21,4 +21,4 @@ vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?type=ws&security=
 vless://fdb60214-1d03-4b83-c4b7-3d2d33c08073@81.12.27.91:21807?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.91
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.93
 vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.134
-trojan://72utvyp9-i9w8-c9s6-hfbg-uoz317ur817s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rtjdkx6j-n9st-a81n-qyku-vkqdgj1za0yj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

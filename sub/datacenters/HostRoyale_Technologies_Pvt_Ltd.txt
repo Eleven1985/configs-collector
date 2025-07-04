@@ -1,7 +1,7 @@
-trojan://0kv68yva-6vtn-eqv9-xtzb-g3vifjsc3p3m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
-trojan://3umjxdlz-bn7x-b073-xu17-0c2em3ebwi7y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jjzwttdb-ju30-1iaj-s2oh-6pepq3i7etmh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ew6mz6ob-2lwk-ja7a-hwoq-km457qz5xsqo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ssbkfzrf-ka0j-e2qc-4rrm-mun0t060z045@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
+trojan://w41yv26h-llja-2ylt-kji5-g8vefdragfq2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mqw3dol4-qcmq-aghg-nk2n-o9aa9zamz5wh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4bvvllyk-o7o8-0z4r-kvon-y0o8sdntmpdx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206dDJKbm5GcWpETW16V3Vyc2VKUGdCc1lZ@185.166.84.79:47553#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.166.84.79
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@185.108.105.129:50168#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.108.105.129
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
@@ -9,4 +9,4 @@ ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.153.151.164:40093#LU �
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 91.250.240.148
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@87.239.255.109:40282#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 87.239.255.109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUFNJRDIwMzc@185.246.173.45:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.246.173.45
-trojan://5yonp7hx-qdhh-ovje-mcu3-gevudgcnnu0f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://msl6qofi-1xm7-adxh-a48r-4gcbixka2exa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

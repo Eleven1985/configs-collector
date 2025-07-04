@@ -1,7 +1,8 @@
-trojan://wc2p4rbg-jbwh-6tpx-eo8t-x9zx7q17wfaf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
-trojan://hi0rtark-lay3-l9ut-8149-i66rxpc1ect6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oavcfpw8-grrw-zluv-42de-fhjwr41b7j46@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rcnmkxqa-kiw7-p2v5-zytz-9wvgrw3sadsc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g79l1l26-axfg-l8ut-o8al-kzuyvarag4wb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:02 ]
+trojan://u3z7x9c5-tfj8-ne2f-2r2s-hrmemo257vdd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h1e6w4kc-g5vz-ajt1-ak34-hhw61x8h2nou@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bc0gggw1-zvad-8myq-av3x-2znwh9j8ujyo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEltZW4gU2FuYXQgTm92aW4gQWxpZ2hhcG9vIFByaXZhdGUgSm9pbnQgU3RvY2sgQ29tcGFueSBcdTI1MDcgOTEuMTk5LjI3LjExOCIsImFkZCI6IjkxLjE5OS4yNy4xMTgiLCJwb3J0Ijo2NTMxLCJpZCI6ImJiMjhjZmNkLWMzZDAtNDg2Ni1iYjBhLWMzZmQ4NmIwZWMxMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEltZW4gU2FuYXQgTm92aW4gQWxpZ2hhcG9vIFByaXZhdGUgSm9pbnQgU3RvY2sgQ29tcGFueSBcdTI1MDcgMTA5Ljk1LjYxLjE2NiIsImFkZCI6ImlyYy5qYWhhbnJvY2tldC5zYnMiLCJwb3J0Ijo0NDMsImlkIjoiNDEwYjEwMzQtZjViMi00NmJlLThmODYtMzcwYmE5OTI1ZTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL1QubWUvU3BvdGlmeV9Qb3J0ZWdoYWxpIn0
-trojan://lfhkp5vt-sxff-g5pp-i0aw-s228n6z7rdvo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://bc625fc9-ef10-4be4-b603-9987be871822@edge.cloud.pishgaman.speedtest.net.6cd78fe2.bitrait.art:444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Imen Sanat Novin Alighapoo Private Joint Stock Company ┇ 91.199.27.139
+trojan://ksxoytkh-55sb-ki33-p9mf-20qm1ukv4n8d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
