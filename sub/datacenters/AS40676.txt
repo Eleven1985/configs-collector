@@ -1,7 +1,7 @@
-trojan://opgfl0fh-2ed7-bszu-llts-ptfl5adn9ax5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:09 ]
-trojan://yoax2elx-6i4a-4cbf-qbvc-h1y21y757zkq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gfda9t6h-x00e-6bil-vspa-ymw1glro0umu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wogdue6b-8pwe-lbpa-xwyg-yu6j97wtwvsy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q1z30sms-ul8k-4db2-9fpl-i5e4o7uicyyx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
+trojan://p0filsjn-g38o-uk09-aalj-o50oy1gntuu5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n31v6p0m-a2n8-omqi-um6h-dfmsdn435e2g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://70ujc29p-ulpr-wwou-ogvz-9n3vcemsz1og@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTNDA2NzYgXHUyNTA3IDEwOC4xODEuMjAwLjIyMCIsImFkZCI6IjEwOC4xODEuMjAwLjIyMCIsInBvcnQiOjE3MTYzLCJpZCI6ImQ1NDgxNGExLTdhOTMtNDVmOC05MTE3LWRiMzE3YTI1ZDEwMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?sni=glc-us1.windowsupdatea.com&peer=glc-us1.windowsupdatea.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS40676 ┇ 108.181.24.37
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@108.181.22.249:443?sni=4-193-163-88.nhost.00cdn.com&peer=4-193-163-88.nhost.00cdn.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS40676 ┇ 108.181.22.249
@@ -10,4 +10,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTNDA2NzYgXHUyNTA3IDE0MS4xMS4yNTEuMjMxIiwiYWRkIjoiMTQxLjExLjI1MS4yMzEiLCJwb3J0Ijo1MjcyOCwiaWQiOiJkNWUxNmI4My03YjVjLTQ1ZWEtZDc0OS1kNmY2YWQyMTQ0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTNDA2NzYgXHUyNTA3IDEwOC4xODEuNS4xOCIsImFkZCI6IjEwOC4xODEuNS4xOCIsInBvcnQiOjE4NjU3LCJpZCI6IjYzNmJhMDcyLTQ5M2UtNDIzNS1iN2E4LTgyMmJkNGUzNDBkNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVM0MDY3NiBcdTI1MDcgMTA4LjE4MS4yMy4xNjEiLCJhZGQiOiIxMDguMTgxLjIzLjE2MSIsInBvcnQiOjgwODAsImlkIjoiOTY5ZjE5MDktYzBkMy00YzMwLTgxM2QtM2FlYzVjODM4YjdkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvMUlLWWpWMHIvIn0
-trojan://lpd5ng5h-v5zi-yj2q-k3np-jdbztlnohlx4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://y8t49r66-2yfk-232y-9t0p-4pg8kw50my3x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

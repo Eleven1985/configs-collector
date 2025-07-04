@@ -1,10 +1,10 @@
-trojan://f6wunjaq-vp2z-mi90-cmv7-s9l7jleyfqhj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:09 ]
-trojan://fi3fru3c-mi1f-bpvl-5chq-wz24k2nhsfhd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0id8lbyl-e4hu-ju4o-sht3-wtr38rbz338k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nxomjihb-jj8x-u8o5-rk0l-jhz80o8s5z5e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8tjybg9z-loq0-vpe6-fe5c-9ex7na6xfv0c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:31 ]
+trojan://2cznjya6-cq88-gl5n-hza4-9me7l48ks6dr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wboggq6o-057v-cgs3-ixu5-ij3g2rqiirhi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xrynaubl-e5a7-jnms-rffa-6g5qm6ldx6k0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuOC4yMDQiLCJhZGQiOiIzOC41NC44LjIwNCIsInBvcnQiOjUzNDMzLCJpZCI6IjNmZjRiYWJkLWQ3MTgtNGQ3My1jMzgyLTU3YWJmMjdjMjlmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMTAzLjE1Mi4xNC4xNTIiLCJhZGQiOiIxMDMuMTUyLjE0LjE1MiIsInBvcnQiOjQ0MywiaWQiOiJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://cfa36472-4adb-4b38-8418-d3c4afe07590@154.90.54.4:58907?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.54.4
+vless://d116cb52-3637-4fb2-8788-0a071a28374b@154.90.54.4:21056?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.54.4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.45.129
 vless://10b1dde8-2145-4480-82b6-6dbb11552b4f@38.54.45.217:443?type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#AR �🇷 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 38.54.45.217
 vless://952670ec-a6e7-47e3-9fd6-3f95b2088ea2@154.205.154.81:443?type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#AR �🇷 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 154.205.154.81
@@ -24,8 +24,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SH
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.193
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNjAuMjIwLjIxNCIsImFkZCI6IjM4LjYwLjIyMC4yMTQiLCJwb3J0Ijo0MjA0MCwiaWQiOiIwMTY3ZDgyZC0yYTViLTRlODItOWMyZi1hZTZmMzBhY2FjZGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb3dhOUdxZjhRbm9xSXRBYmdXT05K@156.244.37.10:443#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.37.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@156.244.36.170:8080#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.36.170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb3dhOUdxZjhRbm9xSXRBYmdXT05K@156.244.37.10:443#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.37.10
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuMTI1Ljc5IiwiYWRkIjoiMzguNTQuMTI1Ljc5IiwicG9ydCI6NjM4MTgsImlkIjoiZDljZTBlZDMtODVmNi00ZTM5LWJmYTgtZjA0MGRhYzQ1MzE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuMTEyLjE4MiIsImFkZCI6IjM4LjU0LjExMi4xODIiLCJwb3J0Ijo0NDY3NiwiaWQiOiI2OTc4OGIzOS1iYTZmLTQ3ZGQtODBmNy0yNmQ3OTJjYmMxZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuOTcuMTEwIiwiYWRkIjoiMzguNTQuOTcuMTEwIiwicG9ydCI6NTU2NSwiaWQiOiIxZDRkYmU3Ny00OTQ1LTRiMTgtODVhOS02YWI4ODM4NWQxYjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ
@@ -80,4 +80,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuNi4yNDUiLCJhZGQiOiIzOC41NC42LjI0NSIsInBvcnQiOjI3MTE0LCJpZCI6ImI2NTE1ZmZhLTgzYzItNDc0Mi1mMGNkLWZiOTZhNjRlYTBjMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuMzAuNDciLCJhZGQiOiIzOC41NC4zMC40NyIsInBvcnQiOjU1NzAwLCJpZCI6ImFmMTFmMjdjLWVkMGMtNDg2ZC1iY2M0LWZlMTFmMzc1OWUzZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDM4LjU0LjE0LjExOCIsImFkZCI6IjM4LjU0LjE0LjExOCIsInBvcnQiOjIwMzQ2LCJpZCI6IjQwNWY3MmQ1LTA2MWYtNDE1Yy1hMDQ2LTUxMjk1ZmE2MTc5ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://oxz96aie-vx8k-cc8j-9pg6-py75d1270pmh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q71cakvt-dhm6-gadx-j1l9-9367q6orqbig@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
