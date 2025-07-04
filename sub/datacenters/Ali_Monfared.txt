@@ -1,7 +1,7 @@
-trojan://053h3x48-fobm-jpqd-hdc1-y9qdlyrrpt4i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
-trojan://c40uhjzg-nzsl-h38o-ror8-c7cjf853s8e9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t5v84q43-orlt-kqm7-ej8m-pmzgras3w7a5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h09393yr-gytq-gv32-vcnz-z3ju6usj0ph7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4arryt52-z7ep-fbfd-xl8c-poskqea9iecy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
+trojan://7th71ums-p2or-z1dj-96ec-0xtoxhy10soa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kbjh5b84-k4vz-8h0q-ybfj-52kq431bovhi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hit98vs3-avnn-3rcj-2sev-q31z4h28aqq4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZl9wUlhTTkZqNlE1RXdGbGZBTUNn@185.124.175.102:100#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Ali Monfared ┇ 185.124.175.102
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VnQwOEg0QWRLQmdheHVEVzIvKzZNV2lpSXd6KzY1eHB3dlpxK2xkejhLbz06cFNJQnpMK0gwbXV4TUZqZW1HSmRtTWVWSUdGV1NZVHkwb2graXNqMzUxRT0@netorg.nightwolf.shop:10147#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Ali Monfared ┇ 188.212.97.112
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMjEyLjIzLjIxNC4xNjIiLCJhZGQiOiIyMTIuMjMuMjE0LjE2MiIsInBvcnQiOjEyMTEwLCJpZCI6IjUyOWRjYTY4LWRiMzMtNDY3ZS04OTk1LTRhODRmNTU2YWFkYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -16,7 +16,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTg1LjEyNC4xNzUuMjAwIiwiYWRkIjoiMTg1LjEyNC4xNzUuMjAwIiwicG9ydCI6NjAyMiwiaWQiOiIzNmU5MWViNy05ZTIzLTRiZTYtOWY4YS04ZmNjNTc3ODIwMmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.205
 vless://86ea1fb6-a7bf-40af-9bf6-a7dc3771e52e@188.212.97.148:6007?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.148
-vless://66214617-4e4d-4dc0-baa1-bed80c7b7792@185.124.175.192:443?type=xhttp&security=tls&path=/?ed=2048&sni=ir.rapido.biseda2.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Ali Monfared ┇ 185.124.175.192
 vless://30a02ad5-3fd8-4427-b954-5a093d853e33@185.124.175.32:57058?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.32
 vless://0a20baac-5096-4546-ae84-7615dda18754@185.124.175.36:15807?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.36
 vless://3b8699c4-b429-447f-93f7-d45b37bc7248@185.124.175.56:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.56
@@ -29,14 +28,15 @@ vless://8abc3a29-9914-4630-a3e6-d8bf3901bc19@185.124.175.221:1215?type=tcp&secur
 vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@185.124.175.216:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.216
 vless://9e2f0d15-ae37-4eca-a505-78ef2b9e84e4@188.212.97.55:3034?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.55
 vless://6305192f-823e-4db6-ba48-b76ec95fa5bf@212.23.214.70:44901?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 212.23.214.70
-vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@185.124.175.161:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.161
-vless://0db8d780-5354-85bc-8f64-f7b05837b971@185.124.175.35:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 185.124.175.35
-vless://0db8d780-5354-85bc-8f64-f7b05837b971@188.212.97.75:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 188.212.97.75
-vless://0296a016-82c7-4d0b-8d8a-4dfb79467f1a@188.212.97.192:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.192
 vless://01546a66-9978-472d-a59c-b43d3e450695@188.212.97.28:31313?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 188.212.97.28
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.71
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@vp.helsvptun.m2ring.sbs:6666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 212.23.214.236
+vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.161
 vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.92
+vless://66214617-4e4d-4dc0-baa1-bed80c7b7792@185.124.175.192:443?type=xhttp&security=tls&path=/?ed=2048&sni=ir.rapido.biseda2.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Ali Monfared ┇ 185.124.175.192
+vless://0db8d780-5354-85bc-8f64-f7b05837b971@185.124.175.35:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 185.124.175.35
+vless://0db8d780-5354-85bc-8f64-f7b05837b971@188.212.97.75:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 188.212.97.75
+vless://0296a016-82c7-4d0b-8d8a-4dfb79467f1a@188.212.97.192:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.192
 vless://f50bfcd5-aaf3-458c-e146-7b8a8ee29f9a@0:0:0:0:0:ffff:d417:d6ca:29601?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 0:0:0:0:0:ffff:d417:d6ca
 vless://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@185.124.175.49:1818?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E#IR 🇮🇷 ┇ VLESS-TCP-RLT - Ali Monfared ┇ 185.124.175.49
-trojan://obwbbs3r-67c3-y1xj-ely5-ibzbwimxyyua@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://d5ulr57n-279g-oquh-z0t1-vpqm18p9x0zj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

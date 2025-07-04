@@ -1,7 +1,8 @@
-trojan://7norl5k4-2e38-78q7-jr6m-hqowp7ns5lpg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 17:14 ]
-trojan://humwpd8t-2e84-j4ex-q03z-4nxxmkcxa6n1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qqoek0ui-doiu-bouv-x95v-q7mse4jidyl8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6jm6na3e-hswo-2pa7-l06d-bagivsuwycy4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://523jjmox-re6r-ik5s-qol9-ukag480l0rew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 18:03 ]
+trojan://ne49f5k8-adqs-pqoc-2xh7-xnfzk949ukt4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jqrgvdi2-myby-j4ci-n0ck-nbzsjyiqab99@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a0r4fok7-mxq6-6hdu-jy0z-14xj0g8j0bhj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgUGFydmEgU3lzdGVtIExMQyBcdTI1MDcgNDUuMTU5LjE0OS4xOTQiLCJhZGQiOiI0NS4xNTkuMTQ5LjE5NCIsInBvcnQiOjI3OTI1LCJpZCI6ImI2NzBhZjIwLWIyM2ItNGQzYy1hMzNlLTdiMDhhMGM1NWIxMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://815724d3-0d61-4761-be07-471441d42be5@45.139.11.243:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-trojan://ggr6u5l5-d22u-1uf5-2kcr-pfspc8qrf31g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://006e443a-49f1-4a09-a76a-e7eac23f9047@all2network.qwertyuiopasdfghhjkkllzxcvbnm.blackkwolff.com:443?type=httpupgrade&security=tls&path=/?ed=2560&sni=e5e82bb0ddbc6e7b.filmiranidownloadsitemoviesub.ir.&fp=randomized#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Pars Parva System LLC ┇ 130.185.76.121
+trojan://kizu7x3h-09rw-ytyw-4ga2-1k1gez5vjpl4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
