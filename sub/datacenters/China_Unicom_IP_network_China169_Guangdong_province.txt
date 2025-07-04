@@ -1,7 +1,7 @@
-trojan://f6s5wjca-038k-gx8j-3mak-lqdx06fl59v9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
-trojan://9f7vh90p-rcp1-7iwe-5pw5-85zrus45v38z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qjt2kwcf-vloz-vrjr-xzpd-k0honcxw5hp2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m54bp1bg-9990-68or-3te4-bbk0o2a881sb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cdqlhvge-5fg8-d7tf-6f5i-5shcyoeyj8fd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:09 ]
+trojan://x1uahhqm-x0xg-a506-1tbn-fwdyniqi2ffc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://azkz06dy-sp85-z21w-pxwg-9kw3yepdyq89@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://41cjp22p-p8yr-qh8g-zlio-2byltr6vr2kk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://le5Yin@120.82.67.69:28101?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 120.82.67.69
 trojan://zYNLlN@120.82.67.125:28132?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 120.82.67.125
 trojan://Ed4ahJ@120.82.67.188:28101?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 120.82.67.188
@@ -13,4 +13,4 @@ trojan://gleFCI@120.82.67.155:28101?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS 
 trojan://eeC5GD@120.82.67.220:28132?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 120.82.67.220
 trojan://P9ryw2@120.82.67.161:28132?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 120.82.67.161
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVW5pY29tIElQIG5ldHdvcmsgQ2hpbmExNjkgR3Vhbmdkb25nIHByb3ZpbmNlIFx1MjUwNyAyNy40MS4yNDcuNDYiLCJhZGQiOiIyNy40MS4yNDcuNDYiLCJwb3J0Ijo1ODg4LCJpZCI6IjI5NGVlY2YwLTExOTQtNDAwNy1hYTIzLTY1MzA5OTAyOWE4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://84b0foxo-5jok-m3l5-9wgp-416t3ug8yvbv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://61bgs5n8-zpwe-ns8a-7hyp-hsfwjmxcutw7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

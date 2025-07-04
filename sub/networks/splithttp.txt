@@ -1,7 +1,7 @@
-trojan://zf5t5fs9-8sro-5v1k-7591-4xqgirh2dny1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
-trojan://31bo4lug-7sc0-ewaa-1m7n-8zf8bkndln1m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://33ycx5h3-sgqh-6fnl-c5nm-xmetoz7nqo1u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3k7ndlb2-hg5t-8f2r-v4s2-cvpt47ugwjxb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wotrql79-5wqn-ndw0-c3c9-6px10woew2vx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:09 ]
+trojan://rokqot2f-wwnc-d293-pcy9-rbvyba8ctwyo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tn9plhdh-l4gn-uedg-gq5t-uygeg3yt0hut@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ckzama43-v7vy-7qmv-gj8n-7jqzd15b8d23@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?type=splithttp&security=tls&path=/eaglexw&sni=nxginix.pages.dev&fp=random#FR 🇫🇷 ┇ VLESS-SPLITHTTP-TLS - Bjt Partners SAS ┇ 185.16.110.1
 vless://5931f598-e766-4829-9e3b-89406b6b3606@109.61.91.231:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 109.61.91.231
 vless://5931f598-e766-4829-9e3b-89406b6b3606@185.246.209.21:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 185.246.209.21
@@ -29,4 +29,4 @@ vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.58:443?type=splithttp&se
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.245:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 143.244.51.245
 vless://51c3d458-b5d4-4542-a725-e24c2c783b76@192.0.63.44:8443?type=splithttp&security=tls&path=/v2nex¹box&sni=f41.maryam1500.top&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Q2HOLDINGS ┇ 192.0.63.44
 vless://51c3d458-b5d4-4542-a725-e24c2c783b76@192.0.63.43:8443?type=splithttp&security=tls&path=/v2nex¹box&sni=f41.maryam1500.top&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Q2HOLDINGS ┇ 192.0.63.43
-trojan://y9lemcl7-610y-saxb-abt7-gvmfgzoktx51@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ayeslz6u-ok5y-jkey-gudy-en6gogyfjb42@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

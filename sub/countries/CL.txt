@@ -1,7 +1,7 @@
-trojan://n7by60jt-flwe-fsyo-lgq7-kbbyqnz56vtx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 19:23 ]
-trojan://renkoq42-1l6k-tg2e-s4un-pjpq3xt0ulwo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://16gt4key-uo1u-1bfm-chjk-m595uksg4xnd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nippy98o-qirx-uigp-7u3q-e5kqg10tjjia@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fzxzg9tq-lvvj-9m4y-fb0h-279517v7jleb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 20:09 ]
+trojan://1edcp6vx-tcfk-pbvw-q09i-ujbw557awihu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u9zf1ul0-8dcp-kibv-xfw7-igmr137lj44y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ov7rid8s-rjdg-uejm-ri81-ipv57i1j5k5a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.99.161:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-TLS ┇ 162.158.99.161
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
 ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
@@ -9,4 +9,4 @@ vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=ws&security=
 vless://32fe54d2-1605-41bf-aff4-8e24957a988d@45.82.249.35:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.230.9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
-trojan://bpjasvqb-tzap-hke0-xdyp-9hdoau5gbkpp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lurx0q9k-4z7n-9p3r-xbfw-dda8kch5c5h7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
