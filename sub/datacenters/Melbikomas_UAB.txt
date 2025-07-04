@@ -1,7 +1,7 @@
-trojan://7vc1pxn8-h3om-yevb-wqdz-j5dfs7cpvfjg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://a71yhplu-mjq0-mpny-jwvn-mkdr3gefjpr2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ws23knfl-wa6s-nryt-h933-4qk4tt8ywhvf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uo6yvmpn-nur6-aabx-uh6y-uo8fpunc4qer@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mrrrwd2z-do7t-i68b-quqk-okv4wks8ifw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://fxwnif51-idi3-z6rz-pulp-s2f9uy72yfgl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://acz7j16z-gdvh-wirj-lj2l-hy0gzzw8twcb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9nlpni4a-lp6u-5ne4-5v4k-yjmdgn11iyni@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWVsYmlrb21hcyBVQUIgXHUyNTA3IDg5LjM2LjE2Mi4zNSIsImFkZCI6Ijg5LjM2LjE2Mi4zNSIsInBvcnQiOjQ3MzMzLCJpZCI6IjdlM2U2YzkxLTkwZmEtNDMyMS1hZDc0LWRiMDBmMjQ0MjEzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@213.183.63.221:9001#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.63.221
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@213.183.63.218:9079#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.63.218
@@ -9,8 +9,8 @@ ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@213.183.63.217:9094#BG 🇧🇬 ┇ 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.44.17
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gTWVsYmlrb21hcyBVQUIgXHUyNTA3IDIxMy4yMjYuNzEuMTI0IiwiYWRkIjoiMjEzLjIyNi43MS4xMjQiLCJwb3J0IjoyMTEzNiwiaWQiOiIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiYXV0byIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lbGJpa29tYXMgVUFCIFx1MjUwNyAyMTMuMjI2LjcxLjIwOSIsImFkZCI6IjIxMy4yMjYuNzEuMjA5IiwicG9ydCI6MzEyNTEsImlkIjoiYjhhYWE2ZTEtZjBiMy1iOWVjLTNkZmMtYmIyMjZjMTY3YjMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzRnLm1rdm4ubmV0In0
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.224.248.120:443?type=ws&security=none&sni=0926.qiang2000.link#DE 🇩🇪 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 185.224.248.120
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@213.183.44.184:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 213.183.44.184
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.224.248.120:443?type=ws&security=none&sni=0926.qiang2000.link#DE 🇩🇪 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 185.224.248.120
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.183.44.105:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Melbikomas UAB ┇ 213.183.44.105
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 5.188.181.201
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lbGJpa29tYXMgVUFCIFx1MjUwNyA1LjE4OC4xODMuMTAiLCJhZGQiOiI1LjE4OC4xODMuMTAiLCJwb3J0Ijo0Mzk3NiwiaWQiOiJjN2M3MjUxNS00ZDlhLTRlZmEtY2M4NC1mZDc5OWQzNzhhMTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
@@ -32,7 +32,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3l
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@213.183.59.218:9024#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.59.218
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@185.246.155.23:9020#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.246.155.23
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@213.183.59.191:9097#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.59.191
-vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 103.97.88.93
+vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 103.97.88.93
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@185.246.155.198:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 185.246.155.198
 vless://1bbaa76a-43fd-4a36-b54d-6351223de5d6@103.97.88.187:443?type=ws&security=tls&path=/lzjjjjjjjjjjjjj&sni=msk.lzj520hxw.dpdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 103.97.88.187
 vless://2b592ceb-fb13-427f-9bc2-bd1df15e9c15@109.122.202.170:33011?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 109.122.202.170
@@ -101,4 +101,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 trojan://3c4e10af98c30972@88.210.36.106:443?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Melbikomas UAB ┇ 88.210.36.106
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gTWVsYmlrb21hcyBVQUIgXHUyNTA3IDg4LjIxMC4zNy4xOCIsImFkZCI6Ijg4LjIxMC4zNy4xOCIsInBvcnQiOjIzNDUzLCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJhdXRvIiwidGxzIjoidGxzIn0
 vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 185.140.211.50
-trojan://0vzpfbnj-9v6s-na5b-3r6l-dz71ucf00hxe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://snj8mk9m-9bzm-1wv4-u4zu-t3viq3rdr2h1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

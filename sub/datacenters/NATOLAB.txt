@@ -1,7 +1,7 @@
-trojan://9ud6ke6s-heth-jmzv-qpu3-xr0847syl9v7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://jpruo9nv-ozvd-msyw-8ud9-63hrigqdjip4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fyublv2k-aj12-qtsz-muv6-1ownsy5a5bm6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jeqlwltu-b36d-bv3g-t7e5-wpz7m9ke0u4n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://copqxsn0-u83d-esbc-8hzu-qgwkfmi3rer9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://xhxil72g-1fmb-121w-kbu2-ch70edharkfs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zrtys3y4-10vy-jwtv-u86z-u9xbc2fu09f7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ij93vf2r-dvuu-pay1-n2rg-gnhvlohepi4n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.167:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.166:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.165:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.165
@@ -24,4 +24,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.80:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.80
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 134.195.101.32
-trojan://ap2dqiq0-4awp-0ba3-d4cf-2kjx9bau453g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://86potzyc-dhjd-dyul-hv7q-xj6p3vjinahu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

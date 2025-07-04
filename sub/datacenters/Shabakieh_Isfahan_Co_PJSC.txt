@@ -1,10 +1,10 @@
-trojan://8ai9cms2-u5qb-b6sb-wimf-tbafywap0xld@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://3nz7zbd6-jt16-276o-m1v0-wr8w6w8ntls7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1mykhhkp-y1fs-2bid-m2ep-w0lxe840m2f7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ld2et017-bx84-csi1-2c1q-7jp0utd2rg8m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vpzs57nd-jowk-yxxs-4e20-hd8j9duugf3w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://28tapbyy-gg6g-s2pa-9iee-rkjj9u7wa211@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://anjepm8n-ivwd-zppd-voj2-9nebgp9etkc6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rhpus125-0yj2-rgum-sa9l-xhm861cahsxp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d2901eeb-586c-45d5-9347-86a093ff3713@81.12.92.228:32348?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.228
 vless://864e44d5-2cd8-c1e5-966a-4e59474db8b3@81.12.92.231:80?type=ws&security=none&path=/IVApi/NL/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.231
-vless://e3133685-3ecc-4c2e-86cc-2f65bedca783@81.12.92.83:47162?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.83
-vless://41f14179-648c-4554-963c-2c09d43e901f@81.12.92.84:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.84
+vless://41f14179-648c-4554-963c-2c09d43e901f@fin7.ipstatic.info:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.84
 vless://053381ac-6c3d-4272-ba3d-ca1f5220fb57@iras1.cipdoraextra22.shop:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.135
-trojan://8shdlv1k-j78v-m5q0-wpl2-42aez6jfgvr0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://e3133685-3ecc-4c2e-86cc-2f65bedca783@81.12.92.83:47162?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.83
+trojan://5i4aq8lk-7wbz-emtf-w6ui-s872dv9y4y48@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

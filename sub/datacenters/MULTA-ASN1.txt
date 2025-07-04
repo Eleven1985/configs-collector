@@ -1,11 +1,11 @@
-trojan://xgziik0y-4btg-dtja-ausb-grpevzty2yhh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://rxkfrjg3-ilsy-163k-4w9o-4osjhx0ieuhr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hb41g8th-y09w-6m9g-8wjh-95tr0j8vxkt4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://euucycw7-gqzo-38ru-n2sv-hcw7tp8p5q2g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qa7effms-gdgb-juhz-0jq0-gic3untikwt6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://z1f9n2eb-b3ag-c9nd-5c7p-kh3snqtvsbmh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e0lswjdw-d1k2-hku5-qyyv-445y7cq6na5w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eca65iyf-2gkd-osb0-nx3g-7qb6kyxl7c1m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQcm94eUZyZWUyMDQ5@142.171.148.106:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - MULTA-ASN1 ┇ 142.171.148.106
 ss://YWVzLTI1Ni1nY206VHVnQkM4eXh3Zg@204.13.153.248:38960#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - MULTA-ASN1 ┇ 204.13.153.248
-trojan://Aimer@148.135.15.148:443?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MULTA-ASN1 ┇ 148.135.15.148
 trojan://74afe64d-a409-4cce-8e39-4c86b15edbd4@148.135.119.212:43456?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MULTA-ASN1 ┇ 148.135.119.212
+trojan://Aimer@148.135.15.148:443?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MULTA-ASN1 ┇ 148.135.15.148
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNVUxUQS1BU04xIFx1MjUwNyA2NC4xMTIuNDIuNzMiLCJhZGQiOiI2NC4xMTIuNDIuNzMiLCJwb3J0Ijo0NDMsImlkIjoiNDk0NmY3NzYtMGFmMy00OWYzLWFjYWQtZDE1NzQ3NWQyNTNlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvUDBTNVU3TksiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNVUxUQS1BU04xIFx1MjUwNyAxNTQuOTQuMjE4LjEzMCIsImFkZCI6IjE1NC45NC4yMTguMTMwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNVUxUQS1BU04xIFx1MjUwNyAxNTQuOTQuMjE0LjIiLCJhZGQiOiIxNTQuOTQuMjE0LjIiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJsdnVmdC5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoibHZ1ZnQuY29tIn0
@@ -44,4 +44,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - MULTA-ASN1 ┇ 154.81.182.74
 vless://51d22c42-5342-4715-a927-1b76226dd4cf@156.229.48.66:8443?type=grpc&security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir#US 🇺🇸 ┇ VLESS-GRPC-TLS - MULTA-ASN1 ┇ 156.229.48.66
 vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@154.81.182.233:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&sid=2cecca7813d0c575#US 🇺🇸 ┇ VLESS-XHTTP-RLT - MULTA-ASN1 ┇ 154.81.182.233
-trojan://nb8uiuko-0gsj-tyur-zr47-u9w1dnq6xizj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qs2wyiuu-4pa1-dro1-88es-z9hg9an03ca4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

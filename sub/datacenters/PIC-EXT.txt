@@ -1,7 +1,7 @@
-trojan://ofnd984b-luv4-8e54-v0rz-xpukcfgxhwrc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://17pmre7y-rq4p-0ozr-elld-fbqxnlfb4krd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d3cheap5-4zjt-4axh-8hfn-x6x2u3obhli1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a6rmgz35-at2i-anth-0s2s-vswp0w4d897z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bu1pij11-e3xo-lweb-rggh-s4l8omsky7ep@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://rspz7b0k-cp3b-k7zq-7iln-950einsbu2ns@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5pdq0pft-fje6-izvn-wivv-k9zq1rvrdkqw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k6l1jbbf-0f4g-tzrw-9dad-q8nwm213ypkx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@130.250.137.63:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PIC-EXT ┇ 130.250.137.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@130.250.137.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.29
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@130.250.137.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.251
@@ -27,4 +27,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.156:2082?type=ws&securi
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?type=ws&security=none&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.147
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.186:2082?type=ws&security=none&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.186
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.101:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.101
-trojan://pxaxe24m-jvz3-g0ds-zagt-kjckzahw39nd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://i77x1q9c-vw9a-fv62-ykcd-w3rmh73bl39t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

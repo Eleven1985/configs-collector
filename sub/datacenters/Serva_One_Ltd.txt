@@ -1,8 +1,8 @@
-trojan://9y08to5g-5iwp-7if3-26qu-frzm75fzpovt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://ucdwz3bg-7zjv-egli-9grx-a9e8uwfevczc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://480xvpbj-cr2q-rbzh-pgjz-h9xz4brok5vp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lifip18a-g3su-wg1k-dygl-bun8c6tjn4re@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0fs9fx0g-g848-nflb-p1zs-wyubn9y7tst3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://hc104m99-36a1-6vj4-rqam-zu49tne3f2ds@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2nxor941-t1rg-vgn7-a64q-zry6bm8e8xt7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z4ryqw6t-19kb-na0j-pq8h-1wrrowur7c7s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://65ea203c-27a7-4316-a95d-159df119d007@45.129.242.165:2020?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Serva One Ltd ┇ 45.129.242.165
 vless://0fa53d34-5f21-4d66-bb5f-6f37c2a8c4e1@62.192.174.205:443?type=tcp&security=reality&sni=lv.wikipedia.org&fp=firefox&flow=xtls-rprx-vision&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#LV 🇱🇻 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 62.192.174.205
 vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?type=ws&security=tls&path=/t.me/lzjjjjjjjjjjj&sni=hax-eu1.lzjnb.shop#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 2.59.183.233
-trojan://kgflpnru-l2ta-u31y-0ida-rhud9qtroft3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rocmvmo3-0t27-1rsd-prnj-d0uizawz2h4s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

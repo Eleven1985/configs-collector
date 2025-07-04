@@ -1,7 +1,7 @@
-trojan://tvjataqo-s3yy-ex3n-jsd8-wvqp0qngdt0h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
-trojan://2zcwux56-estv-k2vw-h7ex-picaqhmd7xey@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://43gw4gxg-8jr0-qekd-n4cy-t1h9q5x7swqk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dfip75cg-jo9a-ai93-h2gp-gye868g1roxw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cc21xrw1-h87j-r8tt-1y10-y08fv4agny3d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:25 ]
+trojan://cgrhhs17-w5oi-3qg1-t9nr-if6f7bghzpxg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vzxeyvh9-d041-xck2-8wau-99klzmjzzjbo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6a5vrxi3-yo1a-1ogr-3xnf-o0s3uxft9i2z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.254
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.221
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.227
@@ -11,10 +11,10 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?sni=icecream.95
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUFBMSUVEVUstQ0xPVUQtMDQgXHUyNTA3IDIxNy4xNjMuNzYuMTQ3IiwiYWRkIjoiMjE3LjE2My43Ni4xNDciLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.84:443?type=ws&security=tls&path=/?ed=2560&sni=zv.bgm2024.dpdns.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.84
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.201:443?type=ws&security=tls&path=/?ed=2560&sni=bv.bgm2024.dpdns.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.201
-vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.99:443?type=ws&security=tls&path=/ re.vs2024.us.kg&sni=re.vs2024.us.kg&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.99
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@217.163.76.102:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.102
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@217.163.76.117:2052?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.117
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.97:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.97
+vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.99:443?type=ws&security=tls&path=/ re.vs2024.us.kg&sni=re.vs2024.us.kg&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.99
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@217.163.76.102:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.102
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.116:443?type=ws&security=tls&path=/blue&sni=lb.kpcloud.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.116
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?type=ws&security=tls&path=/freecodes&sni=dy.ylks.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.114
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?type=ws&security=tls&path=/?ed=2048&sni=edgood.889876.xyz&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.107
@@ -31,4 +31,4 @@ vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@217.163.76.46:2053?type=tcp&securit
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=hz.ylks.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.55
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?type=ws&security=tls&path=/blue&sni=jz.ylks01.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.73
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@217.163.76.75:443?type=ws&security=tls&path=tg@zdyz2security=tls&sni=cfed.tgzdyz2.top#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.75
-trojan://4p37osla-rc6h-5s80-6and-jbyjjnma5j4m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ciy1flq6-nwxq-0mg9-ja5t-tfvx3x1nts0r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
