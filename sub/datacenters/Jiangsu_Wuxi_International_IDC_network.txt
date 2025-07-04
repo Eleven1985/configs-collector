@@ -1,13 +1,13 @@
-trojan://hg0uw6ag-xzp2-p1in-k6s9-9w1rjsyliq8k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:06 ]
-trojan://5ork8ifz-xcfk-wkvs-1eer-dpedwex9kh9j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kw6qzglz-71s4-1bv1-1ge6-6o2914sf5buf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5c3z39pq-jba6-20nn-tco1-g7wi3vduyb3l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA@180.101.193.226:10068#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 180.101.193.226
+trojan://rjtvgd8t-m21p-ryc5-gnys-qfz6jyfw7gac@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
+trojan://gs604znu-pdkq-ha34-uieq-33j8a5h4132x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vf5yvteu-hh5j-0hq5-v80h-rbylf1qkcpqb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://12mhnlw0-541h-rrm6-rpvl-otlj88jwcu9j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTpEMG9FR0Y@jp48.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.136
+ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA@180.101.193.226:10068#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 180.101.193.226
 ss://cmM0LW1kNTpEMG9FR0Y@hk14.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.62
 ss://cmM0LW1kNTpEMG9FR0Y@tw01.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.138
 ss://cmM0LW1kNTpEMG9FR0Y@hk19.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.131
 ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@118.184.136.48:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.48
 ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@pccw03.graniterapids.com:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.53
 ss://cmM0LW1kNToyNmQ4dlo@twgame02.graniterapids.com:5185#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.142
-trojan://m27aqqob-saym-vmbx-paxs-3qrajch9fm5d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ayv7liek-lpzt-2ogx-g9yh-pyce6ijqg7jp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

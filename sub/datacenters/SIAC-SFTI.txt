@@ -1,15 +1,15 @@
-trojan://yxldoau9-am4a-n88x-902i-ekf60nejbz9m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:06 ]
-trojan://kblqodsj-dd8p-7pul-4ai7-tsvjnkixrw3k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5s0ip1se-4xfq-l6bb-n0tz-43v2u7edsy58@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://npgmcm4q-bgg6-fk3g-cc95-gnq90qgromqo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1c21lkv5-2mgz-kyoo-swk3-r1modvwfh6rg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 13:25 ]
+trojan://rzi1zyu2-npw7-fsi0-htn1-kmyh9eavi3d7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b0ia8qz7-4fuh-555y-l5v3-9bkyjcemk0oo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z59y9q3w-82rp-x6x4-y1ld-f6w0pwx1gyza@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSUFDLVNGVEkgXHUyNTA3IDIxNi4yMjEuMjE0LjUwIiwiYWRkIjoiMjE2LjIyMS4yMTQuNTAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsInBhdGgiOiIvb2JkaWkuY2ZkOjQ0My9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSJ9
-vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 216.221.213.189
-vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.224.83.27:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 158.224.83.27
+vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
+vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 216.221.213.189
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.172:443?type=ws&security=tls&path=/blue&sni=ld.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.172
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.149:443?type=ws&security=tls&path=/blue&sni=lg.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.149
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.160:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.83.160
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.158
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.175:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=jz.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.175
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.210.185
-trojan://sw063cmj-6z1w-m5ia-1kxl-9qt75t3c29a8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ocjhf6t9-xyfo-osdy-mgrn-irtudscj1ezk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
