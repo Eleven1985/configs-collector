@@ -1,6 +1,6 @@
-trojan://42uqsylv-q21y-x46c-5bbf-t613nwtizlwl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
-trojan://76t00fhy-833d-e960-jb3m-pqexyjcfzrm4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4gw678h0-btxm-3oo6-u9wd-afc43uzoby2y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oxiv9fnr-77he-8fqj-mzeu-tut39p9lry6i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1nedyvnk-so8y-1gle-tdg5-u6p73or7y2aw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
+trojan://reti9koz-13r6-fm4h-hl57-he7zomg8eck5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pepjgcj3-akci-q605-wc3y-k2pqs0ln693b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3e4kqjyu-j52x-1yu5-4fg7-fuphwooz5jmc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6691625-5650-59da-b243-6a6011a37b7d@45.141.58.22:443?type=grpc&security=tls&sni=nl.v2vless.site#AT 🇦🇹 ┇ VLESS-GRPC-TLS - IP Connect Inc ┇ 45.141.58.22
-trojan://nnrorh5a-m86i-i9h6-fw57-i6kiwz4huwex@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://smkfefp1-kl96-fb2k-zukp-x0otfq2wjbmn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

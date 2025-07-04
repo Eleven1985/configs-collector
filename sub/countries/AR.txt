@@ -1,9 +1,9 @@
-trojan://4jtdnp15-ate7-9quf-92nn-2u79o3pqrnw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
-trojan://59uz6iyg-5l2w-tclh-1fl4-fpa2dso82d7j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://674kkvgo-dkwy-chcy-epcy-zwasvgewtztp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8rf7tgoy-4b15-grw9-5hgg-htn6xwvi2ihr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yxv00sek-tapz-0u24-2t3h-6p5m5fd4uhb7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
+trojan://uds2ria3-wuyh-zqef-weoe-7an6ys6xmp9s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jgt8si68-y60n-9iog-v4ci-e4l0vqo6l9jx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zqqigmoj-j0l5-k6y7-j6sg-ugtyblh9cp5p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@15.220.121.237:443?sni=aws-ar-buenosaires-1.f1rocketnode.com&peer=aws-ar-buenosaires-1.f1rocketnode.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.220.121.237
-ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
+ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA@31.40.212.221:20006#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
 trojan://f25d1510-3763-4fcf-9804-86d6c1566629@31.40.212.133:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 31.40.212.133
 trojan://feab64f1-6a31-44c9-b502-19712d7af318@31.40.212.163:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 31.40.212.163
 vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?type=tcp&security=reality#AR �🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.74.84
@@ -17,4 +17,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#AR �🇷 ┇ SH
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
 vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU09OREFURUNIIFMuQS5TLiBcdTI1MDcgMTkwLjEwMy4xNzYuNTEiLCJhZGQiOiIxOTAuMTAzLjE3Ni41MSIsInBvcnQiOjE1MywiaWQiOiI1NTE1NjlkYS0wY2JiLTNlOWEtOWQ2NC01OTM3OTZmMGI3NTgiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAzOC4xODAuMTg1LjEyNSIsImFkZCI6ImFnMDEtY2RuLm15bjFkZXMuY29tIiwicG9ydCI6MjA4NiwiaWQiOiI4N2Q5ZGE4Zi03ODM5LTM3ZjgtYjdmMi1hN2JlMjJhZTM4MzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://790t3ltj-1jsz-9bt2-f9b8-wt683vkf65ul@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3ackt8ht-shmd-jnnq-1m44-g5u2m2skqlt5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

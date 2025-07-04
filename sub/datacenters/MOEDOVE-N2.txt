@@ -1,7 +1,7 @@
-trojan://5kqysqo8-lpqu-8usu-km2v-jlm9rup25ern@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
-trojan://7ie8kvst-mwzc-6wqg-9739-cn3h3vfz2lb2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7atrdy6n-ilbs-do3y-ujm0-yhnf9c9hifqr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dpu3l8ug-gqe5-lz6b-u7hz-l0mmxhv3lvpi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zoy7cbek-c0ia-15lq-toad-3b95eex25yvg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
+trojan://c7xamwqo-39qb-t605-wior-934d6or8x7tr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ychs9lpb-3rhc-04rx-71rz-e0m21ifq0ky3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h1wp3289-1zo3-mot2-aovi-0hxakq92n9ve@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.87.103.154:52001?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MOEDOVE-N2 ┇ 45.87.103.154
 vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.87.102.244
-trojan://6rc36bmc-46av-95hw-uq6i-i9kiyvu4pfb5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3b62fbb9-cbuo-bb96-mycf-6gnkfuhgwxov@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://jguhmwq1-dro0-w1i1-si3d-6d8cy4zno737@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
-trojan://1z0r8y9d-r0z9-imyz-lwmp-jy75lep5bdv1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v42k1x3t-1goh-xao1-he64-wmci0th92py1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mhl6lj9z-ad3f-kxvm-3fxm-ukbvzickmkio@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vovcewv2-ou07-cxny-syuf-n906hd0bio3q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
+trojan://m37sp7u0-uwz2-ksxa-to6l-zqhlo480rdjx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://umcp1o3b-nv5e-i5c7-3xt1-bnmqx7zs49sd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kmhcrwit-y8cf-yhxk-qi3y-au2j5wkcyze9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443?sni=sg-01.tiktokcdn.top&peer=sg-01.tiktokcdn.top&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hong Kong Broadband Network Ltd. ┇ 119.247.119.212
 trojan://amclubs2024@58.176.95.46:443?sni=tr.amclub.us.kg&peer=tr.amclub.us.kg&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hong Kong Broadband Network Ltd. ┇ 58.176.95.46
 trojan://a1bec5fe-74b4-4ef7-859b-ca4b27f9cb5c@high.vb.defehaita.xyz:21703?sni=douyin.com&peer=douyin.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hong Kong Broadband Network Ltd. ┇ 110.235.58.214
@@ -12,4 +12,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvbmcgS29uZyBCcm9hZGJhbmQgTmV0d29yayBMdGQuIFx1MjUwNyA2MS45Mi4xODkuOTgiLCJhZGQiOiI2MS45Mi4xODkuOTgiLCJwb3J0IjozOTk5OSwiaWQiOiI2N2M1MGY2YS04MTZkLTM1NTUtODliNC0xOWRkMjk2MDhmOGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://de44b044-8f90-4e18-b742-16591667ff96@58.176.229.127:35002?type=ws&security=tls&path=/?ed=2048fp=randomized&sni=edgetunnel-free.pages.dev&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Hong Kong Broadband Network Ltd. ┇ 58.176.229.127
 vless://55520747-311e-4015-83ce-be46e2060ce3@61.239.234.5:35500?type=tcp&security=tls#HK 🇭🇰 ┇ VLESS-TCP-TLS - Hong Kong Broadband Network Ltd. ┇ 61.239.234.5
-trojan://ljhf75d3-m0ox-sfzu-sj98-e8embfe04hw5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8zfxtuoy-9hs1-knih-gwys-kioyyji1dgmh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

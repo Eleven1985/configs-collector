@@ -1,7 +1,7 @@
-trojan://jr89kdyh-lgwt-g76m-j3v4-lfiyurhkwp0m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:05 ]
-trojan://lf5w5y8f-rpse-bmhq-7ro5-npn1i5cdxbm1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w77kdhna-txkt-dt5z-0t21-ofazod8wvcmm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4adxlil3-cnpi-04wc-gewm-3uajueauvq1o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sd7ukbc3-aexg-h8h4-b9qw-2k7yixbr132c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 00:23 ]
+trojan://hiheu2m5-gwf6-r1ly-tbjc-0eb18hj91gol@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://aslzzvg2-b64i-dob1-33ke-lci7ed0iop3a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8vlh4sfa-kxra-jydo-nxv8-yg8olazg2bhl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMkU0TQ@209.200.246.174:8388#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 209.200.246.174
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlZ3hhIENvbXBhbnkgZm9yIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kgTHRkIFx1MjUwNyAxNDYuMTAzLjQwLjIxNCIsImFkZCI6IjE0Ni4xMDMuNDAuMjE0IiwicG9ydCI6NzAzMCwiaWQiOiIwMWQ0MDdhNi00YjVmLTQ2NzQtODUyZi02OGM2NTgyNmQ4MzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://90cadcb1-5955-4ddc-c846-a40f06cbed39@146.103.41.166:23055?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.41.166
@@ -17,4 +17,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRFpqTQ@pl.opensocks.site:8388#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 91.108.248.10
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@91.108.248.154:233?type=xhttp&security=reality&path=/moveis&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&sid=210cfdf17087#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - Regxa Company for Information Technology Ltd ┇ 91.108.248.154
 vless://59b057a6-4307-4619-8c90-420aa070722a@91.108.249.233:443?type=tcp&security=reality&sni=snappfood.ir&fp=chrome&pbk=oNmm3eVPXYI5qpcgH419nwYyLeFkYxxEwiPRgod23T4&sid=8e#PL 🇵🇱 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 91.108.249.233
-trojan://68m7njf8-0r5g-04u6-y2bo-7dhs5nmkr592@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vp1cv97g-9lyh-jgk1-8fcq-43zw86m6823h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
