@@ -1,7 +1,7 @@
-trojan://789j0pnm-5oi5-3dss-4j8u-wv1sufu5kp1h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
-trojan://narn5gmm-tk61-9wj9-9yzm-o9wsu35ek877@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://limp7izh-tfg2-3mp2-1yb2-y9kv7awa8l1h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g4o1d72o-lj64-he4u-p87h-18dk86vfcixb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tpp4ajwu-hj6s-b2fq-g810-vmmkghhqpzew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
+trojan://h0te77rn-5bg6-2cqz-iis9-gq4mjb53vwmv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://y2rcwveg-0v56-4n8c-10er-zwriv2apkiyj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://usyeds0u-664d-2rcc-w5ir-sgiiy8ufipsg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://908077cc-00f2-4c2c-8ed2-468e6afbccde@89.144.145.202:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.202
 vless://5e7eb571-f9ab-4ee7-a57a-6b8666e06f39@89.144.145.246:443?type=ws&security=tls&path=/&sni=cdn.gcore.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.246
-trojan://ikgyr8ax-2sjt-xq4s-g77y-e96aash70hwa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://pyggcgjk-g1dw-1ze1-hewr-jf3khj5ec9o7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

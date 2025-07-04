@@ -1,10 +1,10 @@
-trojan://hri5fc5p-n5vn-2bh0-bgvk-zwz45x0bg3se@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
-trojan://bs7kwnqh-8nsc-3gbk-b3kl-n4zqc2s2w073@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rt26blow-wkdt-744h-ugg7-d42frzzm1dbq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g3rljit8-5ntl-t2se-6ga9-4gb516yoqiye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cahfq364-628r-e2ra-r0ke-b4auq9booaop@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
+trojan://0f90tmg9-ovku-h88f-dlp8-btzivq6s9a99@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f5dnz7c0-d4t5-qpfr-wpf0-b607dqlvf6s8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1dxljv4z-7ls7-hqpa-cxzf-zozz2tk4fk9g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2087065f-5801-4546-9bf4-ce5014eb88f8@info-4.nobifay.ir:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
-vless://28f8ba91-b3ff-4935-9a3f-4253d1fda074@api4.callback.cdn.nim.file.plsvi.online:2020?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.76
+vless://28f8ba91-b3ff-4935-9a3f-4253d1fda074@api4.callback.cdn.nim.file.plsvi.online:2010?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.76
 vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.93
 vless://9f22cf6d-175d-40ee-87ef-bc638fcd2532@178.239.146.105:37153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.105
 vless://6322fa6a-2612-43a3-baea-f549261c6b2d@178.239.146.222:64560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.222
-trojan://3zn0r383-xwfs-drdm-06j5-w85r785ps60j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w30wwz89-12gv-i3a1-7349-wlbculzd9pnc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

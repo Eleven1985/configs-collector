@@ -1,15 +1,15 @@
-trojan://rtkf6je7-j9xo-mnvn-6iwn-ganhvo99e80u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
-trojan://ns3a2ekl-5zkm-xt9l-y0ci-y0t6q4nglmek@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ni95d8cz-9vgv-lmv5-djh5-dyr8gbjah9uq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bmhjdpq7-x4ds-36y8-8i37-x79nomlmhfke@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ettx4ojd-u90o-a7pi-ys9i-u77rbw666gnu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
+trojan://tcf5gpzz-tokr-ok6g-2lxn-75ah6166rpyg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1thcg3dg-7790-tbb6-t5vr-wd1nuupwkitl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yorhi8qd-4hua-bfvw-r101-jx0lap2jsjoa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvZXNlZ2FyYW4gU2hhYmFrZWggQXJzZWggTm92aW4gTHRkIFx1MjUwNyAxODUuMjM1LjE5OC4xMTciLCJhZGQiOiIxODUuMjM1LjE5OC4xMTciLCJwb3J0IjoyMDkyLCJpZCI6IjgxZjU4NmQ2LThmNTktNDE2YS04MDc2LTBiNGVhMmM2OWI1MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVG9lc2VnYXJhbiBTaGFiYWtlaCBBcnNlaCBOb3ZpbiBMdGQgXHUyNTA3IDc3LjIzNy43My4xMzQiLCJhZGQiOiI3Ny4yMzcuNzMuMTM0IiwicG9ydCI6MjUxMDQsImlkIjoiYjYwODExMGYtODdkNy00MTM1LWIzM2UtODc2ZGY4YjYwYmRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUb2VzZWdhcmFuIFNoYWJha2VoIEFyc2VoIE5vdmluIEx0ZCBcdTI1MDcgMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6Yjk3ZTpjODMzIiwiYWRkIjoiMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6Yjk3ZTpjODMzIiwicG9ydCI6NDQzLCJpZCI6InZwbndsZkB2cG53bGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRhcmttb2RlMi5kbnNmcmVlLm9uZSIsInBhdGgiOiIvP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkYXJrbW9kZTIuZG5zZnJlZS5vbmUifQ
-vless://a268d2a5-9f99-4591-a65d-a0db3037c225@185.126.201.156:36247?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.201.156
 vless://dee5c3da-c392-458e-9278-5574cd341609@185.235.198.20:42191?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.20
+vless://e608a458-6fc3-ab40-2cfb-15922a308292@185.228.59.103:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.103
+vless://a268d2a5-9f99-4591-a65d-a0db3037c225@185.126.201.156:36247?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.201.156
 vless://502006fa-a1b0-4a27-986b-1c74834f96da@77.74.202.234:9033?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 77.74.202.234
 vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.116:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.116
-vless://e608a458-6fc3-ab40-2cfb-15922a308292@185.228.59.103:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.103
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@c4.spadgaming.ir:25183?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.175
 vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.13:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.13
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.3
@@ -18,4 +18,4 @@ vless://a268d2a5-9f99-4591-a65d-a0db3037c225@185.209.42.131:36247?type=tcp&secur
 vless://0a078a81-3ca3-4d23-8b2a-c1ae933477db@185.235.198.9:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.9
 vless://084ba523-5499-40ac-af26-67e8cf19f8f4@185.228.59.27:2087?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.27
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@185.235.198.115:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.115
-trojan://l4c8zl9s-q2kj-3lng-x6w3-o3ix6phpiah9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jht6zhoc-k679-7b65-jpye-lar3n7t6olzv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

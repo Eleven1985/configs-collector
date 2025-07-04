@@ -1,11 +1,8 @@
-trojan://fl6jd1a6-tlsq-7aq3-8aoo-nbpwnthvxr6p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
-trojan://5rqg6ruc-72lc-72pr-6t3d-pdlbaeexy45m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://800zh9yb-hwdf-gldc-qw0t-vym788f2z4ch@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8cpfhvhe-l6n6-b4z7-m622-38xk8fw7q8fb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://duh06no6-4snb-ltvm-y9n3-xhq2fanm7sgw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
+trojan://p9gbli5l-rtjt-yedo-eeen-1ec3zquyf660@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d7ydos5f-q0r0-mj2f-pnpl-b5tyf67cs431@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9y3fbnqh-jkpo-ixv7-zv8f-yavbvt01bew3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UUlVFIFx1MjUwNyAyMTAuODcuMTk1Ljk5IiwiYWRkIjoibGx5Ljc1NTY1Ny54eXoiLCJwb3J0Ijo1NzkyMCwiaWQiOiI2OTAzOTdiZi02NGZjLTRlMTgtODgxMC00Zjk1OTc5YTIxZDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9qYXZhc2RrYW5kcm9pZGd1ZmQiLCJ0bHMiOiJ0cnVlIn0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.251.210:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.251.210
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.213.181:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.213.181
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.80.72:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.209.80.72
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.48.212:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.48.212
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.245.35:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.200.245.35
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.59.8:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.59.8
@@ -16,6 +13,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.124.161:443#KR 🇰🇷 ┇ SHADOWSO
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.118.190:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.118.190
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@43.202.49.222:2333#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.202.49.222
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.108.109:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.108.109
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.80.72:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.209.80.72
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.251.210:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.251.210
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.213.181:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.213.181
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.20.107:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.20.107
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.51.187:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.51.187
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.235.34:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.235.34
@@ -23,51 +23,46 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.98.113:443#KR 🇰🇷 ┇ SHADOWSOCK
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@15.165.15.197:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 15.165.15.197
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.196.43:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.196.43
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.34.253.95:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.34.253.95
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.186.115:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.186.115
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.214.76
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.244.81:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.244.81
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.193.109:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.193.109
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.61.71:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.61.71
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.101.203:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.124.101.203
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.85.71:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.85.71
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.98.141:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.78.98.141
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.138.170:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.138.170
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.165.19.6:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 15.165.19.6
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.85.71:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.85.71
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.54.89:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.54.89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@43.203.237.206:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.237.206
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.209.80.28:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.209.80.28
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.132.172:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.132.172
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.38.94.160:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.94.160
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.51.236:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.51.236
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.124.153.152:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.124.153.152
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@13.125.129.4:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.129.4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@3.36.57.145:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.57.145
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.203.238.203:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.238.203
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.51.140:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.51.140
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.203.235.15:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.235.15
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@3.35.231.158:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.231.158
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@43.203.199.63:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.199.63
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.130.79:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.130.79
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.148.149:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.148.149
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.203.219.33:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.219.33
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.193.109:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.193.109
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.101.203:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.124.101.203
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.98.141:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.78.98.141
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.21.61:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.21.61
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.231.170:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.231.170
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.26.148:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.26.148
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.249.105:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.249.105
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.54.89:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.54.89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@43.203.237.206:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.237.206
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.96.166:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.96.166
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.132.172:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.132.172
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.38.94.160:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.94.160
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.51.236:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.51.236
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.153.152:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.124.153.152
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@13.125.129.4:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.129.4
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.89.243:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.89.243
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.202.53:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.202.53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@3.36.57.145:1234#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.57.145
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.78.63:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.78.63
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.243.85:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.243.85
 ss://YWVzLTI1Ni1nY206TDlPaFRwRlc@3.35.68.33:30327#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.68.33
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.203.238.203:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.238.203
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.55.5:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.55.5
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.0.189:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.202.0.189
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.203.235.15:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.235.15
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@43.203.199.63:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.199.63
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@3.36.68.170:6666#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.36.68.170
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.130.79:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.130.79
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@3.34.131.22:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.34.131.22
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.203.225.190:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.225.190
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.203.219.33:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.219.33
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.83.96:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.78.83.96
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.34.144.30:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.34.144.30
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.125.218.26:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.218.26
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.38.214.76
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.240.54:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.240.54
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.236.132:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.236.132
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.9.100:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.9.100
@@ -77,7 +72,11 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.158.248:443#KR 🇰🇷 ┇ SHADOWSO
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.226.50:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.226.50
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.126.52:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.126.52
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.180.248.97:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.248.97
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.125.94.61:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.94.61
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.186.115:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.186.115
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.209.80.28:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.209.80.28
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.51.140:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.51.140
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@3.35.231.158:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.35.231.158
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.148.149:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.148.149
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.112.173:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.112.173
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.29.47:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.29.47
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.157.153:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.79.157.153
@@ -104,8 +103,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.210.189:443#KR 🇰🇷 ┇ SHADOWSOCK
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.57.87:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.57.87
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.86.41:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.86.41
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.29.75:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.124.29.75
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.125.94.61:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.125.94.61
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU@43.201.6.50:80#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.6.50
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.206.63:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.206.63
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.6.15:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.200.6.15
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVPQ@43.201.50.238:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.50.238
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.60.60:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.201.60.60
@@ -167,6 +166,7 @@ ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.202.58.164:443#KR 🇰🇷 ┇ SHADOWSOCK
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.203.122.135:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.122.135
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.192.6:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.192.6
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.201.192:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.201.192
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.206.63:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.206.63
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.207.149:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.207.149
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.220.68:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.220.68
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.227.246:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.203.227.246
@@ -178,18 +178,18 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.216.192:443#KR 🇰🇷 ┇ SHADOWSOC
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.137.195:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.137.195
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.143.115:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.143.115
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.156.133:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.156.133
-trojan://65086520307764900@3.39.67.154:443?sni=hopeful-seagull.shiner427.skin&peer=hopeful-seagull.shiner427.skin&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.39.67.154
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@15.165.19.79:6668?sni=baidu.com&peer=baidu.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.165.19.79
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.117.121:6668?sni=baidu.com&peer=baidu.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.36.117.121
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@15.165.19.79:6668?sni=baidu.com&peer=baidu.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.165.19.79
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.125.64.14:6668?sni=baidu.com&peer=baidu.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.125.64.14
 trojan://xxoo@3.34.6.217:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.34.6.217
+trojan://65086520307764900@3.39.67.154:443?sni=hopeful-seagull.shiner427.skin&peer=hopeful-seagull.shiner427.skin&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.39.67.154
 trojan://SECCzF5l3xeFN6z76DyuKZ83wTS4gBClpOARp83glBnqXjaI78nZp2eReSXxCY9SlDDFa@13.209.11.66:443?sni=spirit.koreanbbq.link&peer=spirit.koreanbbq.link&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.209.11.66
 trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.one&peer=humble-rodent.treefrog761.one&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.202.142.243
 trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?sni=bapus.koreanbbq.link&peer=bapus.koreanbbq.link&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.78.39.86
-trojan://3747000103274291200@13.125.85.5:443?sni=moral-buffalo.treefrog761.one&peer=moral-buffalo.treefrog761.one&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.125.85.5
+trojan://3774827088566296576@43.200.228.143:443?sni=more-tomcat.insect388.motorcycles&peer=more-tomcat.insect388.motorcycles&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.200.228.143
+trojan://3774827088566296576@13.125.85.5:443?sni=real-meerkat.insect388.motorcycles&peer=real-meerkat.insect388.motorcycles&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.125.85.5
 trojan://3747000103274291200@52.79.40.3:443?sni=epic-bunny.adder289.quest&peer=epic-bunny.adder289.quest&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.79.40.3
 trojan://65086520307764900@43.202.207.140:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.202.207.140
-trojan://3774827088566296576@43.200.228.143:443?sni=more-tomcat.insect388.motorcycles&peer=more-tomcat.insect388.motorcycles&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.200.228.143
 trojan://3782591447421952000@13.125.25.144:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.125.25.144
 trojan://5baea97b-7a9d-39ba-bd0f-0b13025de750@43.200.174.255:443?sni=d1--cn-gotcha05.bilivideo.com&peer=d1--cn-gotcha05.bilivideo.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.200.174.255
 trojan://5baea97b-7a9d-39ba-bd0f-0b13025de750@43.201.35.123:443?sni=d1--cn-gotcha05.bilivideo.com&peer=d1--cn-gotcha05.bilivideo.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.201.35.123
@@ -247,6 +247,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyA0My4yMDAuMjMxLjg5IiwiYWRkIjoiNDMuMjAwLjIzMS44OSIsInBvcnQiOjgwODEsImlkIjoiZGZhOTEzNjgtN2EzMi00YWJlLWZmYmMtNzUzYjE4NDdkODk5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyA0My4yMDMuMzcuMTgxIiwiYWRkIjoicWlxaXFpLnJ1bi5nb29ybS5pbyIsInBvcnQiOjQ0MywiaWQiOiI1QTdEODA5Ny0yRjhELTQ0QzctQkU2Qi0zRDFFMDlGODQxNUQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4yMDkuMC43OCIsImFkZCI6IjEzLjIwOS4wLjc4IiwicG9ydCI6ODA4MSwiaWQiOiIyOTc5ZjVkZC02NDdmLTRjZDItYjg3YS0yNjcyOGM2NDhjMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxNS4xNjQuMjMuNzAiLCJhZGQiOiJwZ3AtZmV2aGQucnVuLmdvb3JtLmlvIiwicG9ydCI6NDQzLCJpZCI6IjVBN0Q4MDk3LTJGOEQtNDRDNy1CRTZCLTNEMUUwOUY4NDE1RCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii91c2VyIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4xMjUuMjQuMTUzIiwiYWRkIjoiMTMuMTI1LjI0LjE1MyIsInBvcnQiOjQyNTE3LCJpZCI6ImI1YjUyMDlmLWJjYmQtNGJhYy1iMDQ0LTBkMTc5Njk4YzYyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMTI1LjEwLjE5NCIsImFkZCI6IjEzLjEyNS4xMC4xOTQiLCJwb3J0IjozMTczMCwiaWQiOiI0Y2IxMDg0ZS1kODFmLTQ3YjUtZTU1NC0xNDQ4YWFiMDg5MTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMTI1LjEyLjQ4IiwiYWRkIjoiMTMuMTI1LjEyLjQ4IiwicG9ydCI6Mjg4NTksImlkIjoiM2E3MWNhZWYtMjk0Yi00OTM5LWI0NDYtM2QwNjY3ZWUwODQyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -256,16 +257,16 @@ vless://b9507f7a-4265-4288-89de-a974ac29ab7a@3.39.249.14:50246?type=ws&security=
 vless://c0e80dd4-aadc-48e1-e2aa-5ccf115c2770@3.34.127.127:58532?type=ws&security=none&path=/bing#KR 🇰🇷 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 3.34.127.127
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@hk3.ab-c789-4500-8caf-d2a37755fe09.myyemail.com:443?type=tcp&security=tls&sni=hk3.chaoyueemail.com&flow=xtls-rprx-vision#KR 🇰🇷 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.35.231.197
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@hk4.ab-c789-4500-8caf-d2a37755fe09.myyemail.com:443?type=tcp&security=tls&sni=hk4.9fb8-1c456.chaoyueemail.com&flow=xtls-rprx-vision#KR 🇰🇷 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 43.201.52.235
-vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846?type=tcp&security=reality&sni=www.iij.ad.jp&flow=xtls-rprx-vision&pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.125.140.64
-vless://d09bc91d-b7e6-449f-ba3f-401312648b3a@3.34.191.59:32449?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.34.191.59
 vless://f37384b3-ed03-4205-8a8f-c6b639fb335f@13.209.11.26:30001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=qq&pbk=DyRHSP0NYimjT2GuBQ1qyIIYvSHvR1X9ufQjUBVw9yQ#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.209.11.26
+vless://d09bc91d-b7e6-449f-ba3f-401312648b3a@3.34.191.59:32866?type=tcp&security=reality&sni=s0.awsstatic.com&fp=ios&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.34.191.59
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@16.184.18.141:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 16.184.18.141
+vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846?type=tcp&security=reality&sni=www.iij.ad.jp&flow=xtls-rprx-vision&pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.125.140.64
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link25.liangxin1.xyz:34578?type=tcp&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&flow=xtls-rprx-vision&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.209.68.7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.205.87
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.39.146
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@158.247.205.87:5601#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.205.87
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.213.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI@141.164.63.32:30936#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.63.32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@158.247.201.119:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.201.119
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.39.146
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.213.230
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@141.164.47.208:7307#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.47.208
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@158.247.203.168:8091#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.203.168
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@158.247.199.253:5600#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.199.253
@@ -298,8 +299,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHT09HTEUgXHUyNTA3IDM1LjIxNi4xMTMuNjAiLCJhZGQiOiIzNS4yMTYuMTEzLjYwIiwicG9ydCI6NDQ0NDUsImlkIjoiN2MyZTQ4NTgtZDQwMi00YzgzLWJlYmItMzYyYzJhY2EzM2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJsaWtlLmxvYy5jYyIsInBhdGgiOiI3YzJlNDg1OC1kNDAyLTRjODMtYmViYi0zNjJjMmFjYTMzZmUtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaWtlLmxvYy5jYyJ9
 trojan://Aimer@49.1.224.28:10201?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - HCN Dongjak ┇ 49.1.224.28
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?sni=swift.protocolbuffer.com&peer=swift.protocolbuffer.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - KINX ┇ 121.78.213.3
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.177
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.193
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNjAuMjIwLjIxNCIsImFkZCI6IjM4LjYwLjIyMC4yMTQiLCJwb3J0Ijo0MjA0MCwiaWQiOiIwMTY3ZDgyZC0yYTViLTRlODItOWMyZi1hZTZmMzBhY2FjZGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.31.72
@@ -307,9 +308,10 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003#KR 🇰🇷 ┇ SHADOWSOCK
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.26.12
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.20:50345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.20
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.89
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p221.panda001.net:34669#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.31.103
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p232.panda004.net:61004#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.92
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p221.panda001.net:34669#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.31.103
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.5:9555#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmEyMTczZi03MjYyLTRkYjItYjQxZC1iM2U0ZjM4ZWZkMGI@gy.51vv.top:31006#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 59.24.3.174
 ss://YWVzLTI1Ni1nY206Tm9tMGJwWDJ0Sg@220.124.14.2:47373#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 220.124.14.2
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.81:42978#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.81
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.85:51472#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.85
@@ -318,68 +320,70 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@222.112.15.140:56780#KR 🇰🇷 ┇ SHADOWS
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p226.panda004.net:58449#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 203.234.238.140
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p228.panda004.net:4315#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.26.15
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p230.panda004.net:42978#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.90
-trojan://Aimer@220.71.185.223:10093?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.71.185.223
-trojan://Aimer@118.35.88.114:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.35.88.114
-trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.154.119.147
-trojan://Aimer@121.150.217.106:12541?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.150.217.106
-trojan://Aimer@121.190.81.4:50000?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.190.81.4
-trojan://Aimer@125.133.178.233:10013?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.133.178.233
-trojan://Aimer@220.74.106.40:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.74.106.40
-trojan://Aimer@175.214.237.120:50000?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.214.237.120
-trojan://Aimer@118.45.113.48:12238?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.45.113.48
-trojan://Aimer@211.185.88.225:50000?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.185.88.225
-trojan://Aimer@121.147.127.154:32396?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.147.127.154
-trojan://Aimer@221.149.132.232:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.149.132.232
 trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.165.64.92
-trojan://Aimer@210.222.30.180:17100?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.222.30.180
-trojan://Aimer@222.108.106.148:12386?sni=epme.ambercc.filegear-sg.me&peer=epme.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.108.106.148
-trojan://Aimer@119.202.158.65:12296?sni=epme.ambercc.filegear-sg.me&peer=epme.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.202.158.65
-trojan://Aimer@222.100.242.124:50000?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.100.242.124
-trojan://Aimer@175.215.205.40:20107?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.215.205.40
-trojan://Aimer@220.120.139.237:12189?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.120.139.237
-trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.57.90.42
+trojan://Aimer@112.162.203.5:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.162.203.5
 trojan://Aimer@121.178.51.126:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.178.51.126
-trojan://Aimer@220.80.8.223:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.80.8.223
-trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.203.202.120
-trojan://Aimer@210.99.119.3:50000?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.99.119.3
-trojan://Aimer@121.188.117.151:50000?sni=agepw.ambercc.filegear-sg.me&peer=agepw.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.188.117.151
-trojan://Aimer@14.38.83.195:12578?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.38.83.195
-trojan://Aimer@112.161.49.84:11681?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.161.49.84
-trojan://Aimer@14.41.85.118:12101?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.41.85.118
-trojan://Aimer@121.176.175.54:32444?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.176.175.54
-trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.163.173.252
-trojan://Aimer@14.32.12.235:12109?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.32.12.235
-trojan://Aimer@210.178.96.12:50003?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.178.96.12
-trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.106.126.224
-trojan://Aimer@121.149.228.125:12315?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.149.228.125
-trojan://Aimer@59.27.236.245:50003?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.27.236.245
-trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.36.92.99
-trojan://ttfang@222.103.185.193:50586?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.103.185.193
-trojan://Aimer@121.131.242.29:50000?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.131.242.29
+trojan://Aimer@59.14.159.113:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.14.159.113
+trojan://Aimer@121.181.209.121:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.181.209.121
+trojan://Aimer@175.215.205.40:18004?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.215.205.40
 trojan://Aimer@59.13.75.15:15082?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.13.75.15
-trojan://Aimer@121.179.37.140:50000?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.179.37.140
-trojan://Aimer@168.126.210.143:12368?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 168.126.210.143
-trojan://Aimer@222.97.9.166:50004?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.97.9.166
-trojan://Aimer@218.158.109.102:12336?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.158.109.102
-trojan://Aimer@14.47.175.40:12115?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.47.175.40
-trojan://Aimer@121.134.175.190:50000?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.134.175.190
-trojan://ttfang@203.243.63.166:27249?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 203.243.63.166
-trojan://Aimer@61.72.115.195:12527?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 61.72.115.195
-trojan://Aimer@118.43.90.224:50001?sni=epmg.ambercc.filegear-sg.me&peer=epmg.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.43.90.224
-trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.251.7.76
-trojan://Aimer@121.189.106.45:30001?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.189.106.45
-trojan://Aimer@59.22.76.222:12482?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.22.76.222
-trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.42.89.42
-trojan://Aimer@112.162.203.5:50000?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.162.203.5
-trojan://ttfang@59.15.182.92:30017?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.15.182.92
-trojan://Aimer@220.78.106.96:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.78.106.96
-trojan://Aimer@175.215.175.175:50003?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.215.175.175
-trojan://Aimer@220.80.154.29:12558?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.80.154.29
-trojan://Aimer@112.186.100.190:12299?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.186.100.190
-trojan://Aimer@121.180.184.145:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.180.184.145
+trojan://Aimer@121.147.127.154:32396?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.147.127.154
 trojan://Aimer@211.193.36.238:16017?sni=agepk.ambercc.filegear-sg.me&peer=agepk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.193.36.238
-trojan://Aimer@211.195.83.140:50003?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.195.83.140
+trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.57.90.42
+trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.36.92.99
+trojan://Aimer@210.99.119.3:50000?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.99.119.3
+trojan://Aimer@121.134.175.190:50000?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.134.175.190
+trojan://Aimer@59.27.236.245:50003?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.27.236.245
+trojan://Aimer@210.222.30.180:17100?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.222.30.180
+trojan://Aimer@119.202.158.65:11084?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.202.158.65
+trojan://Aimer@14.41.85.118:12101?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.41.85.118
+trojan://Aimer@118.35.88.114:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.35.88.114
+trojan://Aimer@118.45.113.48:16064?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.45.113.48
+trojan://Aimer@175.215.175.175:50003?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.215.175.175
+trojan://Aimer@121.149.228.125:12315?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.149.228.125
+trojan://Aimer@220.120.139.237:12189?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.120.139.237
+trojan://Aimer@59.22.76.222:12482?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.22.76.222
+trojan://Aimer@112.161.49.84:11681?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.161.49.84
 trojan://Aimer@59.7.61.67:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.7.61.67
+trojan://Aimer@222.108.106.148:12386?sni=epme.ambercc.filegear-sg.me&peer=epme.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.108.106.148
+trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.42.89.42
+trojan://Aimer@118.43.90.224:50001?sni=epmg.ambercc.filegear-sg.me&peer=epmg.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.43.90.224
+trojan://Aimer@210.178.96.12:50003?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.178.96.12
+trojan://Aimer@125.133.178.233:10013?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.133.178.233
+trojan://Aimer@220.80.154.29:12558?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.80.154.29
+trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.106.126.224
+trojan://Aimer@61.72.115.195:12527?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 61.72.115.195
+trojan://Aimer@211.185.88.225:50000?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.185.88.225
+trojan://Aimer@121.180.184.145:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.180.184.145
+trojan://Aimer@14.47.175.40:12115?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.47.175.40
+trojan://Aimer@168.126.210.143:12368?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 168.126.210.143
+trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.163.173.252
+trojan://Aimer@121.131.242.29:50000?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.131.242.29
+trojan://Aimer@218.158.109.102:12336?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.158.109.102
+trojan://Aimer@222.100.242.124:50000?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.100.242.124
+trojan://Aimer@222.97.9.166:50004?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.97.9.166
+trojan://Aimer@220.78.106.96:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.78.106.96
+trojan://Aimer@220.80.8.223:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.80.8.223
+trojan://Aimer@14.38.83.195:12578?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.38.83.195
+trojan://Aimer@121.176.175.54:32444?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.176.175.54
+trojan://Aimer@211.195.83.140:50003?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.195.83.140
+trojan://Aimer@121.189.106.45:30001?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.189.106.45
+trojan://Aimer@121.190.81.4:50000?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.190.81.4
+trojan://Aimer@14.32.12.235:12109?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.32.12.235
+trojan://ttfang@59.15.182.92:30017?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.15.182.92
+trojan://Aimer@121.188.117.151:50000?sni=agepw.ambercc.filegear-sg.me&peer=agepw.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.188.117.151
+trojan://Aimer@220.74.106.40:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.74.106.40
+trojan://ttfang@203.243.63.166:27249?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 203.243.63.166
+trojan://ttfang@222.103.185.193:50586?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.103.185.193
+trojan://Aimer@121.179.37.140:50000?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.179.37.140
+trojan://Aimer@220.71.185.223:10093?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.71.185.223
+trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.251.7.76
+trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.154.119.147
+trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.203.202.120
+trojan://Aimer@112.186.100.190:12299?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.186.100.190
+trojan://Aimer@221.149.132.232:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.149.132.232
+trojan://Aimer@175.214.237.120:50000?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.214.237.120
+trojan://Aimer@121.150.217.106:12541?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.150.217.106
 trojan://Aimer@220.78.176.158:18059?sni=agepl.ambercc.filegear-sg.me&peer=agepl.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.78.176.158
 trojan://Aimer@121.163.248.127:50000?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.163.248.127
 trojan://Aimer@183.98.8.11:12364?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 183.98.8.11
@@ -394,48 +398,37 @@ trojan://Aimer@59.7.203.104:10393?sni=epccr.ambercc.filegear-sg.me&peer=epccr.am
 trojan://Aimer@59.25.246.161:12391?sni=agepk.ambercc.filegear-sg.me&peer=agepk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.25.246.161
 trojan://Aimer@210.99.204.14:10044?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.99.204.14
 trojan://Aimer@121.140.60.17:10046?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.140.60.17
-trojan://Aimer@14.35.59.67:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.35.59.67
-trojan://Aimer@218.152.197.93:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.152.197.93
-trojan://Aimer@125.132.46.2:10022?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.132.46.2
+trojan://Aimer@59.22.88.168:50000?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.22.88.168
+trojan://Aimer@121.153.131.218:26656?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.153.131.218
+trojan://Aimer@175.199.169.221:50003?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.199.169.221
+trojan://Aimer@220.122.114.61:10071?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.122.114.61
+trojan://Aimer@218.150.255.76:50000?sni=agepl.ambercc.filegear-sg.me&peer=agepl.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.150.255.76
+trojan://Aimer@211.46.212.62:50000?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.46.212.62
 trojan://Aimer@121.178.83.129:30006?sni=agepl.ambercc.filegear-sg.me&peer=agepl.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.178.83.129
 trojan://Aimer@112.186.163.26:17776?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.186.163.26
 trojan://Aimer@220.127.222.131:16005?sni=agepk.ambercc.filegear-sg.me&peer=agepk.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.127.222.131
 trojan://Aimer@222.107.236.137:12191?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.107.236.137
-trojan://Aimer@222.97.135.19:21242?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.97.135.19
 trojan://Aimer@118.39.146.237:12305?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.39.146.237
 trojan://Aimer@121.144.201.72:12434?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.144.201.72
-trojan://Aimer@119.202.249.46:50000?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.202.249.46
-trojan://Aimer@59.1.172.186:12326?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.1.172.186
-trojan://Aimer@14.63.60.134:50000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.63.60.134
-trojan://0588@175.203.30.93:50000?sni=888.uskm.dpdns.org&peer=888.uskm.dpdns.org&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.203.30.93
-trojan://Aimer@183.108.31.63:35251?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 183.108.31.63
-trojan://Aimer@175.199.169.221:50003?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.199.169.221
-trojan://Aimer@112.167.124.139:50000?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.167.124.139
-trojan://ttfang@221.161.58.134:29264?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.161.58.134
-trojan://ttfang@218.157.11.21:12601?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.157.11.21
-trojan://Aimer@220.122.114.61:10071?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.122.114.61
-trojan://Aimer@221.153.216.221:50000?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.153.216.221
-trojan://Aimer@121.132.58.142:12452?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.132.58.142
-trojan://Aimer@14.36.202.242:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.36.202.242
-trojan://Aimer@220.125.26.232:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.125.26.232
-trojan://Aimer@211.217.26.23:20256?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.217.26.23
-trojan://Aimer@59.1.59.225:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.1.59.225
-trojan://Aimer@59.22.88.168:50000?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.22.88.168
-trojan://Aimer@121.153.131.218:26656?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.153.131.218
-trojan://Aimer@218.150.255.76:50000?sni=agepl.ambercc.filegear-sg.me&peer=agepl.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.150.255.76
-trojan://Aimer@211.46.212.62:50000?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.46.212.62
 trojan://Aimer@210.96.92.11:12423?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.96.92.11
 trojan://Aimer@14.39.43.121:30022?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.39.43.121
+trojan://Aimer@119.202.249.46:50000?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.202.249.46
 trojan://Aimer@211.114.180.156:12383?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.114.180.156
+trojan://Aimer@59.1.172.186:12326?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.1.172.186
+trojan://Aimer@183.108.31.63:35251?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 183.108.31.63
+trojan://Aimer@14.63.60.134:50000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.63.60.134
 trojan://Aimer@121.135.236.180:12176?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.135.236.180
 trojan://Aimer@14.44.18.95:12177?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.44.18.95
 trojan://Aimer@59.3.254.50:50000?sni=epccz.ambercc.filegear-sg.me&peer=epccz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.3.254.50
 trojan://Aimer@121.175.158.112:28015?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.175.158.112
 trojan://Aimer@221.151.204.241:12369?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.151.204.241
+trojan://Aimer@112.167.124.139:50000?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.167.124.139
 trojan://ttfang@121.167.145.40:10843?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.167.145.40
+trojan://ttfang@218.157.11.21:12601?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.157.11.21
 trojan://Aimer@121.128.254.108:34522?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.128.254.108
 trojan://Aimer@121.153.45.186:18004?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.153.45.186
 trojan://Aimer@211.228.181.102:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.228.181.102
+trojan://Aimer@221.153.216.221:50000?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.153.216.221
 trojan://Aimer@175.198.236.155:15831?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.198.236.155
 trojan://Aimer@112.185.223.152:50000?sni=agepw.ambercc.filegear-sg.me&peer=agepw.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 112.185.223.152
 trojan://Aimer@14.56.139.220:11112?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.56.139.220
@@ -445,11 +438,22 @@ trojan://Aimer@218.158.251.112:20900?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx
 trojan://Aimer@222.114.11.234:11288?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.114.11.234
 trojan://Aimer@220.94.139.69:10083?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.94.139.69
 trojan://Aimer@121.186.173.204:10022?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.186.173.204
+trojan://Aimer@14.36.202.242:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.36.202.242
+trojan://Aimer@220.125.26.232:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.125.26.232
 trojan://Aimer@59.23.141.222:19014?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.23.141.222
+trojan://Aimer@14.35.59.67:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 14.35.59.67
+trojan://Aimer@218.152.197.93:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.152.197.93
+trojan://Aimer@125.132.46.2:10022?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.132.46.2
+trojan://Aimer@222.97.135.19:21242?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.97.135.19
+trojan://0588@175.203.30.93:50000?sni=888.uskm.dpdns.org&peer=888.uskm.dpdns.org&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.203.30.93
+trojan://ttfang@221.161.58.134:29264?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.161.58.134
+trojan://Aimer@121.132.58.142:12452?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.132.58.142
+trojan://Aimer@211.217.26.23:20256?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 211.217.26.23
+trojan://Aimer@59.1.59.225:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.1.59.225
 trojan://NISHIKUITAN222@125.139.249.241:17057?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.139.249.241
 trojan://Aimer@125.136.221.63:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.136.221.63
 trojan://Aimer@119.195.104.2:32400?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.195.104.2
-trojan://Aimer@210.103.48.53:12601?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.103.48.53
+trojan://Aimer@121.137.62.90:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.137.62.90
 trojan://Aimer@115.23.163.214:12523?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 115.23.163.214
 trojan://Aimer@121.167.230.98:50000?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.167.230.98
 trojan://Aimer@125.130.137.21:14400?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.130.137.21
@@ -457,13 +461,13 @@ trojan://Aimer@168.126.66.181:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.
 trojan://Aimer@175.192.27.197:16992?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.192.27.197
 trojan://Aimer@175.196.105.220:12209?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.196.105.220
 trojan://Aimer@175.208.25.75:12373?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.208.25.75
+trojan://Aimer@210.103.48.53:12601?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 210.103.48.53
 trojan://Aimer@218.154.47.250:50000?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 218.154.47.250
 trojan://Aimer@220.80.75.163:12266?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.80.75.163
 trojan://Aimer@222.104.213.148:12341?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.104.213.148
 trojan://Aimer@222.107.3.214:50000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 222.107.3.214
-trojan://Aimer@59.14.159.113:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.14.159.113
 trojan://Aimer@59.29.143.247:12225?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.29.143.247
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAyMjAuMTIzLjQ4LjEyNCIsImFkZCI6IjIyMC4xMjMuNDguMTI0IiwicG9ydCI6MzAwMDIsImlkIjoiZDNkOGI3ODEtZjMwZC00OTAyLThlYjAtNThiMWNhOTM2YmVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjYzIuMTgwOC5zaXRlIiwicGF0aCI6Ii9oZ3FxdndzIiwidGxzIjoidGxzIiwic25pIjoiY2MyLjE4MDguc2l0ZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAyMjAuMTIzLjQ4LjEyNCIsImFkZCI6IjIyMC4xMjMuNDguMTI0IiwicG9ydCI6MzAwMDIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAyMTEuMjQ4LjIxNi4xMTkiLCJhZGQiOiIyMTEuMjQ4LjIxNi4xMTkiLCJwb3J0IjoxNzQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIiwicGF0aCI6Ii9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAxMTkuMTk1LjIxOS4xNTAiLCJhZGQiOiIxMTkuMTk1LjIxOS4xNTAiLCJwb3J0IjoxODA1MCwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIiwicGF0aCI6Ii9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtvcmVhIFRlbGVjb20gXHUyNTA3IDE4My4xMDkuMTMxLjg2IiwiYWRkIjoiMTgzLjEwOS4xMzEuODYiLCJwb3J0IjoyOTQwMCwiaWQiOiJlYjU5MGI4ZC01ZTNjLTRiMjQtOGFmMS1mMWFkNTVmZWUwY2EiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
@@ -471,43 +475,45 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAxMjEuMTY4LjExNy4yMiIsImFkZCI6IjEyMS4xNjguMTE3LjIyIiwicG9ydCI6MzAwMDEsImlkIjoiZjE2OTc2OGMtNjI2Mi00NGU2LTljYjctNTFjNWFkYzk0YTIzIiwiYWlkIjowLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY2MuMTgwOC5jZiIsInBhdGgiOiIvMnlldndzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjYy4xODA4LmNmIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTI1LjEzNC4zNS4xNTAiLCJhZGQiOiIxMjUuMTM0LjM1LjE1MCIsInBvcnQiOjMwMDAxLCJpZCI6ImFlOTZkM2M3LTYwODUtNDc2OS1hNGZkLWI5OGRiOGI3ODI4YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FlOTZkM2M3In0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAxNzUuMjE1LjE1NC4yMDgiLCJhZGQiOiIxNzUuMjE1LjE1NC4yMDgiLCJwb3J0IjoxMTE4NCwiaWQiOiIwZWU3NWRkMS01ZTU5LTQ2MTUtYTZhOC02ZmU3YWEwYjZmMTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJvcmFjbGUyaXB2NC50aWxsLm55Yy5tbiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoib3JhY2xlMmlwdjQudGlsbC5ueWMubW4ifQ
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.158.194.32:11611?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.158.194.32
-vless://948f6596-66f9-4707-aa92-3107a214ce53@125.130.15.106:27879?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.130.15.106
-vless://948f6596-66f9-4707-aa92-3107a214ce53@14.35.29.177:15903?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 14.35.29.177
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@183.96.245.165:30060?type=ws&security=tls&path=/telegramu0001f1e8u0001f1f3@pgkj666/?ed=2560security=tls&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.96.245.165
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@59.16.86.130:10098?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.16.86.130
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.155.154.142:24251?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.155.154.142
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.179.114.244:30075?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.179.114.244
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.162.183.106:12197?type=ws&security=none&sni=edccd.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 221.162.183.106
-vless://948f6596-66f9-4707-aa92-3107a214ce53@175.208.202.41:20583?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.208.202.41
-vless://948f6596-66f9-4707-aa92-3107a214ce53@210.103.86.17:10083?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 210.103.86.17
-vless://948f6596-66f9-4707-aa92-3107a214ce53@59.29.59.109:30059?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.29.59.109
-vless://948f6596-66f9-4707-aa92-3107a214ce53@183.109.161.20:21572?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.109.161.20
-vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?type=ws&security=tls&sni=mihu.sorry.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.134.6.129
-vless://5543ae5c-c24f-405a-9266-597cbc43c818@59.25.160.141:50008?type=ws&security=tls&sni=miku.mikuru.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.25.160.141
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.120.90.174:18024?type=ws&security=none&sni=edcci.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 222.120.90.174
+vless://55520747-311e-4015-83ce-be46e2060ce3@211.218.223.130:30012?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.218.223.130
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?type=ws&security=tls&path=/?ed=2560&sni=edmx.aimercc.filegear-sg.me&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.113.39.207
-vless://948f6596-66f9-4707-aa92-3107a214ce53@211.115.146.127:31304?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.115.146.127
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@121.160.125.55:13654?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.160.125.55
-vless://948f6596-66f9-4707-aa92-3107a214ce53@175.205.194.9:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.205.194.9
-vless://948f6596-66f9-4707-aa92-3107a214ce53@14.52.132.109:30057?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 14.52.132.109
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.168.144.41:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.168.144.41
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.175.16.6:10023?type=ws&security=none&sni=edms.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 121.175.16.6
-vless://948f6596-66f9-4707-aa92-3107a214ce53@125.139.138.180:23105?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.139.138.180
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@183.96.245.165:30060?type=ws&security=tls&path=/telegramu0001f1e8u0001f1f3@pgkj666/?ed=2560security=tls&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.96.245.165
 vless://55520747-311e-4015-83ce-be46e2060ce3@112.173.102.47:11111?type=ws&security=tls&path=/?ed=2560&sni=bv.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 112.173.102.47
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.135.81.139:30050?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.135.81.139
-vless://55520747-311e-4015-83ce-be46e2060ce3@183.106.76.116:12340?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.106.76.116
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?type=ws&security=tls&path=/?ed=2560&sni=agedgv.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.183.90.210
-vless://948f6596-66f9-4707-aa92-3107a214ce53@61.73.36.4:25388?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 61.73.36.4
-vless://948f6596-66f9-4707-aa92-3107a214ce53@119.194.117.229:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.194.117.229
-vless://948f6596-66f9-4707-aa92-3107a214ce53@221.149.11.173:15679?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.149.11.173
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.164.79.55:50000?type=ws&security=none&sni=edcca.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 121.164.79.55
 vless://55520747-311e-4015-83ce-be46e2060ce3@121.163.244.186:19222?type=ws&security=tls&path=/?ed=2560&sni=bv.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.163.244.186
-vless://948f6596-66f9-4707-aa92-3107a214ce53@175.195.255.42:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.195.255.42
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.195.196.173:30120?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmi.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.195.196.173
-vless://948f6596-66f9-4707-aa92-3107a214ce53@222.96.197.31:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.96.197.31
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@210.183.11.2:50000?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 210.183.11.2
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.134.160.98
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@220.79.29.86:28443?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.79.29.86
+vless://948f6596-66f9-4707-aa92-3107a214ce53@61.73.36.4:36863?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 61.73.36.4
+vless://948f6596-66f9-4707-aa92-3107a214ce53@210.103.86.17:10083?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 210.103.86.17
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.120.90.174:18024?type=ws&security=none&sni=edcci.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 222.120.90.174
+vless://948f6596-66f9-4707-aa92-3107a214ce53@121.155.154.142:24603?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.155.154.142
+vless://948f6596-66f9-4707-aa92-3107a214ce53@121.179.114.244:30075?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.179.114.244
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.164.79.55:50000?type=ws&security=none&sni=edcca.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 121.164.79.55
+vless://948f6596-66f9-4707-aa92-3107a214ce53@121.158.194.32:11413?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.158.194.32
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.175.16.6:10023?type=ws&security=none&sni=edms.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 121.175.16.6
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?type=ws&security=tls&path=/?ed=2560&sni=agedgv.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.183.90.210
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.195.196.173:30120?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmi.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.195.196.173
+vless://948f6596-66f9-4707-aa92-3107a214ce53@183.109.161.20:21572?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.109.161.20
+vless://948f6596-66f9-4707-aa92-3107a214ce53@59.29.59.109:30059?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.29.59.109
+vless://948f6596-66f9-4707-aa92-3107a214ce53@211.115.146.127:31304?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.115.146.127
+vless://948f6596-66f9-4707-aa92-3107a214ce53@175.205.194.9:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.205.194.9
+vless://948f6596-66f9-4707-aa92-3107a214ce53@222.96.197.31:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.96.197.31
+vless://948f6596-66f9-4707-aa92-3107a214ce53@175.195.255.42:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.195.255.42
+vless://948f6596-66f9-4707-aa92-3107a214ce53@121.168.144.41:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.168.144.41
+vless://948f6596-66f9-4707-aa92-3107a214ce53@14.52.132.109:30057?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 14.52.132.109
+vless://948f6596-66f9-4707-aa92-3107a214ce53@14.35.29.177:15903?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 14.35.29.177
+vless://55520747-311e-4015-83ce-be46e2060ce3@183.106.76.116:12340?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.106.76.116
+vless://948f6596-66f9-4707-aa92-3107a214ce53@175.208.202.41:20583?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.208.202.41
+vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?type=ws&security=tls&sni=mihu.sorry.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.134.6.129
+vless://948f6596-66f9-4707-aa92-3107a214ce53@221.149.11.173:15679?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.149.11.173
+vless://948f6596-66f9-4707-aa92-3107a214ce53@121.135.81.139:30050?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.135.81.139
+vless://948f6596-66f9-4707-aa92-3107a214ce53@125.139.138.180:23105?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.139.138.180
+vless://948f6596-66f9-4707-aa92-3107a214ce53@125.130.15.106:27879?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.130.15.106
+vless://5543ae5c-c24f-405a-9266-597cbc43c818@59.25.160.141:50008?type=ws&security=tls&sni=miku.mikuru.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.25.160.141
+vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@59.16.86.130:10098?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.16.86.130
+vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@121.160.125.55:13654?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.160.125.55
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.162.183.106:12197?type=ws&security=none&sni=edccd.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 221.162.183.106
+vless://948f6596-66f9-4707-aa92-3107a214ce53@119.194.117.229:50000?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.194.117.229
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@119.199.206.40:39731?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.199.206.40
 vless://55520747-311e-4015-83ce-be46e2060ce3@221.164.142.10:50000?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.164.142.10
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?type=ws&security=tls&path=/&sni=re1.ylks0033.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.197.201.29
@@ -515,32 +521,29 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@118.46.29.202:30052?type=ws&securit
 vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@210.179.71.53:10990?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 210.179.71.53
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@211.38.90.108:10042?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmi.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.38.90.108
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:30025?type=ws&security=none&sni=edccd.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 221.144.200.91
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@211.217.223.187:50000?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.217.223.187
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@125.139.48.108:16026?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.139.48.108
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@211.218.223.130:30012?type=ws&security=none&path=/?ed=2560security=tls&sni=cb.dong2025.cfd#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 211.218.223.130
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@14.47.11.69:12349?type=ws&security=none&sni=edccu.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 14.47.11.69
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@221.157.196.48:12623?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.157.196.48
-vless://55520747-311e-4015-83ce-be46e2060ce3@183.106.162.127:18888?type=ws&security=tls&path=/?ed&sni=nb.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.106.162.127
-vless://55520747-311e-4015-83ce-be46e2060ce3@220.118.248.123:30012?type=ws&security=tls&path=/?ed&sni=nb.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.118.248.123
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.162.197.175:10986?type=ws&security=tls&path=/telegram🇨🇳@pgkj666/?ed&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.162.197.175
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@211.217.223.187:50000?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.217.223.187
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@220.117.126.46:22022?type=ws&security=tls&path=/?ed=2560&sni=edccr.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.117.126.46
+vless://55520747-311e-4015-83ce-be46e2060ce3@183.106.162.127:18888?type=ws&security=none&sni=xb.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 183.106.162.127
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@14.47.11.69:12349?type=ws&security=none&sni=edccu.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 14.47.11.69
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@119.195.138.41:34910?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.195.138.41
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@221.157.196.48:12623?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.157.196.48
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@59.5.53.119:23349?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.5.53.119
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@59.23.155.196:10397?type=ws&security=none&sni=edccd.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 59.23.155.196
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.158.163.251:10010?type=ws&security=tls&path=/?ed=2560&sni=edcch.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.158.163.251
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@222.117.231.32:14896?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.117.231.32
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@222.102.166.18:30111?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.102.166.18
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@121.174.200.92:12416?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.174.200.92
+vless://55520747-311e-4015-83ce-be46e2060ce3@220.118.248.123:30012?type=ws&security=tls&path=/?ed&sni=nb.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.118.248.123
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@175.199.227.244:50000?type=ws&security=none&sni=edccz.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 175.199.227.244
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@59.31.58.157:50000?type=ws&security=tls&path=/?ed&sni=edccn.ambercc.filegear-sg.me&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.31.58.157
 vless://55520747-311e-4015-83ce-be46e2060ce3@211.229.177.55:11007?type=ws&security=none&path=/?ed=2560security=tls&sni=cl.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 211.229.177.55
 vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@118.37.73.36:11953?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 118.37.73.36
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.162.197.175:10986?type=ws&security=tls&path=/telegram🇨🇳@pgkj666/?ed&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.162.197.175
 vless://948f6596-66f9-4707-aa92-3107a214ce53@59.2.114.243:25224?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.2.114.243
 vless://7a66b8ef-9713-4b69-b839-6bb45070af5@1.99.130.239:443?type=tcp&security=none#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 1.99.130.239
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@112.163.91.67:18064?type=ws&security=tls&path=/?ed=2560&sni=rc.ylks0033.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 112.163.91.67
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@125.128.227.141:50000?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.128.227.141
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@210.183.11.2:50000?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 210.183.11.2
-vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@59.14.189.230:12097?type=ws&security=tls&path=/?ed=2560fp=random&sni=oty.myto.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.14.189.230
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@59.3.3.161:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.3.3.161
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@211.55.202.96:33890?type=ws&security=tls&path=/blue&sni=kk033.ylks.link#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.55.202.96
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@175.215.82.175:12263?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.215.82.175
@@ -567,26 +570,27 @@ vless://5543ae5c-c24f-405a-9266-597cbc43c818@14.56.226.68:12202?type=ws&security
 vless://948f6596-66f9-4707-aa92-3107a214ce53@175.212.44.200:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.212.44.200
 vless://51997334-8829-47cd-a5ef-4e4311a000e2@211.184.154.31:20674?type=ws&security=tls&path=/?ed=2560&sni=ennyfe.zipgd3vx91o.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.184.154.31
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@220.120.172.116:12365?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.120.172.116
+vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@59.14.189.230:12097?type=ws&security=tls#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.14.189.230
 vless://dd6154dd-5767-439a-9f4f-734895e06a1e@59.7.135.14:22909?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.7.135.14
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p080.panda001.net:36379#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.135
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG DACOM Corporation ┇ 112.218.196.26
 trojan://Aimer@106.240.1.52:20443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG DACOM Corporation ┇ 106.240.1.52
-vless://948f6596-66f9-4707-aa92-3107a214ce53@115.95.176.24:30064?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 115.95.176.24
-vless://948f6596-66f9-4707-aa92-3107a214ce53@106.255.89.151:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.255.89.151
-vless://948f6596-66f9-4707-aa92-3107a214ce53@106.244.201.248:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.201.248
-vless://948f6596-66f9-4707-aa92-3107a214ce53@61.37.230.26:31173?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 61.37.230.26
 vless://948f6596-66f9-4707-aa92-3107a214ce53@123.143.9.5:14041?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 123.143.9.5
+vless://948f6596-66f9-4707-aa92-3107a214ce53@61.37.230.26:31173?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 61.37.230.26
+vless://948f6596-66f9-4707-aa92-3107a214ce53@115.95.176.24:30064?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 115.95.176.24
+vless://948f6596-66f9-4707-aa92-3107a214ce53@106.244.201.248:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.201.248
+vless://948f6596-66f9-4707-aa92-3107a214ce53@106.255.89.151:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.255.89.151
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@106.244.68.249:50000?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.68.249
 vless://948f6596-66f9-4707-aa92-3107a214ce53@112.223.212.219:10543?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 112.223.212.219
 trojan://ttfang@116.47.199.34:50000?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG POWERCOMM ┇ 116.47.199.34
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.208:443?sni=kr2.twincloud.xyz&peer=kr2.twincloud.xyz&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG POWERCOMM ┇ 182.209.240.208
+vless://948f6596-66f9-4707-aa92-3107a214ce53@119.65.35.44:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 119.65.35.44
 vless://948f6596-66f9-4707-aa92-3107a214ce53@180.230.0.137:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 180.230.0.137
 vless://948f6596-66f9-4707-aa92-3107a214ce53@125.187.120.122:11181?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 125.187.120.122
-vless://948f6596-66f9-4707-aa92-3107a214ce53@119.65.35.44:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 119.65.35.44
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:30049?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.171.243.145
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.48.200:50000?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.171.48.200
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.166.202.100:30065?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.166.202.100
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@182.213.59.227:27000?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 182.213.59.227
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.166.202.100:30065?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.166.202.100
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@182.230.121.50:50030?type=ws&security=tls&path=/proxyip=proxyip.kr.fxxk.dedyn.io&sni=jp033.ylks01.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 182.230.121.50
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@116.47.10.236:21302?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 116.47.10.236
 trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?sni=krnode01.oportal.cc&peer=krnode01.oportal.cc&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.231.36.138
@@ -594,11 +598,11 @@ trojan://8204cc78-ee91-4fa5-a547-b8988d44f93e@20.249.57.109:443?sni=tr.mjt001.co
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNSUNST1NPRlQtQ09SUC1NU04tQVMtQkxPQ0sgXHUyNTA3IDUyLjIzMS4yMDAuMTc5IiwiYWRkIjoiZnVsbGFjY2Vzc3Rva29yZWFubmV0c3Vibm9kZTEuYXp1cmV3ZWJzaXRlcy5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNSUNST1NPRlQtQ09SUC1NU04tQVMtQkxPQ0sgXHUyNTA3IDIwLjIxNC4xOTIuNDEiLCJhZGQiOiIxLWtyLmltcG9ydGFsLnRvcCIsInBvcnQiOjQ0MywiaWQiOiI3Y2FhMzZlZi1mZjcwLTM2NDktYTRkYS1hYWFhN2IzODc3N2YiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEta3IuaW1wb3J0YWwudG9wIiwicGF0aCI6Ii9wb3J0YWxzIiwidGxzIjoidGxzIiwic25pIjoiMS1rci5pbXBvcnRhbC50b3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMjAuMjE0LjEwNi43NyIsImFkZCI6IjIwLjIxNC4xMDYuNzciLCJwb3J0Ijo4ODY3LCJpZCI6ImFmN2ViZTE3LTk1YmYtNGRmOC1iNDg5LTBjOGNhNDRiZDQzOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@52.141.25.42:443?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.141.25.42
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@52.141.25.42:443?type=ws&security=tls&path=/Telegram&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.141.25.42
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?type=ws&security=tls&path=/&sni=bnnm.azurewebsites.net&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.231.38.95
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@20.249.83.244:8443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.249.83.244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@61.111.247.242:40032#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - MOACK.Co.LTD ┇ 61.111.247.242
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?sni=official.seoulcitygovernment.com.ua&peer=official.seoulcitygovernment.com.ua&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - MOACK.Co.LTD ┇ 203.210.16.78
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - MOACK.Co.LTD ┇ 203.210.16.78
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1PQUNLLkNvLkxURCBcdTI1MDcgNDUuMTQxLjEzNi4xNTEiLCJhZGQiOiI0NS4xNDEuMTM2LjE1MSIsInBvcnQiOjEzMjU4LCJpZCI6IjZlNWVjYjZkLWU3NjMtNGQxNi1iOWMyLWU3Y2M2ODJhMjZkYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNT0FDSy5Dby5MVEQgXHUyNTA3IDQ1LjkzLjI4LjE5OCIsImFkZCI6IjQ1LjkzLjI4LjE5OCIsInBvcnQiOjUzNTA1LCJpZCI6IjY0NDNjOTA2LTdlMDUtNDBmYi1iZDVkLWY4NWEyMmNkMzM4YSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtvcjEudmVyaWNoYWlucy5jbyIsInBhdGgiOiIva29yMS9nZXREYXRhIiwidGxzIjoidGxzIiwic25pIjoia29yMS52ZXJpY2hhaW5zLmNvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1PQUNLLkNvLkxURCBcdTI1MDcgNDUuMTQxLjEzNi4yMjEiLCJhZGQiOiI0NS4xNDEuMTM2LjIyMSIsInBvcnQiOjIyMzMwLCJpZCI6IjJmNjRjOWQ1LWUzNDktNDU3OS05ZDAxLWI4ZWFiNDM0MDIzMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
@@ -615,20 +619,6 @@ vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880?type=tcp&securit
 ss://YWVzLTI1Ni1nY206eXk1OTU3MjE@131.186.21.62:4433#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.21.62
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSeGtwdDdKVm5nNGpNY3FGQ2tjQw@129.154.194.163:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.154.194.163
 ss://YWVzLTEyOC1nY206Y2FhNjAwNTEtYTMxOC00ODRmLTgwZDktMzkyODlhOGRmNTIy@129.154.222.205:32302#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.154.222.205
-trojan://ttfang@146.56.107.41:27306?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.107.41
-trojan://ttfang@144.24.87.69:50001?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.87.69
-trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.70.245.66
-trojan://bpb-trojan@193.123.235.59:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 193.123.235.59
-trojan://bpb-trojan@138.2.122.191:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.122.191
-trojan://Aimer@146.56.155.102:20003?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.155.102
-trojan://Aimer@132.226.23.92:22053?sni=epcce.ambercc.filegear-sg.me&peer=epcce.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.23.92
-trojan://ttfang@193.123.247.125:50576?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 193.123.247.125
-trojan://ttfang@129.154.48.176:36355?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.154.48.176
-trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?sni=freehr01.jd0001.top&peer=freehr01.jd0001.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.180.82.98
-trojan://juzi@64.110.70.205:23022?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 64.110.70.205
-trojan://Aimer@131.186.22.39:34237?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 131.186.22.39
-trojan://juzi@146.56.140.79:22561?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.140.79
-trojan://bpb-trojan@146.56.46.84:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.46.84
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.113.248
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.76.54
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.113.84
@@ -637,7 +627,21 @@ trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#KR 
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.189.146
 trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?sni=www.gomacau.gq&peer=www.gomacau.gq&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.230.249.20
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.179.67
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@129.154.49.249:15055?sni=freehr01.jd0001.top&peer=freehr01.jd0001.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.154.49.249
+trojan://bpb-trojan@146.56.46.84:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.46.84
+trojan://ttfang@129.154.48.176:36355?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.154.48.176
+trojan://bpb-trojan@138.2.122.191:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.122.191
+trojan://juzi@146.56.140.79:22561?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.140.79
+trojan://ttfang@193.123.247.125:50576?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 193.123.247.125
+trojan://Aimer@131.186.22.39:34237?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 131.186.22.39
+trojan://juzi@64.110.70.205:23022?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 64.110.70.205
+trojan://bpb-trojan@193.123.235.59:443?sni=skwygx.top&peer=skwygx.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 193.123.235.59
+trojan://Aimer@146.56.155.102:20003?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.155.102
+trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.70.245.66
+trojan://ttfang@144.24.87.69:50001?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.87.69
+trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?sni=freehr01.jd0001.top&peer=freehr01.jd0001.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.180.82.98
+trojan://Aimer@132.226.23.92:22053?sni=epcce.ambercc.filegear-sg.me&peer=epcce.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.23.92
+trojan://ttfang@146.56.107.41:27306?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.107.41
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@129.154.49.249:15055?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.154.49.249
 trojan://Aimer@129.154.207.203:443?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.154.207.203
 trojan://moist@64.110.88.46:443?sni=trojan.freenods.sbs&peer=trojan.freenods.sbs&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 64.110.88.46
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@152.70.249.186:21005?sni=alibabashop.com&peer=alibabashop.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.70.249.186
@@ -649,6 +653,7 @@ trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@64.110.68.224:21402?sni=13-231-155
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.114.255
 trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.12.83
 trojan://xjN4xcuPGg@a.522226.xyz:45101?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.107.198
+trojan://Aimer@146.56.178.79:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.178.79
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@152.67.212.239:8443?sni=mehrnews.com&peer=mehrnews.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.212.239
 trojan://0Y9gOHSdRt@150.230.249.42:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.230.249.42
 trojan://ddeb5b2c-5a1e-41d4-bb3a-08babe54f1a1@146.56.176.239:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.176.239
@@ -764,23 +769,23 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0Ni41Ni4xMTIuMTEwIiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0Ijo4ODg4LCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42Ny4xOTcuMTkiLCJhZGQiOiIxNTIuNjcuMTk3LjE5IiwicG9ydCI6Mzk4MjUsImlkIjoiZjc5NTczMjMtNTU5ZS00YTczLThhMGEtZGNkNDEyMGI0YmMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNTIuNzAuMjQ5Ljk3IiwiYWRkIjoiMTUyLjcwLjI0OS45NyIsInBvcnQiOjQ0MywiaWQiOiJiMmQxMDY3My0yNGNjLTRmOTYtYjFmMy1kYThiMTc1ODkwNzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJrcjMudHRjYy50ZWNoIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrcjMudHRjYy50ZWNoIn0
-vless://948f6596-66f9-4707-aa92-3107a214ce53@131.186.18.212:28887?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.18.212
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@130.162.147.187:443?type=tcp&security=tls&sni=ako.pagate.top&flow=xtls-rprx-vision#KR 🇰🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 130.162.147.187
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@144.24.90.107:443?type=ws&security=tls&path=/tiger&sni=piqie.justin-lifeistooshort.info#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.90.107
-vless://74dd96cd-3b12-4e03-8605-aeeb188d93f3@131.186.22.238:443?type=tcp&security=tls&sni=buylite.music.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#KR 🇰🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 131.186.22.238
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@131.186.17.132:443?type=ws&security=tls&path=/?ed=2560&sni=vs.ylka.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.17.132
-vless://948f6596-66f9-4707-aa92-3107a214ce53@152.70.234.90:55588?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.234.90
-vless://948f6596-66f9-4707-aa92-3107a214ce53@146.56.112.139:19276?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 146.56.112.139
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.20.178:27194?type=ws&security=none&path=/&sni=edcci.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 131.186.20.178
-vless://55520747-311e-4015-83ce-be46e2060ce3@132.145.94.80:443?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.145.94.80
 vless://0c561336-b0c7-4b18-96d1-863240a224ab@152.70.232.251:58474?type=ws&security=tls&sni=chou3.pages.dev#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.232.251
-vless://948f6596-66f9-4707-aa92-3107a214ce53@152.67.203.34:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.67.203.34
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@158.179.171.53:443?type=ws&security=tls&path=/Telegram🇨🇳&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.179.171.53
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@131.186.17.132:443?type=ws&security=tls&path=/?ed=2560&sni=bk.ylka.dpdns.org&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.17.132
+vless://948f6596-66f9-4707-aa92-3107a214ce53@146.56.112.139:19276?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 146.56.112.139
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@144.24.90.107:443?type=ws&security=tls&path=/tiger&sni=piqie.justin-lifeistooshort.info#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.90.107
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.20.178:27194?type=ws&security=none&path=/&sni=edcci.aimercc.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 131.186.20.178
 vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@129.154.194.191:443?type=ws&security=tls&sni=qwok.feidyql.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.154.194.191
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@158.179.171.53:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 158.179.171.53
+vless://55520747-311e-4015-83ce-be46e2060ce3@132.145.94.80:443?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.145.94.80
+vless://948f6596-66f9-4707-aa92-3107a214ce53@152.67.203.34:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.67.203.34
 vless://948f6596-66f9-4707-aa92-3107a214ce53@152.69.229.175:22558?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.69.229.175
-vless://948f6596-66f9-4707-aa92-3107a214ce53@152.67.197.197:19120?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.67.197.197
-vless://948f6596-66f9-4707-aa92-3107a214ce53@144.24.84.212:49888?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.84.212
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@146.56.136.39:10099?type=ws&security=none&sni=vx.ylks0033.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 146.56.136.39
+vless://948f6596-66f9-4707-aa92-3107a214ce53@131.186.18.212:28887?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.18.212
+vless://74dd96cd-3b12-4e03-8605-aeeb188d93f3@131.186.22.238:443?type=tcp&security=tls&sni=buylite.music.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#KR 🇰🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 131.186.22.238
+vless://948f6596-66f9-4707-aa92-3107a214ce53@152.67.197.197:19120?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.67.197.197
+vless://948f6596-66f9-4707-aa92-3107a214ce53@152.70.234.90:55588?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.234.90
+vless://948f6596-66f9-4707-aa92-3107a214ce53@144.24.84.212:49888?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.84.212
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434?type=ws&security=none&sni=cn.ylks0033.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.115.67
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.222.116:20010?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.154.222.116
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.212.181:44699?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.154.212.181
@@ -794,7 +799,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.130.56:20010?type=ws&securit
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.151.254:32900?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 146.56.151.254
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.162.130.105:443?type=ws&security=tls&path=/?ed=2560&sni=rv.bgm2024.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 130.162.130.105
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@193.123.244.37:34237?type=ws&security=tls&path=/?proxyip=proxyip.kr.fxxk.dedyn.io&sni=xz.ylks.xyz#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.123.244.37
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.78.162
 vless://30f85233-d41e-4297-97c1-cfac047a948b@193.123.248.228:23333?type=tcp&security=reality&sni=www.yahoo.co.jp&fp=qq&flow=xtls-rprx-vision&pbk=LGcYLmLcvwtfKuk_Qa_dy0N6YNz4szWReWug5fxAwh0&sid=15f7#KR 🇰🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 193.123.248.228
 vless://d516b33d-86ee-49e8-9af7-4eb7405e5cfe@seoul-1ddns.aboutanime.eu.org:23258?type=tcp&security=reality&sni=akcdnoversea.inter.71edge.com&fp=chrome&flow=xtls-rprx-vision&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#KR 🇰🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 129.154.210.200
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctS1IgXHUyNTA3IDEwNC4zNy4yMTUuNjciLCJhZGQiOiIxMDQuMzcuMjE1LjY3IiwicG9ydCI6MzAwMDEsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
@@ -806,7 +810,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vless://10161130-b932-455e-baab-cf4d8ca9f18c@kr.accesspoints.cloakify.app:19511?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=JOREazv355APQkUF27LPVQptyO2rW7MkH9T9BkcDVgg&sid=c97468a8#KR 🇰🇷 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.246.85
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNFSk9ORyBORVRXT1JLUyBcdTI1MDcgMjAzLjIyNy40NC43NCIsImFkZCI6IjIwMy4yMjcuNDQuNzQiLCJwb3J0IjozMTk0NSwiaWQiOiI3Y2NiYjE0Ny0zOGI4LTRkN2MtOTIwMS0yYWQ0YWU4Yjg3NjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0VKT05HIE5FVFdPUktTIFx1MjUwNyAyMDMuMjMxLjI0Mi4xMiIsImFkZCI6ImtyMi5xaWFuZ2RvbmcueHl6IiwicG9ydCI6MTUzLCJpZCI6IjY2NmE5ODM5LWNjN2MtMzE1YS1hNjVkLTJhYzlkOWFkYWE0MSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.38.103.150
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:54345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 221.139.79.57
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:54345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 211.201.169.70
@@ -816,14 +820,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSyBCcm9hZGJhbmQgQ28gTHRkIFx1MjUwNyAxLjIzOC4xMDIuMjE0IiwiYWRkIjoiMS4yMzguMTAyLjIxNCIsInBvcnQiOjMwMDAxLCJpZCI6ImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLWZmZmZmZmZmZmZmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoicDMuY2hpZ3VhLnRrIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6InAzLmNoaWd1YS50ayJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0sgQnJvYWRiYW5kIENvIEx0ZCBcdTI1MDcgMjExLjE3Ni4yMzcuOTQiLCJhZGQiOiIyMTEuMTc2LjIzNy45NCIsInBvcnQiOjMwMDAxLCJpZCI6ImFlOTZkM2M3LTYwODUtNDc2OS1hNGZkLWI5OGRiOGI3ODI4YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0sgQnJvYWRiYW5kIENvIEx0ZCBcdTI1MDcgNTguMjI3LjE0MS4yNTQiLCJhZGQiOiI1OC4yMjcuMTQxLjI1NCIsInBvcnQiOjMwMDAxLCJpZCI6ImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLWZmZmZmZmZmZmZmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@118.91.83.231:10704?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 118.91.83.231
-vless://c7d1fef0-8115-4488-9c6e-60bd175c4e33@58.120.196.122:10182?type=ws&security=tls&sni=etc.mesa.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 58.120.196.122
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@123.99.81.34:14703?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 123.99.81.34
 vless://948f6596-66f9-4707-aa92-3107a214ce53@219.248.62.241:30017?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 219.248.62.241
+vless://c7d1fef0-8115-4488-9c6e-60bd175c4e33@58.120.196.122:10182?type=ws&security=tls&sni=etc.mesa.ip-ddns.com#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 58.120.196.122
+vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@118.91.83.231:10704?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 118.91.83.231
 vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?type=ws&security=tls&sni=mot.gike.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 120.143.180.126
 vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@61.106.208.249:10155?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 61.106.208.249
+vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@123.99.81.34:14703?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 123.99.81.34
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@175.127.79.237:50004?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 175.127.79.237
-vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.213.102.88
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?type=ws&security=tls&path=/?ed&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.213.102.88
 vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.38.33.77
 vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.51.125.182:14220?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.51.125.182
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@218.39.191.120:27516?type=ws&security=tls&path=/?proxyip=proxyip.kr.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.39.191.120
@@ -833,4 +837,4 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2TVRZd01XVXpZekk1WXpoa1lqRmhPRGc1TkRKalpqQmpZV1E
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@43.133.70.168:8443?type=ws&security=tls&path=/?ed=2560&sni=v.aivpn.filegear-sg.me&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.133.70.168
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBVQ0xPVUQgSU5GT1JNQVRJT04gVEVDSE5PTE9HWSBISyBMSU1JVEVEIFx1MjUwNyAxMTguMTkzLjY5LjE1OCIsImFkZCI6IjExOC4xOTMuNjkuMTU4IiwicG9ydCI6NTMxNzMsImlkIjoiM2I3NmQxYTgtNTVmZC00NjVlLWFhMDQtNjhjMzlhNTA2MTc1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJmYWxzZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWE5ORVQgXHUyNTA3IDQ1LjE0MC45MC4yNTIiLCJhZGQiOiI0NS4xNDAuOTAuMjUyIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzA1MTExMTIzMDkxMCJ9
-trojan://vhkcc5u6-c710-6og1-ocwy-a7dyxh3ptkj7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5c5hnk93-2m0u-mhpp-0ggc-y89857vmm5ev@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

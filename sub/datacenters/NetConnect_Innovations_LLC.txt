@@ -1,7 +1,7 @@
-trojan://b44obini-9e0g-md60-gxn2-bhp731d8a2bj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:00 ]
-trojan://675f4flx-130i-fkxo-19kj-fpzc87ohay7s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://63tadyqp-y4hn-st99-1ihx-h14u1p8322se@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zfsa1h9x-t7vi-e49j-5yod-bngxdg8ud6dw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
-vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?type=ws&security=tls&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
-trojan://267ku0ya-p2j0-05ym-gp93-vjnmz6ypmfpr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f3htlv6y-4xbu-lbfi-zpqz-pp0nl8y5kdpy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 21:23 ]
+trojan://y53xp5l3-1fxe-eo37-nv0p-f7mkt3emtpf5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xumq8ays-sal7-sevx-g6qd-jq1fx7ri5ih3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://88lr2z9z-8qxw-o34z-b46v-fepm7599swqw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&security=none&path=/telegram-mitivpn#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?type=ws&security=tls&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
+trojan://k56ecjuv-q557-7gqm-z8fw-ay6ks3zrytxr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
