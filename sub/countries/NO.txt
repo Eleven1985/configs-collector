@@ -1,14 +1,14 @@
-trojan://k5q9nc3z-luwl-lq2c-6sw5-dralf1vywrf7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://okuzce13-om0g-v335-66h9-11c8u5c8izzg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vxqdjj0y-ve1e-qypn-zquu-4cvbkx7rwjdj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tioki6r1-kpa1-f1yt-u8v4-vzp42l5qv6tx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://66yl8vgs-x7rt-dhop-m72n-zrf6pjiu9qc7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://2xor8ndy-jmch-i9in-qbzc-mfezyeznmh6l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5gg0jhn2-5pdl-5g4c-rj0k-ryyvcejgb410@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qf5edf6i-uu69-ozix-ga5q-08aq4tyy074a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@46.29.218.170:8118#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.170
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2375#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.6
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCaXRwcm8gXHUyNTA3IDQ2LjI5LjIxOC44NCIsImFkZCI6IjQ2LjI5LjIxOC44NCIsInBvcnQiOjQ0MywiaWQiOiJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0cHJvIFx1MjUwNyA0Ni4yOS4yMTguODUiLCJhZGQiOiI0Ni4yOS4yMTguODUiLCJwb3J0Ijo0NDMsImlkIjoiZjdhNDU2ZGEtOTg4Ni00ZGQ3LWIxOTMtNGM1OWE3MjYyMTljIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2In0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.153
-ss://YWVzLTI1Ni1nY206TVJDM09WQ0RLOUQ3RUw5MA@185.90.61.157:20034#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.157
+ss://YWVzLTI1Ni1nY206SlBWNkMwRUtOODhSVDM0Rg@185.90.61.157:20034#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.157
 vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@185.90.61.32:6000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.32
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-no-1-v4.soundlesss.com:6000?type=tcp&security=reality&sni=www.unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.31
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?type=tcp&security=tls&sni=osl-no-01.fromblancwithlove.com#NO 🇳🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 95.173.205.70
@@ -25,4 +25,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuMjEiLCJhZGQiOiIxNzEuMjIuMTE2LjIxIiwicG9ydCI6NTgwODIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuNDQiLCJhZGQiOiIxNzEuMjIuMTE2LjQ0IiwicG9ydCI6NDY5MDksImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuMjIiLCJhZGQiOiIxNzEuMjIuMTE2LjIyIiwicG9ydCI6NTgwODIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://4zf4aocu-jzrf-rh9i-4bub-jnjau5fqdf8a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xvub42wv-108z-hyko-9qw6-wwef49fov49g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

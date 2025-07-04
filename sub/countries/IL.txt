@@ -1,8 +1,8 @@
-trojan://8a0jkzrs-w5mu-qfc0-j7yd-9xqhn7r0mht6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://70agb29c-hkvx-0fsn-r3iz-4w543j5z56j4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pesb2685-8k50-q85z-x0mo-y3xy6pdcig54@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6gdjrhjt-b2qq-merw-a6be-x1eaxng0g2oh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
+trojan://xxiieede-s73m-9o0t-sbaw-zyacyp6xjlik@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://4msmf354-jyn5-62yh-y03d-pvt0w22rm6y2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1ceec4ci-pz37-33vn-8fw3-view1j3i3ga7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hjsq7mta-gm71-gu4n-ncqn-i0cdwy0sqy5x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
 ss://YWVzLTI1Ni1nY206M0VDTk42SzFKUjZZUUkzQw@147.78.2.35:20020#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.2.35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 169.150.202.174
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdz09@193.182.144.183:989#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - Interhost Communication Solutions Ltd. ┇ 193.182.144.183
@@ -23,4 +23,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#IL �
 vmess://eyJ2IjoiMiIsInBzIjoiSUwgXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5MS4yMjUuMjE4LjIzMSIsImFkZCI6IjkxLjIyNS4yMTguMjMxIiwicG9ydCI6MjA4MiwiaWQiOiIxODQyMzA1NC1iNjA2LTU5NDQtODhhYi0yYmI0NTNmZDg3ZTYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiJkZTIudm1lc3Muc2l0ZSIsInBhdGgiOiJ2bWVzcy1ncnBjIiwic25pIjoiZGUyLnZtZXNzLnNpdGUifQ
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&sni=dl.google.com&fp=random&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#IL 🇮🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 77.91.74.189
 ss://YWVzLTI1Ni1nY206VDhsTmpvbXpKaENUZlBmWg@185.239.48.109:8388#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - SmartApe OU ┇ 185.239.48.109
-trojan://umzinsow-c8vh-clw9-9pha-pptxzcmhnjbo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zrfvjmvc-n3kn-mrti-0gbz-4t4jhkejadxp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

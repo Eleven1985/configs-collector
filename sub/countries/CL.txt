@@ -1,12 +1,13 @@
-trojan://ozop7zhl-ae44-lb6j-4zzp-dngxm87vhter@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://n5svglii-enfj-7asw-9k6n-kcp7z9q8d47j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ocvwidnb-98y2-ndcb-2mqh-o6ekssu2yq2u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r1rqcd2y-mtxe-1prr-lfji-jvn3ueu584hh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://70vmygqt-krsy-ew51-kuqd-m6lmr5htl944@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://yifj2vxq-kcls-8jbi-1c37-uw6sfx1cd9rm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nb9811b7-jbk2-ubkp-nx1a-bckusm3pyun3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ssmb9ff4-cped-b89l-n868-dcbzgpacbk7g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.99.161:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-TLS ┇ 162.158.99.161
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.17.53
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
 ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=ws&security=tls&path=/vless/&sni=pq.chile1.09vpn.com#CL 🇨🇱 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
 vless://32fe54d2-1605-41bf-aff4-8e24957a988d@45.82.249.35:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.230.9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
-trojan://kr0ifof8-bhqd-ehvr-bty9-racexcb99bke@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9210vknk-hifl-mkwi-zc7v-8mofmmjs8pbj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

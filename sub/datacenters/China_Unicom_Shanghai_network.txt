@@ -1,7 +1,7 @@
-trojan://0iijs6gc-k134-vocq-dvb3-ojmrccxdnjuo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://h23xjwlx-3quh-sk5l-u8k0-fza4y4q8ihmj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nle5oobf-zl0c-ihu9-2sa4-4lhn62am8r9f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qqaqymob-5bip-ih2r-mjle-066gdvidtoiz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8wh6b0e1-h3e3-2wex-54t5-odpy5me1off2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://t8dr3g96-2wwn-dkw5-k0c0-4r1dhofcu97n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://igah11hm-cg7h-27to-12je-3d8gx47h8yae@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mmebijpq-e5mt-52ne-80ew-udv5tozboocq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://L4qgA5@139.226.166.156:28132?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Shanghai network ┇ 139.226.166.156
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@139.227.52.6:8443?sni=official.seoulcitygovernment.com.ua&peer=official.seoulcitygovernment.com.ua&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Shanghai network ┇ 139.227.52.6
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@223.167.41.76:2053?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Shanghai network ┇ 223.167.41.76
@@ -19,4 +19,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDaGluYSBVbmljb20gU2hhbmdoYWkgbmV0d29yayBcdTI1MDcgMjIzLjE2Ni4xNTcuNDYiLCJhZGQiOiIyMjMuMTY2LjE1Ny40NiIsInBvcnQiOjYzMDI4LCJpZCI6ImM3OTZlY2FmLWU2Y2EtM2ViYS05NmQzLTIxZGY0NDU1MGNiYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVW5pY29tIFNoYW5naGFpIG5ldHdvcmsgXHUyNTA3IDEzOS4yMjYuMTEyLjIwNSIsImFkZCI6IjEzOS4yMjYuMTEyLjIwNSIsInBvcnQiOjYzMDgyLCJpZCI6ImM3OTZlY2FmLWU2Y2EtM2ViYS05NmQzLTIxZGY0NDU1MGNiYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hIFVuaWNvbSBTaGFuZ2hhaSBuZXR3b3JrIFx1MjUwNyAxMzkuMjI3LjE2MS4xMjkiLCJhZGQiOiIxMzkuMjI3LjE2MS4xMjkiLCJwb3J0IjoxMDAwNCwiaWQiOiI2NWNhYzU2ZC00MTU1LTQzYzgtYmFlMC1mMzY4Y2IyMWY3NzEiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://ujghur2v-8o2f-tkfx-wfzo-fsesr3m2oqkk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://65b4gcnc-6ghn-w4yz-3nq0-mx83ys98s22n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

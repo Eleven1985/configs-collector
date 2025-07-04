@@ -1,8 +1,8 @@
-trojan://0tv2suv3-4mzj-0hh2-n163-1dsb4grfby4x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://5wvelvko-k05a-6s09-kvnp-om936gmbhn4w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6avk38rs-b4ep-cxwo-0pbo-80gsmzpc1npq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lube1vpa-wrfo-tpd0-4bf3-j0nkax71bmgp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206QUZHRVVHSFNNWlRQTUJBUw@185.47.252.16:20009#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.16
+trojan://qve3i0zu-mm6q-ugnb-r3r2-d1dbj0mz1ow4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://zyofzxh4-342e-uji7-525n-2qrsepkogm77@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a07agd0f-h3j1-de6n-rw5t-mk6f2wftapx3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://klvcl16x-6gxk-j45d-9b1x-91ujjohwcsvy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206RTRWV1RTWDBHVVBRT1ZPOA@185.47.252.16:20009#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.16
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.251
 trojan://Aimer@154.219.5.44:2053?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.44
 trojan://Aimer@154.219.5.242:2053?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.242
@@ -10,11 +10,11 @@ trojan://Aimer@154.219.5.55:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambe
 trojan://Aimer@154.219.5.87:2087?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.87
 trojan://Aimer@154.219.5.56:2087?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.56
 trojan://Aimer@154.219.5.249:8443?sni=epccn.ambercc.filegear-sg.me&peer=epccn.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.249
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.219.5.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.77
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.219.5.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.77
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.219.5.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.251
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.68
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.92
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.229.28
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 138.186.143.32
-trojan://sfiiqfx8-m28d-3d8o-uk8i-8s57p4j89t81@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.229.28
+trojan://36xjdp3b-6edw-mlqy-gg7q-v1u0pyvpnkqd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

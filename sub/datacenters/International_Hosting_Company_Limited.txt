@@ -1,8 +1,8 @@
-trojan://e5e1mqop-ky9k-7fz5-9zxh-7ae0rb086t6q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://thmwcgez-c9ak-pnxr-x1hi-060a17wohepv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gz5afepa-ji6f-eybu-l19z-hv8js43vxsv3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://am81zph6-6elh-s7g2-rvvc-3bjbc4kkzp22@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://a50l3rsi-vo9d-yg22-7nd0-krljx81zs37s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://uwgqdyhu-ilkg-814a-e5k9-4k0i7xkbvnxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uqxe1j3x-adqg-5ajx-17gz-qq3erxof7cze@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a3t1w04w-g73e-sgir-pq0x-58cpw4658v3u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?type=ws&security=tls&sni=CiR346yL3b.DeRaKhT.iNfO#DE 🇩🇪 ┇ VLESS-WS-TLS - International Hosting Company Limited ┇ 5.104.75.130
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@5.104.75.12:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#DE 🇩🇪 ┇ VLESS-WS-TLS - International Hosting Company Limited ┇ 5.104.75.12
 vless://a587d010-d29e-4efa-abf6-5e76ec035fcd@194.87.54.137:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=bKzUS_Mj69PvW0XCkWVnTNpLtYJpYte6ERga53Ft_Ws&sid=981e0de01b#DE 🇩🇪 ┇ VLESS-TCP-RLT - International Hosting Company Limited ┇ 194.87.54.137
-trojan://061xlcvb-9fuo-an3p-4ij5-l1q44xqyfpd5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wbybu7w6-5iwa-7a4q-3f61-xns3of4xc3b5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

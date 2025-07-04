@@ -1,7 +1,7 @@
-trojan://8j5lkt6z-v6tl-7cua-hxcz-yhtmwmsocn6p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://r7vgjxkm-zor0-eubi-3lm3-if57d867uimi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ahbxmrd6-rkod-6rci-rfx8-30xmjezitbly@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l1zhy7ko-14zw-7wdf-wm20-gicavv0ymu3x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zj9xyb47-d0or-zuvr-rp66-6h05c810rwkz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://ldmq3mgd-npia-kbah-02bw-nqbvr7gpy1t0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q64xfgwv-mnoh-a1xq-l4xg-rz52dx1qwel4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j7svherg-s6y5-z3rc-hwgd-3fv5wowwpgqh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphdmo5aTQxMnBBb2tCR0F2M0pkU2dE@158.255.212.94:30109#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 158.255.212.94
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 37.235.56.69
@@ -9,4 +9,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.61.59:989#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 192.36.61.59
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 89.46.238.35
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.225.104:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.68.225.104
-trojan://7cphls25-jozi-zlws-qzgf-5goyflw5geq1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h5l8pzae-d29l-yh73-ujkz-20fe4e6vacik@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

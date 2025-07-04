@@ -1,10 +1,10 @@
-trojan://ej76yu2t-tgr5-bney-wl1q-2xsoq84lp8zs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://8xmj128v-ne8a-dbiw-wyj2-buvn86f3ixwi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rpas6j0s-04xi-6u56-thd0-bqyf46mgxvu8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ceddm4qb-ojh6-dvxl-krbr-3ljwm7ii4t8s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w8u0245k-2304-spnk-efnx-k4bn77khg8d3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://sp38x5jb-514y-1b0c-ruxm-6zgqg3o4g4ek@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ekibo595-gerh-mgb0-19cl-5nqi11gchcq8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yx7wiqz2-v1qp-za9g-k7wi-9q0afbqbr7j4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE@191.96.206.4:51166#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 191.96.206.4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YTcyYy1jNzdlLTQwMzQtOTM4NC1mYmFlMDQ5NTAxM2Q@213.130.141.113:47969#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 213.130.141.113
-trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?sni=v2hgc01.fuqiangren.com&peer=v2hgc01.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50039?sni=v1jp01.fuqiangren.com&peer=v1jp01.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd01HWTJaakJqT0MwNU5HWXlMVFE1TmpNdE9UVm1NaTB5WWpCak16aGtaREZoWkdV@45.158.59.74:27807#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 45.158.59.74
 vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?type=tcp&security=none&path=/vpnjantit#US 🇺🇸 ┇ VLESS-TCP-NTLS - MoeChuang Network Limited ┇ 50.114.37.34
-trojan://ydvv1yv9-lgbm-tknd-9wi4-pr8dw95ti192@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qbhot13k-48ra-ufo3-2t1d-aoa5hw4x4k5k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://j220xv9q-341v-ls24-iclv-huh42f1ldzub@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 22:12 ]
-trojan://vmjkioij-bhop-yteg-eru6-qlf6kmmaprzs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2dmdo7x7-f5xq-7v93-qmqi-er51mktcgeql@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://360cd07p-j2i8-thl5-su21-161mpu3j4ux0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://txfw70t4-j21v-1dly-mzvu-sk0wlna2ubgw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 23:00 ]
+trojan://mm93njs1-h94l-ipch-at80-75rmmmbdfkgh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xdrod6lb-8j5j-7i86-t4b5-n079hdg8rdy9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0y5guix6-kcrl-763s-ak4v-qpcqx77jn2ya@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://shenmegui@37.123.196.250:28895?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 37.123.196.250
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 45.9.10.103
 trojan://Aimer@185.218.7.155:6667?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.218.7.155
@@ -13,4 +13,4 @@ trojan://Aimer@185.148.14.143:12145?sni=ageph.ambercc.filegear-sg.me&peer=ageph.
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2lyaW5vIExMQyBcdTI1MDcgMzguNTkuMjQzLjEzMyIsImFkZCI6IjM4LjU5LjI0My4xMzMiLCJwb3J0Ijo4MCwiaWQiOiI1OGM3NmQ3NS01NjNjLTQ2OTQtODRjNC1hNzk4ZDU1ZTkwZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtpcmlubyBMTEMgXHUyNTA3IDEwMy4xMzYuMTg1LjEzNiIsImFkZCI6IjEwMy4xMzYuMTg1LjEzNiIsInBvcnQiOjQxMDgyLCJpZCI6ImI5MDdjZmM1LTcxYWUtNDY2My04M2RhLTUxMjgzNTY1YWRiYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://f14506ed-d55f-4b04-dc11-5282a5924ab4@sjc.aloofly.eu:24158?type=tcp&security=tls&sni=sjc.aloofly.eu&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Kirino LLC ┇ 185.218.7.156
-trojan://ggxok1es-fg5x-lh4x-vlcf-nbwezbq98znv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://noxnoxva-88n3-b5vy-xgzt-wy21dlb0eo5x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
