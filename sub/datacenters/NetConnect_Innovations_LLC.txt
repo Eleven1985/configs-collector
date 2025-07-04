@@ -1,7 +1,7 @@
-trojan://jhzn222w-udap-5vfh-vyn8-fgkizbo5n6wf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
-trojan://ns3jrl93-ib33-esq2-wk0g-rw75rb09sl85@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qv9es0hl-ztem-blj5-qxgw-t3azx293lpjw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jeiq4sfh-pn70-0kz5-cavx-gny2c002dyo3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b97490d7-e509-4ef7-b218-130a680bcd4c@138.128.225.100:2083?type=xhttp&security=tls&path=/telegram-shrakpublic/log.rar&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
-vless://3c341197-8ff3-442c-afad-b853c6a6d0de@138.128.224.100:443?type=ws&security=tls&path=/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn?ed=2048&sni=ns.design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.224.100
-trojan://lyf2vo22-lose-k7yi-pj2a-or8tossue9tr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dl81p426-l9cw-b5zx-hhsv-fjy5y6l8bfkn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
+trojan://hs636by7-f7x2-oa43-4gsx-kppnbzmrg26e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fwkyxnqr-c4z1-dymm-9nk7-9194tvkyh39n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oc1yvx3x-qrww-8o3k-j8gz-l4o4ortzw3ma@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
+vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?type=ws&security=tls&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
+trojan://fatm3xaj-p9xr-07by-bbq2-wslg90jlfkkt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

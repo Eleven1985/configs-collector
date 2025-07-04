@@ -1,10 +1,10 @@
-trojan://6ajvr6u2-8uxt-68w9-puxa-5kwhqlb8ei58@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 01:21 ]
-trojan://5wgc55iz-dt19-whli-ec7s-cjftjvp5bbaz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jcprlqsq-21ep-y8w8-ybh2-04pvqhdaav38@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l42h40mn-5egu-d8k3-c7k4-qtythlornxoh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3ody3mib-2o94-xd30-fuwr-miojaryk4ktl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 02:02 ]
+trojan://uvlv16ar-n6og-bsat-fa0c-cgay902rsju6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ndu8zp7a-40l6-iaz8-hffi-8ntpll7foglk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6iss48fq-w0k0-ah58-2pww-ruaw2qjb7ovd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gU2FiYSBBYnIgTWl6YmFuIExMQyBcdTI1MDcgNzcuNzIuODAuODEiLCJhZGQiOiJmYXN0LnYyc3ViLm9ubGluZSIsInBvcnQiOjgwLCJpZCI6ImRiMzA0ZGNlLTQ5OWItNDZhNC1hNzgyLWE3ZDAzMTk5NTUxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNhYmEgQWJyIE1pemJhbiBMTEMgXHUyNTA3IDE4NS40OS4yMzEuMTAyIiwiYWRkIjoiMTg1LjQ5LjIzMS4xMDIiLCJwb3J0Ijo1MTE1LCJpZCI6IjQ4YTAwZDc3LWVjZWYtNGVhOS04ZDYwLWM3ZWE4ZWEwZWEwOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Saba Abr Mizban LLC ┇ 193.37.37.24
 vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@194.5.16.155:443?type=ws&security=tls&sni=nv155.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.155
-trojan://fgtryf2q-f779-d5u3-x4k9-b4c5einryo6f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rw8bu10d-n83s-4d2i-0l9k-hlqu5fc8isv2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
