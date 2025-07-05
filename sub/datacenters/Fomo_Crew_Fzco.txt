@@ -1,7 +1,7 @@
-trojan://yd1zh4by-8ay7-ed00-7w4d-tv881jtqxdyj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://itzk2udn-l0jw-3685-fhb6-375yv44t1ycn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gu5ml9iv-y0l5-fd50-dhi9-ghdj2rmz2zru@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v1kgmgx7-qozi-a2vf-flye-93clbh8hprka@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ifibgu37-2pf5-hqur-mk3x-i8w7tbrlra2f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://mxvs7k5e-brd9-lc56-xjz9-fv3i7bpy7fbc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tdpolz8d-htap-s1ku-sfl0-ih13ttou1cyp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://am2bp9bc-o3xp-9y6b-c93a-g9trzi1uvmoq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://fsoOufuTGmSKzRDaAwAbww@89.34.230.155:443?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.155
 vless://TELEGRAM-NUFiLTER@151.242.2.35:44690?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 151.242.2.35
 vless://TELEGRAM-NUFiLTER@89.34.230.177:47728?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.177
@@ -21,4 +21,4 @@ vless://61300682-16de-449c-da72-1ad1605232ac@89.34.230.76:33121?type=tcp&securit
 vless://e1852f9c-f303-40e7-81e0-fff0b880524f@89.34.230.92:443?type=xhttp&security=reality&path=/@hormozvpn&sni=refersion.com&fp=chrome&pbk=r5kJ1i1v0ULQ3mb7TuHNr5mQByMkBO0l7w3ttYAWbho&sid=ebc89c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Fomo Crew Fzco ┇ 89.34.230.92
 vless://4ef8cb84-48cf-4a08-baef-5af43c9c3c59@89.34.230.240:59557?type=tcp&security=reality&sni=google-analytics.com&fp=firefox&flow=xtls-rprx-vision&pbk=PRNmOBcE4_FVD4-Po74sKRnLWSOFupxqZ6GXsnl5A2c&sid=a5a7df#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.240
 vless://4ef8cb84-48cf-4a08-baef-5af43c9c3c59@89.34.230.80:59557?type=tcp&security=reality&sni=google-analytics.com&fp=chrome&flow=xtls-rprx-vision&pbk=PRNmOBcE4_FVD4-Po74sKRnLWSOFupxqZ6GXsnl5A2c&sid=a5a7df#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.80
-trojan://ohkqgug6-eyui-m8m7-i6ur-ob1amayuyk6k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://a4lxelsv-wvzk-mm00-okz6-rv44p2irl712@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

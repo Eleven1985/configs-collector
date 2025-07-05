@@ -1,9 +1,9 @@
-trojan://9jg3ma9o-edoq-3abn-gm1y-ycwau0knq674@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://g3h3sis4-xzo3-0bph-4svv-n69azy23swi6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0p37ds26-i91c-0jna-vkaq-kpy3rxqzow9k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://648xbyy3-0omo-heqr-d7qg-qryc7dmhf44f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
+trojan://49m2q2l0-2a84-meun-v58g-6r5vbn37fsur@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://u80l930h-r0rj-9j0i-9rln-f8jamfr3yopt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g48ldp6y-2yup-17re-c0ty-y354a3nzjqik@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i2eqlsmy-16lq-kied-yg20-mivwwoqklxlx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@160.22.79.166:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.166
+trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
 trojan://ttfang@160.22.79.191:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.191
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
-trojan://gzh8arq8-s718-czdr-hthd-pb39aq64hqs8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f1tuih5x-gkpy-hgjo-ec91-ngz5j0o9ejmq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

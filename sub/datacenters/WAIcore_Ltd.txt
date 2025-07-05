@@ -1,8 +1,8 @@
-trojan://81am9jpn-8d5e-qhik-o0pq-qb189cfrwpf6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://hodgs2eh-m83o-td9u-ij83-qqjc77hkofuv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ephx754y-tj3p-yqa5-2qh9-enk9yrdpt3bh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qii0110z-dznm-7bzi-0ofu-m5jaz907m57u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1if5f2tq-uu1y-8yek-boxm-7qxdcbh628tw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://n40dojsv-3eh1-dmgo-oo93-ee7vtnzxc9g1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a9fgxiwb-ptmo-3v01-bvne-0w355kstr7rf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://98vfab07-zbla-my9z-fae0-8bmob9ecfqsm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZXZpblphMjA0Nw@178.236.254.188:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WAIcore Ltd ┇ 178.236.254.188
 vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?type=tcp&security=tls&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - WAIcore Ltd ┇ 94.141.123.233
 vless://ba26f084-9124-4524-add4-53fcfb928161@194.87.29.240:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 194.87.29.240
-trojan://39ketgm8-sh6y-7rkz-g3uz-f5vmer8safud@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k1zw5mdv-0mi2-aelo-w0lv-uy7m801rm256@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://1tttyh4s-asf2-synt-bept-spz0repu6wmr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://r9q1glfq-6w2f-s7n4-wuwa-lexyt24ym3pu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3jftgdcq-qger-1c36-art3-j59ez50j42a0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9m76fso3-uzhf-znf6-277r-n061ob66bj2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://042de66b-158d-42af-ad99-263c69999548@126.39.63.163:26111?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - SoftBank Corp. ┇ 126.39.63.163
-trojan://kg5rbsqz-pta9-5x7e-f3uc-uzjkhnsztvg1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lujv00u6-e62f-jlxq-djyp-xjdh1rkemkz7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://4gqfsgin-mktj-5kg9-suvk-b5klx3tkfs7c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5y2npbr3-41vm-eyte-4knx-oe53f1362ohe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xsfjrjx1-am5u-2jh3-iabk-quyc97p67z1j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://5653a924-8b8d-4073-97ee-8acbe3591ed7@126.39.63.163:26111?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - SoftBank Corp. ┇ 126.39.63.163
+trojan://rqh2sbtm-q067-gcff-ihyq-ffbl6it98ck4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

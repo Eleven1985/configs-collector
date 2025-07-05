@@ -1,7 +1,7 @@
-trojan://7oub671p-bp2d-40dc-dmxh-p2h03ptdcmio@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://7bskf0rk-q25m-ql9n-4w97-2dwu6445nzgj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q49z5zvw-1pvw-nlxj-v6tm-olczow1poz68@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://czmw6vyy-hqh5-l07g-e0bs-s8d0oymive7a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lxl1h30a-iqw5-tk5r-59mx-1udqhmu2x5xb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://exajo4cy-22x1-2916-g9f0-tuqb13olom6f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ctp9jiqp-pw3p-7gvs-cqi6-ag0powd3gph3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://le5vvw1l-ypz9-yka3-hejq-oovztw3m0cll@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.158:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.158
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.181:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.181
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.4:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.4
@@ -13,4 +13,4 @@ vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.75.227:2096?type=ws&security=
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@176.227.241.22:33992#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cyberzone S.A. ┇ 176.227.241.22
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 138.59.16.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 145.14.131.37
-trojan://q78a8uu4-ufeo-j66d-fp4f-3shxv5f80ajn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://36gc2eha-j6cx-3d5r-l9u5-n9qc1pv2jeqt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

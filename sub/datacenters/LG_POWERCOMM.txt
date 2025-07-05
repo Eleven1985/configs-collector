@@ -1,16 +1,16 @@
-trojan://c7r43mpf-pwgp-rony-uxo0-psu2rq8qwa54@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 03:22 ]
-trojan://5mo0lgd5-dthg-sde8-c5rm-fdosa96jkqmy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mkwj2gju-174o-5es6-caxn-jx4frwy20md2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6rqmwu66-vy42-9t6p-x6zn-6txbogm37hag@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nr6yr4cu-mmkg-95ep-7cb1-zbc4su3z0xop@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
+trojan://z95vmidf-f79n-opsr-dkx6-hkv7dj7mbyqv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ich7cr0b-kzlh-zlvj-qpkv-99hekb2i9aek@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i1l4q0d1-c622-qe60-myre-ya0p4674oj0x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@116.47.199.34:50000?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG POWERCOMM ┇ 116.47.199.34
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.208:443?sni=kr2.twincloud.xyz&peer=kr2.twincloud.xyz&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG POWERCOMM ┇ 182.209.240.208
-vless://948f6596-66f9-4707-aa92-3107a214ce53@180.230.0.137:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 180.230.0.137
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:30049?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.171.243.145
 vless://948f6596-66f9-4707-aa92-3107a214ce53@125.187.120.122:11181?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 125.187.120.122
+vless://948f6596-66f9-4707-aa92-3107a214ce53@180.230.0.137:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 180.230.0.137
 vless://948f6596-66f9-4707-aa92-3107a214ce53@119.65.35.44:50000?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 119.65.35.44
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.48.200:50000?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.171.48.200
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.166.202.100:30065?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.166.202.100
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:30049?type=ws&security=tls&path=/&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 49.171.243.145
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@182.213.59.227:27000?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 182.213.59.227
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@182.230.121.50:50030?type=ws&security=tls&path=/proxyip=proxyip.kr.fxxk.dedyn.io&sni=jp033.ylks01.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 182.230.121.50
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@116.47.10.236:21302?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 116.47.10.236
-trojan://kc1qbqtx-krvb-8udh-xq46-0we6q5rrdhpc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://un0f558q-or01-tjd5-ww9w-39va7a1o62if@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
