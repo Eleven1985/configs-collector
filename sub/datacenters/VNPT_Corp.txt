@@ -1,7 +1,7 @@
-trojan://wydvng1p-u4rw-5ie7-0sxg-oa9niz20xekj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://7bq7wl7k-rvbm-zhh5-vj6r-pew6w6y536t1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i8lv4jn5-kflb-51io-qjzq-jwbutsj1idjv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jdel7pgj-ak8w-6ok2-fz1z-a66q5eg0u3r4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f4ox4nn1-dz5e-psvt-hx9q-dna4srqvd1mn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://v57h0o0e-i7wd-pytv-kbju-0ymrmlbvk0el@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yfo1l49a-tgxb-37lr-xpgy-37ywu9km1kam@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y5qy14y8-s504-rvow-8388-q9nbj5sa7c99@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#VN 🇻🇳 ┇ SHADOWSOCKS-TCP-NTLS - VNPT Corp ┇ 160.19.78.75
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388#VN 🇻🇳 ┇ SHADOWSOCKS-TCP-NTLS - VNPT Corp ┇ 221.132.29.208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@160.22.16.6:40021#VN 🇻🇳 ┇ SHADOWSOCKS-TCP-NTLS - VNPT Corp ┇ 160.22.16.6
@@ -13,4 +13,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVk5QVCBDb3JwIFx1MjUwNyAxMDMuMTk3LjE4NS4yMSIsImFkZCI6IjEwMy4xOTcuMTg1LjIxIiwicG9ydCI6ODAsImlkIjoiMjY2MTUyNjAtNzgxMC00MTRhLTllZTYtNDQ1ZDBkY2MxNTQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGFodXV0dW5nIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVk5QVCBDb3JwIFx1MjUwNyAxMDMuMTk3LjE4NS4yMTkiLCJhZGQiOiJ2bmZyZWVnYW1pbmcuaGFodXV0dW5nLmV1Lm9yZyIsInBvcnQiOjgwLCJpZCI6IjkxYmFlMjk1LWMxNjctNGRmOC05Yjk4LTIxN2FmYWI3OTcxNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2hhaHV1dHVuZyJ9
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@103.15.91.138:21488?type=tcp&security=reality&sni=apps.apple.com&fp=firefox&flow=xtls-rprx-vision&pbk=rM7kZRAClXiLTHC-vG9PDQujq3alpb3S5-V-1GiIGGM&sid=120330eb7b#VN 🇻🇳 ┇ VLESS-TCP-RLT - VNPT Corp ┇ 103.15.91.138
-trojan://0cvk5ktp-d8yl-rf6t-mrrr-al017jadwa6n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w5xepo8n-0151-yl3b-1gxd-fjh3pz3sfw5k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

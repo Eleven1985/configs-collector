@@ -1,7 +1,7 @@
-trojan://eusyksi7-mrpl-lu3a-b3ow-vkexldry8fpa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://impme41x-md4t-4lk7-s2cr-vdwoyetw93w1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g4nvr91c-r53x-rht3-so72-cq7gzupdcegm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dl58652m-7r1q-c271-zpnb-yo52bqzlash4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j6rhziwx-jfg9-3mka-riyo-kigyan6oxnnk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://wfyop2pm-lg9m-a1mc-qho9-jrsaianpkz7k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l8hm3b18-02zw-xtr2-0edw-92scvaciirno@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ku0e3med-q6vy-6pet-yp8q-xiy6hkbv5kp8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
 ss://YWVzLTI1Ni1nY206M0VDTk42SzFKUjZZUUkzQw@147.78.2.35:20020#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.2.35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 169.150.202.174
@@ -23,4 +23,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg@89.221.225.88:443#IL 🇮�
 vmess://eyJ2IjoiMiIsInBzIjoiSUwgXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5MS4yMjUuMjE4LjIzMSIsImFkZCI6IjkxLjIyNS4yMTguMjMxIiwicG9ydCI6MjA4MiwiaWQiOiIxODQyMzA1NC1iNjA2LTU5NDQtODhhYi0yYmI0NTNmZDg3ZTYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiJkZTIudm1lc3Muc2l0ZSIsInBhdGgiOiJ2bWVzcy1ncnBjIiwic25pIjoiZGUyLnZtZXNzLnNpdGUifQ
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&sni=dl.google.com&fp=random&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#IL 🇮🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 77.91.74.189
 ss://YWVzLTI1Ni1nY206VDhsTmpvbXpKaENUZlBmWg@185.239.48.109:8388#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - SmartApe OU ┇ 185.239.48.109
-trojan://ahgrkkn9-9xls-iy32-cxo0-fpq8x1do0win@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6kqiv7ec-692m-gdnm-y6q8-75kc1x5bsqcm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

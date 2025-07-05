@@ -1,14 +1,14 @@
-trojan://eigrzlcg-5ba2-3hri-0cr1-av1yqkzkzdao@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://sae4o9io-65cr-cdz9-4v25-ot7vsk3f71wv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://81uxyaun-mn5j-a2d2-rw2i-338xqj3z25r7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://70cb2uam-vj4j-alhq-2fq1-x7g2s59a9kda@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8e0k6hlx-aqd1-nmoy-pelu-wuoyire73wii@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://bacb7lrd-j7n0-evee-oydn-b2pfjbq95ygu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ott666v4-o9xf-608c-6j96-5f73di11e7vp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oswkvktk-acuk-eamb-lg78-lr5g9pxi26g3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@31.169.126.111:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#BG 🇧🇬 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 31.169.126.111
 vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?type=ws&security=tls&path=/wp-admin&sni=cdn.getasa.ir&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 109.206.241.155
 vless://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 185.255.178.188
 vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?type=ws&security=tls&path=/vless&sni=138.124.15.83&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 138.124.15.83
 vless://708be96c-cb01-4d0b-bb56-c67f4a02ff19@192.145.29.24:80?type=tcp&security=reality&sni=iranhost.com&fp=chrome&pbk=p33T-AOK8pqDNwVJMRS8u2unzaHWltkSid8qfGEoKHY&sid=8dc59891#FI 🇫🇮 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 192.145.29.24
 vless://ea76dee5-d575-48be-be3f-2a8be3df0bdb@45.144.235.59:18380?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 45.144.235.59
-vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Baykov Ilya Sergeevich ┇ 138.124.31.187
+vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?type=ws&security=tls&path=/vless&sni=fr.vless.comnpmjs.com#FR 🇫🇷 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 138.124.31.187
 vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443?type=ws&security=tls&path=/vless&sni=185.113.139.103&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 185.113.139.103
 vless://0a9b5598-e5c6-5a96-9c37-2a8f1eee2cce@95.215.8.25:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 95.215.8.25
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@195.58.50.194:443?type=ws&security=tls&path=/?ed=2560&sni=lx.ylka.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 195.58.50.194
@@ -25,4 +25,4 @@ vless://43589def-fa09-47e3-b44e-7f6e069f470d@194.147.35.138:55799?type=tcp&secur
 vless://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Baykov Ilya Sergeevich ┇ 41.216.182.162
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmF5a292IElseWEgU2VyZ2VldmljaCBcdTI1MDcgMTY2LjEuMTYwLjE5NyIsImFkZCI6InVzYTMudnBuamFudGl0LmNvbSIsInBvcnQiOjEwMDAwLCJpZCI6Ijc5YWE4OWI4LTRmODMtMTFlZC04ODVhLTUyYWMwMDY0ZjUwYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3ZwbmphbnRpdCJ9
 vless://23f74270-1963-5237-8519-2d8830db2aeb@77.105.162.84:2052?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Baykov Ilya Sergeevich ┇ 77.105.162.84
-trojan://7t5l267r-q0ss-nle4-ra1d-etuzxhblihue@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ue7dfcfh-2jqq-6ovt-9on1-ylnla8fr5wxt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,14 +1,14 @@
-trojan://hzhupg91-93ky-rw4y-kr7h-x6ro5ssh1rdq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://cyaan50o-r9wn-rgur-6qkd-oli2vej99kbg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pkcn0nx9-thln-3a5m-rr43-zoiwqt1ew3j1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://30cbf177-6xd4-h13i-afeo-2vz1gp4bzfpn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kppl5l2a-qdr5-8nhf-53nc-xhhw4atbhffq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://k6n578ft-55na-i5hw-h3se-kh63c2z8jvx9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dixnianl-j21z-mjq3-1pyh-abpyvm4errz2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://amx9u9q0-3mts-voau-gnfq-x3908623n4ts@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5735f5fa-1241-42cc-91f1-bd49b57fc075@147.45.71.229:443?type=raw&security=reality&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=7ec9_2Jv6kCwVh9MiZfV5vzegKeMPy8_6tsc1FgXUkc&sid=f6#AT 🇦🇹 ┇ VLESS-RAW-RLT - Aeza International Ltd ┇ 147.45.71.229
 vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?type=raw&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd#CA 🇨🇦 ┇ VLESS-RAW-RLT - ORACLE-BMC-31898 ┇ 40.233.70.163
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDQ3LjkyLjE1Mi4xNjkiLCJhZGQiOiI0Ny45Mi4xNTIuMTY5IiwicG9ydCI6NTAwMDIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@109.237.99.177:38142?type=raw&security=none#DE 🇩🇪 ┇ VLESS-RAW-NTLS - Aeza International Ltd ┇ 109.237.99.177
 vless://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?type=raw&security=reality&sni=analytics.google.com&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#DE 🇩🇪 ┇ VLESS-RAW-RLT - Contabo GmbH ┇ 157.173.127.238
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=raw&security=tls&sni=api.chandplus.com#FI 🇫🇮 ┇ VLESS-RAW-TLS - Hetzner Online GmbH ┇ 95.217.206.161
 vless://eef345bb-ec43-4936-9ba5-9467a99f6545@ovh.zerooners.com:443?type=raw&security=tls&sni=ovh.zerooners.com#FR 🇫🇷 ┇ VLESS-RAW-TLS - OVH SAS ┇ 57.128.111.63
+vless://ea286109-d20f-415e-849e-4af20ab04b65@8.210.29.68:443?type=raw&security=tls&sni=147135001195.sec22org.com#HK 🇭🇰 ┇ VLESS-RAW-TLS - Alibaba US Technology Co., Ltd. ┇ 8.210.29.68
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIFl1biBaaG9uZyBUZWNobm9sb2d5IExpbWl0ZWQgXHUyNTA3IDEwMy4xNDkuMTgzLjE3OCIsImFkZCI6IjEwMy4xNDkuMTgzLjE3OCIsInBvcnQiOjU0Njc1LCJpZCI6IjNhOTA3OTU2LWY2NjgtNGU2Yi1lYTAzLTA5NDlmMGM5YzBhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0
 vless://65228671-3a37-4834-8ce7-8409c67bf6d1@109.122.247.140:2053?type=raw&security=none&path=/#IR 🇮🇷 ┇ VLESS-RAW-NTLS ┇ 109.122.247.140
 vless://7b5dc282-bfb2-4b7a-97ca-11ee587111c6@109.122.247.205:53857?type=raw&security=none#IR 🇮🇷 ┇ VLESS-RAW-NTLS ┇ 109.122.247.205
@@ -24,16 +24,15 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.209:443?type=raw&securit
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.152.106
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.101:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.152.101
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.152.108
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.211.208
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.2:443?type=raw&security=tls&sni=147135001178.sec22org.com&fp=chrome#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.14.2
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.211.208
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?type=raw&security=tls&sni=147135010103.sec19org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 51.81.36.172
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.166.17:443?type=raw&security=tls&sni=147135010072.sec21org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 15.204.166.17
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@147135001178.sec22org.com:443?type=raw&security=tls&fp=chrome#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.14.11
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.113:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 15.204.151.113
 vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.36.199:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 51.81.36.199
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.100:443?type=raw&security=tls&sni=147135001195.sec22org.com#US 🇺🇸 ┇ VLESS-RAW-TLS - OVH SAS ┇ 135.148.152.100
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?type=raw&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#US 🇺🇸 ┇ VLESS-RAW-RLT - Pq Hosting Plus S.r.l. ┇ 185.236.232.237
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?type=raw&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#US 🇺🇸 ┇ VLESS-RAW-RLT - Pq Hosting Plus S.r.l. ┇ 185.236.232.136
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs27.usecharge.ir:443?type=raw&security=tls&sni=mods.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#XX 🏳️ ┇ VLESS-RAW-TLS ┇ None
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs35.usecharge.ir:443?type=raw&security=tls&sni=mods.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#XX 🏳️ ┇ VLESS-RAW-TLS ┇ None
-trojan://3qx1sb5j-nl4l-l251-z5ij-2quz6vhc2loo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tb7e6s64-2nw8-ihlb-0c0b-ucmteso22f3y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,12 +1,12 @@
-trojan://ue85c39k-qz1p-wgdq-20jv-h9z19rlk2fyp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://fci0u16x-i175-7umr-45c9-xaw3pbs62zzt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b0ntrrul-0ytq-u9w3-gkzj-r2v2gqs69nk2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pw3bqq0u-s1bt-yjsm-l7m2-iy2ihy5i1n3l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zp41qx1p-ate4-mtsh-zqch-yvvehng6yfm2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://a1rtrtyv-rirg-l42b-d3tp-7gj10sklamx0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dfl1wbq0-wlwx-b8v2-bics-552ahc6zymrt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jb0j6v6v-axr0-skf4-49tj-l3rt84ahx2jq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gSG9obCBJVCBlLlUuIFx1MjUwNyA5NC4xNzcuOC44NyIsImFkZCI6Ijk0LjE3Ny44Ljg3IiwicG9ydCI6MjM0NTMsImlkIjoiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtVFJVRSAtIEhvaGwgSVQgZS5VLiBcdTI1MDcgNDYuMTAyLjE1Ni42MSIsImFkZCI6IjQ2LjEwMi4xNTYuNjEiLCJwb3J0IjozODc3MywiaWQiOiI0RjhERkU1QS05ODVCLTU0Q0MtRjZEQi0zOUM4NUNFQTNFOUQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRydWUifQ
-vless://fbddfd58-32e2-b609-5141-5bf8a8a9e6f8@46.102.157.79:58113?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
+vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@94.177.8.6:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.6
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@94.177.8.54:443?type=ws&security=tls&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xin033.ylks.link#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.54
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?type=ws&security=tls&path=/?ed=2560&sni=juzi8186.5112233.xyz&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.26
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@94.177.8.51:443?type=ws&security=tls&path=/?ed=2560&sni=lg.ylks01.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.51
-trojan://5gwbe5y2-qhjp-4ns8-qyai-tx9156e7t7hr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3tp5p4i7-nu2u-x697-kvk7-4yjt5olnwjqu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

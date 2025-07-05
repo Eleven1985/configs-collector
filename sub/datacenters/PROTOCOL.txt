@@ -1,17 +1,17 @@
-trojan://1rn8d0il-wj6a-3kfa-n0d0-kyq8rnggizvq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://dtbm1td4-svp9-dbjv-by37-nku926ogiavw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3kkppwse-174f-xji4-h30w-k77g114dnsnb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gm0l2wnn-erku-043b-t5tu-vx3xth7hlpu1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@209.94.90.87:2087?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.87
+trojan://ed8ciola-bno5-lvxr-d7pz-eujt8epy8fda@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://qma74ex8-uew3-5ydm-2xgx-lgfudxb3s3ky@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7s669mql-sd3k-04fj-jwp8-k25diigdjchp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g8mhwtoy-yzp5-twh4-ni3q-56wvbi9nsfrz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@209.94.90.64:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.64
+trojan://Aimer@209.94.90.87:2087?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.87
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQUk9UT0NPTCBcdTI1MDcgMjA5Ljk0LjkwLjIwMCIsImFkZCI6IjIwOS45NC45MC4yMDAiLCJwb3J0Ijo4NDQzLCJpZCI6IjNhMWM2MjhiLTgwNmQtNDYxYi1jMjhkLTQ0YjNiZGZmNTIyMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im1hc3MyLjg5MDYwMi54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im1hc3MyLjg5MDYwMi54eXoifQ
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.94.90.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.3
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@209.94.90.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.247
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@209.94.90.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.13
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.213
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@209.94.90.254:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.254
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.63
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@209.94.90.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.177
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.213
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.251
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@209.94.90.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.254
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@209.94.90.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.247
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@209.94.90.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.77
-trojan://2z7h5ozm-2qph-d6bz-gnp8-4z544xnw602u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://pfkkbpkn-q96x-90lx-7shf-qsxq63ukahds@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

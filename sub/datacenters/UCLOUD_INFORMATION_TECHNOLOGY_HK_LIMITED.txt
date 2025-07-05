@@ -1,8 +1,8 @@
-trojan://ld82kclj-ni2y-t7xg-76mp-wwsmt10t1s1e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
-trojan://rwhjp7y2-2anv-6je5-auzc-iqjp8vczn1z4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7noympgx-9qgl-fanz-fql9-1kew4bs7e66m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y9mwzwh0-wmxp-xwxq-9ph8-4uhcmm6ns8t8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU9Ua3dOV00xWVMwMU5EQTVMVFEzWlRFdE9EZGpNeTB4TldRMk9HSXlOak00T0dR@lingdang.cloud:0#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.96.199
+trojan://l0amyoo7-qitw-ow04-sxc7-kfudwp2970y9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
+trojan://9jbag9r3-ppew-ysuu-sed0-fo6bbx05wu7p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zlygsps2-8jhk-7ito-g767-zdntsqte741k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1d99r0b4-2cbc-w0hq-eoyo-ofl9rqedqnpb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU9Ua3dOV00xWVMwMU5EQTVMVFEzWlRFdE9EZGpNeTB4TldRMk9HSXlOak00T0dR@lingdang.cloud:0#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.98.208
 trojan://Aimer@152.32.226.221:80?sni=epccr.ambercc.filegear-sg.me&peer=epccr.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 152.32.226.221
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIEhLIExJTUlURUQgXHUyNTA3IDExOC4xOTMuMzQuMjM2IiwiYWRkIjoiMTE4LjE5My4zNC4yMzYiLCJwb3J0IjoxMzY4OCwiaWQiOiI5MzEyNzA2NS0xYTViLTQ4MTYtZDAwOS01YmY1ZTBhYTEwYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIEhLIExJTUlURUQgXHUyNTA3IDExOC4xOTMuMzkuMTA0IiwiYWRkIjoiMTE4LjE5My4zOS4xMDQiLCJwb3J0IjoxNTM2NiwiaWQiOiIzMGQ1MDg0MC04OGIxLTQ3NGItYTE3Zi05ZmNhMTc3OTE4ZDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -22,4 +22,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVT
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.163.236:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.163.236
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.193.77.95:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 118.193.77.95
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.134.125:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.134.125
-trojan://mg8admzf-qle1-d52p-qqeg-l0ghxnm8zmyd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w1k1pdd5-op8z-jj8s-xdfw-n0izlguzjs98@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
