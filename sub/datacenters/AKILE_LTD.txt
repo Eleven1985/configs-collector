@@ -1,7 +1,7 @@
-trojan://wzczsmvk-zkpu-fjcy-zq74-vqw4a46b0zvu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://2uhj1ozj-hk66-8wsi-rqwg-skjpt98e82u6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5jvdq66y-raq4-5iv8-t5av-3cdl15uwq9cm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ifvekwjn-1pow-kvar-fbzi-yvl4pxjkqldk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f44cpdcx-nihr-ry8e-1lxc-dxhnjsuddms9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://7pvb60j8-2vtm-9loc-aroc-xey13sn6gdri@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://03hmp7yk-k7km-ln2l-6378-nncm2ma7hsa2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1jl8msbi-b3je-ca4t-e0sh-jmso9j6v3hsu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?sni=www&peer=www&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 89.213.40.225
 trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?sni=uknode.soon.guru&peer=uknode.soon.guru&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 89.213.40.26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I@api-a-asia-2.mcqqn.com:61006#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.226.172.234
@@ -27,14 +27,14 @@ vless://30f85233-d41e-4297-97c1-cfac047a948b@83.147.2.34:23333?type=tcp&security
 vless://5d34f162-9486-489f-8aeb-c0738bf1f5ae@141.11.90.113:26762?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=1YklGlCvRjBau3XnpIcC4G-HlV_QeiqD2jTdl9-0HnY#HK 🇭🇰 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 141.11.90.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZmI0OGVlOS02YmVjLTRlZTAtYTBkOC0xMmQwOWUxYjlkZDA@156.246.95.70:34008#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.246.95.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZmI0OGVlOS02YmVjLTRlZTAtYTBkOC0xMmQwOWUxYjlkZDA@156.246.94.5:34008#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.246.94.5
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VDZBaGpNTVRxZHVZWHBXN0MwTTFqNmI5eEtwZjJHdCs3b0dYMlU0bndyST0@156.246.94.9:22579#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.246.94.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@154.83.92.123:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 154.83.92.123
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VDZBaGpNTVRxZHVZWHBXN0MwTTFqNmI5eEtwZjJHdCs3b0dYMlU0bndyST0@156.246.94.9:22579#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.246.94.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@jp.fastsoonlink.com:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 156.243.244.245
 trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@156.246.94.206:6133?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 156.246.94.206
 trojan://ji0612uenfs@103.232.213.117:8080?sni=ji0612e.nfjunka.xyz&peer=ji0612e.nfjunka.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 103.232.213.117
 trojan://ljn7788321ljn@154.83.95.172:64535?sni=j.daishuge.win&peer=j.daishuge.win&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 154.83.95.172
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@82.163.16.229:26803?type=ws&security=tls&path=/?ed=2560\u0026proxyip=ts.hpc.tw&sni=edmz.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 82.163.16.229
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@82.163.16.69:8080?type=ws&security=tls&path=/?ed&sni=edmx.ambercc.filegear-sg.me&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 82.163.16.69
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@82.163.16.69:8080?type=ws&security=tls&path=/?ed&sni=edmx.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 82.163.16.69
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@82.163.16.229:26803?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmz.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 82.163.16.229
 vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#JP 🇯🇵 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 154.85.19.63
 vless://4ef2367a-37c6-434a-b481-127112d06cd4@154.16.248.202:6043?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=SF_ytzOcnxDKLtDw2TIQoGtebOSjKQb8s1qmTmfkpm8#JP 🇯🇵 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 154.16.248.202
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#SC 🇸🇨 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 154.85.18.233
@@ -51,4 +51,4 @@ trojan://Aimer@156.229.164.158:10443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFLSUxFIExURCBcdTI1MDcgNDUuMzkuMTk5LjEwNSIsImFkZCI6IjQ1LjM5LjE5OS4xMDUiLCJwb3J0IjoxNTAwMiwiaWQiOiI5ZjUxMzE2MS01NzZiLTNhYmMtOWM5OC0wNmU1MmMzYTI0YzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUtJTEUgTFREIFx1MjUwNyAxNTYuMjI5LjE2NC4xODUiLCJhZGQiOiIxNTYuMjI5LjE2NC4xODUiLCJwb3J0Ijo2MTY1LCJpZCI6ImI2ZmIzODE2LWFmMDMtNGIyMS1iMWZjLWNiMmI3MGZhMjcwNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.39.198.43:8080?type=ws&security=tls&path=/?ed=2560&sni=edccx.aimercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - AKILE LTD ┇ 45.39.198.43
-trojan://ydg8fu4b-6rog-n4ho-f4h5-4nn688b9iu5p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lp72uli1-vioh-lu4t-gyyg-u24wqugrmmt3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

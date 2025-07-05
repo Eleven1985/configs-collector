@@ -1,15 +1,15 @@
-trojan://tgeuv1bl-lfpq-7s8f-1u7f-3ybs8ela6mls@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://1gf8eck0-o6ep-xcr8-mtef-c8oivxntx6nf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d4h5rmpi-wrj0-iw80-pwk4-u7xiv00lsmis@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a8fzh23c-wssy-knhf-uq5j-rq8c73zqgwng@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f6sf40m9-heqw-meox-qtdn-scuxapn24zkd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://6t7lx98p-g9w8-29pd-9rwr-oabla4n6jeki@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dy9zrt3n-jv5o-ni62-ksen-b2rqjmly4j8t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rp2sdsnj-e5ed-lo4o-1jan-331xw29egw8o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://65438a33-be79-4def-9190-4d4dba03fca3@185.73.0.93:8443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 185.73.0.93
 trojan://ZGUyZGM3RjGiMw==@94.182.172.166:3128?security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.182.172.166
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi44My43NiIsImFkZCI6Ijk0LjE4Mi44My43NiIsInBvcnQiOjUyMzQ4LCJpZCI6ImM5OWZmNjA0LTY5NzAtNGFlOS1iN2U1LWQwYWQ4Y2M1YTEwYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJpYSBTaGF0ZWwgUEpTQyBcdTI1MDcgOTQuMTgyLjE3NS45NCIsImFkZCI6Im14cDEuc2hlY2FuLm5ldHdvcmsiLCJwb3J0Ijo4MCwiaWQiOiIyOWM0NzZmZS01MDkyLTRlZDktYTNhNS1iODllYjk0YzkwODciLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi4xMzguMTAxIiwiYWRkIjoiOTQuMTgyLjEzOC4xMDEiLCJwb3J0IjoyNjk4OSwiaWQiOiI3YTNhYTcwZC03MjZjLTRiYTQtZWQ1Yy05ZGZmNWI3ZDYxYzUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://dc348913-8eec-4535-b9f8-814d63b24301@94.182.83.82:2022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.82
-vless://4ca3a0bd-525c-4889-b9c7-b93680dcdab9@84.241.20.8:123?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 84.241.20.8
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.142.28
+vless://4ca3a0bd-525c-4889-b9c7-b93680dcdab9@84.241.20.8:123?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 84.241.20.8
+vless://dc348913-8eec-4535-b9f8-814d63b24301@94.182.83.82:2022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.82
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@94.182.83.85:9125?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.85
 vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.142.10
 vless://e2a586aa-0e2b-42ac-af68-cc840b5c94cd@94.182.138.139:1443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.138.139
@@ -21,4 +21,4 @@ vless://62386666-3639-4136-a438-633266663338@94.182.95.38:3128?type=ws&security=
 vless://b4f31041-f53a-4a86-8058-7771084888bf@v3.mesterking8786.cfd:38221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.170.230
 vless://564e0f8a-f9d1-4f20-b9c6-78c8f8cf5f85@94.182.91.7:31611?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.91.7
 vless://471ee3c0-2cb0-40b4-a014-c56407dd262d@sv4.tsdata2.top:4443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.138.142
-trojan://lv38n38o-ow46-tldq-0ruc-josg91uogbz2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lr9cd847-my0f-z8ax-7w1v-egqwys6mkgqs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

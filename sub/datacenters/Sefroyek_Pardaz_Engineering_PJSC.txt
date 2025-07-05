@@ -1,7 +1,7 @@
-trojan://e5vb1tsd-64ep-x6jt-y6gy-umot6ozmg6jp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://48pw00zx-amkg-w2kd-84i0-avkacht9ob29@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://isepxrst-enkb-1mhn-0ac7-xlq87bo3pc6p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n8duumcg-amde-nsww-z8eh-i5jphenucldz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tuqn5g55-vum1-dxea-whlx-rxjlnczuvrmg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://afpl8uc8-zy1q-e9ow-7d65-wzuuq6krehky@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n9a5f8dn-u3s6-pjlc-319u-wkd8n0ud6qee@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ju1tnt52-pmd9-e6oc-b5qf-4pkfofffwzlv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206RnRERS9tL3pGR04yL2VkQmk5MWllNFAxQzVKQVRsU001SWVNaVNpejlBcz03@Nigga.Best:9093#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.242.155
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyAxODUuNTguMjQyLjc3IiwiYWRkIjoiMTg1LjU4LjI0Mi43NyIsInBvcnQiOjYwOSwiaWQiOiJkNjQxZTAzZi05YzdiLTRiM2QtODVkNy0xYjI3OTJmYjJmZTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyA4MC43MS4xNDkuMjAzIiwiYWRkIjoibS5nZTMuZGFpbHlkb3Nlb2ZtZW1lLnVubyIsInBvcnQiOjE3NTY0LCJpZCI6ImFhN2RkOTZiMGE3ZDgxZGIyZTcxNTUzYWJlMTkyNjIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
@@ -10,9 +10,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyAxOTUuMjExLjQ0LjEwNyIsImFkZCI6IjE5NS4yMTEuNDQuMTA3IiwicG9ydCI6MjA1MTUsImlkIjoiYTU2YjFmYjItNmE0OC00ZDA4LTgwZTctN2NjMWIyZGYwMTllIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL0B2MnJheVJiNiJ9
 vless://d1c1f516-7cde-4059-bab5-3c08a8c228bd@185.18.214.171:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.214.171
 vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@185.128.136.187:2344?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.136.187
-vless://48c9f1eb-cab3-49f0-95ba-5b630cd55065@195.211.47.65:21568?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.47.65
-vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@185.36.228.137:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.36.228.137
-vless://568db334-5c96-4771-89ea-3f72761c73ef@185.173.130.26:2131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.173.130.26
 vless://62237966-b2c6-4bf9-a269-3717e1773c98@185.18.215.197:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.215.197
 vless://12a2d6c3-0690-443d-8e4d-d79478582241@185.128.136.67:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.136.67
 vless://a225afb4-b30e-4f89-95df-f95e46fb5fa3@91.236.168.143:2096?type=tcp&security=tls&sni=Amir.devfreedomnet.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.168.143
@@ -21,6 +18,9 @@ vless://e489459f-7db3-44af-9951-91a1a4466b71@78.110.123.67:2095?type=tcp&securit
 vless://aa5d9ceb-55bc-47a6-9a32-8a112a226c06@185.141.107.80:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.80
 vless://37c3a602-2be6-4ca5-8c55-477496d7bbad@91.247.171.41:38869?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.247.171.41
 vless://3c1bda8a-f2a2-4d55-8f6b-70949be10663@185.128.138.153:443?type=tcp&security=tls&sni=t9.morgoon.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.153
+vless://48c9f1eb-cab3-49f0-95ba-5b630cd55065@195.211.47.65:21568?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.47.65
+vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@185.36.228.137:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.36.228.137
+vless://568db334-5c96-4771-89ea-3f72761c73ef@185.173.130.26:2131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.173.130.26
 vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.176
 vless://5c157b6e-8626-49da-a30a-08e11ef849eb@t11.morgoon.com:2087?type=tcp&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.157
 vless://a570b0ea-7867-46a6-b0f6-b0fcda8cbd23@185.58.241.71:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.241.71
@@ -39,4 +39,4 @@ vless://d7c77b5b-c0da-43dc-a959-c06da6ccabd5@sr57.toast.sbs:2095?type=tcp&securi
 vless://d24ecdab-f674-42c8-8c23-dbf1b4088464@sr60.sonday.sbs:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.123.69
 vless://a3d77fd3-705e-4253-a918-cb80e11c5a69@sr66.fofun.sbs:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.123.89
 vless://847f3858-0dcf-4363-b49b-63b5337d75a7@t1.morgoon.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.120.80
-trojan://hmbtz26q-s9vp-wt84-s8al-tymfgre7nm9p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://s2eby8s9-11at-6vb7-dnba-05bl8ld1uebz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

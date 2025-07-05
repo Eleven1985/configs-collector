@@ -1,11 +1,11 @@
-trojan://b4694hjv-tcbv-r8ku-2kex-y9mcj2w6cuhd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://77wq0igy-uy88-fyzo-bn9s-ml7jvazdbljg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2s9uh4m0-uucb-652q-zzfr-4r697x02mqs6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uct1wd2g-gbzt-prpr-jbep-zoamdyapthvt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@154.16.171.215:47121#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.171.215
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.68
-ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.82
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
+trojan://rurcc1cc-q0z2-9f74-umtd-eljukqbteg2d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://xffyfdsr-9x0g-zbsk-q3su-0pdofa9ogzuq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eugda0ch-xfeh-5ec3-2fnu-5i4ko5tjk81e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uzlwig3h-69ud-45uv-txs3-ihxyv8t0bcur@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.168.186
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
+ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.82
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.68
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@154.16.171.215:47121#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.171.215
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVElFUi1ORVQgXHUyNTA3IDg4LjIxNC41OS4xOTciLCJhZGQiOiI4OC4yMTQuNTkuMTk3IiwicG9ydCI6ODAsImlkIjoiMGY4MmJlZmYtZDU1YS00ZDI2LTgwMDAtNjc0NzAxMmFkMWI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIn0
-trojan://9alj9bx8-zuho-r62o-8mm8-mdton6cc460d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7103mrle-itl7-d9dk-0ij4-bjbmwfvtxrbu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://ps5dfhi6-y5x2-u6dr-s9ix-kc64rcmyflo6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://312v5myu-h7ov-wj01-fq5s-766qiobms7aw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cgdm61fr-yehj-pm6g-yzmh-p9z50aqwafsl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wwvbdbef-l4y6-dss3-9wjm-a1jylwv258wp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://42jgp122-a8yb-ejt1-rsda-l62mxcgkbncn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://2hpt7ysk-w9ed-o3aa-87s7-8h6b5n6ljs3f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://28pornr2-a67q-0zjl-91i8-6w23lypuquke@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v4zihdh4-lt9q-eh1w-xn7p-1k7ylrhyqioy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.153:989#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 89.163.140.153
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.136:989#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 89.163.140.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@93.186.201.124:810#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 93.186.201.124
@@ -39,9 +39,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0lJVCBBRyBcdTI1MDcgMjEzLjIwMi4yMzMuMTI5IiwiYWRkIjoiMjEzLjIwMi4yMzMuMTI5IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzA0MTYyOTExMDcxMiJ9
 vless://cb4bc081-0670-471c-a264-30e9e726ea46@5.199.136.93:38853?type=tcp&security=tls&sni=ea.com#DE 🇩🇪 ┇ VLESS-TCP-TLS - WIIT AG ┇ 5.199.136.93
 vless://b5818506-2de2-44e3-8c23-bd8406816ff8@a.mgtoken.net:9000?type=ws&security=tls&path=/&sni=a.mgtoken.net&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - WIIT AG ┇ 78.31.64.157
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.219.135:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.219.135
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.198:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.198
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@46.228.205.146:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 46.228.205.146
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.219.135:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.219.135
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.223.187:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.223.187
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@37.157.255.161:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 37.157.255.161
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@5.199.138.12:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 5.199.138.12
@@ -51,5 +50,6 @@ vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@81.30.156.91:8443?type=tcp&security
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.152:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.152
 vless://860bf99f-6817-4892-aa77-1877ec73a57b@5.104.107.135:443?type=tcp&security=reality&sni=de.nahadeh.co&fp=chrome&pbk=L_tbYn1GzbG3VS0OJcEFHFoYkh-jCK-iyzJVGLzoB30#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 5.104.107.135
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.223.233:8443?type=tcp&security=reality&sni=02020.sbs&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.223.233
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.198:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.198
 vless://97364abe-a27e-4be3-b0d7-0c3c1d64bc07@37.157.255.60:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 37.157.255.60
-trojan://hg1qxvb9-yfvy-xp7p-rilu-3oqz93k9kmyb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uls37sai-8j04-m4dh-d9nu-bdo07hocop2w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

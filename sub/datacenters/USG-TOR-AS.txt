@@ -1,8 +1,8 @@
-trojan://4oo6oz8s-cbiy-6lpk-5ady-9qppmt2xrn1k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://gruqg3zs-ftn5-934b-tcqu-tnu2r4hsxu97@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yi7e03zu-8y16-s5cj-et98-gewdknmpcqaq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r6ifo9i3-j74u-81kq-mmin-o8jtllo6r2kx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qzuf7h6h-ujz1-smeq-djcc-61e6ziolde27@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://chk165ha-fhkd-39h0-1to4-ooxo5o71yheb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0qqihosz-gs0s-8j9l-d29c-tv90mmc893a5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pf9dvw53-2ath-ccup-4lop-7phhvle6ikqd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://dns68@135.84.79.80:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - USG-TOR-AS ┇ 135.84.79.80
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - USG-TOR-AS ┇ 135.84.79.177
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ip.langmanshanxi.top#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.177
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.79.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.77
-trojan://ulzu1pb6-csor-72ra-zib3-3of3pe13p37n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://685ajke0-v2co-yegs-sjq3-fymeju4k4vpb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,8 @@
-trojan://175nfint-91ki-cvy4-alwz-uziiowe7fewl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://9vvmlteu-vegm-q7od-29cp-017wnsvv1xxy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mtwc0plq-28iz-4gtb-zkn8-sjx5hupsjuh9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zwl2z4hl-b1gp-wi40-xrkc-nxj0qxtqxs1v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f8tuip2p-doow-c02p-for3-khy1i3okz588@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://4a9rpn0x-n60y-uy88-qdk7-z3to50w93mw0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d1bjun5s-rtpt-9sni-hlmy-ec9p0cu3d100@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bnq0h4xy-ad9o-jan7-d7o1-utyv4gsgd64j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?sni=std1.loadingip.com&peer=std1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 160.30.21.105
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 36.50.135.142
 vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?type=grpc&security=none#VN 🇻🇳 ┇ VLESS-GRPC-NTLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 103.240.6.21
-trojan://1t9tns61-oqo1-iil7-qsxk-nl6v7dyrmosa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kl3g393x-pvzj-5vow-5rx2-n0z6zycamtpv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

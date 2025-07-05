@@ -1,7 +1,7 @@
-trojan://oi9jmicm-cy38-8rjk-lwbh-8qzxr0zyr44f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
-trojan://slqr2h4z-o3ql-hksp-xbu4-dp4paw10mk4b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3fhr1n8p-i25m-l5gj-8pg4-ea8kb5yzlwwb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ctxudmgq-r37h-e1je-8fgp-l44r5c6bnhkh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://s936lnid-8q8p-kiwa-fsk4-tz15hqtg1ogd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
+trojan://7f5tiouk-ak2j-q4in-tj60-tvqrezlgc62y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3bm0vrxb-ev9v-9l5z-w7uj-9wzjn5nuykqm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hx0amfex-7gzq-ycg3-fhna-r83a1h08s7pn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://bpb-trojan@91.227.77.87:443?sni=skwygx.top&peer=skwygx.top&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 91.227.77.87
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgODUuMjM5LjU1LjE5MCIsImFkZCI6Ijg1LjIzOS41NS4xOTAiLCJwb3J0IjozNTI1OSwiaWQiOiIxZDAyNGE5Ny1lNmIxLTRkOGItYmM3ZS05ZmI5NzVmMDQ0ZmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgODUuMjM5LjU1LjE0MyIsImFkZCI6ImJnMy52cG5qYW50aXQuY29tIiwicG9ydCI6MTAwMDAsImlkIjoiNGI4YTIzY2MtNGY4My0xMWVkLTk4OGMtMzMxYTdjYTcwMTBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
@@ -20,4 +20,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 ss://YWVzLTI1Ni1nY206cDVGY1RvM1BiMTRjd29VeA@sin5.vpntype.dev:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 91.242.241.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRzhzaldzU1d3djl1bDZYMGJPMHJD@91.236.230.200:24542#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 91.236.230.200
 vless://0870a931-b121-1278-f010-b140a958a300@185.28.119.112:8572?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wwGp0z3xZVoNxnAd7lcvN14cCs5Ye_JxRfGY4nqXkXo&sid=81c7e2cabf#US 🇺🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 185.28.119.112
-trojan://oskbg821-fe15-9hd1-9od8-w5jk353lqxnu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lz6v21kj-70bg-fzz0-a89d-jm8yy4c5a0ga@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
