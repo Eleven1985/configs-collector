@@ -1,7 +1,7 @@
-trojan://03p9wtrg-d6on-ivue-hz7p-0tt2rgpwnpa5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
-trojan://bgdsaxd8-slm7-tay3-eab1-2l71tmfnu1nx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ul0vcl3q-mpdy-vmo4-sd9u-f4k1ac2orm7p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x08kgfs0-9y0h-w8yd-xe1r-kyzlxxvwjcxy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tjj7hx5z-ppqm-wmay-6xhz-63828ja1oayj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
+trojan://9gjwtpug-25j3-wvfa-ira4-wyjh8vmjto8u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vsgq2ztp-ewy6-nxgx-twqp-009vf07ojg02@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m77bci4u-rxym-mp9f-iqt4-dph1ogdebhre@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c2df3028-%6148c-4f0f-%61104-013594df%61659@85.133.215.108:235?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.108
 vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.24
 vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@85.133.215.9:5969?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.9
@@ -10,5 +10,5 @@ vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?type=grpc&secur
 vless://bd041b03-224b-44d1-a9ec-e25425c822b3@s5.nimhub.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.101
 vless://b4e1ef40-2f81-4f5c-a4f6-99929119f03a@test.abdulkhanioffline.pw:36306?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.99
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.23:2398?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.23
-vless://ac04c88d-8af0-4662-b98f-645dcbdda2d6@sv6.tsteam6.top:443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&sid=edbe#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.175
-trojan://zlvpni3l-8a2q-lp9w-sog4-9kisybwg7ujh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://ac04c88d-8af0-4662-b98f-645dcbdda2d6@85.133.215.175:443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&sid=edbe#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.175
+trojan://t0tp2su8-2jto-rb28-t8sa-fr4rk0yrslgr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

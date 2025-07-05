@@ -1,7 +1,7 @@
-trojan://ks45m83b-ps07-oup3-vq8i-1nwpoiby1dz7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
-trojan://b7l22tq3-avga-0071-oadr-5em14efpdxm3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kjpn00ji-i8hb-1hlp-in1i-or7ypxhgc861@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2oiheakt-d0xw-sbp6-syt5-b6ehpz1hpqux@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n3mlqa3b-iab9-iz37-3cjp-l9bn717mttna@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
+trojan://u5zgarrb-xjd7-bdwj-c4wj-k3v982qst2al@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rqik7jqm-q1vp-91ut-tjxu-84susxa4zyzk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ocwqeffl-spat-g03j-evnj-g330a1i89dvb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuOC4yMDQiLCJhZGQiOiIzOC41NC44LjIwNCIsInBvcnQiOjUzNDMzLCJpZCI6IjNmZjRiYWJkLWQ3MTgtNGQ3My1jMzgyLTU3YWJmMjdjMjlmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMTAzLjE1Mi4xNC4xNTIiLCJhZGQiOiIxMDMuMTUyLjE0LjE1MiIsInBvcnQiOjQ0MywiaWQiOiJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vless://cfa36472-4adb-4b38-8418-d3c4afe07590@154.90.54.4:58907?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.54.4
@@ -20,8 +20,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.21.221:989#HK 🇭🇰 ┇ S
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.159.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.4.72:990#KH 🇰🇭 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.4.72
 vmess://eyJ2IjoiMiIsInBzIjoiS0ggXHVkODNjXHVkZGYwXHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuOTMuMTU4IiwiYWRkIjoiMzguNTQuOTMuMTU4IiwicG9ydCI6ODAsImlkIjoiMGNjOWE3ZDYtNzVmNi00YzA1LTlkYTMtODNhYTlkY2M0ODQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoidm1lc3MiLCJwYXRoIjoiLyJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.177
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.63.193
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNjAuMjIwLjIxNCIsImFkZCI6IjM4LjYwLjIyMC4yMTQiLCJwb3J0Ijo0MjA0MCwiaWQiOiIwMTY3ZDgyZC0yYTViLTRlODItOWMyZi1hZTZmMzBhY2FjZGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb3dhOUdxZjhRbm9xSXRBYmdXT05K@156.244.37.10:443#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.37.10
@@ -80,4 +80,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuNi4yNDUiLCJhZGQiOiIzOC41NC42LjI0NSIsInBvcnQiOjI3MTE0LCJpZCI6ImI2NTE1ZmZhLTgzYzItNDc0Mi1mMGNkLWZiOTZhNjRlYTBjMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuMzAuNDciLCJhZGQiOiIzOC41NC4zMC40NyIsInBvcnQiOjU1NzAwLCJpZCI6ImFmMTFmMjdjLWVkMGMtNDg2ZC1iY2M0LWZlMTFmMzc1OWUzZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDM4LjU0LjE0LjExOCIsImFkZCI6IjM4LjU0LjE0LjExOCIsInBvcnQiOjIwMzQ2LCJpZCI6IjQwNWY3MmQ1LTA2MWYtNDE1Yy1hMDQ2LTUxMjk1ZmE2MTc5ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://d3y4cctk-evtg-hiek-aqii-xpcnwuv8kiwk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3yjh3wmx-aedf-xai3-a5h4-teyge8vcff8e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

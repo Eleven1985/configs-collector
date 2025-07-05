@@ -1,7 +1,7 @@
-trojan://oko1ic48-xu2z-zhab-bucc-l5pmy385vljn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
-trojan://z5hw8xq4-elhy-7tgk-lxgz-naijhnwka4gc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g3e5zwg9-jgr0-trzk-s556-4uju5e6k2s51@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ia2ldoj7-iytk-fdup-94tw-6rv80sx43rpx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8urz66sw-8l05-qc4p-ckzt-egqsqdmj9o9c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
+trojan://s2s2cyoi-4u2r-m6d8-cvzt-p4ttumd7genb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u8biarua-2ork-e7eg-wspi-inygj0l99ykw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k2ihjqac-rlli-pk8a-p7el-th5cmr2ad2nx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT0VrTnc4STB6VVZ5ZFB1RXR1YjV5@india.yourvpn.me:60119#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.124
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUUkFORVggVEVDSE5PTE9HSUVTIElORElBIFBSSVZBVEUgTElNSVRFRCBcdTI1MDcgNDUuODkuMTA2LjEzIiwiYWRkIjoiNDUuODkuMTA2LjEzIiwicG9ydCI6NDQzLCJpZCI6ImI5Y2Q4Yzk5LWRmZWYtNDZhMi1jMjIwLWRkYjEzYjgzNzMwMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3JheSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUUkFORVggVEVDSE5PTE9HSUVTIElORElBIFBSSVZBVEUgTElNSVRFRCBcdTI1MDcgNDUuODkuMTA2LjExMSIsImFkZCI6IjQ1Ljg5LjEwNi4xMTEiLCJwb3J0Ijo0NDMsImlkIjoiYTIwYjE2MGEtNTU0ZS00MzRiLWI0ZTAtYzJjMjA0YjE4NzEzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcmF5In0
@@ -19,4 +19,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE5FVFJBTkVYIFRFQ0hOT0xPR0lFUyBJTkRJQSBQUklWQVRFIExJTUlURUQgXHUyNTA3IDQ1Ljg5LjEwNi4xMjgiLCJhZGQiOiI0NS44OS4xMDYuMTI4IiwicG9ydCI6NDQzLCJpZCI6ImI5Y2Q4Yzk5LWRmZWYtNDZhMi1jMjIwLWRkYjEzYjgzNzMwMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3JheSIsInRscyI6ImZhbHNlIn0
 vless://2201fa52-f394-5da9-80ab-7de702c379e4@45.88.183.54:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.54
 vless://dc089b27-3f77-5c89-a282-bbbb728302d1@45.88.183.53:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.53
-trojan://fpvp44rm-gk5u-ziy3-lkyr-wzv1n2exwqta@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yb24pgeh-5jf4-7ebc-bgq4-esqshstw4reo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

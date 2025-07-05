@@ -1,8 +1,8 @@
-trojan://sjnh4paa-pqem-7o5m-k6ff-4zp69n3mu45g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 05:34 ]
-trojan://odmbtaq1-1kut-by9x-d6ce-hjqa284rpm50@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b44bz7e4-tp0n-7ddf-28eg-9td1svy18ovg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d4gogzp8-zsbi-h6s9-hr3t-pmvk82pydk6z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yv28c4ll-jbhf-kwn3-vcr7-2xf2wheg1yz6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
+trojan://dn28w035-d7hn-5h7k-o8j3-8vbhib8chlz0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kaavpuqd-8iyy-jelb-hp3g-fyg7kwmvvro1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ijown4vd-g5w1-elmy-vf2y-miwuyk5lwp6g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://e42b8392-782e-43f4-8403-1f006c2173ab@133.18.227.50:30000?sni=cdn.jp-01.planb.cat&peer=cdn.jp-01.planb.cat&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAGOYA JAPAN Inc. ┇ 133.18.227.50
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS0FHT1lBIEpBUEFOIEluYy4gXHUyNTA3IDEzMy4xOC4yMDMuMTg4IiwiYWRkIjoianAxLndhbnNzLndpbiIsInBvcnQiOjIzMzQ0LCJpZCI6IjQ4QzE2NkIyLUJGQzItNTEyRS00RDY3LTQ3QzJGN0IyQ0U1QyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=rckWtXghGii1mFHTK0UzeXYjtUsqkiQSGz0eBScn1E4#JP 🇯🇵 ┇ VLESS-TCP-RLT - KAGOYA JAPAN Inc. ┇ 133.18.104.235
-trojan://2biirycu-nzc6-r5oo-thfb-mb74mwmnx343@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://shfvjrs1-0a5c-j90s-kc7a-kotpujv1ojww@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
