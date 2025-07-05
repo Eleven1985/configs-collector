@@ -1,10 +1,10 @@
-trojan://0l47zho5-sypm-k9re-b7b2-wmfo8k3je82x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://l3ntrtd7-lnlp-3a4f-bkv4-6fdmwxyrazub@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8kps6bv8-931z-tvn0-rql4-qiqryh0g6xxv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8nw0smq3-pqoo-g3s9-bmkl-s6lvbzdlkjch@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6vjkdt5y-fawj-gd5c-ybf4-8zxmc3f4jcrd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://17sct4vy-hbmn-iwkz-c4jw-sg1spmjv1vfh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v23b0tk0-zu3z-5lwz-anvw-golat8xf2kp8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://keve4fjc-g5w8-2xjx-wnsj-6s1w7l2cwjt1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.158.181:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.158.181
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.46
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@2.59.38.185:8443?type=ws&security=tls&path=Telegram@V2ray_Alpha/?ed&sni=gozargah.validbv7996.ir#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.185
-trojan://rtyam045-4jgw-mqtt-1nko-z2xposrwojml@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xamf33kw-4sg6-uf79-ywhv-8l2lkxoxqshg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

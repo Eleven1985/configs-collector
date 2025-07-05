@@ -1,6 +1,6 @@
-trojan://4ntu31w0-9yq1-ud72-u61g-l3lq34k2cl7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://7dsu7hnw-j6zs-r5di-bymg-54owj2ey0ppw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gvip8s79-pqn8-czg2-zsj7-thyv4mcpqm04@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ms60cd8q-0q4q-vmel-dxkr-aeeqymokshua@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d15sk0ts-h7er-t28j-lku4-ddcrpy6aq0hj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://tbk5pyy5-43yj-mv29-92dr-mimd3ykkl9ak@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g32cwkbp-kig7-b28n-pkm5-xtxjnpiscvoz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wb3q1zwr-c5j8-7fcy-jjso-oe3vpw5etis5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@195.28.169.253:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Netafraz Iranian Ltd. ┇ 195.28.169.253
-trojan://u84070dw-q8iq-nkq9-n6vw-t91raa24g3kg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://r2w183ev-2gmt-5zxs-15yq-tlodsn8ehxpq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

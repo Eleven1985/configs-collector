@@ -1,7 +1,9 @@
-trojan://yko2zc31-m57v-3g6b-kixv-n60omms2hy1x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://gw5hwucx-36y7-pvd8-hpnl-yb5sjz1wp1b4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://40wwepnd-htac-3pi4-uoww-5892ktxj64mf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n3exetrw-i4fk-3yfi-kpit-o3mv3t27cmyf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://27q30quq-m27f-5i3l-p6kj-ac6t3fgu5u6p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://nept7bge-xnms-vgj3-tc6o-iz1talznz6cy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4yygbp1k-4x92-g01c-676w-thogirfseuo1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hvbpvq70-n54g-zujz-6jnl-5ummz3jnzmtb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.13:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.13
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.12:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.12
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.18
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.17:443?type=ws&security=tls&sni=ws.javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.177.17
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.20:443?type=ws&security=tls&sni=ws.javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.177.20
@@ -20,7 +22,5 @@ vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.21:443?type=ws&security
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.18:443?type=ws&security=tls&sni=ws.javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.177.18
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.17
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.15
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.13:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.13
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.12:443?type=ws&security=tls&sni=javidnaman.iran&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.176.12
 vless://d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a@185.146.178.12:443?type=ws&security=tls&sni=config.9527521.xyz&fp=chrome#GE 🇬🇪 ┇ VLESS-WS-TLS - JSC Silknet ┇ 185.146.178.12
-trojan://keyvv6f8-97bg-76b4-xa3i-f0o0iel2samr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://bbjc2elo-q3lk-snne-rznz-2wy2weqxxrx8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

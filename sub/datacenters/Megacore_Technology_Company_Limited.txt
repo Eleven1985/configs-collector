@@ -1,10 +1,10 @@
-trojan://gudlzsl3-8eh6-lpfu-xmrz-2jt1mf7ur8v6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://sfi2mn3q-wlk2-ck5q-ki4o-725j9ih13hsr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eo19r4d0-pivb-gmnq-wh1g-xge8iq7g5n5k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tkkkug0x-a58r-ucdf-uhb6-d1v8tk3ifg7k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pjroz7kv-3bjk-1d9q-wx7c-czdlayq0jgw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://ltk939ub-ht7v-bykx-aq9r-dbhvill7i4d7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p65jcudd-h0ar-qtvy-3ul7-sk308qjvl8yt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dm7p2y3c-eege-ax1c-khvy-72qlohcll71j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.246.83
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@103.238.235.232:443?sni=bs1.loadingip.com&peer=bs1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.238.235.232
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@103.238.235.140:443?sni=std1.loadingip.com&peer=std1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.238.235.140
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.246.83
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.225:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.247.225
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.227:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.247.227
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.223:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.247.223
@@ -12,4 +12,4 @@ trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.228:443?sni=kdlsupport.
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.236:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Megacore Technology Company Limited ┇ 103.77.246.236
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWVnYWNvcmUgVGVjaG5vbG9neSBDb21wYW55IExpbWl0ZWQgXHUyNTA3IDEwMy43Ny4yNDcuMjI0IiwiYWRkIjoiMTAzLjc3LjI0Ny4yMjQiLCJwb3J0Ijo4MCwiaWQiOiI2MmFiNzQwNS1mMmYzLTRlNzYtYjJkOC1iNmIxYjFmZTRmZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmllZmFzdC52biJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lZ2Fjb3JlIFRlY2hub2xvZ3kgQ29tcGFueSBMaW1pdGVkIFx1MjUwNyAxMDMuMTc4LjIzNC4yMDEiLCJhZGQiOiIxMDMuMTc4LjIzNC4yMDEiLCJwb3J0Ijo0MTc4NSwiaWQiOiJjZTZlODA0ZS0zMjU4LTRjYzEtYTkyMi0xYzg3YTM4ODY2MTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://qxu3a3d3-dypw-ggym-wa1d-yuu7rc2mk0od@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3sesz4af-wr81-fgrv-x4wu-wtzwpwcbwk0u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

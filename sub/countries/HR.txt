@@ -1,17 +1,17 @@
-trojan://jt49pol6-ttr1-r3n8-5a3c-28j5x6rk00pq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://g92ymg1h-0tpn-u0px-oupj-27ynm6es3d61@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://258eotbx-dqe3-tzk6-qu9i-jq41m2gqp2fs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://klyx8eqr-8nnr-v0go-ma5r-du19iqtt9bkb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qv7eeur0-93no-wj7n-md13-0swdyaq0zu1s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://tawbridv-enxr-t7bp-fgx1-2jrldcdhuj16@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ztmyosxx-87p4-8p9u-w7lu-6th4aoif3m91@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cz9cjzzz-ao1i-euv0-z212-gc0ykjl7ueva@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1LjguMTA2LjEwIiwiYWRkIjoiNDUuOC4xMDYuMTAiLCJwb3J0Ijo0NDMsImlkIjoiNDBkNDk2YTYtY2VlYi00MDk2LWJhZWItNGNjNTJiMjA1NjIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvRUNUQ0owREYiLCJ0bHMiOiJ0bHMifQ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.60
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.63
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@213.182.199.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.213:8880?type=ws&security=false&path=/&fp=chrome#HR 🇭🇷 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 213.182.199.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#HR 🇭🇷 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 213.182.199.29
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#HR 🇭🇷 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 213.182.199.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.168:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#HR 🇭🇷 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 213.182.199.168
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@213.182.199.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.251
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@213.182.199.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.3
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@213.182.199.254:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.254
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@213.182.199.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.77
@@ -24,4 +24,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhWQy1BUyBcdTI1MDcgODkuMTguNTguMTA0IiwiYWRkIjoiODkuMTguNTguMTA0IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhWQy1BUyBcdTI1MDcgODkuMTguNTYuMjQ5IiwiYWRkIjoiODkuMTguNTYuMjQ5IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhWQy1BUyBcdTI1MDcgODkuMTguNTguNzEiLCJhZGQiOiI4OS4xOC41OC43MSIsInBvcnQiOjE4MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://wjgy3176-sx2g-862r-xhlo-8fgy8bnkebwp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://75mf0h5r-t99w-yydz-o0ib-ddtxcd99ftgh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

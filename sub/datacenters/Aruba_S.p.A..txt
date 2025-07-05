@@ -1,18 +1,18 @@
-trojan://affp7sme-58zm-pmm3-jfwj-7fqv23fnthj9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://lh1bw7yv-c9d5-bg6i-wf2s-9oui1oe59p3e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hxywplx7-l9kq-nk2k-8y64-2a6pusc1x6q3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rmys7qyd-yh1s-tqs0-pyq6-1agka0p0nzz1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j4temnxf-h2hx-kptc-au3g-ir2vhnoof49q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://5irebmxn-j8qg-00oi-2x2y-hqfy9cb2jiwc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tdl2i2k6-6qtn-qkpp-11mr-6oyos5ffjf3e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://02kc0ucp-i4d6-kv1y-kyns-9lxnhehdl4c8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04@217.61.62.166:38257#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.62.166
 trojan://3767107462583558144@95.110.142.205:443?sni=grown-cardinal.treefrog761.one&peer=grown-cardinal.treefrog761.one&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Aruba S.p.A. ┇ 95.110.142.205
 trojan://900zMQxYJX@188.213.171.8:2053?sni=tgju.org&peer=tgju.org&security=reality#IT 🇮🇹 ┇ TROJAN-TCP-REALITY - Aruba S.p.A. ┇ 188.213.171.8
 vless://6ce93d15-9488-4208-914b-6ee32af0df0e@italy.france-learns.ir:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.118
+vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@217.61.61.190:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.190
 vless://ZEDMODEON--ZEDMODEON@85.235.150.137:43491?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 85.235.150.137
 vless://c17e5bd4-00f9-4cb2-bd8f-cfd21bd9e2fd@31.14.131.51:55829?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 31.14.131.51
 vless://cb67141a-e9c7-42f8-9ef9-b2a382415242@188.213.170.9:12278?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 188.213.170.9
 vless://68d75c5d-67ac-4ef4-80d8-cd5bf4868ea2@188.213.174.54:48672?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 188.213.174.54
 vless://edffac6f-cad3-43e9-abe9-738379b99ed6@188.213.170.136:29460?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 188.213.170.136
 vless://20a49abc-b801-4308-83e4-80abcad4115c@195.231.66.71:28125?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 195.231.66.71
-vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@217.61.61.190:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.190
 vless://ZEDMODEON--ZEDMODEON@85.235.150.54:27241?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 85.235.150.54
 vless://ZEDMODEON--ZEDMODEON@95.110.210.19:59502?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 95.110.210.19
 vless://6aa1ec18-7ff9-4f6a-be06-c2bcb55fe49c@188.213.171.9:54601?type=httpupgrade&security=none&path=/#IT 🇮🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Aruba S.p.A. ┇ 188.213.171.9
@@ -21,4 +21,4 @@ vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?type=tcp&securi
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vless://ZEDMODEON--ZEDMODEON@80.211.252.85:45956?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.85
 vless://ZEDMODEON--ZEDMODEON@80.211.252.196:59438?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.196
-trojan://21qtgipw-lm7n-0s1s-ba3y-gurtfk2xiloo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zf6aa4f0-kqyt-wtht-n725-kmk26mtr1fa6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

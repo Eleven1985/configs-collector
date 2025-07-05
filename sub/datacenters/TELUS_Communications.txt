@@ -1,9 +1,9 @@
-trojan://udual1np-fyz1-40sb-xlp8-3sa6arghgch0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
-trojan://v9tj6v08-cgyh-h6y2-az5l-yoihwxv8sxqp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pl8kv4ly-ifrx-opzf-86n0-51c4jh6tv5bm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zkdv3dgi-kkve-kiyq-1aan-gb9vber8tq0r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qoaywi2i-aujt-utmq-yf0y-ahaeqw1lrqll@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
+trojan://b9rnl6lw-mrcu-anro-aq71-ioasa5gq2u0g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z6wv4cw3-719d-cyl3-jtvm-bfbq2fe7eegw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j53fscpl-jp51-78um-343c-5mqrlc650e0h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuMjgiLCJhZGQiOiJwcm9kMi1maC1jbG91ZC1oeWJyaWQwMS12bXQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjozNzMzMywiaWQiOiI5MjliZDA2Yi02YTBlLTQ0NWEtOWRhMS03MTBhZTIyMmRhZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@prod6-cloud03-net03.cyberscaler.com:6068?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.83.62
-trojan://52x1ziwt-r90k-796z-2esh-n3s46h1wre1n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuMjgiLCJhZGQiOiJwcm9kMi1maC1jbG91ZC1oeWJyaWQwMS12bXQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjozNzMzMywiaWQiOiI5MjliZDA2Yi02YTBlLTQ0NWEtOWRhMS03MTBhZTIyMmRhZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://b8dacd2a-cb02-4451-f430-a519e8fa2f13@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.83.62
+trojan://9y6ayl94-2wfi-pq7n-ybks-20jwobj6avx4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
