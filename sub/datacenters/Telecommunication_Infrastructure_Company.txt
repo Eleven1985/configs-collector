@@ -1,7 +1,7 @@
-trojan://3bir4z48-d625-gt58-2xxz-b5wyc70esl50@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
-trojan://30uzr6lq-u5ks-4fqu-dfkf-n7mfmgfl735m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://az0v7ab3-noz3-hg22-sx4j-jljdcfqcq9cx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p2nphton-iqnh-s3ez-n2wv-m3dfey8fiilf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6lyn8bg1-k98e-1bll-tp22-ieshjbzcillb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
+trojan://sr5qapl2-b4tg-919p-xqw2-1f73bkfhm4kg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ue424du1-7vf2-svy1-gsf7-vsmko91efk0l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ryjs8bwo-quik-odx6-fu49-pqk3uvjo6bde@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
 vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:6784?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
@@ -12,4 +12,4 @@ vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
 vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
-trojan://ccc79xr3-oxmo-t8c5-vc6s-ahcqi6o5b4yp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hhrq4slm-x85s-dv2v-z8tz-9yhhgsmggd6p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

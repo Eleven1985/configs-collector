@@ -1,7 +1,7 @@
-trojan://3onmsud5-6byf-u9c2-766q-fof5e7x89xvx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
-trojan://5ne84r7t-rkxb-zmdb-n8i3-ql63f7eta5pj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dlw4bje3-w28i-nrox-1o5j-8vgdr0ixhuir@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ynyz2iek-dqia-wt8r-f8pf-6lmmagizqz2u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jmpyplqt-vtu0-2n30-x5u8-csi4slu41114@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
+trojan://nlmtr76o-qdgc-7c2e-9iqx-87p1pp4f9fv6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a4dhi3c5-0ged-7uts-er3r-ffi1xlvbn1ze@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p6h3fity-xdfg-tidp-7g9k-3w8kbgxf9h5d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.8
 vless://39502dba-b0dc-59bb-b332-f75194b1689c@45.136.117.14:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ@194.124.250.4:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 194.124.250.4
@@ -19,4 +19,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekl3WQ@85.209.194.6:8388#US 🇺🇸 ┇ SH
 vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.12
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.8
 vless://a5d8f419-7776-5afd-a765-e57d868d1c47@85.209.194.2:2052?type=ws&security=none&path=/vless#@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad#US 🇺🇸 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.194.2
-trojan://lm89mtod-rkhq-0tr8-mnc0-oowk5p91ltrf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zwnjchn5-zu5m-6a0a-mouq-xgjzqei4281j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
