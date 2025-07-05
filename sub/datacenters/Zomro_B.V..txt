@@ -1,9 +1,9 @@
-trojan://9i21suza-0hca-c81e-gkjf-fqbcpano4n35@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
-trojan://quct04z6-bmrv-hf2d-d1bc-u9eye9kbudbc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ox8q1p1y-se5f-qnu8-0bnb-kke7s6rljwvr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zl2uam48-05ou-xndt-gzi0-v8fzci27m8yk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@185.51.246.121:2053?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.51.246.121
+trojan://f3ds1e83-ivb6-j53k-yc7f-1tzz54mv06x3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
+trojan://7yfm1eyt-2qqw-83aj-gr4k-wwc04x8wyrvy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0v32n871-26di-ate3-0kp7-q250w60a2bcf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fbt2k0e8-ihu1-5tp3-xz3q-ep7nfvu8mb5a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://Aimer@185.51.246.121:2053?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.51.246.121
 trojan://Aimer@185.204.109.190:8443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.204.109.190
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@213.166.71.40:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Zomro B.V. ┇ 213.166.71.40
 vless://500fa635-f420-4148-ae10-5b857163d045@45.87.2.60:2053?type=ws&security=tls&path=/?ed=2560&sni=vl.kouok.us.kg&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.87.2.60
-trojan://r4e5q4ml-y3gm-3ze4-o3k7-uwvzhywz3x0m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://j5oj0jq1-dgfp-5e5o-se9r-pvs0hbs0m8km@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

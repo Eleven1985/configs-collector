@@ -1,7 +1,7 @@
-trojan://c0zn0vo8-yqpa-3s4v-zpew-4lkvo2lvck48@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
-trojan://4i893dje-ho3l-gedf-2pno-mbywg8a07q41@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://muwi23cj-7n6c-5v7r-icfw-la9pzfn436ae@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5nq0v7dc-cwbk-0gel-3xwn-gb1g48je1u1w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u8vs1i3g-ams8-m2zh-nb10-ngmav2kicqgu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
+trojan://ec3zx41c-at1v-i6m5-ffjm-jtdbptr1c1pu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2i0sshw8-0j0j-g8by-2znl-kd25jozik8xe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a27xl6yz-zz6z-49b8-1zw9-p0qifl8330iz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@185.125.207.201:44539#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.125.207.201
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.115
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YUdjME9TUlhTRGc1TkRObk13@185.134.22.24:18760#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.24
@@ -12,4 +12,4 @@ trojan://shefelnak@185.16.206.212:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TL
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@81.19.208.107:50168#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 81.19.208.107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@178.239.173.23:18760#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 178.239.173.23
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSHlkcmEgQ29tbXVuaWNhdGlvbnMgTHRkIFx1MjUwNyAxODUuMjIzLjIzNS4yOSIsImFkZCI6IjE4NS4yMjMuMjM1LjI5IiwicG9ydCI6NTU4NzIsImlkIjoiYWJmMjk4NDgtNmZmOC00YTYwLWFiZTEtNmUyMjY2MTc0ZGZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://yvo1bxvv-17vu-7nbj-soix-tqytf8egxg2d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uns3shdf-zc5h-zbz9-ab56-zkkguncypsni@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,9 @@
-trojan://7xjja1gi-tuq4-kkuk-tq4d-v10oaoly54af@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
-trojan://fymwlhri-v8ob-ai12-mbgp-9nbcek4pt05y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o48jumwp-eko5-n5pf-7n1v-vc8zvadkvizp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3bo52igp-we28-4qcx-7imv-u7b9ox09rgyj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yvqqpf83-hd2j-t1mt-qfqx-kg02ajre5d6x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
+trojan://7hut4fre-5xf1-lwbq-6qsc-q0ajujz23s46@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7bwyytnq-g7fx-ekdc-npqa-55tk88f7fr9i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://69bnr07e-xmci-mw4i-3jlv-0zt7b3jujwso@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NmVkYzdkNC03NDkwLTQ4ZmYtOTljYy00OTZiMGY0YTI3ZTk@103.37.45.155:19240#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.155
+ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@a1.1tsm-sab2qkybzqc4ujzufu5yqppaomvbqfmrjunx7dmbde1ktmr.cv:50008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.158
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WVRjM01qZzRZamd0TTJFeFlpMDBaakZoTFdGbU5HVXRaRGN5TVdOallqa3lNamsz@sx.75886993.xyz:41681#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.44.67
-ss://YWVzLTI1Ni1nY206NDIzY2Y2NDItNjUyOC00MTBjLWI1NDItMmFhZTA0MTEzZDMz@cdn-p1-jp.weibo-dns.com:11506#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.69
-trojan://n5t5wgu0-fhz6-l5l7-jklh-yrx7zozyptgp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+ss://YWVzLTI1Ni1nY206NDIzY2Y2NDItNjUyOC00MTBjLWI1NDItMmFhZTA0MTEzZDMz@cdn-p1-lm.youku-dns.com:11516#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.69
+trojan://plfq679b-elpf-4o0b-4665-ckvih140jnks@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

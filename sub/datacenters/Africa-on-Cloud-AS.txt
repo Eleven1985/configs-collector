@@ -1,12 +1,12 @@
-trojan://hka0njso-fp4p-tkb0-6f5v-gldlan358fm0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
-trojan://xzp0cb65-221t-98ac-ho7k-gljk5uj50q7t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lihnvnoa-t8m9-91ef-57vc-d07rn1nen5f4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pllyjrec-5aqf-oseu-edvj-czp7q0shkp0c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.194.0.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.3
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.213
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.247
+trojan://zxuer2hd-0gia-3tzt-dj6n-qkrtw6wnj2b2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
+trojan://dbkoyl9z-y9f4-029k-mlxv-4r2binu5rdnu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://40md7x0i-37t3-fi23-gu75-2bl8b6or5qu1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n0x59jfd-beuj-fe4t-lghp-lcir4k1x5bdb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.194.0.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?type=ws&security=false&path=/&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-FALSE - Africa-on-Cloud-AS ┇ 154.194.0.213
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-FALSE - Africa-on-Cloud-AS ┇ 154.194.0.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-FALSE - Africa-on-Cloud-AS ┇ 154.194.0.63
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.194.0.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.3
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.194.0.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.177
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.194.0.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.77
-trojan://fmqi9gyu-f761-8rif-ccpu-vt2suj9jrfbz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://96x7pu3t-wcq0-xtgi-qlc1-um97yapygl2m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

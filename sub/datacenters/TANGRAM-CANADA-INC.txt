@@ -1,7 +1,7 @@
-trojan://boqlxado-l195-8wbh-wt16-ax58z2cn7onc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
-trojan://ojqwaugp-1ll6-0hf8-2c2v-3dx09bbmagx5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aji3iktg-kipz-xf8y-joi0-ynjyq7yvsj77@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://15ejf2dw-u3d8-9fs5-wcog-8acp2qrxa56b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w8vzqfh1-eyek-3b7v-jl7i-4x5msi2nx1t4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 08:14 ]
+trojan://3ijyp7r3-xrox-kr56-5nk3-rerziy2fhd3q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eh0wex40-kw9e-97t0-uli3-osnebd6kvxie@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nqwonpo4-4gn6-b91c-aihl-djofovki71e5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@85.208.108.61:8008#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.61
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2375#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.90
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.60:3306#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.60
@@ -13,7 +13,7 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.93:7306#CA 🇨🇦 ┇ SHA
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.21:6679#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.21
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@85.208.108.94:8080#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.94
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@85.208.108.58:9101#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ@146.19.106.5:1443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 146.19.106.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ@146.19.106.5:8388#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 146.19.106.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 146.19.106.89
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.22:8888#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.22
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@85.208.108.19:8118#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 85.208.108.19
@@ -27,4 +27,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVEFOR1JBTS1DQU5BREEtSU5DIFx1MjUwNyAxOTMuMjAzLjIwMy42MyIsImFkZCI6IjE5My4yMDMuMjAzLjYzIiwicG9ydCI6ODAsImlkIjoiZjYxMjAzYmQtZjM4Ni00ZDEyLTk4NTMtY2M4MjlkNmI3YzlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRBTkdSQU0tQ0FOQURBLUlOQyBcdTI1MDcgMTkzLjIwMy4yMDMuNTMiLCJhZGQiOiIxOTMuMjAzLjIwMy41MyIsInBvcnQiOjI4MzY0LCJpZCI6ImMxNGI5ZmFhLWIyZmYtNGYyYi04MGM1LTQ5OWJiZGI5Yjg4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://74b56295-1845-4b22-b9a7-85b733218451@91.194.11.78:81?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#CA 🇨🇦 ┇ VLESS-WS-TLS - TANGRAM-CANADA-INC ┇ 91.194.11.78
-trojan://96i9dol7-b6ge-gtva-yqm4-wu36qz3ndt8z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://c66qhpdv-nlx9-p05j-6ox2-w3le0iz047gs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
