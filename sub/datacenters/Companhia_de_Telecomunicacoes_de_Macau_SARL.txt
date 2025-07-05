@@ -1,7 +1,7 @@
-trojan://sccsaw5u-183h-wj2x-yfau-4o9aijvy557z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
-trojan://4le8jbkq-5aji-mfju-ekvc-u6ec9k55stsb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q4x45rva-psr9-98n1-01qd-550bj6sqjwhy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s370kvwi-nxas-jv8x-dxk5-895ub7sko9wk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://umhc6sd5-8q39-pc6d-cgu2-pu3d1x7ivv5l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
+trojan://asgx2wxo-nqae-hoqv-aucm-kw2a0k0fp4zu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://viodrp7w-qan5-lllu-daf6-xxe91fvcflr9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1w91rmzl-vq6i-hix1-ak32-6i2b1nnhukno@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d3M5RjRNS05zTHhwTWpiVFYzag@45.64.22.55:443#MO 🇲🇴 ┇ SHADOWSOCKS-TCP-NTLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.55
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.23
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?sni=jgw2.gaox.ml&peer=jgw2.gaox.ml&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.41
@@ -9,4 +9,4 @@ trojan://!str123456@45.64.22.56:443?security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS 
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi4yMiIsImFkZCI6IjQ1LjY0LjIyLjIyIiwicG9ydCI6NDQzLCJpZCI6ImU1NWVkN2IyLWVkNGYtNDgwYy04Yjk5LTA4NDgyZGExZTRjNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiaGtibi5wZ3lwZ3lrbW9samtsai54eXoiLCJwYXRoIjoiL09CN2pUTTVjVFRyTCIsInRscyI6InRscyIsInNuaSI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi42IiwiYWRkIjoiNDUuNjQuMjIuNiIsInBvcnQiOjQ0MywiaWQiOiJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InAzLmNoaWd1YS50ayIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwMy5jaGlndWEudGsifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi41MyIsImFkZCI6IjQ1LjY0LjIyLjUzIiwicG9ydCI6NDQzLCJpZCI6ImIyZTgzYTU1LWYxYjktNGEyOC1iZGJkLWMwN2YzYTI3ZGQ5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzIiLCJ0bHMiOiJ0bHMifQ
-trojan://15mtf4oh-k18l-i7e0-tvuu-3pexbhdk9xzd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zloyiako-5i25-12yg-ln6z-5apbewc8s5od@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

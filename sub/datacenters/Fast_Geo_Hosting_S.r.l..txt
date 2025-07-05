@@ -1,22 +1,22 @@
-trojan://04h7s7n9-97vl-8qoq-63ht-1hsakpgf024v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
-trojan://zkfvkt1t-f2xs-xxio-eb24-8rxihz7thqs2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6jo8mhh6-i07w-kv96-c3fw-dnsugwo10gwl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fbxp0k15-58uh-t4u7-axy5-j1z56nt1xxct@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://a9rdef51-1ymc-u566-dvt9-yi2tmaohyk2g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:09 ]
+trojan://zumdw6qu-z3ug-n5j5-4zil-c92l75qebttx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n05gok1v-rieg-wowy-2ak1-apjjhwax47u7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fv5arrly-ze9y-szr4-lk12-o86k05jtgfy3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.8
 vless://39502dba-b0dc-59bb-b332-f75194b1689c@45.136.117.14:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ@194.124.250.4:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 194.124.250.4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR0ppTg@45.86.66.16:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 45.86.66.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGMxWQ@194.55.137.16:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 194.55.137.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg@85.209.158.11:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.158.11
-vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?type=ws&security=none&path=/vless#NL 🇳🇱 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 5.180.52.15
-vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.155.9
 vless://473c2217-677d-58c8-87df-a75de10de1ad@vpnandroid2_tr.home.kg:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.156.7
 vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?type=grpc&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.11
+vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.155.9
 vless://c7d4b0f6-0f18-45a3-97c7-caaf373f032d@5.253.30.14:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.14
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.180.46.9
+vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.180.52.15
 vless://dfcf379e-2d92-514e-84ca-77cdb1bd73c6@5.253.30.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekl3WQ@85.209.194.6:8388#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.194.6
-vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.12
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.8
 vless://a5d8f419-7776-5afd-a765-e57d868d1c47@85.209.194.2:2052?type=ws&security=none&path=/vless#@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad@v2rayngzendegimamad#US 🇺🇸 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.194.2
-trojan://35yap8ll-4t1k-zd66-827f-g48gryngxj3w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=grpc&security=none&sni=vpnAndroid2..com.vpnAndroid2.org#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 88.218.95.12
+trojan://950xkd2c-7j40-sc7j-2wfy-0laox2khtdqa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
