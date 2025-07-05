@@ -1,7 +1,7 @@
-trojan://fra7goqw-nb0e-a96e-mrw4-0a07dr6t9s4l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
-trojan://acd1e0jg-50eh-3upm-1q1l-b3r7icsj38z5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tgr1g3jf-kbs9-w04g-qbmq-4vmxgo6ijzaf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://56fqosgu-kp6s-w90o-lco5-20cq88g05q4c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ix2xd8lp-5qph-cnj4-34w8-jz04nrvmfsxj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 15:20 ]
+trojan://o8n9e54f-2cx7-0bx5-w9sh-y8os3x8frt2z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2rq4f551-zf9r-xadg-1uu6-i18g07rnuqmz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qqi7ellf-2cx4-vc14-byqi-g7c8wf9zx8ey@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=tls&path=/blue&sni=ly.ylks01.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.22.142.117
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?type=ws&security=tls&path=/?ed=2048&sni=aw.ylks.xyz#ES 🇪🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.175.202.195
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@35.228.36.82:443?type=ws&security=tls&path=/blue&sni=lg.ylks01.eu.org#FI 🇫🇮 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.228.36.82
@@ -65,4 +65,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.69.150.180:443?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.82.76.253:443?type=ws&security=tls&path=/?ed=2048&sni=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.82.76.253
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.49.234:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.105.49.234
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@35.247.124.181:443?type=ws&security=tls&path=/blue&sni=ck.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.247.124.181
-trojan://jw40wugc-txdm-i433-0msw-hkk3rskhwc6w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q5av00q8-kl1w-h842-oao5-p0sanhcsw3gc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

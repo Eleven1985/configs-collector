@@ -1,7 +1,7 @@
-trojan://8t0er51g-ei14-2ng0-co9i-3wgtb6n2tvnq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
-trojan://5qzybakx-lfsy-7u04-zjva-y2eea7n9pw3r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8gs5bp1f-o4lw-zk7b-i7au-sbh54werben4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://apj72l02-0hqs-qq11-wcts-sghf4cwy3n1t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://312r0obi-abb4-s9z8-bpyj-55mg6ovodcfn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 15:20 ]
+trojan://n7yp38jl-0mde-r4qw-0xn5-a1gn1i4d6pyv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6es7g9xu-0lbn-9daa-njjw-zjfmu1g59jwa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nv23dd8c-mk88-7tee-au6z-tahik1hsq4lv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.154.98.230:7102?sni=epma.ambercc.filegear-sg.me&peer=epma.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - 1337 Services GmbH ┇ 45.154.98.230
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - 1337 Services GmbH ┇ 45.154.98.100
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.124:12001?type=ws&security=none&sni=hl.ylka.dpdns.org#NL 🇳🇱 ┇ VLESS-WS-NTLS - 1337 Services GmbH ┇ 45.154.98.124
@@ -11,4 +11,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:1001?type=ws&security=tl
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.75:1001?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - 1337 Services GmbH ┇ 45.94.31.75
 vless://46a370fd-20a4-466e-a28f-578ede3a7b6a@45.94.31.38:2083?type=tcp&security=reality&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=z5cPK1RpUZOot7hk3jEVTLxRHnokM7m9OnvgGzdhVjc#NL 🇳🇱 ┇ VLESS-TCP-RLT - 1337 Services GmbH ┇ 45.94.31.38
 vless://465148df-c1c8-4a86-a623-39c1645dba54@tunelvs9.myprofilegodbot.site:42960?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=hSBSMUSr8C0IPnjB8r-aP_hBD45iOEYaP5cL3Ot0Ggo&sid=be206114#PL 🇵🇱 ┇ VLESS-TCP-RLT - 1337 Services GmbH ┇ 45.138.16.171
-trojan://9yyg783h-fkgo-g4iy-ry8l-qgc0psgdl6mi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ogsyie2f-0cvz-j0di-sizg-5sbzewvzcy63@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

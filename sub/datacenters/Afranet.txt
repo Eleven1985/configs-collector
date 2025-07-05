@@ -1,7 +1,7 @@
-trojan://zxlo25zd-gvaj-7l9c-rdri-0wx1eag89iev@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
-trojan://xgbu6v2s-thxc-v4im-hbhb-e8sf63qnn6r7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4knfevj0-hm6s-j5ph-zlcq-h7e6e6n48fy8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://onfgufyf-4vyb-xw8y-r9g8-4gwv4x2ei2sy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://s3zes30v-96x5-vyob-ypiw-1pkm8cx1yoto@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 15:20 ]
+trojan://psw4b30x-de6n-1kne-c6f7-94c6tygw7pqt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iplmcnhq-07wx-z8ga-hv0o-trlynzif9rca@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://shz4tb65-6dsh-yv3w-1i3i-bph5xh1pdjft@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VnQwOEg0QWRLQmdheHVEVzIvKzZNV2lpSXd6KzY1eHB3dlpxK2xkejhLbz06cFNJQnpMK0gwbXV4TUZqZW1HSmRtTWVWSUdGV1NZVHkwb2graXNqMzUxRT0@79.175.129.213:10147#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.129.213
 ss://YWVzLTI1Ni1nY206Mno5dGtYVktpS2RGT2RuRk1VRUR1R0lJOEtEM3p1cGFGZ2lHRG1RM2NJST0@31.47.45.146:13130#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 31.47.45.146
 trojan://lYcsSFMYBo@79.175.134.169:7676?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Afranet ┇ 79.175.134.169
@@ -19,19 +19,19 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWZyYW5ldCBcdTI1MDcgMzEuNDcuNTEuMjI5IiwiYWRkIjoiMzEuNDcuNTEuMjI5IiwicG9ydCI6MTEwMDIsImlkIjoiZDJjN2IzMjEtNWU0OC00ZDI4LTgwZTItZjY0YzZkZGZhZDk2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWZyYW5ldCBcdTI1MDcgNzkuMTc1LjE1MS4xMTIiLCJhZGQiOiI3OS4xNzUuMTUxLjExMiIsInBvcnQiOjU4MjcxLCJpZCI6Ijk4YTlhZDJhLTE5NjYtNDg3Ny1iZWQ0LTg0OGI3M2Y5YWIzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9yb2h2MnJheSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xNjcuMTI5IiwiYWRkIjoiNzkuMTc1LjE2Ny4xMjkiLCJwb3J0IjoyMTIxLCJpZCI6ImVhN2E5MWE4LTg1ZWQtNDNiZC1kMWVlLTNhZjgyZmFkOTM2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.158:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.158
-vless://c39a97ac-7e05-4b0c-8ef8-2d456309317a@31.14.123.143:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.143
+vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.167.55:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.55
 vless://66342ffa-31c9-4ab4-9cf4-7126b28402ba@86.104.32.40:1111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 86.104.32.40
 vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.157
-vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@31.14.123.54:5969?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.54
-vless://5a365e51-4772-4791-a3a9-bed686ca89ac@78.109.193.145:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.145
-vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.138:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.138
-vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.167.55:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.55
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.133.192:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.133.192
+vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.158:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.158
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.147:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.147
 vless://55246d84-4473-4277-bc9b-86033a63dfcd@79.175.162.225:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.162.225
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.177.159:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.177.159
+vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.138:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.138
+vless://5a365e51-4772-4791-a3a9-bed686ca89ac@78.109.193.145:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.145
 vless://173c4b2c-46f0-4afa-b041-630ba41f1738@31.14.123.18:48265?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.18
+vless://c39a97ac-7e05-4b0c-8ef8-2d456309317a@31.14.123.143:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.143
+vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@31.14.123.54:5969?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.54
 vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v5xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.191
 vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v6xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.130
 vless://69622571-5465-4ec8-b50e-6f444f9cc17d@turbo.esivip.online:13960?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.158
@@ -54,4 +54,4 @@ vless://22e326cd-ebbc-4e1c-9a11-1b1286b86357@81.90.147.182:27964?type=tcp&securi
 vless://29ecbbb0-397e-4f2b-8646-629d64abe52e@86.104.32.176:52671?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 86.104.32.176
 vless://----Telegram----CLUB_VPN9--@93.113.233.203:53006?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.233.203
 vless://3782c3f0-16d4-4440-9fbb-8960173cbdbc@farshad2_2.vaynevpn.com:53050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.29
-trojan://prnlaov9-69lo-rzjm-4pg0-eykha48ipa0i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qdpo7iot-yvps-5ue7-d4us-7b27dp41rn19@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

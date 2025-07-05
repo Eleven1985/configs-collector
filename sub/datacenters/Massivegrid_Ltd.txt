@@ -1,7 +1,7 @@
-trojan://vtwa1xo9-wgzy-qiph-vamp-3k3piq80yzn4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
-trojan://1u3zoq0i-y0wk-d9eq-ucvj-d1t5ve800981@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://llo12u3e-lra4-07lp-qcin-8ozcfrgk7h2c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nh8keo92-b3ov-y8nk-yldf-d9tv8v1c35xg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n7exqf0c-qwy4-nwd1-43mk-pgrozdezqmho@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 15:20 ]
+trojan://vzjt9n0u-00zz-nywf-24tx-ecc53bo3zqc3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fikqa5h1-q2wc-ntsg-9hwo-9f7sn0citr55@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fk4sxpz9-5fc4-0vcn-xs78-2t3s56wlkq0o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1hc3NpdmVncmlkIEx0ZCBcdTI1MDcgMTg1LjE4OS41OC4xOTUiLCJhZGQiOiIxODUuMTg5LjU4LjE5NSIsInBvcnQiOjgwODAsImlkIjoiMGQxZGE1MDQtZmQzZC01MTkyLThhNTItOTBjODdiYzVlNWNhIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWFzc2l2ZWdyaWQgTHRkIFx1MjUwNyAxODUuODUuMjQxLjE5NiIsImFkZCI6IjE4NS44NS4yNDEuMTk2IiwicG9ydCI6ODA4MCwiaWQiOiJhOWI4NGM2Ny02MTQzLTRkYjMtYWJjMC1kOWZhMzMyMjA1Y2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiYTliODRjNjctNjE0My00ZGIzLWFiYzAtZDlmYTMzMjIwNWNjLXZtIn0
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWFzc2l2ZWdyaWQgTHRkIFx1MjUwNyAxODUuODUuMjQxLjE5NCIsImFkZCI6IjE4NS44NS4yNDEuMTk0IiwicG9ydCI6MjA1MiwiaWQiOiI2YjFhODc2Mi0zMGQzLTQ5NTMtYTcxYi03ZTFhODRjM2E0MzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiI2YjFhODc2Mi0zMGQzLTQ5NTMtYTcxYi03ZTFhODRjM2E0Mzctdm0ifQ
@@ -19,4 +19,4 @@ vless://73384fd8-2b99-497f-add8-a62e962f518a@172.82.67.154:58236?type=tcp&securi
 vless://87a3bcda-e691-48e0-bff5-1661182e63fa@172.82.67.158:36716?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=rOV46n6ilJBE_XGk-Xt07xcHQ6V7DpNpGfLlfG89jV8&sid=704de09b#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 172.82.67.158
 vless://0043683d-e195-40f0-9026-05a1551a8046@185.122.164.45:26940?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=CSXhVkotpM6lvzpk16v8tVSiukkKb2LbEaSdWY5V804&sid=0b81ce32#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.122.164.45
 vless://0a5ff329-fc56-4f09-8acf-0185ee43b6ad@172.82.67.157:59284?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=HjDYkuFrSpr9tFVhomh23yCFfdhePmP5dRJvm52ZbSU&sid=38#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 172.82.67.157
-trojan://ceyrlh4b-3w3n-maez-6ml2-bxcni0hs0qad@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://enl50tee-jszf-kt3w-y658-1d1nmbvcke5s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

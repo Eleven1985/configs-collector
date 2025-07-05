@@ -1,7 +1,7 @@
-trojan://wegsiyt5-v8yt-gzja-9f3c-qyhgf2rnhoah@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
-trojan://kqj6if0v-pgf0-eo3v-vr1z-0pdiamn3764l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://46zxo2i8-jbeg-eegw-5u5a-wvhr8dqgainp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://13oduyka-9whn-mtp8-66it-hv0rnkoyo5jv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ywbu25n2-f6ob-exdv-s3fb-z4968cml935q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 15:20 ]
+trojan://cbxblkmx-q8gw-lwh4-nj5h-hh7kvjr20c2l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n22l2fsf-02q3-18hq-4tfj-pmvckldsvbdr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pqjx6b0l-c117-3vvj-lkuw-e0yhh4nd8iju@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - ASNET ┇ 194.87.240.190
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@45.91.140.67:443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bank J. Van Breda & Co NV ┇ 45.91.140.67
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@45.91.141.89:443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bank J. Van Breda & Co NV ┇ 45.91.141.89
@@ -13,19 +13,19 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZW4zMjFUQXY0YmZEWUQ1RTZCbjRy@141.98.233.98:1443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.98
 vless://840fce73-112f-44e1-8bdf-cee760ed7a03@141.98.233.95:1518?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.95
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@141.98.233.103:3045?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#BE 🇧🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 141.98.233.103
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.125
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.115:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.115
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.108:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.108
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.125
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.78
 ss://YWVzLTI1Ni1nY206N0NVV1UxTE9RMDFSTFdRUg@185.213.22.93:20026#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.213.22.93
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@194.110.115.83:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.83
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.236.147
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.71.227.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:805#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
 ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.93
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.218.253:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.218.253
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.232.21.53:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.232.21.53
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.71.227.178
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@194.110.115.83:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.83
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.218.253:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.218.253
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.236.147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.146
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.108:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.108
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0dIM3dRUnc3VjRaaGQzNWJGcw@77.243.191.178:8389#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 77.243.191.178
@@ -35,4 +35,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQkUgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@95.164.62.152:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.152
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@95.164.62.196:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=kz.ylks.xyz#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.196
 vless://2a2b5866-9f43-4506-98c0-32fc33dea21a@45.83.20.76:10088?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=2RiVd3l0ofPW-qMOnDXDltcJ6eNP8hWR4xuKBMoY4Bo&sid=e555559bf185992c#BE 🇧🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.20.76
-trojan://x5ujpgbc-4bup-6uss-kyna-awhlrhrylh7o@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://emnirbxy-zp7e-9whg-95k6-05h0srwsd71g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
