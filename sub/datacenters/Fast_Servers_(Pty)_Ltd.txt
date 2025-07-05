@@ -1,6 +1,6 @@
-trojan://rx4f21dz-k9ph-18f4-bmqp-j7py0b7v5l8t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
-trojan://w6zmcihf-hm2x-rhab-wcnh-p2zz2rq1wvas@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sj9pjdlf-ktuc-ftte-h0dj-4p8cwqe97t9h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xpvoszl6-bch6-nnj9-tkr5-mwbe2954o4f5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nc186zfb-8p02-0vmx-2vsv-kzofemfdy13s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
+trojan://wg348tgl-layb-dm05-hivb-2td70ezhfrna@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6kih9fh4-flka-ngxt-r9lt-5wlvzysnu860@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wby7mza7-yjo4-bwz9-g8ht-mjj5kgvyk3nd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-TLS - Fast Servers (Pty) Ltd ┇ 5.181.171.10
-trojan://sbdqcxbr-eir0-7dga-okiw-jc5rnrxgo8dw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xe5qwe9j-v370-0gqw-u8an-t8dhj50pjrhf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

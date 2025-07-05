@@ -1,9 +1,9 @@
-trojan://5ofgniig-poz6-mfd2-egly-t1hzyy6bectx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
-trojan://bvezk75f-3nyo-z9dm-1djp-2arncx2do3ja@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mutnj1xa-570d-q099-5fjl-zs35dlnzmcj7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xmk5a59g-0a9s-4cz3-2524-c0jo7z4c9w88@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443?sni=bs1.loadingip.com&peer=bs1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 36.50.135.142
+trojan://o130osod-fi4y-hfss-w8qf-et5wiygdba1m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
+trojan://l6s4ityb-dw48-gs0a-3zph-myvirdl4pwui@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://399zwlb8-03nv-5xtf-g5mv-6g4heuhm16l1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2drbk28d-emp9-dxfg-ydk8-ie4ud6fof8rr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://5fdee619-2866-42b5-8a99-7b65ceeae449@160.30.21.24:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 160.30.21.24
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443?sni=bs1.loadingip.com&peer=bs1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 36.50.135.142
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?sni=std1.loadingip.com&peer=std1.loadingip.com&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 160.30.21.105
 vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?type=grpc&security=none#VN 🇻🇳 ┇ VLESS-GRPC-NTLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 103.240.6.21
-trojan://k37maic9-s5tx-uao1-oy81-uqsyvbidnvu7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0tgkhi7s-7yri-haow-fstg-pgnmm487n2eo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

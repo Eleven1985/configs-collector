@@ -1,7 +1,7 @@
-trojan://ukd692lq-ygu8-7gv1-lrhi-9twngwcudad2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
-trojan://x8j4220z-9s0q-ag53-ao5y-oqcp2f01d9r6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hfehpayi-yb1r-5spn-d3qn-1holv5ubd8l3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tp05e2dm-1bq6-p4wy-467f-l9qo8i1qu9dc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Soroush Rasanheh Company Ltd ┇ 81.12.21.147
+trojan://sjh5l9xp-9mrg-th8w-2zad-a6zdwry6e54l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
+trojan://eelfe419-8usy-48ab-hw60-uhoa2i3ka8sv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ldh0m8dd-r71y-x1os-eb5m-2xufaoh14a4v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y7bky96e-xbui-5txn-mxny-hqgfew55qf2a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b7bfcc59-1e56-41a9-b600-be0099f194db@185.60.136.74:8008?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Soroush Rasanheh Company Ltd ┇ 185.60.136.74
-trojan://56nwxr0g-sbog-v6vl-1lp5-pswbi47tuwqy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Soroush Rasanheh Company Ltd ┇ 81.12.21.147
+trojan://fhu26m05-vq93-r11k-v7wc-awbg6l1mqchc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://kbx2h5xg-bqxh-nwbz-u33f-4ywlxi06kg48@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
-trojan://xp884s6a-27kn-rujf-akzf-jqnmvluh2t80@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vq33snss-jm6d-20vs-fuyt-8aq4ky9n4em8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bfswbf2r-8qdt-33ws-lkjz-w5ulzmvllmnx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://88jgyr5h-i47p-nmdc-xxbn-1g36nrc7c7er@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
+trojan://d1iure38-skqs-u1yi-nkp7-yxqfsknemymc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i6p7tbdx-49wn-ver9-231b-l5ys7siw9bed@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sppsfnam-2g1h-lj6a-ov3e-szbp6ftyq82d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?type=tcp&security=none&path=Telegram🇮🇷#FI 🇫🇮 ┇ VLESS-TCP-NTLS - I-servers Ltd ┇ 185.188.181.214
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?type=ws&security=tls&path=/blue&sni=lp.kpcloud.eu.org#FI 🇫🇮 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 194.67.200.82
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSS1zZXJ2ZXJzIEx0ZCBcdTI1MDcgNDUuMTMzLjI0Ny4yMTciLCJhZGQiOiI0NS4xMzMuMjQ3LjIxNyIsInBvcnQiOjIwODIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvSm52OFZpWk9VVmdpampPaDBwNXVHakhuWElpWSJ9
@@ -14,4 +14,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?type=ws&securit
 vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.232:2053?type=grpc&security=tls&sni=online.alphav.top#RU 🇷🇺 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.133.247.232
 vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.237:2053?type=grpc&security=tls&sni=online.alphav.top#RU 🇷🇺 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.133.247.237
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.14:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.14
-trojan://l3ajbpkd-bdvn-ovuy-n99e-af5jjgvt0uw9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ulxqkywa-992m-xtwa-3xos-fhn1zf58ato5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

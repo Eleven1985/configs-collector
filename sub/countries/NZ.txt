@@ -1,7 +1,7 @@
-trojan://9leq97en-9inj-l7jg-ywzo-pu368sab1jaw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:03 ]
-trojan://chw7zac2-4j7q-7tee-259h-hicnl3bfp2qv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1g8z1ac3-4qmz-xx96-uajs-bszy45qqigb7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6j7cujja-6cba-3xgi-uf6s-r1ubmwkyny2e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bx5d36ba-9lit-vdie-15wh-zpkukei3bsat@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
+trojan://0v5uks5r-ac7u-6reg-x1rw-v24jvpgfg6pb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://y6vs0kyc-uhmx-40uh-m7ab-uwhgcp743hd1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nl8cbpht-nbxr-3fsf-x1oi-lbygucw1dsbp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTlogXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxMDQuMjguNS4xNzYiLCJhZGQiOiIxMDQuMjguNS4xNzYiLCJwb3J0Ijo0NDMsImlkIjoiMzdlMzI3NGUtMWZjOC00ODc5LWFjMjQtMGZhMjU2OTUyYTVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@114.129.43.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.77
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@114.129.43.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.247
@@ -13,7 +13,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.213:8880?type=ws&securit
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@114.129.43.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.168
-vmess://eyJ2IjoiMiIsInBzIjoiTlogXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMTcyLjIwNC44LjEwIiwiYWRkIjoiMTcyLjIwNC44LjEwIiwicG9ydCI6NTUwLCJpZCI6IjgxYmJjYTcwLWEzNWYtNDg3ZS04OGE0LThiZDU4NTZiMTBhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiTlogXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMTcyLjIwNC44LjEwIiwiYWRkIjoiMTcyLjIwNC44LjEwIiwicG9ydCI6NTUwLCJpZCI6IjgxYmJjYTcwLWEzNWYtNDg3ZS04OGE0LThiZDU4NTZiMTBhNSIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6InRjcCJ9
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#NZ 🇳🇿 ┇ TROJAN-TCP-TLS - Ministry of Education ┇ 202.37.33.80
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#NZ 🇳🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.140.38
-trojan://sxd576wj-4o6x-hxe1-alzp-zwjldo1qjmm8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://bqjpokjz-verm-m8hk-wbo7-qsb88qv9j57i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
