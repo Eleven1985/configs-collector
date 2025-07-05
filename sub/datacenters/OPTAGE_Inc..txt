@@ -1,10 +1,10 @@
-trojan://90uxv6ch-u7y1-qh5n-5ytj-aamzxan9c81o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
-trojan://rnktg3xz-6ej2-s029-clw5-gsdhawq8veqw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bmn7pxe0-8ojx-85xq-8bmz-k5zscfkfua1p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jdwu45iz-yhoi-481e-0089-257lyn23d3ja@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t3p914fp-5pbp-xqy2-87ne-ihgwvcg099i2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
+trojan://jb6tqu7r-4kxa-0c6m-k9qx-ind36zd7fvri@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8b1y34ne-tw76-io0v-mw3s-3s0og6e6j7af@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://de83stl6-p9y2-2hya-fj2p-jkclzawpks1o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?sni=tk15.1coinvp.vip&peer=tk15.1coinvp.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - OPTAGE Inc. ┇ 150.66.13.75
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.85.55.59:19842?type=ws&security=tls&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.85.55.59
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.85.55.59:19842?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - OPTAGE Inc. ┇ 121.85.55.59
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.80.244.179:12333?type=ws&security=tls&path=/?ed=2560&sni=vs.ylka.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.80.244.179
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@150.66.0.85:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 150.66.0.85
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.87.0.21:11588?type=ws&security=tls&path=/telegram🇨🇳 @pgkj666 /?ed&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.87.0.21
-trojan://t9d6u0ui-ns85-hodl-5bma-p9k1kvoqodxs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nkenxjaa-uwap-dn4w-zuzl-1bgosnrqdpgd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

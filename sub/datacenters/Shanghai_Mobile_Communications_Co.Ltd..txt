@@ -1,14 +1,14 @@
-trojan://bt4i9qk5-xif5-xzr0-l6ij-gzttdt37upjl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
-trojan://vpjzd8aq-znuo-951k-jsxm-ud6n3khfd90x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0xkbpts4-n7v2-qb7y-ubcs-jcik44j1dgn5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hcj9o45e-z006-9b04-fjpn-okr1ttf9l2i4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n41841t2-iqrm-c99x-ngg3-zezk9d19hx4e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
+trojan://c4bsxaga-z6u1-1ji5-xnpr-mjshftutjdqk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9rvayexc-cil8-cd70-wtbd-v79tp8fionzk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1al9w42i-t55t-veap-pee7-cjii90u980sl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@a1.1tsm-sab2qkybzqc4ujzufu5yqppaomvbqfmrjunx7dmbde1ktmr.cv:50008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 120.253.251.8
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.161.141:20406#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.161.141
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.160.36:30232#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.160.36
-ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@a1.1tsm-sab2qkybzqc4ujzufu5yqppaomvbqfmrjunx7dmbde1ktmr.cv:50008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 120.253.251.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjFkZTdkYi01YWRhLTRiMzYtOTAzYy0wYWQ2YmEyNWQ3NWE@8980k6.ceova9qgbqsqmfdy-jp01.my777999.top:38999#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 120.253.251.20
 ss://YWVzLTEyOC1nY206Q3JlYW1EYXRh@4be755.ffeexd.xyz:27230#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.143.14.142
 trojan://8756c191-5d84-3bdb-9fe1-f048b72e8614@big-users.c.cdn08.tomatooo.xyz:39502?sni=us.v.3-01.0.totc.top&peer=us.v.3-01.0.totc.top&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.135.31.7
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjE5NCIsImFkZCI6IjEyMC4yNTMuMjQyLjE5NCIsInBvcnQiOjM1MjE0LCJpZCI6IjQ2YTUzOWQyLWQzYmEtNGE2ZS1hZWRiLWI3MjdkMmZjNjBmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianA0LmcyLm1vb25iYXNlLmxpZmUiLCJwYXRoIjoiL2hvbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqcDQuZzIubW9vbmJhc2UubGlmZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjE5NCIsImFkZCI6IjEyMC4yNTMuMjQyLjE5NCIsInBvcnQiOjM1MjQ0LCJpZCI6IjQ2YTUzOWQyLWQzYmEtNGE2ZS1hZWRiLWI3MjdkMmZjNjBmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianA0LnZpcDIuZzIubW9vbmJhc2UubGlmZSIsInBhdGgiOiIvaG9tZSIsInRscyI6InRscyIsInNuaSI6ImpwNC52aXAyLmcyLm1vb25iYXNlLmxpZmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNoYW5naGFpIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBDby4sTHRkLiBcdTI1MDcgMTE3LjEzNS4zMS4xNyIsImFkZCI6IjEyLndvZ2cxLnRvcCIsInBvcnQiOjExMjEyLCJpZCI6IjcyMzRhYzE4LWM2MWQtM2Q2MC1hODY2LTA1N2FmMTA2NjIwYyIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hhbmdoYWkgTW9iaWxlIENvbW11bmljYXRpb25zIENvLixMdGQuIFx1MjUwNyAxMjAuMjUzLjI0MC4yMjkiLCJhZGQiOiIxMjAuMjUzLjI0MC4yMjkiLCJwb3J0Ijo4MCwiaWQiOiJiZGYzNDUxNS1iOTA5LTRhOTItYWQxNi05MGM5NmYyYWVhNTYiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://1lwavros-8foi-64mn-0yo3-me9b2j57oia9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zfmsjsk7-50hv-s78w-11sl-t7r3o0r0hyz8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

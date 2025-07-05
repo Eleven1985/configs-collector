@@ -1,13 +1,13 @@
-trojan://e8c3nmzj-23vt-874h-se4y-dc02ezoxsmsp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
-trojan://whqa25yt-o1e7-73au-ae7t-vbq9bedap3wj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o86q692j-jzfp-uott-139h-ihz6a8qtfgxw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c0dxy1at-rard-5ax8-r9vb-bwiejritcayx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://83z5rydy-m178-42a8-ot67-yf5l7hi98gwy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
+trojan://eb4ahueq-jab3-jvm1-l7c9-meere9f2mecb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rwzr5w4m-f16m-hz7h-rnak-mzjgntrlz545@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7jp0bxbq-mhgj-k2so-dlrq-b8cqwpn1eg07@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://n5u8K43axK@212.224.107.171:41135?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - firstcolo GmbH ┇ 212.224.107.171
 trojan://56733cf9f08d43d9@159.100.30.64:9100?sni=fr1.arashmahash.xyz&peer=fr1.arashmahash.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - firstcolo GmbH ┇ 159.100.30.64
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZmlyc3Rjb2xvIEdtYkggXHUyNTA3IDc5LjEzMy40MS4xNzUiLCJhZGQiOiI3OS4xMzMuNDEuMTc1IiwicG9ydCI6NDQzLCJpZCI6IjliNmY3ZGE4LTY2MzgtNDE0Yy1mNWMxLTc4ZDI0NWU5YWUzMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://fa1ab865-cd2d-4c59-bfbf-a9958df88e1f@84.201.20.221:80?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.201.20.221
 vless://f9bc4b4f-6cc4-41ee-bcfe-1fe6e3376dcd@fergalvpnmod.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.205.185
-vless://808cb101-6dc8-933c-49cc-bc9d91f75c0b@79.133.46.223:7070?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=ubz7iJHjM9JSh8h0-SgPCgMfJejpu-CpmV0ZQYQhjXU#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 79.133.46.223
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@31.172.80.143:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 31.172.80.143
+vless://808cb101-6dc8-933c-49cc-bc9d91f75c0b@79.133.46.223:7070?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=ubz7iJHjM9JSh8h0-SgPCgMfJejpu-CpmV0ZQYQhjXU#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 79.133.46.223
 vless://b%61f307cd-8%6104-4189-9878-3%61750%61b8195b@84.201.20.248:45868?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=Xf_flAxrxjR_kM0e6StsmGy3h5a-PDoYvYJrfP4KUTQ&sid=7f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 84.201.20.248
-trojan://561xslui-clhh-d2l2-3hnv-n8reivgyhcxo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nio6svqx-12qi-3jr2-bael-02i6j0a3vojz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

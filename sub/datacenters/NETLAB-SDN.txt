@@ -1,14 +1,16 @@
-trojan://1hdusmvp-xpaf-9xov-o297-2okxwfxnryyy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 06:57 ]
-trojan://232yhdse-olvm-l64t-vfof-06a2qac7jns4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7cif6tp9-p7mo-e7vp-hyrx-avq1cwdtlynd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6p2wibkv-w4ch-7144-4de5-sntlnmhrwm2b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2j2vww7n-wazo-hspm-td8k-4lslgwi8af4k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 07:39 ]
+trojan://3jdfwirh-fbql-x3aw-ih68-981npglbwq5n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lsysth3e-xonz-6lio-0dk2-qvksmk0u75jk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o5vglh0d-v8dp-2ft5-9n0y-iiubvp22ppwk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13655?sni=tw.lihua.click&peer=tw.lihua.click&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.64.246.217
 trojan://Aimer@38.22.88.199:18026?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 38.22.88.199
 vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589?type=tcp&security=reality&sni=www.cisco.com&fp=chrome&flow=xtls-rprx-vision&pbk=g_56k7ui9UrIxf6FL4bc5JJ4tYQ0wwENzddsybcRNHo&sid=11aa857ce52a1392#HK 🇭🇰 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 38.246.249.90
 ss://YWVzLTI1Ni1nY206QUdPYjJERmVWSA@154.37.152.52:13167#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NETLAB-SDN ┇ 154.37.152.52
 ss://YWVzLTI1Ni1nY206TTlGTXF2ajV1Mg@154.37.152.85:26587#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NETLAB-SDN ┇ 154.37.152.85
-trojan://Aimer@154.9.249.242:443?sni=agepu.ambercc.filegear-sg.me&peer=agepu.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.9.249.242
+trojan://Aimer@154.9.241.153:38978?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.9.241.153
+trojan://Aimer@154.64.224.46:2181?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.64.224.46
 trojan://Aimer@154.29.150.2:8080?sni=agepl.ambercc.filegear-sg.me&peer=agepl.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.29.150.2
+trojan://Aimer@154.9.249.242:443?sni=agepu.ambercc.filegear-sg.me&peer=agepu.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.9.249.242
 trojan://Aimer@154.9.241.61:587?sni=agepu.ambercc.filegear-sg.me&peer=agepu.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 154.9.241.61
 trojan://Aimer@38.47.117.85:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 38.47.117.85
 trojan://Aimer@108.165.40.180:41396?sni=agepu.ambercc.filegear-sg.me&peer=agepu.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETLAB-SDN ┇ 108.165.40.180
@@ -29,7 +31,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUTEFCLVNETiBcdTI1MDcgMTU0LjQwLjUwLjIyNCIsImFkZCI6IjE1NC40MC41MC4yMjQiLCJwb3J0Ijo4MCwiaWQiOiI4NzhkMzAzZi1hMWZiLTRiMDUtYTNmZC0yOTJmNWZmZTkxMTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUTEFCLVNETiBcdTI1MDcgODkuMjEzLjE4NC4yMDEiLCJhZGQiOiI4OS4yMTMuMTg0LjIwMSIsInBvcnQiOjEyMzIxLCJpZCI6IjVhNTgwMDI2LTM1ZWItNDY3Ni1iNjM2LWY5ZTQ5OTA2ODY0MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL1x1NTE0ZFx1OGQzOVZQTlx1NTIwNlx1NGVhYlx1ODI4Mlx1NzBiOVRHQFdTQlZQTlx1NTAxMlx1NTM1Nlx1NmI3Ylx1NTk4OCJ9
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@154.40.46.28:46757?type=ws&security=none&sni=nn.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - NETLAB-SDN ┇ 154.40.46.28
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.9.241.153:37160?type=ws&security=tls&path=/?ed=2560&sni=edcce.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.9.241.153
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.238.55:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.64.238.55
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.232.184:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.64.232.184
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.228.48:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.64.228.48
@@ -44,4 +45,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.40.57.223:587?type=ws&security=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.228.166:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.64.228.166
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.9.224.214:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - NETLAB-SDN ┇ 154.9.224.214
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@154.9.224.58:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 154.9.224.58
-trojan://ebe55wa1-6aj4-tx05-uv60-yls2vzrdtjsx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ljoyu1w8-lrrx-d2vo-jw45-47rupssvirq8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
