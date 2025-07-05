@@ -1,7 +1,7 @@
-trojan://ky4zu9fc-zynh-zwur-u18r-pkiz3xheiyrm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://87akovgt-m31n-poav-nt0w-7of8pd1m8qto@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8clkppr5-akkt-7bs2-070h-3952a9ucllk2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g8tgwu3w-w6jw-lzpv-q64r-kfkaajgj65zu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zr2to8kt-6qe3-kg8b-023j-i3ggnhx8dgsk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://y8ati2p7-gfcn-u3gb-essy-3yl5qqio9esc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0im61l9e-rgfb-wmiv-ih57-ncyplr3b2vsy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p2oalgh2-56oy-7773-b8y1-jkg37nvxjuyp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuMTQiLCJhZGQiOiJmMi5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiYTJjZDNmZDgtMjdjOS00MzdjLWI2YzItYjc2YzhkZmI5YTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuODUiLCJhZGQiOiJlNC5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiZTY4ODI5OWQtNmU2Zi00YzNkLTkzZjMtYWRjZTczYTliMTlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuMjUiLCJhZGQiOiJqMS5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiYTJjZDNmZDgtMjdjOS00MzdjLWI2YzItYjc2YzhkZmI5YTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -16,4 +16,4 @@ vless://df5f5dda-9de0-4aa0-badf-76f1bd9e874c@109.94.165.161:11000?type=ws&securi
 vless://eee3b929-36e5-4310-b58d-fe3adf220a8e@212.16.71.52:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=chSuyh4OP5_VINPk7vWZnJ3X2f9DjGcR0mu8gIm_aF8&sid=bbe53393d02629b8#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.52
 vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@212.16.71.109:8443?type=tcp&security=reality&sni=api.gamingserverstream.ir&fp=firefox&flow=xtls-rprx-vision&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&sid=711bc39b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.109
 vless://273b52c3-c9af-44a4-aaf5-d019fd07c001@ca.loyal-shop.ir:1006?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=72lC7QhlNZYX5iKI3AvigYH7K8aWudfi6YNKykoLe10#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.23
-trojan://52fh7atk-y0xd-5m9j-ewci-324hxagur8wp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ajygj6ut-8cyi-qcbl-9wby-wevi0ctw4vie@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

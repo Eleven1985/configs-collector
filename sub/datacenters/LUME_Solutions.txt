@@ -1,8 +1,8 @@
-trojan://p2z8z8xx-n70v-147r-e9bg-faokvg5x6bfi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://ymvxb2ot-qnvd-3vp2-pwt8-cegtcpx77gjj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g2kkezz7-1tle-cwsu-mejs-h9vk87qgcr6f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e8acsrui-qg25-dw0q-vnhx-rb7xddv0y5ja@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tzgb1b97-47lj-o7hs-y1hm-h7w01qcm4rpm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://s3fyne2g-kko3-10ns-53qn-jrd7mvwhu40d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gjgq61ov-m5gv-j01o-xeo4-b8wk1dyiq2wt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m4k7less-iqj1-mf2u-dt4l-6q5245xutmf9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.25.236
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.35.100
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
-trojan://agydu5k1-f5dv-aqti-okkn-iul6xtbm4lun@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://sywc5pjm-k5py-b55n-ttoc-5de1ra0t7ig5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

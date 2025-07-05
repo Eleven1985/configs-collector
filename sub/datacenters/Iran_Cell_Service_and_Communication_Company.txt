@@ -1,7 +1,7 @@
-trojan://s44cp6ya-97uv-x24t-8ij7-xosvjqvzgrcd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://0okpau3m-v40t-8141-cprq-5alxzrfc2tnb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gvhvjvqt-4lf0-7gv1-95rh-97vob4aat2ns@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dch3mxe2-85fm-erh5-zs71-s1k92d7ybbtt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mzm5906b-4yep-xzsc-3s5p-k0szk4mjsd8e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://dqlm8plh-lb5v-kgfx-c60w-myvqhh304mmk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://309a49t9-i83o-i3ju-l2px-ahzacht79oa8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://utapngnj-5pqm-oag9-cvj1-me0szfp3rria@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gQ2VsbCBTZXJ2aWNlIGFuZCBDb21tdW5pY2F0aW9uIENvbXBhbnkgXHUyNTA3IDIuMTQ0LjIuNzgiLCJhZGQiOiIyLjE0NC4yLjc4IiwicG9ydCI6MTc1NjQsImlkIjoiYWE3ZGQ5NmIwYTdkODFkYjJlNzE1NTNhYmUxOTI2MjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gQ2VsbCBTZXJ2aWNlIGFuZCBDb21tdW5pY2F0aW9uIENvbXBhbnkgXHUyNTA3IDIuMTQ0LjcuMjAyIiwiYWRkIjoiMi4xNDQuNy4yMDIiLCJwb3J0Ijo0NTc4OSwiaWQiOiIzNTY2ODA3YS1hOWJhLTQ0YzktYjNjNi0xMDQ5Y2NkN2UwYWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://21e0c990-ef9e-46b6-98e0-693a52115491@2.144.4.48:1042?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.48
@@ -21,4 +21,4 @@ vless://8ce3a62a-e0ef-478f-b762-fe035be95377@2.144.4.68:80?type=ws&security=none
 vless://3680381c-d5e6-43e3-a3f6-4626df0a4c36@2.144.6.206:2001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.206
 vless://a985dc37-e4f5-4d57-ac81-2087bf2fafae@2.144.6.217:6666?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.217
 vless://efd27b02-358a-4c5f-866e-180f9b762706@gigaportal.pl.gigaportal.pl:80?type=xhttp&security=none&path=/?ed=399/?bgbg#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Iran Cell Service and Communication Company ┇ 5.127.83.127
-trojan://3ix7nfig-veyo-3xnk-260i-5dkwop2iywlf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://sxaupe7w-fa4t-lc0y-d4gm-2h65egxqrjr7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

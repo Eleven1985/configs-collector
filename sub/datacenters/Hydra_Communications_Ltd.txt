@@ -1,9 +1,9 @@
-trojan://jupjj9fp-rzn7-75qv-o1iq-ydb6xtkrmd6d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://lt3i0god-ycim-91np-dgxs-qxlk1xi32otl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tp4teb9i-9rhd-l4q0-vz6t-00oescv5rcux@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sua0swsi-bual-xr32-ofwg-c86pk9blcp5v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.115
+trojan://pgawuv8s-pbr6-k7vw-yxlr-jeo0hykw2it7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://sjaapo8m-5ji4-8myt-l86m-u7sr58u9mtj4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qguc8hlv-22q8-6lbe-ugwf-3gisijevajjr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nzxgda0u-0unu-idww-xaev-f5ljexr6fnnq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@185.125.207.201:44539#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.125.207.201
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.115
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YUdjME9TUlhTRGc1TkRObk13@185.134.22.24:18760#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.24
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YUdjME9TUlhTRGc1TkRObk13@185.134.22.25:18760#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.25
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Hydra Communications Ltd ┇ 185.44.76.188
@@ -12,4 +12,4 @@ trojan://shefelnak@185.16.206.212:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TL
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@81.19.208.107:50168#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 81.19.208.107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@178.239.173.23:18760#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 178.239.173.23
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSHlkcmEgQ29tbXVuaWNhdGlvbnMgTHRkIFx1MjUwNyAxODUuMjIzLjIzNS4yOSIsImFkZCI6IjE4NS4yMjMuMjM1LjI5IiwicG9ydCI6NTU4NzIsImlkIjoiYWJmMjk4NDgtNmZmOC00YTYwLWFiZTEtNmUyMjY2MTc0ZGZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://02tcv9h6-dfm7-lwdd-bnif-x1hvnskm4165@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tc67ms7g-6ent-vh2c-zxhx-sswp17qpgfn1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

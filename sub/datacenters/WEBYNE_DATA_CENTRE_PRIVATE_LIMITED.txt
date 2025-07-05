@@ -1,7 +1,7 @@
-trojan://2muw4uns-mob7-uckw-h7wl-dhjj92a94hnb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://41eg0qj8-guoc-zqp7-jeu4-krx4xxw4hyk9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h1gn0o2k-fre6-1rb6-7u45-oorv868goyag@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fxpknmt1-zpgq-ftti-lulw-rll74zuuqk89@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i5zxn14p-1z6k-i8ih-hu39-lmtpvfmu7kjm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://ynyl9f9x-ojh2-314f-1i2p-3wpw7tkgi0bo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wjgzpxj1-1ix8-tpqk-hr79-3mkvwpu0binb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://48phs4hi-8u8p-q1kb-isby-ejqkjrivk6v5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L2JyaHVreWlFcXZXeTRUenN1UXRiaSt5ajFyQ3VCRzBpTEJhMWcwNFF2Zz06U0ZWYlJUaFhPZjZtT1R4eW1HempxZkNSNnFOWjhFWUFENEQ5SzA3SE5maz0@103.180.236.42:20535#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - WEBYNE DATA CENTRE PRIVATE LIMITED ┇ 103.180.236.42
 vless://55193d81-c11e-4af9-9215-c529175e3ef9@103.180.213.53:8443?type=ws&security=tls&path=/tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com?ed=2048&sni=api.lunarmc.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - WEBYNE DATA CENTRE PRIVATE LIMITED ┇ 103.180.213.53
-trojan://1w9m9cl6-wt1t-skhn-noj5-fux72bb4kwbr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://llx10opk-notb-2b1z-6zms-hu8t2khtir12@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

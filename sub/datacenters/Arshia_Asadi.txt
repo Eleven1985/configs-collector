@@ -1,7 +1,7 @@
-trojan://c2f5mj7v-b7fu-9uqc-ac1j-btq1fdcxncwl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://4ddby5ev-2csx-z1q3-azy5-5ghy1o7b578d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cgwa1hsn-3fqj-zy2l-zgw7-avy1b2wag52u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tiil0v1e-1v5r-fazi-h9uv-5gn49utw9xxz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i6ajyqhb-bopl-709l-sjuo-1fnhu8p2cbod@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://wfbbspgy-350o-fto6-rvok-4cc9h05jscqj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6cl8x2jh-65j4-9dbh-a0li-awmxwtwhd747@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0quhgg5t-c92b-209h-6j0r-iq9qx91unrsb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://71a3cd5b-90cf-4fea-b286-e011b31438cf@lovefishingfishes.kuckenpq.ir:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.31
 vless://41ccc2f6-e4ed-48b6-bb9f-bce8cbfc4f0d@asanaf.ir:48624?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arshia Asadi ┇ 45.135.195.227
@@ -9,11 +9,11 @@ vless://9e284c20-d147-48f4-a4cd-dd72903d7407@tst.cyberteamapi.com:443?type=tcp&s
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyc2hpYSBBc2FkaSBcdTI1MDcgNDUuMTU5LjE0OC42NiIsImFkZCI6IjQ1LjE1OS4xNDguNjYiLCJwb3J0IjozMDMwLCJpZCI6IjE3NjRkYmU4LWI2NWItNGYyMC1iYzA1LTUyMzc0MjlkM2IzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyc2hpYSBBc2FkaSBcdTI1MDcgNDUuMTU5LjE0OC4xMTMiLCJhZGQiOiI0NS4xNTkuMTQ4LjExMyIsInBvcnQiOjQyNTYyLCJpZCI6ImY4ZjkxNmM5LWYxMWYtNDc2NC04YmY5LWJmNTJjYmExNDFmNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.76
-vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
-vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.153
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.48:4243?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.48
+vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.153
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?type=ws&security=none&path=/path#IR 🇮🇷 ┇ VLESS-WS-NTLS - Arshia Asadi ┇ 45.159.148.180
+vless://15cae74e-0103-499a-9ce5-6ecd63e846c3@xpanel-ir.panelfreedom.com:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
 vless://41cab7f4-a25d-467f-4830-b4cc805aa68f@45.159.148.122:2030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.122
 vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.152:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.152
 vless://8daf992d-bb72-42db-ba48-7fb1f7605822@45.159.148.111:42535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.111
@@ -26,4 +26,4 @@ vless://7c1438c0-f28b-4fdf-821e-558931edac3e@45.159.148.165:4555?type=tcp&securi
 vless://5fbe83c8-8211-4a99-b0a1-653ad9930549@45.159.148.196:1106?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.196
 vless://05f55d35-b6fb-4db5-afad-f6ddcf0b095f@syntax.leaksfa.com:3547?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.205
 vless://e20c0278-5cf2-4657-8ea2-f4f0033f82ef@45.159.148.54:10597?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.54
-trojan://ml7novi0-t7tc-lho7-0q6i-hxigc6m0yvcf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://4je1sqo2-khnl-7lvz-9riu-26a1htl3578d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

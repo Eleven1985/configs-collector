@@ -1,7 +1,7 @@
-trojan://faxbu9re-0bhs-112f-r15q-uhdl16v135h8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://bak3kpcq-eall-m4k2-u4z2-3eu0069w47la@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mnknhdka-09pa-w7rg-tnbn-clwvk4dab8on@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z372dffy-45t6-ccnj-c62m-p1x8yrkawzxc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yl94t6k8-1qrh-miw7-092o-sh8xy4c7o4vc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://c2zyfw0j-r352-5ek8-vwps-vwhvd2fm7v3u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mpxez5xm-47s1-9p2a-3bys-s8xnn8m9davh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3ntgbp14-gp87-h1gc-n7m9-4cpgpecjr3b1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.10.241
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.210.242:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.210.242
 vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.181.43
@@ -11,7 +11,7 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@47.254.232.109:443?type=ws&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjM0MmExNTQzMmMyNWIz@115.164.114.21:11201#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - DiGi Telecommunications Sdn. Bhd. ┇ 115.164.114.21
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRXZveHQgRW50ZXJwcmlzZSBcdTI1MDcgMTY2Ljg4LjM1LjM2IiwiYWRkIjoiMTY2Ljg4LjM1LjM2IiwicG9ydCI6NDA5NjksImlkIjoiYjIxMmExYzUtMGE1OS00YjA4LWZlYjMtOTE4ZmU4NzM3YzA0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@ml.fastsoonlink.com:40006#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - GB Network Solutions Sdn. Bhd. ┇ 103.198.26.99
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.243.215.17:989#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 103.243.215.17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 103.243.215.17
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 202.59.10.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NEdVRDI4Qnc5dUNNZGJjMnBxQQ@223.25.246.4:8389#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 223.25.246.4
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBHaWdhYml0IEhvc3RpbmcgU2RuIEJoZCBcdTI1MDcgMTIzLjI1My4zMi41MCIsImFkZCI6IjEyMy4yNTMuMzIuNTAiLCJwb3J0IjozMTM3MiwiaWQiOiI2NzhkMGQ3ZC1jNjUxLTRhZTEtY2VkMS0zMjA3ODM1NjU3NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoidm1lc3MiLCJ0bHMiOiJmYWxzZSJ9
@@ -27,4 +27,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNoaW5qaXJ1IFRlY2hub2xvZ3kgU2RuIEJoZCBcdTI1MDcgMTAxLjk5LjkxLjIzNCIsImFkZCI6IjEwMS45OS45MS4yMzQiLCJwb3J0IjozNjcwMCwiaWQiOiIxMjdmZjQzYy0xODUxLTRiMmQtYmE4Yy02YWZiYTIxZWMwNGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UUlVFIC0gU2hpbmppcnUgVGVjaG5vbG9neSBTZG4gQmhkIFx1MjUwNyAxMjQuMjE3LjIyNS4xODQiLCJhZGQiOiIxMjQuMjE3LjIyNS4xODQiLCJwb3J0Ijo0NDMsImlkIjoiYWMyMmM5MjctZjhjMS00M2I0LTg4ZGItNjBlYzdhYmJmNTlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MtdGxzIiwidGxzIjoidHJ1ZSJ9
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - TechAvenue Malaysia ┇ 202.43.102.57
-trojan://swfwtlt0-f288-xxj9-ipbf-2j1hiqbxkf77@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://of9i6wdf-61we-8ci9-de84-336lkc13pag4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

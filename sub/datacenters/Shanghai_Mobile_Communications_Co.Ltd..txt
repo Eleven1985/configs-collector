@@ -1,7 +1,7 @@
-trojan://4joke2ec-y90v-2x19-2nem-5hl3nl9yhkrj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://wa3iqh0i-x966-yvfw-io9n-5966g6zdlnw6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b4za6ubn-rejx-daz5-ycsa-bn673uyzbl8o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l447sm8j-ct06-d160-teri-nzcozvy40z0l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hxncaqsi-qfe0-hewg-emtx-cz2n1b715y34@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://ks0303kf-78c6-shtu-vmz3-ve3yd541usv0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1da50ey7-0e7y-nhrf-zkdl-bndcta5liu50@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6ign7inr-3sp4-w2d2-gc9m-kainiqqytvv6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.161.141:20406#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.161.141
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.160.36:30232#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.160.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y@hkg-02.douyucdn.top:28522#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 120.253.251.22
@@ -10,4 +10,4 @@ trojan://8756c191-5d84-3bdb-9fe1-f048b72e8614@big-users.c.cdn08.tomatooo.xyz:395
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjE5NCIsImFkZCI6IjEyMC4yNTMuMjQyLjE5NCIsInBvcnQiOjM1MjE0LCJpZCI6IjQ2YTUzOWQyLWQzYmEtNGE2ZS1hZWRiLWI3MjdkMmZjNjBmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianA0LmcyLm1vb25iYXNlLmxpZmUiLCJwYXRoIjoiL2hvbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqcDQuZzIubW9vbmJhc2UubGlmZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNoYW5naGFpIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBDby4sTHRkLiBcdTI1MDcgMTE3LjEzNS4zMS4xNyIsImFkZCI6IjEyLndvZ2cxLnRvcCIsInBvcnQiOjExMjEyLCJpZCI6IjcyMzRhYzE4LWM2MWQtM2Q2MC1hODY2LTA1N2FmMTA2NjIwYyIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hhbmdoYWkgTW9iaWxlIENvbW11bmljYXRpb25zIENvLixMdGQuIFx1MjUwNyAxMjAuMjUzLjI0MC4yMjkiLCJhZGQiOiIxMjAuMjUzLjI0MC4yMjkiLCJwb3J0Ijo4MCwiaWQiOiJiZGYzNDUxNS1iOTA5LTRhOTItYWQxNi05MGM5NmYyYWVhNTYiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://vt7t25by-k6f0-x9i2-2af6-hx0523rc19p0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://sq7ql6bk-cayt-htcs-6zdm-alzkrsjswf1n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

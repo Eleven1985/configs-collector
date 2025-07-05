@@ -1,7 +1,7 @@
-trojan://01rlrsuo-w4r3-ybmq-y9m6-0jmtadcyj0zu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://ywt2jroc-38fa-4e1z-5o5l-9760cnsuvquh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://62cld5e0-fdy9-rrr8-h2ow-v5z6kjl8hz9e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mk3x695g-v7et-hpg4-8cza-mv0ce4n7tota@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z6svn1ui-n5wo-00s9-8h5b-gvb823jtq1v4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://bpw4x7ki-76yw-lwsb-tfd8-8xnex80g73w1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://23zll1lz-fei9-kted-jwo9-4nnwqqg60p0d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5cyhwny3-4up9-j2uz-zgb7-1y184hk1tasj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
@@ -14,4 +14,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
 vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:80?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
 vless://I_Love__SSHMax_d97dcef@0:0:0:0:0:ffff:59dd:e00b:443?type=grpc&security=tls&sni=zula.ir#IS 🇮🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e00b
-trojan://7b12rr48-b7l9-0hy9-bfad-21ftv4jye8f6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f6w6kvxi-4lu4-0eow-1bxn-1b55l31f2h55@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

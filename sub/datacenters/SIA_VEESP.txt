@@ -1,7 +1,7 @@
-trojan://fv0vc5tx-lv7c-o5tj-8vrg-vmsvpgkmcvvc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://xij0d69b-eu8a-ixdf-67ze-wj4eobltcc9d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kedzghiv-u5ud-1wjk-p7cf-tnxc3mp0tyzx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n43ffqcn-14zi-qgm7-qx47-0iuk0n6xlm6y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1zgq2ycl-prty-aovn-gr6m-zemgbs3eijhd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://s8eb2qgu-3cx0-sep5-h1w8-58t6w0nvi0j9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://37039ou1-x20i-48lm-ekd4-5ml0my9i8qt6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2v640740-i284-zxyb-ixua-ozp3byatmwzp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbzdIN3BmbW1xMG54TVJUU0JZRGo3@5.34.209.50:58919#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 5.34.209.50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 5.34.210.33
@@ -29,4 +29,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZTdUR1VySjRkS3JHUmxvQUw4MTVY@77.73.66.95:32
 trojan://3747000103274291200@77.73.70.64:443?sni=better-crappie.treefrog761.one&peer=better-crappie.treefrog761.one&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 77.73.70.64
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0lBIFZFRVNQIFx1MjUwNyA5NC4yNDIuNTguNTUiLCJhZGQiOiI5NC4yNDIuNTguNTUiLCJwb3J0IjoxNTMsImlkIjoiMjA5YmVjMDUtYTZiZi0zN2UwLWE2YTktOWMzYWI1YzIyMTM0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@94.242.58.133:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#SE 🇸🇪 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 94.242.58.133
-trojan://js5u4v4h-kqqg-l427-adhu-b16giei0kdml@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7m7iticm-ajta-qfet-z288-qy0o7mw77zfu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

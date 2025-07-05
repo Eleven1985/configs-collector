@@ -1,9 +1,9 @@
-trojan://wz6rlwja-sxkb-9gnv-j4m1-91mu550jtkd6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://892yrxko-lcrv-ag9n-bgkl-kcroha86x1x0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://if8m12mr-oi4i-getr-yzdn-ab7rpa22kppc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://le3u5i0y-sa16-iwgu-1hyk-kv8sc4zx5xx8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6brykhc2-7bfz-pkv6-btgu-a0fb0ikp2hki@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://eh14fu8o-02u6-i9yj-bvpb-u9q2gt7e1ykn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6lg5rqve-x3vp-ljbo-b793-92qzytqdpeqw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0j71a1wb-jq4w-ywa6-0vid-hyg8r0eq6g1g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c8c7ad6d-28ee-4c40-a105-9f4fd12ece90@80.76.43.71:2083?type=grpc&security=reality&sni=refersion.com&fp=firefox&pbk=XuRWf9UWZnmsuvgdVG6fKlgQvTkYKSId2VzkkuajoX8&sid=35e815811d3fc0#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Spacecore Solution Ltd ┇ 80.76.43.71
 vless://add3d528-daf0-44e0-b981-e64e32417605@80.76.43.111:2083?type=grpc&security=reality&sni=refersion.com&fp=randomized&pbk=NPdXEraLlFLxdzT5jT-PMmJyoF85xj6Q5II8VEqbm08&sid=f1ebce9e3cc3a2a4#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Spacecore Solution Ltd ┇ 80.76.43.111
 trojan://dmwC8gBW3d@dirservip.moderplus.com:23183?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Spacecore Solution Ltd ┇ 94.156.117.71
 vless://1f7c1cb7-42f9-4c48-b9ec-19de423b38d4@80.71.227.131:443?type=tcp&security=tls&sni=website.com&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - Spacecore Solution Ltd ┇ 80.71.227.131
-trojan://0ic6pkdb-qbv3-d2m9-brxi-iuxdyi6vyokj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://e7l6vw7g-xx4o-xgyk-yfkx-ae2aff4osod2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

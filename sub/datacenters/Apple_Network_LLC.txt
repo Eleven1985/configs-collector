@@ -1,8 +1,8 @@
-trojan://1u97l396-9lpr-vc97-wcgz-xmuspddqdbv3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://jh05ywrx-tpcz-b86t-rkgr-t9yl1xup1gyy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5p6rt26u-pryx-51ft-2jj2-5u5nx74hx8v4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ocfyw31z-v19o-sely-hgyv-lnm4m45stdak@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23000?sni=73.yuanul.com&peer=73.yuanul.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 62.3.54.31
+trojan://1900ftd0-6sd7-3zvb-s0f4-561buxntm6pi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://4ssbxd9d-jeww-97k3-v9q5-iadz78fwqqp0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yqw51cjg-d7dy-x3b8-otiq-qor4djltpvq6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q9e998y5-dmyt-7cbv-xbsn-yij5ntk13xs7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10107?sni=sni.eos-suzhou-4.cmecloud.cn&peer=sni.eos-suzhou-4.cmecloud.cn&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 62.3.54.31
 trojan://a00330bc-7f67-4bad-a59b-481cd2d67456@141.11.127.26:443?sni=16-163-218-240.nhost.00cdn.com&peer=16-163-218-240.nhost.00cdn.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 141.11.127.26
 trojan://718046d1-acee-48be-b5d3-1bda5eee0139@141.11.127.230:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 141.11.127.230
-trojan://vdw5kdh2-2j20-8ctz-c8in-105j3eb5v4x9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0i35bj7e-vz72-hb1t-5qg4-p9quzupzlcl9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

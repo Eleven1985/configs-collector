@@ -1,7 +1,7 @@
-trojan://gicqkyj4-erdz-0ghk-l5sc-7apbhyz8v14n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://kbm8ceb3-8tb5-vdz8-y63f-ojcgxau1z2g9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://13ya14pz-x6aj-hsxz-r4e7-eipasdnvjh1m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kvabfzf0-mli6-8gn5-3hsc-f7qf6rl11kn8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1hgaubwr-z0sw-te2s-3lwg-6mznkleb3l4n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://4k0qy10a-avvv-u5ef-qwwl-xvexdrpkef91@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6lt8jruk-r5cx-ct7d-vh3o-vpxhprtcowrv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://81fef6ap-ra4o-7u14-kxge-rrrbhmj7va4q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4dc8a288-f838-4b1b-8768-c0b8fe9f45c5@193.228.168.66:41376?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.66
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.246
 vless://6e0aeeb8-1665-4caf-bbae-a8fc2b9287f9@193.228.168.85:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.85
@@ -24,4 +24,4 @@ vless://f2b7bb82-95df-4cbf-a5fa-56526e25a08a@v2fr.imesaagetext.ir:2081?type=tcp&
 vless://355e2377-16b6-4882-9762-2de0d9823521@193.228.169.62:11011?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.62
 vless://8b3f00b3-fd2c-488a-9acc-276ec9838ded@193.228.169.12:19296?type=tcp&security=none&flow=xtls-rprx-vision-udp443#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.12
 vless://7a1a3f11-fa58-44e5-8e65-dd1334927e19@shopplay3.playshoptv.com:42772?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.76
-trojan://r3iv0jhn-lgse-6f6n-1bcs-e2y3bf70k4ns@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://b6i9hgw7-700b-j6iy-ffux-pjoo0r6chd7a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

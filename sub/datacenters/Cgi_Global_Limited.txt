@@ -1,7 +1,7 @@
-trojan://dwrpqo7c-rsxa-l8up-upp8-0etcvzxljn5w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://tyu8e6wv-8zdx-kl2o-lgos-hdxsks4zedau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ur5rkn15-skub-63jp-vgrl-koz6qsrbhlb7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rqiwpuc1-51tc-0tr8-wzua-ojlab9l2d3tu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://95hb7fa7-tyzh-gdfm-hi57-fb9k6imb8gzj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://52meypjd-gzi1-9pwv-hxil-050za5f8n3a2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k69m4n6d-i2ou-mcru-21ob-6u0avv2p49mr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hdmkdmta-qaqb-ntj5-j13l-kg69zcnvltfu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://41543083-fdfc-4951-b2a1-238ea58cdda6@217.60.37.197:12497?type=ws&security=none&path=/@VPNPacket#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 217.60.37.197
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?type=ws&security=none&path=/VPNPacket#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 217.60.36.198
 vless://3027597e-6217-44a7-b16d-5de2acea546c@217.60.37.225:33027?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.37.225
@@ -33,7 +33,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuODkuMjQ0LjQwIiwiYWRkIjoiNDUuODkuMjQ0LjQwIiwicG9ydCI6MTE1NzcsImlkIjoiY2YyNTEzNjQtZTMwMy00YWQzLTkxZTktYjcwOGM1NDE3ZjgzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDQ1Ljg5LjI0NC4xMiIsImFkZCI6IjQ1Ljg5LjI0NC4xMiIsInBvcnQiOjg4ODAsImlkIjoiNmFjYTk4ZTYtOGQyNS00N2ZmLWJkMTktYTBkYTBhNGI1MDI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDYuOC42OS4xNjAiLCJhZGQiOiI0Ni44LjY5LjE2MCIsInBvcnQiOjgwODAsImlkIjoiMzEzOGQwZTItNTBkNC00OTUwLTlkNTAtNWI4MzNlYjIxOGYwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.116.106
+vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:7575?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.116.106
 vless://08b4a82b-fec1-43a5-996b-2e8d8f4521af@dl2.refersion.whitemax.ir:4219?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=BP251BSILx4zMK4iwrBL3GdtaTh9iOvPcwdU8g7TM3E&sid=9eebef#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 46.8.231.195
 vless://e4bcf8af-2ecd-4f07-8ced-eb6d22adbe33@31.15.16.52:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=1EyVdDvZh94NSEQlquNLZgqnGNF0k21zl32OOslghCc&sid=29c9bbce#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 31.15.16.52
 vless://1356026e-51b6-4bc8-9d77-f1d2268f9cf7@45.89.244.55:8443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=C03-K0YaJJY_5sZ3NGQF9w0lhaZGAWLtxmmIXyrBfxY&sid=ba0747#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 45.89.244.55
@@ -48,4 +48,4 @@ vless://498be6d7-9e92-409c-9cf0-2665c6f0507d@home.fama-xmvppices.site:51909?type
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@us.blueberrynetwork.website:777?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 194.113.37.240
 vless://ed4ebd0e-bce1-47d0-9473-366f0706369a@45.156.24.151:2087?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=jTxQOEt_8YXQRC67o0sLlMQK_KOuVCg7tro0M2cUZVQ&sid=64636272#US 🇺🇸 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.156.24.151
 vless://2a788fe0-5da8-4273-dc31-f9fda406d252@45.152.86.95:777?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.152.86.95
-trojan://he0fcvf1-ysf6-jpwo-o5u0-kdpn4n0wrfwn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://aerm64qf-ror4-1cyt-gkoq-i5bq3pz1nnwg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://10zpyhd3-5e1g-6203-nxbv-wi2ur86iq0wu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:02 ]
-trojan://ukh2rfnz-rrl3-217t-wju9-iuotfgl33ur3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dtc6y4tc-lcj2-ggko-vw1n-gvilw5jg8n40@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://weyxu4rr-ki8e-ula6-e284-blijgwhbczen@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ja1vellw-r072-04v1-tp6z-a9bdgfdcea51@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 11:21 ]
+trojan://ukhzcm2f-520o-257g-dzka-o68rhikw7jpu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yrfvlx2j-31ug-9hxp-ufso-5k8u4klbjt3d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8cunesm1-ap10-osif-ngga-wltff3riybcj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
 vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151
 vless://183dcc51-58ab-44b7-a120-c7fb88596a15@193.111.235.247:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.247
@@ -14,4 +14,4 @@ vless://c6f9e7ee-068e-4d2b-acbf-00ae42f6cc24@193.111.235.167:8444?type=grpc&secu
 vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.187:50894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.187
 vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.125:1123?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.125
 vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
-trojan://9bxarczx-cqca-32sf-hs9v-7rz0t9t03ej7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xvyu8xg4-eoof-8ltm-g1zo-o1p2ycy04cow@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
