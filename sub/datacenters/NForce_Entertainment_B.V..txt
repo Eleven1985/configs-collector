@@ -1,30 +1,30 @@
-trojan://30k0xcqk-nz3c-jhub-pnyo-yx20iuv157w5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
-trojan://62mz1hyk-dqw9-59ry-mkaj-h9qr5gom6ta9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://770bhyrc-5e6l-j6lg-ocx8-yyjxy82etj3d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m5iob8dv-386m-417c-4hhv-ozwum1clckfh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9vrhtaai-7585-4r4w-4t4z-exzp7614ay4t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
+trojan://a76e0cq8-f7c8-9swq-5nbq-41z7a6wfvohq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4w51dgfx-v228-g9t7-dq4l-fjylc9d16mnw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v0jnmjns-bb2d-jx85-vien-7eom3lsn776k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 109.201.152.181
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.86:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.86
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.192
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.55
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWNkYWViMy03ZmNlLTQ5YWUtYTEyYy0zODc5ZDljYWI3NTY@free.node.kk-proxy.pro:24960#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 77.247.179.85
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.53
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.52
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.89
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.192
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.195:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.195
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.52
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.55
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.86:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.86
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.54:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.54
-trojan://6aa31a86-e2bd-4ede-b2be-095310b77ad5@microsoft-hk.85413.xyz:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.82
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjE4Ny4zMCIsImFkZCI6IjE0MS4xMS4xODcuMzAiLCJwb3J0Ijo0NTgzNywiaWQiOiI3MTE2YzgxMy1mNjM1LTQ5ZmYtOGQyZi1kZTIyMDA4MDRmZmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjE0MS4xMS4xODcuMzAiLCJwYXRoIjoiLyIsInNuaSI6IjE0MS4xMS4xODcuMzAifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4xODcuMTI5IiwiYWRkIjoiMTQxLjExLjE4Ny4xMjkiLCJwb3J0IjoxNTM4NCwiaWQiOiIwYzI3YjVhNS1iNmYzLTQyMzUtYTU1YS1iODIyYzQ1YmMyZTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgNzcuMjQ3LjE3OS44MyIsImFkZCI6InZpZXRuYW05LmF6enBodWMucHJvIiwicG9ydCI6ODAsImlkIjoiN2JlYTM1YTMtZDI5Yy00YTMzLWI0NzEtMWViNjNiM2VjZjcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGFodXV0dW5nIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjQ1LjExNiIsImFkZCI6IjE0MS4xMS40NS4xMTYiLCJwb3J0Ijo0MzQzMiwiaWQiOiJjNjFiOTllNy1hZjM4LTQwNzQtZmEyNi00Yjk4NGVkYWU0MzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBORm9yY2UgRW50ZXJ0YWlubWVudCBCLlYuIFx1MjUwNyA3Ny4yNDcuMTc5LjgzIiwiYWRkIjoiZ3kwMS5mbHlkb2cucHJvIiwicG9ydCI6MTAwMDAsImlkIjoiYmE1ZjA5MjgtMTRiOS00ZmM4LWEwM2ItYmU2Y2VlNzMwNmI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJmYWxzZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjEwMy4xNjMiLCJhZGQiOiIxNDEuMTEuMTAzLjE2MyIsInBvcnQiOjEwMDQ4LCJpZCI6IjFkNGU5NDZmLTI5Y2MtNDJkNy1iZDdkLWFiYzE1NTMyMjAwNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4xODcuODIiLCJhZGQiOiIxNDEuMTEuMTg3LjgyIiwicG9ydCI6MjU5MDEsImlkIjoiMGZiMjA5MmItNDk4Yy00MzhhLTgxMTctZjJlMzY4ZjU0YzZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5Gb3JjZSBFbnRlcnRhaW5tZW50IEIuVi4gXHUyNTA3IDE0MS4xMS4yNTAuODUiLCJhZGQiOiIxNDEuMTEuMjUwLjg1IiwicG9ydCI6NDMzODcsImlkIjoiN2IzZDgzMzgtZDU2Ni00ZjM3LThlMmUtNWQ1YjE2ZDc4YmExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@181.41.194.136:15734?type=tcp&security=tls&sni=www.tarafdari.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 181.41.194.136
-vless://e5223c33-b104-4f05-a893-9863e5b49592@104.234.46.135:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 104.234.46.135
 vless://bac89fe1-d4da-4a8a-9d53-df4caa0e7319@141.11.21.117:4003?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.21.117
 vless://14f2ab34-a48e-4d99-900c-a24bfa261aa2@141.11.103.212:4001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.103.212
 vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - NForce Entertainment B.V. ┇ 104.234.196.208
 vless://5c94fa63-8762-495a-af4e-ca681f926202@a.mdproxyi.site:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - NForce Entertainment B.V. ┇ 181.41.194.210
+vless://36583778-a75e-4647-9406-09128cf42823@soghandi.mohamad.sbs:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 104.234.46.135
+vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@181.41.194.136:15734?type=tcp&security=tls&sni=www.tarafdari.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 181.41.194.136
 vless://c88af787-6347-4041-97df-acc98f6a6a17@141.11.250.213:45143?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.250.213
 vless://701e3595-6225-42c8-b1ec-d8074f1bd801@sd.sahand.knowledgeispower.com.tr:32387?type=ws&security=tls&path=/&sni=speedtest.com&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - NForce Entertainment B.V. ┇ 154.16.16.171
-trojan://61hqie83-ygqn-hd5q-piv7-k8mltyk87s7b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vxzyfwyl-5mah-bxq5-t159-m5ejn40fhtvn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

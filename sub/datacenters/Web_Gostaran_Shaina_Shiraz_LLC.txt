@@ -1,7 +1,7 @@
-trojan://2dhhpzqa-90s3-v64g-q8m6-6ohinf8wdkgg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
-trojan://qqwtfvur-2l1b-eyyg-43b2-3tsm1vewfawm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u4s61igj-twh7-2giw-4s5m-ma2c80a4yflu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kbklc1qo-noo9-6d2j-84t5-5fzdfrrcs5t2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tz8tqkdi-f2xv-t3qh-gj6i-tna4m6qp7imx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
+trojan://b2u4kuli-9fs7-ge9s-m9zx-jvrs1ix5gk0g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pca65tai-eguj-5914-mg1n-6ug8gn48p1gw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://owuni7p7-a7k2-bp31-5yzm-s3xjwppduac0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBHb3N0YXJhbiBTaGFpbmEgU2hpcmF6IExMQyBcdTI1MDcgODUuMTMzLjIwMC4xMzMiLCJhZGQiOiI4NS4xMzMuMjAwLjEzMyIsInBvcnQiOjIwODYsImlkIjoiNzAyZjEzNzktOWJlMy00Y2ZlLTkyMmItYWVkMTZhZmYzYzJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBHb3N0YXJhbiBTaGFpbmEgU2hpcmF6IExMQyBcdTI1MDcgODUuMTMzLjIwMC40NSIsImFkZCI6Ijg1LjEzMy4yMDAuNDUiLCJwb3J0Ijo4ODgwLCJpZCI6ImU2ZDgwZDlkLTk3YTQtNGI5Ny05MDhlLTI3YTFjZmRmMDQzZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBHb3N0YXJhbiBTaGFpbmEgU2hpcmF6IExMQyBcdTI1MDcgMTk1LjIzNC44MC4xNTciLCJhZGQiOiJuZGUxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiJhMGVhNzkzMy03ZTc2LTcxZTgtNjg1MC0zNzE1ZDdmN2VmN2EiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvZGUxIn0
@@ -14,4 +14,4 @@ vless://f1a495fd-8236-45b7-ae71-4c855ad15367@185.113.10.235:443?type=tcp&securit
 vless://f4b02459-fde7-442a-a285-75ed3c318f76@85.133.200.207:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.207
 vless://23002f00-35b4-4080-bea1-31c03920a9bd@85.133.200.41:6890?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.41
 vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@dondon.misaghreserve.ir:443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&sid=67dcdbd6ed95f729#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.248
-trojan://j7gz62x5-cm77-i73h-zjdh-97uopv2l1yyq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://4yfpa04q-k041-k5ow-hd8p-txgwc7weimnb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,10 +1,10 @@
-trojan://xinkakhq-dy0g-5voi-hyu1-5a4efmvhqc18@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
-trojan://k11sjp7g-ekuv-8y23-ufb2-3jdzw0o72ykb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fzi32om1-eop5-48k7-ln5b-n46inom0u3c2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fik72y5c-6y3a-xclb-eh4i-rvymdn5mjr7b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bo68upll-6uc2-sj4t-jn1v-kmiy72ncex4c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
+trojan://ihnii81s-i88v-r234-oqyk-uosqvcy83ggf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yh40xr8z-o38i-qgqc-qd38-pbw4r1r1fkmf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t94yipo7-uqya-bhj4-56qz-k3bmz57k5h4t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eTZDcU41L2h2Y0xUVmsyTGpxdXFjUHhhZ09HM09vWTd6MmJTOGZDcWd4bz06K25OL3FvVHdHc3creTdmcENkOXpTdnlGZVZPWnhrVWN1bkZZdTRMTUVYRT0@77.93.91.53:31145#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Coaxial Cable LLC ┇ 77.93.91.53
 vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?type=tcp&security=reality&sni=www.iij.ad.jp&fp=chrome&flow=xtls-rprx-vision&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ#SG 🇸🇬 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 92.112.22.115
 vless://c5cd9845-55c5-4c0d-8709-d62211d61536@143.14.220.111:25888?type=tcp&security=tls&path=/&sni=www.samsung.com&fp=qq&flow=xtls-rprx-vision&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&sid=be1be5fc#US 🇺🇸 ┇ VLESS-TCP-TLS - Coaxial Cable LLC ┇ 143.14.220.111
-vless://f5d66941-880c-41f2-8079-4983d518ed44@143.14.220.122:25888?type=tcp&security=reality&path=/&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=zBmyQcuUZiHENPtX8XGvFXuN3UD74o2YQ7WpD-VUARs&sid=8631f9#US 🇺🇸 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 143.14.220.122
 vless://021423af-85fc-4bb6-b32e-deeed97581e1@143.14.220.136:46430?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=kQoMZ1G4jwT9yTlF-NtZwhG22j3NQhzlvGsiiLxrLzI&sid=e27f3a#US 🇺🇸 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 143.14.220.136
-trojan://6tss3kxf-f84s-ykqy-t0vi-uexjhf0jk6b2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://07b53ba1-7123-4319-b7be-4b274ce67150@143.14.220.122:25888?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=zBmyQcuUZiHENPtX8XGvFXuN3UD74o2YQ7WpD-VUARs&sid=8631f9#US 🇺🇸 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 143.14.220.122
+trojan://ba2uo8gy-u4br-3i5r-4m35-hfmefdgkn5bc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://jly4twjm-2vcv-257p-49da-8aw5emkuf3hl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 12:30 ]
-trojan://uoimvtbc-etrb-748p-ehz3-fzcgc08ru6x7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d1x7ng1y-px2z-levb-n7ly-ilj8kt3peahk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7pdbyeyl-1xgn-qqng-nl2s-vmnbqt7djxup@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b7m074ga-xvcg-ywrt-y5th-g2quq5kx8kzr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
+trojan://b43as196-miwo-wd9r-mmmv-70p43ftskygz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qxw3zao2-qw94-k3zz-65di-03n0z1mygwp4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8l5m8jze-zo98-on37-d7w4-pv3ndka1ay3w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@157.254.21.62:20000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 157.254.21.62
 trojan://5c634f9c-3dd4-4d3e-97c2-9db2470cf722@82.152.164.10:34015?sni=jsygouer.weixin-baidu-qq.com&peer=jsygouer.weixin-baidu-qq.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 82.152.164.10
 trojan://fcfe033b-0003-4c58-9d96-c5132353a17a@jp2.e4b593af-e26c-4ff1-9b02-d699594d7bbb.02444020.the-best-airport.com:443?sni=new.download.the-best-airport.com&peer=new.download.the-best-airport.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 23.143.136.73
@@ -14,4 +14,4 @@ ss://YWVzLTEyOC1nY206M2E2OTA3MDktNTAxMS00YTZjLWFiNjItZGEyZmI1MjkxMjMz@38.150.12.
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?sni=38.150.13.140&peer=38.150.13.140&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 38.150.13.140
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSHl0cm9uIE5ldHdvcmsgU2VydmljZXMgTGltaXRlZCBcdTI1MDcgMzguMTUwLjEzLjY0IiwiYWRkIjoiMzguMTUwLjEzLjY0IiwicG9ydCI6ODAsImlkIjoiY2FhOTk1ZWQtODZhOS00OTY4LWEzMzItOWMxMWU3ZTEzMTA3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSHl0cm9uIE5ldHdvcmsgU2VydmljZXMgTGltaXRlZCBcdTI1MDcgMzguMTUwLjEzLjEwNCIsImFkZCI6IjM4LjE1MC4xMy4xMDQiLCJwb3J0Ijo4MCwiaWQiOiI4MjNjMzFkYS03MDFmLTQ4M2QtYjM2ZS04OTZlNWNmMDk4N2EiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9zaGlya2VyIn0
-trojan://ydd6dwbs-2i3b-5m9a-1ezv-muzms0lxx3rx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ghjo6twm-3tt3-jb74-7au2-pzd229svunlr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
