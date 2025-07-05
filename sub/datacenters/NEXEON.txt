@@ -1,10 +1,10 @@
-trojan://dpd9oj2n-jo88-phh0-xzh4-06r5boouu9nu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://5hbojl0t-iib7-vviv-cjat-mdivxlmlaoh4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hsjj75st-yqhb-3dtl-qg2k-ssog7kqax61a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eup77xfz-vsqe-rojf-gond-zhkm6f36gm44@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://79b456ht-pvy1-rime-u3m4-eg4gqq8hztyc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://cg0i38l0-wwny-8yav-y5x0-gw9ob9zt1shp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cl5bvltl-v14j-6kc8-ylaq-9c9eus0vu6ub@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://87c6w191-3jfk-gk5s-adj5-0djbqgwed6cz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 64.44.42.195
 ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05k@172.93.146.210:49126#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 172.93.146.210
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBORVhFT04gXHUyNTA3IDEwNy4xNzUuOTYuNzQiLCJhZGQiOiJueTEuYnVsa2Nhc2gudG9wIiwicG9ydCI6NDE1MDcsImlkIjoiNjk1YWMwYTMtNDA2YS00MWQ3LTgzYzUtNWFmOGMzOWQzYmVjIiwiYWlkIjo1LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVYRU9OIFx1MjUwNyA2NC40NC41Ny4yMTciLCJhZGQiOiI2NC40NC41Ny4yMTciLCJwb3J0Ijo4MCwiaWQiOiIzZGFjYmFhOC03ODRiLTQzMGMtOWMxZS01N2QzMzY0ODk4MWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvZmlsZXN0cmVhbWluZ3NlcnZpY2UvZmlsZXMvMjBmODEzZTItMDM2YS00MmE4LTkyZTItYTNhNTVhMGIyMzliIn0
 vless://0061760a-93aa-4a7d-a6a4-23db73aea99e@p1.3dfigures.ir:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
-trojan://dlrkuzpl-mhym-uge5-d18f-8p1z28tj8en3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rt7dced6-s8rg-clle-ise2-vd8h35vjo2il@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

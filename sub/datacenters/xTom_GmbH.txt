@@ -1,7 +1,7 @@
-trojan://krbfqvzs-rk7s-2v3w-hmtu-o7eis458j7om@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://jiggxai5-he7y-uhe9-fuc8-wntfndvocymx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a707wwsu-ysxe-502c-nwlr-sbaunly9n47g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3ol92cqb-yhbo-vtur-47ai-r6sy859hp9l6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t1f3kdna-uz04-oas9-9rfv-0g97zwd4svwk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://3ix45ytf-piw4-lh03-obzl-5s6oh6lmusgl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u6abtqd3-dz09-w93v-y6hc-i1w7yigooy8k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://66q4pw8x-snkj-tn2w-3sdf-xg6n3qedq5yq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.71:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.71
@@ -14,4 +14,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My4xMC4xMjQiLCJhZGQiOiIxMDQuMTkzLjEwLjEyNCIsInBvcnQiOjgzMDYsImlkIjoiMGNkNjgyMTMtZjYwMy00Mzg5LThkN2QtYjZhZTJkNjk0MDNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjE0OCIsImFkZCI6ImM4N3M1LmphbWphbXMzLm5ldCIsInBvcnQiOjE3MTAyLCJpZCI6IjAyNGU2ZmQ2LWNlZTQtNGYyYS04ZjQ3LTAwZGZmOGMxNDZiZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvbXkwMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjI1MyIsImFkZCI6ImM4MXM1LmpqdmlwOC5jb20iLCJwb3J0IjoxOTE5OCwiaWQiOiJmNmQ2NWM2Yi0wYTEwLTQ4ODctODU0MS1iODZkODVjMzFkMDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://8i9bquph-i4jw-snpd-03en-t8873qbrlfx9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rp568svg-87ik-20a6-yaaq-oyv2k2xg43eq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

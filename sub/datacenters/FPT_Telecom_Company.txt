@@ -1,7 +1,7 @@
-trojan://7t3eept4-99r3-70w2-rbk1-5bsud7exx06w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://cneyctf8-0e9z-gnyk-sknz-l35hzuvmwlxd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://axzxk2rm-qj7r-fvbg-2nry-k5g8o5ie8a9k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://46teaip6-c02v-34dv-qk0e-taohdd7dwtcj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nolcnwma-z3o7-hkr4-3wls-cbz9kmoxqp19@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://bek1r9xg-41dx-0lc2-4wpr-6x269d5oi98g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bnujqrhz-l19e-kmyg-f8x0-wgcn4dtwz6w1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vtf4p31e-x8da-61fe-ejun-13lmsad84r6e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2352.birpagi.cn:2352?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 42.119.22.222
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2357.birpagi.cn:2357?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 42.119.8.13
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2353.birpagi.cn:2353?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 118.68.164.237
@@ -10,4 +10,4 @@ trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2356.birpagi.cn:2356?sni=cdn-de
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2358.birpagi.cn:2358?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 42.119.39.58
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2351.birpagi.cn:2351?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 1.55.123.80
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy2354.birpagi.cn:2354?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - FPT Telecom Company ┇ 42.119.215.48
-trojan://mdr7wjem-or33-wmt9-li57-8b0epspq4rf2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://c1krl0jf-7gxx-dohf-3opc-328n4vph7htx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://cx94ytoy-vt3l-oqoh-po1a-olnd3z7nwenh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://vmrvcv5w-d1rd-lder-edx3-93sr8lcoz23y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ywcrvck6-owej-a6ez-hgf4-cib49pli3quj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u9z2xj78-9akc-zu69-08tq-lz8xnvxsfb6g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8zqz0y6n-h4cm-dk39-0rr8-3sj06jvsrsv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://g6e6jz6j-qwny-ifz0-qie9-i0cfz3wxzaus@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5c4jtody-d6sx-geo9-bxe3-56e4cbtvw3bv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uxs4tnq1-oknv-c2ea-tyte-owzviragnzcr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.167:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.166:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.165:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.165
@@ -24,4 +24,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.80:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.80
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 134.195.101.32
-trojan://7dl91kza-nxxr-r0vp-bcy4-enec7mjjs4il@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h765f0z3-stc4-g313-6de2-570mr8exqy34@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

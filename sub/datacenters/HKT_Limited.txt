@@ -1,7 +1,7 @@
-trojan://clcdt7sx-u534-zymy-xym0-kmezcr06x8b7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://itx5icsr-jkhw-924y-x23g-1yyirrx28gfj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w2oszfvb-y69i-6sbp-x5b1-i253cijr5c2h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cfvacf7h-ykw7-f0sj-buum-737lpux5zs8w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9izsfusb-h4e8-v9l9-jztg-hveegs2ff8f7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://onnhl9gu-12pk-x9h6-n2ks-92s9nc5th2xo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wc1f0zjw-pmif-9qgl-0tvs-anqqui2a5jif@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7wk96in2-rpem-b4q9-nzab-kvr7fuam9ogt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVdKbFl6RXdOVEptTmpCaU0yRTFNdz09Ok5UTTVObUUyTWpndE1HTXpNQzAwTXc9PQ@42.200.230.167:8072#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HKT Limited ┇ 42.200.230.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:23274#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HKT Limited ┇ 1.65.250.231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTkxYTI5YS05ODlkLTQ5MzQtYTFmYi03YjY1MzMxOTM5N2Y@218.250.204.209:50101#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HKT Limited ┇ 218.250.204.209
@@ -12,8 +12,8 @@ trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.1
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?sni=stutter.freetrade.link&peer=stutter.freetrade.link&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.180
 trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?sni=golang.protocolbuffer.com&peer=golang.protocolbuffer.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.175
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@42.200.230.100:59623?sni=t2.qifei.app&peer=t2.qifei.app&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 42.200.230.100
-trojan://Aimer@219.76.13.166:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.166
 trojan://Aimer@219.76.13.177:443?sni=epcce.ambercc.filegear-sg.me&peer=epcce.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.177
+trojan://Aimer@219.76.13.166:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.166
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@starlink-hkt2.2513142.xyz:58661?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 119.237.241.138
 trojan://trojan@58.152.99.172:12265?sni=wahaha.yingyangkuaixian.dpdns.org&peer=wahaha.yingyangkuaixian.dpdns.org&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.99.172
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@nodeu46352173db.asia.huawei-cacahe.com:31288?sni=nodeU46352173db.asia.huawei-cacahe.com&peer=nodeU46352173db.asia.huawei-cacahe.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.22.135
@@ -93,4 +93,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@42.98.167.229:12345?type=ws&securit
 vless://ab508c49-514c-40d3-b1fb-5af057ed11ab@3bd9.55dca.e048.f64-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.137
 vless://2d317da5-47c5-4db4-933f-16d1094668db@hkt-ty-line-1.sudatech.store:20550?type=tcp&security=reality&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=cWs2mTxI3sdZlPYsRh239mJFnxi0Y8RmF-ZEtziFNQ8#HK 🇭🇰 ┇ VLESS-TCP-RLT - HKT Limited ┇ 58.152.186.131
 vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@pq.aws15.yydjc.top:443?type=tcp&security=reality&sni=dyn.felissimo.co.jp&fp=ios&flow=xtls-rprx-vision&pbk=XDOJMg-h4KXwKN5KelFXi1bFB8XBmM1XtxgdHnw6qik&sid=56e852ac#HK 🇭🇰 ┇ VLESS-TCP-RLT - HKT Limited ┇ 112.120.48.227
-trojan://yef4081p-6vti-gizh-3o2q-ktkuja8nuruk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uvi2903z-gqs3-mw7z-zhzi-bhe4hi24shev@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

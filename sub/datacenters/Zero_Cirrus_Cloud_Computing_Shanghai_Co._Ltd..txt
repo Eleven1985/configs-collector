@@ -1,9 +1,9 @@
-trojan://6mwlv35g-k88e-0n9m-87gx-jc8lxdxj3rot@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:26 ]
-trojan://12mt4hck-rjqm-rxj9-ri7p-1cr3jjtssjk9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vhian5iq-jhzm-dsd1-3x2e-f0kyvkbu0naz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gzk5ufqf-fd4h-r71o-3xii-9wlvpa49i2h7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9ue1jo1z-ju6g-n83o-ea9a-vnncy9t1yu29@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 14:58 ]
+trojan://jwbusrux-8nft-3sdu-9ala-pho4vji6aejy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fhxmnikm-o1lk-580m-dpbk-bh6euci5ye1j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lyejj1vr-jkaq-ctu8-cgk7-p9r7vxzrigd8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjUyOTdmMjIwM2I@103.140.136.76:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:16622#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.242
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?type=tcp&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.11
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.99:443?type=tcp&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.99
-trojan://m0ts9pdc-1i9z-hbqa-k18d-vsyi2oa3kdwj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://j993wvow-3qxx-yprl-fkxg-dqvxatkcaavr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
