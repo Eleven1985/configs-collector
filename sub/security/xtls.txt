@@ -1,11 +1,11 @@
-trojan://aevpfezu-nwfs-2f5t-4dsu-g6kcresjrkar@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://8dsw6d0f-f688-tlg1-8fzh-skvaukwugtkl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c5dk8hor-pbbk-rve1-8xda-0wnjbkq7fg0v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bgs5fh0w-30jo-02kh-ocxb-357cdfw9dy08@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mind06pn-m9ez-4n2c-8qbr-x4eh0jxermgb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://bouua7r3-q3y8-lwfx-bw8y-230k158wxz3o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pu1z45q8-ybuz-7ny8-vow3-m4ns1r4zh6rf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ub4r3frd-ia2j-nh8q-bpxc-9vroj5w55gq3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-trojan://dc3rpc1m-oiat-8t5u-qz0e-g65g9qsjfe0r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://gb50fxae-evec-bqy0-0lul-xmfie4cww870@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

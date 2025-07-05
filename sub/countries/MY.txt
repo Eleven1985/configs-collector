@@ -1,7 +1,7 @@
-trojan://6tvn32f3-5yh1-d4r1-8pb5-37zhs1fg9ab0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://mgiea3i3-urml-83xt-di6a-ydwr1psitzxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8qjn355f-v1y2-dtw8-h3dv-8j0tzn13542c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yj1wvlcr-3590-1zft-4jbu-6u82ln6azbhi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uisat8se-ow9f-urcq-jbj2-dg6dvxy775x0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://wwnfqbqg-1rgb-k84u-ey8g-jwjhktftn7b8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dhqt409s-leyl-pbe0-349r-2bxyt8r5h6jk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z6odwwio-g2ey-udjz-upfx-npz21j0wowsi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.10.241
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.210.242:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.210.242
 vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.181.43
@@ -27,4 +27,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNoaW5qaXJ1IFRlY2hub2xvZ3kgU2RuIEJoZCBcdTI1MDcgMTAxLjk5LjkxLjIzNCIsImFkZCI6IjEwMS45OS45MS4yMzQiLCJwb3J0IjozNjcwMCwiaWQiOiIxMjdmZjQzYy0xODUxLTRiMmQtYmE4Yy02YWZiYTIxZWMwNGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UUlVFIC0gU2hpbmppcnUgVGVjaG5vbG9neSBTZG4gQmhkIFx1MjUwNyAxMjQuMjE3LjIyNS4xODQiLCJhZGQiOiIxMjQuMjE3LjIyNS4xODQiLCJwb3J0Ijo0NDMsImlkIjoiYWMyMmM5MjctZjhjMS00M2I0LTg4ZGItNjBlYzdhYmJmNTlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MtdGxzIiwidGxzIjoidHJ1ZSJ9
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - TechAvenue Malaysia ┇ 202.43.102.57
-trojan://jd8rt96c-89dx-p605-m0ut-2t6mjrvyaoed@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://spc194vz-5gmu-3dr4-bn0p-k9kf1zrvjai6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

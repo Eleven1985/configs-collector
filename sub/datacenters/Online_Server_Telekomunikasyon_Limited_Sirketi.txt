@@ -1,11 +1,11 @@
-trojan://fe993u15-j1by-ooid-crtb-plr0br0nqmdo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://kvfp6j6u-2w3u-wojg-yxxm-la2utxu6s554@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3rcvnjeo-bqyh-vcju-0fdy-obfz58n3u5r3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4x58jwij-5nul-e5d9-tses-t7q2735mrkch@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nvruafrv-l958-7jm7-t8xv-ospom9p67zz4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://c7fa5r72-y7za-lr2x-m6r5-iydthl1aei76@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ii0thg0s-ztx5-p0dt-wrnl-gask6aj04pyx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1ug6ba3n-m918-vzb2-qyb1-twp0t3i73qgx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIE9ubGluZSBTZXJ2ZXIgVGVsZWtvbXVuaWthc3lvbiBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDkzLjEyNy4xODAuMjQ2IiwiYWRkIjoiOTMuMTI3LjE4MC4yNDYiLCJwb3J0IjoyMDg4LCJpZCI6IjliNjNlNTAyLWZjMjAtNDc5Ni05NTE5LWM5ZTE2YzY3ZTYyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6Indpd2l6YWhyYS5tdXNpY3MtZmEucnUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3aXdpemFocmEubXVzaWNzLWZhLnJ1In0
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBPbmxpbmUgU2VydmVyIFRlbGVrb211bmlrYXN5b24gTGltaXRlZCBTaXJrZXRpIFx1MjUwNyA5My4xMjcuMTgwLjEyMiIsImFkZCI6IjkzLjEyNy4xODAuMTIyIiwicG9ydCI6MjA4NywiaWQiOiI1MTAwODYzZC0wMTlmLTQ4NDYtOTQxOS1lYzIwMjBkNjI2ZGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biJ9
 vless://65cb5591-6be5-461d-afe7-369866a2cbb6@93.127.180.79:46875?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.79
 vless://70903853-f962-453c-8f5c-1820c8fb2d28@93.127.180.140:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=PH8vEhKwClGcTEJfczngBHCHu8UpZpo6PWLB6M-fDgE&sid=e1fa45#AE 🇦🇪 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.140
 vless://b3bb5f55-e7d6-4302-ab66-2bfd2f2e897f@45.136.5.42:56324?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=gcNyysrKpad7uqzpwNO65IKppIqcudJS5WN6ZpfSjHw&sid=ba2806#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.42
 vless://8a58094b-d8c9-4629-96e5-d29f77f8e0c0@45.136.5.118:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#TR 🇹🇷 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.118
-trojan://mr5mp8j4-8j9x-59ny-5l96-49idf4ny62uo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nvbz3dy8-pnec-xh3d-w4yc-lwcl72k1xvh7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

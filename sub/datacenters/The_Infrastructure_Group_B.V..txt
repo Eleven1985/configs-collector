@@ -1,7 +1,7 @@
-trojan://0odiyxg5-813d-2qn0-j4xb-clkgz32zr8o7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://rryp3b05-myhm-p7m8-ronm-z79wc5821v8l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ddgurgfm-54dw-gf51-s1ly-q3872l0oyqkl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://b8l58w8z-5qbe-q8ed-daij-eld9w0ynagja@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vcn0nm6x-xafa-vn8s-i55c-o5x7o6slkn02@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://bi9imi59-farr-994a-k1vi-pc51q1duv8r6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bb4xap10-03aa-eido-4d0w-f7oel5q8bmoj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://av21zjqw-29xx-djed-8p6e-ox4752l5gqno@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVGhlIEluZnJhc3RydWN0dXJlIEdyb3VwIEIuVi4gXHUyNTA3IDUuMjU1LjExMi4xNTgiLCJhZGQiOiI1LjI1NS4xMTIuMTU4IiwicG9ydCI6MTkxODIsImlkIjoiOGYxMWJhOGMtYTcyYi00N2RmLWE3ODMtMjQ5MDIwNWZmMTBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - The Infrastructure Group B.V. ┇ 5.255.124.97
 vless://9b9d1a9f-174d-45f7-9809-fc5190aa4a74@5.255.115.68:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.115.68
@@ -9,4 +9,4 @@ vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.255.120.214:8443?type=ws&security
 vless://2e671ca5-32a0-40e4-94a0-c2655f263a88@5.255.120.217:80?type=xhttp&security=reality&path=/pwp&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&sid=8c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - The Infrastructure Group B.V. ┇ 5.255.120.217
 vless://e86bd9fd-562e-4a5a-bc22-209bff35e397@online.freenet.vizzpn.shop.vizzfrag.ir:8081?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=9axcgM_60HcE3vk7Jn9iAb-wUK7raOBb_KbniT62nVY&sid=85832c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - The Infrastructure Group B.V. ┇ 5.2.71.158
 vless://6e467e70-6ef2-4e8c-a322-4e4f83a10e07@5.255.121.220:443?type=tcp&security=reality&sni=shell.com&fp=chrome&pbk=VQqByg4w97wFLTE0SuB1GdUdaG4UdC4dr8slNYOICUI&sid=3d333204dc0340ae#NL 🇳🇱 ┇ VLESS-TCP-RLT - The Infrastructure Group B.V. ┇ 5.255.121.220
-trojan://wvqnbxww-tosx-tzro-m1w8-bh2jxw3zjb11@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jh18ddur-dwg7-jqjg-zfe1-c2zysefhf3y6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

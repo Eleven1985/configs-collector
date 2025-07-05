@@ -1,7 +1,7 @@
-trojan://ib0ueool-2m3k-tkn9-s4ml-ykggorijm763@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://a4wqsva9-6rjd-csqq-itj2-4w9d8jj4tauz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r609gtyr-z0gk-nmym-el2o-g0zpyofzmj5j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nxfy7u22-mrfj-z9b3-puki-49yatepcx9n4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rvdp1cgb-klqa-4elc-pest-76rjdzracbwa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://xgfxj0vz-yk8d-5lew-pmqk-i35knvvhv0lz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6qhitssb-4jwd-nu7d-b7o3-dkogb53faaov@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9cukglym-aeod-4bex-xlrz-wqd2zbt58kub@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206NjQ1ZDA1NmYtMzY5Yy00NmQzLWExY2ItN2YwNGMwNjkxNmNl@114.132.40.118:30018#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 114.132.40.118
 ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@106.55.9.70:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 106.55.9.70
 ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@1.117.233.253:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 1.117.233.253
@@ -25,4 +25,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hlbnpoZW4gVGVuY2VudCBDb21wdXRlciBTeXN0ZW1zIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTkyLjE0NC4xNjQuMjI2IiwiYWRkIjoieXl4eGNmc2Rmay5oamRmZ2hmYy5hc2lhIiwicG9ydCI6NTMxMjIsImlkIjoiNzdmYTE1YjctYWU4OS00MzVlLThjM2MtZGUzYWNiZjg4OWY1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL21hcmtldD9lZD01MTIifQ
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@101.42.10.90:443?type=ws&security=tls&path=/?ed=2560&sni=vless.443888.xyz#CN 🇨🇳 ┇ VLESS-WS-TLS - Shenzhen Tencent Computer Systems Company Limited ┇ 101.42.10.90
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@101.42.29.143:443?type=ws&security=tls&path=/?ed=2560&sni=vless.443888.xyz#CN 🇨🇳 ┇ VLESS-WS-TLS - Shenzhen Tencent Computer Systems Company Limited ┇ 101.42.29.143
-trojan://04ilga6z-ttku-jq5a-hm4a-kmjhvltomima@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vwo0qzpg-ajq5-8xp8-eobb-6fnp09kt1chf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

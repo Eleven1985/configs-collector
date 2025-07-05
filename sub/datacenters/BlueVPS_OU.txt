@@ -1,14 +1,14 @@
-trojan://f7u7zqvb-mxwr-083e-6qq9-4mbtu54pf9cf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://k3ilw666-tc69-e9ux-vkgq-vm91jjh1vi4v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://swo36d4m-cgi0-e4z0-5g1m-9ybxahbsdri5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y0hhia1i-kixd-zjm2-3lu8-7wiag12ddcqu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h6fj1xt0-403b-1wo8-0kn4-9dqbol6dsuay@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://vp8yrqea-vuag-0lfv-nbc9-xlbjz9t25drq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9grswpy-l1pn-tlht-k98e-efeee7roevwj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9oh2b6dl-cx6y-pk0n-5jto-sarx7vtmnvbh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://bpb-trojan@91.227.77.87:443?sni=skwygx.top&peer=skwygx.top&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 91.227.77.87
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgODUuMjM5LjU1LjE5MCIsImFkZCI6Ijg1LjIzOS41NS4xOTAiLCJwb3J0IjozNTI1OSwiaWQiOiIxZDAyNGE5Ny1lNmIxLTRkOGItYmM3ZS05ZmI5NzVmMDQ0ZmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgODUuMjM5LjU1LjE0MyIsImFkZCI6ImJnMy52cG5qYW50aXQuY29tIiwicG9ydCI6MTAwMDAsImlkIjoiNGI4YTIzY2MtNGY4My0xMWVkLTk4OGMtMzMxYTdjYTcwMTBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://4cd1bf48-c630-629e-bc93-ac271c919850@146.19.143.150:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 146.19.143.150
 vless://RzLDAo8bl56UoDcFFnTJO1@176.124.32.10:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=0vYhbf5BHy-z9rIkAR2G-FsL5PQSkK-NsAlwUbuO_QQ&sid=edf4bdfe0882c415#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 176.124.32.10
 vless://d6fd3680-32f2-49b7-82a7-cdb3e7c60921@146.19.143.194:23455?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=zK6s0sgHJbBH2nc8nvFpeMux6FeRxvoNDdY13BGC2U4&sid=c8125f01#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 146.19.143.194
-trojan://Aimer@45.86.229.28:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 45.86.229.28
+trojan://Aimer@45.86.229.28:443?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 45.86.229.28
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgNDUuODYuMjMxLjE5OSIsImFkZCI6IjQ1Ljg2LjIzMS4xOTkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjZjMmQ3OC1iZGQ0LTExZWQtOThlOS0wMDE2M2NmNGViZGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
 ss://YWVzLTI1Ni1nY206QXhaUEtIYTc4THZoUEF0YQ@62.106.66.133:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 62.106.66.133
@@ -20,4 +20,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 ss://YWVzLTI1Ni1nY206cDVGY1RvM1BiMTRjd29VeA@sin5.vpntype.dev:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 91.242.241.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRzhzaldzU1d3djl1bDZYMGJPMHJD@91.236.230.200:24542#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 91.236.230.200
 vless://0870a931-b121-1278-f010-b140a958a300@185.28.119.112:8572?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wwGp0z3xZVoNxnAd7lcvN14cCs5Ye_JxRfGY4nqXkXo&sid=81c7e2cabf#US 🇺🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 185.28.119.112
-trojan://xxuuvrbb-2t5w-n8re-yu6n-bnpm8ekrcrvm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ueg43yyt-rvpu-ms6t-25ft-zmuaqrt8y5qb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,10 +1,10 @@
-trojan://tzls5hbk-s2fi-5dk6-lgo9-zfk7mc11k6ph@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:03 ]
-trojan://y8ervxj0-m02m-8ypg-bc0w-foeugobx2jm9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g7k1yv1r-o0jr-108j-n7z5-hzvxn9rmr2cw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ymhrnjuz-5dg9-4xfe-dim7-4y7gkkb7u4d9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4rf8ayqy-3lix-bu8q-srj9-z4336wwwbaw6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 13:22 ]
+trojan://9y0bqnd8-6age-ybk8-anuu-bs8oq9wh7fae@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p06fe94z-990w-fqau-vdwd-c37chg01syzg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hdlay3hh-zvzj-2b7k-jgb3-fevxflizyoyx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.250.83
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV0bWloYW4gQ29tbXVuaWNhdGlvbiBDb21wYW55IEx0ZCBcdTI1MDcgMTg1Ljk0Ljk2LjEyIiwiYWRkIjoiMTg1Ljk0Ljk2LjEyIiwicG9ydCI6MTc2LCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@downloadha.com.iraniantim.ir:80?type=ws&security=none&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
+vless://fdd1dfce-3292-4441-8f45-212ea9b7d250@89.42.211.170:80?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
 vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-trojan://r3or4c9y-833s-46rv-div6-99waplop8wwa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://v3jlw5j8-uw7b-5r2z-rn2x-l1pgm1dcythb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
