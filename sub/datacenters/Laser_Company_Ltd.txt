@@ -1,7 +1,7 @@
-trojan://32emkf6z-0ff3-qe2s-h32u-zd5g651tvagn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://1zlbbajy-ipw7-ifds-bami-7ts2rviryax4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y2gordpw-m58c-hiaz-yipw-5ogdqkhxxmds@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cxbqq4mp-a4jm-ptkp-x2ah-9frbs0z3eja0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vddjy475-zjo0-x74k-rkjy-wczu4w89uixv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://ugega3eg-o7wz-cvs4-bfll-qowvm1xq385x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bmnvxc9b-5two-k5et-tex8-z555fb3gj2d6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vsz74e3m-5g4r-phg2-0z7e-n7cuyux6c1n5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExhc2VyIENvbXBhbnkgTHRkIFx1MjUwNyA2Mi42MC4xNzUuMTEwIiwiYWRkIjoiNjIuNjAuMTc1LjExMCIsInBvcnQiOjg0NDAsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExhc2VyIENvbXBhbnkgTHRkIFx1MjUwNyA5NS44MS44OS4xMzAiLCJhZGQiOiI5NS44MS44OS4xMzAiLCJwb3J0IjozNDMwNSwiaWQiOiIwYTU3ZTI2ZC04N2IwLTRkNTQtYjEyYS02OWQ5OWQ2N2EzYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExhc2VyIENvbXBhbnkgTHRkIFx1MjUwNyA2Mi42MC4xNzMuMTciLCJhZGQiOiI2Mi42MC4xNzMuMTciLCJwb3J0IjozNTE2NSwiaWQiOiI3MjIwOGU5Zi04N2E4LTQ5N2MtYTM5NC1kYTg1YmM4YTdjMzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -18,4 +18,4 @@ vless://34a3d8f4-4dcf-49df-8177-8aa3cfdfb5d7@185.233.13.151:1204?type=tcp&securi
 vless://cfbe0eaa-e7ec-470a-a915-ce0ac9a956f2@62.60.172.231:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 62.60.172.231
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Laser Company Ltd ┇ 62.60.173.203
 vless://92e400bc-6590-442e-e40e-4deb818b894b@88.135.43.117:249?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 88.135.43.117
-trojan://r28guzk3-lso4-mgne-0slb-nhso92zwtyin@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k6sq9ixp-rf6t-q4pf-vb8f-w1n3pic1cfnz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

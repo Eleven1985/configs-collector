@@ -1,7 +1,7 @@
-trojan://a1oeimx0-vqb0-7l8n-2icn-4215c0f1173b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://oqi3l4qw-qei2-jo2b-ipkg-yinmxx6vspol@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9jsjtr83-sb7a-6alp-helx-sv51pbnxjlde@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nstctxc5-mgtk-tv5y-atua-idhsq358jd1x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f0hq7n6b-3tbd-8qlp-xys1-0018jp1lf1in@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://vxp1f3vm-0vdz-fxyb-o951-l0nf6kvzqhak@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dwy9kxbm-cnd1-lmhx-unnu-mddfrldm9jep@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://usp8gm9a-nk0d-5hy6-1w9e-a3bnk97e23fx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443?sni=hdfy8c1.foriran.me&peer=hdfy8c1.foriran.me&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - EDNS ┇ 64.68.192.77
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFRE5TIFx1MjUwNyA2NC42OC4xOTIuMjEyIiwiYWRkIjoiNjQuNjguMTkyLjIxMiIsInBvcnQiOjQ0MywiaWQiOiJkMzk5MDAyMC00ZDkwLTRkMWEtYmQ2Yi02MWQ1MDZmZjcwMzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ncmFwaHFsIiwidGxzIjoidGxzIn0
-trojan://t6q964lq-z6ks-h7xg-mb17-39b54espj5pk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://o68klc5k-dr8k-299u-2j8p-npteh0ig55sz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

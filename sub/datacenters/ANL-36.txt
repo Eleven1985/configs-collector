@@ -1,7 +1,7 @@
-trojan://m8mblla3-5ghq-w717-9kpm-t8aza9khrja5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://f6r0nuql-qnkf-67gy-nboi-utnjamut8h7r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qd5e9030-8pr7-ps17-eaja-h42vvhczhdnt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8rjtovqx-bdxy-02rx-3eq1-oj5cxqb9hr96@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6u0qpbu4-9yau-wlyc-7bte-a9xi2bu8oaiv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://lldh8sft-6upf-hrmi-g80e-24ljy5zzffwj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3mexpxjk-z3ip-npli-1ixj-zk0gbg7qk3mj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dnzvo4dm-jj1q-fihk-2kvl-oo19slpufhl4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://S3uISCSXalplOFZCy9njYOCA2AlKqDNSZly3FE8w6RzyYaxagK7eDcN0C333ES3anCOpu@104.247.121.10:443?sni=covteam.homeofbrave.net&peer=covteam.homeofbrave.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 104.247.121.10
 trojan://3wXO97Y83a9ynFAgyajxxpz6qeSSCu6z3C3RDwTNYcDZyCAFglBE3ANDFA0e7SFaIlDOq@69.5.54.49:443?sni=socepy.homeofbrave.net&peer=socepy.homeofbrave.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 69.5.54.49
 trojan://SaujZeOR2F6eDD09KnxFcl3CY8laTXAyYOyCEI5qgwRSDp4ZCp33ASxN738zBa@69.5.52.87:443?sni=beseech.homeofbrave.net&peer=beseech.homeofbrave.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 69.5.52.87
@@ -10,4 +10,4 @@ trojan://YCz0uZ484pjDCFyKqRZ3823SqxDXEBSwNnNYlay3yeuDaA0aISDR533eFglaaOTO3lF8A@4
 trojan://5Z3RglCCyER3pjlSe0gSyqOOeExx4qTpwKxBR63XjIa8eNzaaO84pDDBA2DlZYI2n37CX@45.42.141.189:443?sni=toward.taiwanesefood.link&peer=toward.taiwanesefood.link&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 45.42.141.189
 trojan://YCz0uZ484pjDCFyKqRZ3823SqxDXEBSwNnNYlay3yeuDaA0aISDR533eFglaaOTO3lF8A@69.5.52.190:443?sni=garland.taiwanesefood.link&peer=garland.taiwanesefood.link&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 69.5.52.190
 trojan://5Z3RglCCyER3pjlSe0gSyqOOeExx4qTpwKxBR63XjIa8eNzaaO84pDDBA2DlZYI2n37CX@69.5.52.204:443?sni=toward.taiwanesefood.link&peer=toward.taiwanesefood.link&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANL-36 ┇ 69.5.52.204
-trojan://jghiyb13-6116-s05l-rfx0-gnhd4fomot2k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7ht66wxs-c04x-t64c-m1wu-da27cnp0pmaj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

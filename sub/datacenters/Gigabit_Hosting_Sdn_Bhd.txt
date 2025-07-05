@@ -1,11 +1,11 @@
-trojan://bbgdy36o-s4mf-jbnd-ojrz-cy1g2bnfpns0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://nlh5zbvp-qmuk-gr02-k6lj-ys8cewlzjkrq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mlod56yg-jufu-jrx4-ckn7-3t5cxzvdczbi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v1rv5mh7-fglf-b7s0-zwvt-lqj7i9j8in0c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://p66p50im-44v8-9uwj-2ce0-ba995y0r8hod@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://41k89q47-7qpf-68om-be4j-oe531e8kdq2a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pk7eip43-ks5r-v840-9p0y-cwhvg95n5k8d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://li5ygtv5-c6lb-z9rw-umxu-r37gfqqff7op@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 103.243.215.17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NEdVRDI4Qnc5dUNNZGJjMnBxQQ@223.25.246.4:8389#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 223.25.246.4
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 202.59.10.102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NEdVRDI4Qnc5dUNNZGJjMnBxQQ@223.25.246.4:8389#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 223.25.246.4
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBHaWdhYml0IEhvc3RpbmcgU2RuIEJoZCBcdTI1MDcgMTIzLjI1My4zMi41MCIsImFkZCI6IjEyMy4yNTMuMzIuNTAiLCJwb3J0IjozMTM3MiwiaWQiOiI2NzhkMGQ3ZC1jNjUxLTRhZTEtY2VkMS0zMjA3ODM1NjU3NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoidm1lc3MiLCJ0bHMiOiJmYWxzZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdpZ2FiaXQgSG9zdGluZyBTZG4gQmhkIFx1MjUwNyAyMDIuNTkuMTAuMTE2IiwiYWRkIjoiMjAyLjU5LjEwLjExNiIsInBvcnQiOjMxMzcyLCJpZCI6ImNhYjc5MzcwLWYxMzUtNDQ1Yi1kNDgwLWFhYTBkNjliYjEwOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 185.189.160.98
-trojan://z91y4q9y-gz5g-631r-va01-uqjxgqi3pr84@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://v2n9s5d5-85eh-r6dd-i1cr-nbb5i73urpqt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://hletb9g2-l3lz-8466-u8ao-q3h4cknmt8c2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://pitbnhr3-ry2u-bj3w-q8eo-36qksxb0rz2f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ybkulq8e-e0uk-pm7a-v1qi-j26f33wwb8og@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1h17beti-4u1h-fuxr-c07j-qusvuwndmkwj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.190
+trojan://5uyalz3g-8ooy-l7ne-rfdx-inifrk90ufuj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://6e8atiu1-eebe-71jl-q01j-rk5xutjs37kn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sc9gyp2v-iqzn-yfr9-sdku-jxomh5yueo30@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8qqlnu2o-jcwb-qz0t-zu4x-j0lk8m2d2q4r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.189
-trojan://zrc3eosh-7qj6-fieq-66su-7pe8z495vbio@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.190
+trojan://wvwzfkaa-5ynb-kb0i-pdgd-42kwiwkm4atj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

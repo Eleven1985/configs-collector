@@ -1,7 +1,7 @@
-trojan://h2oxe1iv-su18-tse2-624e-mona8kb3wq5j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
-trojan://n94hrlca-cfcv-8mrh-pgqy-nqissfptelga@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xyodhe65-ikcs-d49w-o5x3-7lpgwnxytgt8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eq9i5lwp-qog0-yadg-mib2-lh4ezwlgbobt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cdzvn9x0-p0tp-0xrd-aubb-o17ntv8w6b16@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 10:12 ]
+trojan://dvihqn9a-l2yr-v1yr-ncxa-z0hh6fb3hkym@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ynaan19y-h66b-5iuh-40yh-h0o2ozp69out@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bcdrl6w2-gtx3-rsdr-6bw5-jphbtfzhpktx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@15.220.121.237:443?sni=aws-ar-buenosaires-1.f1rocketnode.com&peer=aws-ar-buenosaires-1.f1rocketnode.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.220.121.237
 ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
 trojan://f25d1510-3763-4fcf-9804-86d6c1566629@31.40.212.133:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 31.40.212.133
@@ -17,4 +17,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#AR �🇷 ┇ SH
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
 vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU09OREFURUNIIFMuQS5TLiBcdTI1MDcgMTkwLjEwMy4xNzYuNTEiLCJhZGQiOiIxOTAuMTAzLjE3Ni41MSIsInBvcnQiOjE1MywiaWQiOiI1NTE1NjlkYS0wY2JiLTNlOWEtOWQ2NC01OTM3OTZmMGI3NTgiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAzOC4xODAuMTg1LjEyNSIsImFkZCI6ImFnMDEtY2RuLm15bjFkZXMuY29tIiwicG9ydCI6MjA4NiwiaWQiOiI4N2Q5ZGE4Zi03ODM5LTM3ZjgtYjdmMi1hN2JlMjJhZTM4MzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://zsx3halp-iwvu-on2a-d9ze-8dq0qgjha64k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yxelpoyb-gd3v-gu2p-6oik-0oz2nwupj1e5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
