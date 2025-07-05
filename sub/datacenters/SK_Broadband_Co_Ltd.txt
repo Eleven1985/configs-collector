@@ -1,7 +1,7 @@
-trojan://nmwluo8t-xejx-18p0-rhlj-jjq8y2s2qaxx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://m613xmkl-4bcg-7cvf-etn3-rpl1kcp2z2i1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0c1nkfv0-rbgb-gvx4-cmdw-p2xrbj1yr85o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tamaqk0y-rljt-ygwt-kk8k-o1gqho9hxu6j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v8z7wkaw-o2oi-60j4-0jn9-rgbziodke6f9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://l3pnwi77-vp7h-d81q-9jbo-dwygv3t9o4zq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iy7jougb-7t9n-jvh5-s11s-ra8btbl00kji@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wm4ijy9s-1ina-fcgk-5g0s-71it8jtakf4s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.38.103.150
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:54345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 221.139.79.57
@@ -26,4 +26,4 @@ vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?type=ws&security
 vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.51.125.182:14220?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.51.125.182
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@218.39.191.120:27516?type=ws&security=tls&path=/?proxyip=proxyip.kr.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.39.191.120
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.52.190.145:10548?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.52.190.145
-trojan://3qv5jr50-m0hq-synz-p19u-0aj3o3o5weve@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xnay457q-l5xu-50uy-jzdc-82frzhth2kjk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

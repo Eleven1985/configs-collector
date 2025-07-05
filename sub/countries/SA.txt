@@ -1,7 +1,7 @@
-trojan://181yakkz-a0ty-1kj8-d4h7-da8wcku09xp6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://dm7rb4hh-wgv4-2dcu-j5yp-45i919nrcyyh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xgti9nwb-b2xx-6ocm-wg8x-8os5oir2iow1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://udnq6edg-oob5-evsa-p95v-vmatz3abxrar@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://phgf7yf4-3txg-sup1-iiae-0mx7hc5sfwg6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://nxpuno8d-43nz-wwe6-vgao-ixleyu8w7z7d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kalj1i2t-o1x4-g0ry-bu2c-a6tlzgsthgqw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m7osr5q6-i0t9-hr31-apfh-tob6l3tuw48m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.209.253.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.209.253.29:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.29
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@91.209.253.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.247
@@ -17,4 +17,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiU0EgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY0N2ZlZTU3NDFhZTk4@163.171.207.11:17397#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.207.11
 vmess://eyJ2IjoiMiIsInBzIjoiU0EgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTU4LjEwMS4yMjkuMTYyIiwiYWRkIjoiMTU4LjEwMS4yMjkuMTYyIiwicG9ydCI6MTUyMjcsImlkIjoiNTI3Njg1NTItYzJiMi00NDYwLTg5ZjEtZTc0MGNjMTQ1Yjk5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXBhdGgifQ
 vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?type=tcp&security=none&path=/#SA 🇸🇦 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.76.63
-trojan://3jy2z5m4-phtt-cboi-z3rm-k7invjrncfno@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0rbs7bar-01u6-i0tz-acyu-rbnw42k6jrjf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

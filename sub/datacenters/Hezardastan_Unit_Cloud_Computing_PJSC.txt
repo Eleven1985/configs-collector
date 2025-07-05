@@ -1,7 +1,6 @@
-trojan://8aqw3ijk-w4bm-9vk4-wvc9-ekntnzsqrzik@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://i1cnrme6-uxfz-lq8y-m0ia-gucsc50kalmo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8y0v9zvo-7g7r-0zjc-cisa-rjmh427cdv3c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qnq3fs5w-mggl-3ylm-wswi-s06lrzjamgbe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.4
-vless://605a3c75-68dd-4a40-a7c8-6c494a9a0776@limoo.host:443?type=tcp&security=none&path=@MIND_ROOM2/?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.3
-trojan://zhgxkd0f-3k2l-jknj-ftcr-l5fxb1m1uciz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://we4qor9s-ji5d-k5q0-7qa5-1485ph493akm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://k1y2u7dk-4y94-sbbe-smd7-orqodr2hmsl5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o4j0euro-zjcs-1opr-bnep-7kierivenrgu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ctvjv3rq-zde6-826i-ljen-axclb98e1twc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.3
+trojan://p4mpy1rx-6lgg-qd28-kxtq-i6i3hllz9yga@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

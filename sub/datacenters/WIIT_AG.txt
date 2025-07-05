@@ -1,7 +1,7 @@
-trojan://42jgp122-a8yb-ejt1-rsda-l62mxcgkbncn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://2hpt7ysk-w9ed-o3aa-87s7-8h6b5n6ljs3f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://28pornr2-a67q-0zjl-91i8-6w23lypuquke@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v4zihdh4-lt9q-eh1w-xn7p-1k7ylrhyqioy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jv8w5pyu-80rp-gzk0-62k4-wbipxurzqniw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://ydxk4733-a7az-ijdj-kkct-98ch6cd2dm5m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9ws2dk8c-9wdp-3jn9-chlg-khz1hpcyhn0r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6tif5fzo-3ag5-k77j-rad5-6q0ejo077yv5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.153:989#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 89.163.140.153
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.136:989#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 89.163.140.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@93.186.201.124:810#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 93.186.201.124
@@ -52,4 +52,4 @@ vless://860bf99f-6817-4892-aa77-1877ec73a57b@5.104.107.135:443?type=tcp&security
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.223.233:8443?type=tcp&security=reality&sni=02020.sbs&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.223.233
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.198:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.198
 vless://97364abe-a27e-4be3-b0d7-0c3c1d64bc07@37.157.255.60:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 37.157.255.60
-trojan://uls37sai-8j04-m4dh-d9nu-bdo07hocop2w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3fs6rqog-uwst-t040-5cdh-o71cbmoqf1oj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

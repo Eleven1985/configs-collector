@@ -1,7 +1,7 @@
-trojan://hmbgr7fz-pqr1-89tb-y3oy-perd5z18t51a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://dkkcm1a4-s8a6-n9z1-1pka-i8jh0f6i1l5v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0gycxjcd-uxdr-xfh9-xdap-pz7p7t7ims6i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iay46ca9-w5eg-7cei-czte-kmc0igmy7y1z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0fw5op7o-piey-k54x-zg58-ua7p2fxed6ld@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://smlypq1c-is3g-u63f-mud2-dm83gary4ond@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e9o6owzt-lwfb-ttmn-4567-w5h1b06a49t7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tku7zesz-3dlp-fc1v-orx7-s5yrkwfrptmn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@2.58.87.221:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 2.58.87.221
 trojan://017cc98c-79b8-3459-b7c5-359cee8e2093@mg4.xiaoliebao.club:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 38.105.26.94
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWmhlamlhbmcgQWl5dW4gTmV0d29yayBUZWNobm9sb2d5IENvIEx0ZCBcdTI1MDcgMzguOTUuMTIwLjE5MCIsImFkZCI6IjM4Ljk1LjEyMC4xOTAiLCJwb3J0Ijo0NzUyMywiaWQiOiI2MWY1ODhhZS01YTEyLTQ4YjktZTQyZS0yMGExNzA1MDY5N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
@@ -28,4 +28,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.27.225:587?type=ws&security=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.27.164:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 38.105.27.164
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.27.31:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 38.105.27.31
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.26.231:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 38.105.26.231
-trojan://9u53y26u-0xk2-utyl-q8q0-idfxvbaln4uh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://t6vdvvkn-efts-5lps-ut6r-7gij9fyyyill@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

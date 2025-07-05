@@ -1,7 +1,7 @@
-trojan://aov1344s-cxt4-q3rj-stq5-mv9ensbp50qc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://bctr3c4z-tbf3-1s17-9zbd-h3whjuer9xst@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q03g79p7-psvf-h5jv-ozkd-f93529rd18j1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0q777ibx-19wt-dzdr-6j1w-bbpgmg9yyldz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lzqfbwzh-fyan-v9ez-uybf-7me7gnb9pc9w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://d32zjpm5-2tdj-uad2-sh6v-hgziajpybg5p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://btuuekk4-ljbd-q6fu-3j7m-fjn1mbrqu8af@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gmt2jlu4-yyt5-hxse-5ch7-lo5ds0meiigi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.113
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.200:443?type=ws&security=tls&path=/?ed=2560&sni=rz.ylks0033.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.200
 vless://4004aaa2-5de8-4cdd-fa4f-5c1bb835942c@185.16.110.19:2096?type=ws&security=tls&path=/&sni=ramtin-dfsfds-fdsfdsfdsfs.gameha7.ir#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.19
@@ -32,4 +32,4 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.16.110.77:8880?type=ws&security
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.168:8880?type=ws&security=false&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-FALSE - Bjt Partners SAS ┇ 185.16.110.168
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@185.16.110.49:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.49
 vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?type=splithttp&security=tls&path=/eaglexw&sni=nxginix.pages.dev&fp=random#FR 🇫🇷 ┇ VLESS-SPLITHTTP-TLS - Bjt Partners SAS ┇ 185.16.110.1
-trojan://eopq2k6w-82ny-ii7l-lluo-uy2xykpoj5lk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k3m0h5x7-64qo-ir88-zpv1-vr0brfq61ysp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

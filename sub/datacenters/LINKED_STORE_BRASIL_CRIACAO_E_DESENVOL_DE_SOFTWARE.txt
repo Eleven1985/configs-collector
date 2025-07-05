@@ -1,7 +1,7 @@
-trojan://c28hw4lo-nbyz-0ym1-vjaa-1ikaxz98r2is@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://rrcfpo0t-pwn4-21gv-4uq9-22r2ro9xk59j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kn95qqfr-ngzr-zevv-hgtk-crn23v8v0oql@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sb8ek6tg-kwjd-wu9v-kodv-xf721ww8gaii@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://didbqq28-35lz-n0a1-0s67-xehhxikyvvhg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://hc95s9yj-zyw8-7d8t-54aj-nzov141wh7lh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ztcjobfp-y0yd-qp8f-xd56-yjfrv7g6lehi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fz4174qz-bbgi-7d87-5p0d-fd77mgzfp3k0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.254
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.141:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.141
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.38
@@ -9,6 +9,7 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?sni=icecream.95
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.160
 trojan://trojan@185.133.35.46:443?sni=test-a23.pages.dev&peer=test-a23.pages.dev&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.46
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMSU5LRUQgU1RPUkUgQlJBU0lMIENSSUFDQU8gRSBERVNFTlZPTCBERSBTT0ZUV0FSRSBcdTI1MDcgMTg1LjEzMy4zNS4xNzgiLCJhZGQiOiIxODUuMTMzLjM1LjE3OCIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.22:443?type=ws&security=tls&path=/?ed=2560&sni=zv.bgm2024.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.22
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?type=ws&security=tls&sni=zz.bgm2024.us.kg#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.30
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.167:443?type=ws&security=none&sni=cl.bgm2024.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.167
 vless://ca1bea33-94e1-4f59-a2a6-8546f54a3e1d@185.133.35.118:80?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.118
@@ -23,7 +24,6 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.45:443?type=ws&security=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.67:443?type=ws&security=none&sni=nl.ylka.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.67
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.63
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.168:443?type=ws&security=none&sni=cl.bgm2024.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.168
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.22:443?type=ws&security=tls&path=/?ed=2560&sni=zv.bgm2024.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.22
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?type=ws&security=tls&path=/?ed=2560&sni=vb.ylks0033.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.242
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.78:443?type=ws&security=none&sni=vz.bgm2024.us.kg#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.78
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.183
@@ -46,4 +46,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.199:443?type=ws&security
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.133.35.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.177
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.205:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xz.ylks.xyz#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.205
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.133.35.98:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=vz.ylks.xyz#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.98
-trojan://39887r6x-bfxd-sysz-2iif-m8smdrd1qy5c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3ap23fw3-5f7g-qnf7-lgbb-yae2nixeauzb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

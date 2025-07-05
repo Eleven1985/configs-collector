@@ -1,7 +1,7 @@
-trojan://gtkrmhkr-9qgz-6gkt-to6h-bglocq9h82zy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://ihbo0ulc-18k1-ekg0-69zw-w76w8j8z1mmr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c7la94ni-9qcg-sfa6-a9kx-7g4vq1zkfjlk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cp4bekg6-mox5-ndm0-32yc-q3zye2lxuopf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://buqbz1xp-uaox-pu3f-9nl3-93txthb86qtr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://g3iyehsm-cpuc-i4p5-dhjr-ezpkqyrvf1st@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z7nvao6g-fj0q-9mnn-u3nu-yfk98po04jw2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5epgoujn-ario-vdbm-v0eq-8z4fv1s24te8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@34.1.15.24:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#FR 🇫🇷 ┇ VLESS-WS-TLS - GOOGLE ┇ 34.1.15.24
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHT09HTEUgXHUyNTA3IDM1LjIxNi4xMTMuNjAiLCJhZGQiOiIzNS4yMTYuMTEzLjYwIiwicG9ydCI6NDQ0NDUsImlkIjoiN2MyZTQ4NTgtZDQwMi00YzgzLWJlYmItMzYyYzJhY2EzM2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJsaWtlLmxvYy5jYyIsInBhdGgiOiI3YzJlNDg1OC1kNDAyLTRjODMtYmViYi0zNjJjMmFjYTMzZmUtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaWtlLmxvYy5jYyJ9
 ss://YWVzLTI1Ni1nY206ODg4ODg4ODg@8.8.8.8:8888#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GOOGLE ┇ 8.8.8.8
@@ -64,4 +64,4 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.113:443?type=ws&securit
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 192.178.218.102
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.163.102
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.102
-trojan://rad7gk08-hwcg-f87b-0xmi-vl47qkf5tite@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://su32lkbt-harf-ner3-90kz-0wahk65f4w23@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://te04747g-lfg4-9uyy-ktuk-uupo82ij4hzf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://mugc1w4z-mrtu-edkq-d6no-o79du4nzuvkm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3slch1cb-0yi4-53zl-fq4z-uzi1kli53ptz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1qirorqo-zass-6cn8-ead5-ha85h789gtvd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://on61z73o-f6w9-bsmx-yuch-i0przpnoibnk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://ny0ui1bp-37sl-ruhy-mxnm-juxjokgx07yh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qstelxuj-ck0o-dsl0-x2he-oqxp69rd5eeh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x34g6w96-yj0f-h7ck-3qce-xglpt03m0jku@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU9Ua3dOV00xWVMwMU5EQTVMVFEzWlRFdE9EZGpNeTB4TldRMk9HSXlOak00T0dR@lingdang.cloud:0#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.98.208
 trojan://Aimer@152.32.226.221:80?sni=epccr.ambercc.filegear-sg.me&peer=epccr.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 152.32.226.221
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIEhLIExJTUlURUQgXHUyNTA3IDExOC4xOTMuMzQuMjM2IiwiYWRkIjoiMTE4LjE5My4zNC4yMzYiLCJwb3J0IjoxMzY4OCwiaWQiOiI5MzEyNzA2NS0xYTViLTQ4MTYtZDAwOS01YmY1ZTBhYTEwYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -22,4 +22,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVT
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.163.236:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.163.236
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.193.77.95:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 118.193.77.95
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.134.125:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.134.125
-trojan://4yq3grfj-o3r5-ysvz-c1ab-i6dzc9srjfia@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ljdamyh2-png4-r8z9-t2k5-q5chsrf1skrl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

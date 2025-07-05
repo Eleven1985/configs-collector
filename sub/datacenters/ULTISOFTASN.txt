@@ -1,7 +1,7 @@
-trojan://20mnpzrd-nueq-iwvv-y3e3-n7rv9rmn92qv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://n09yqgpy-4sv2-srwk-lqzv-80d6pg6nsx3g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4ns3dyoa-dtus-2e22-tx85-k6dwsawdlev6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2sv2j2wl-qozm-a49z-ox8h-d1fznclfe9qf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g3mrfgc7-h542-2ax0-mg48-qy4kt31be71x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://281xwfhy-z5qs-m3rd-tdin-d1a4gplxuyhh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1du0ravx-iix2-jcui-o2tk-dlfuw7zsrzol@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fja1ctay-20wk-mzpi-jvbk-dxd10jw8ii6g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@135.84.64.77:2096?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 135.84.64.77
 trojan://Aimer@209.208.227.79:443?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 209.208.227.79
 trojan://Aimer@135.84.64.36:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 135.84.64.36
@@ -27,4 +27,4 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.218:8443?type=ws&securi
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.67.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.77
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2087?type=ws&security=tls&path=/pc0cypuups4meoks/mtu4ljewms4ymdmumti3?ed=2560&sni=Sb-1u6.paGEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.74
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.67.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.177
-trojan://hmyiqwrw-6qdu-waal-h1w1-dbxf32hfjgfv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hzxefgna-2ddi-4y0h-5rwr-5h9ymb552h37@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

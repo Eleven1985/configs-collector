@@ -1,7 +1,7 @@
-trojan://1otp7avv-3rc0-yof7-sr71-mxbaiyu04dpt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://zrnetq96-rdwq-u7ii-dm91-nvxi15dxz51i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dxijxx86-kd1x-tiuv-qz47-jox3l2kf2o71@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fm4027wb-elby-mdv2-2cun-lfonhqxrh6li@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4se63qh9-vlgu-afzt-fw15-mec5t49eymdz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://e92u2hsc-nknj-508y-jtoy-4z0bu080fsd3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2im9gfi3-q748-shvl-147h-z1cjh55b0kwe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9yaix8dy-com8-mbzy-lp8q-yzkpr0r0hzmb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAzOC4xODAuMTg1LjEyNSIsImFkZCI6ImFnMDEtY2RuLm15bjFkZXMuY29tIiwicG9ydCI6MjA4NiwiaWQiOiI4N2Q5ZGE4Zi03ODM5LTM3ZjgtYjdmMi1hN2JlMjJhZTM4MzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy0tTlRMUyAtIFNjYWxheHkgQi5WLiBcdTI1MDcgMTk0Ljg3LjE2OS44IiwiYWRkIjoiMTk0Ljg3LjE2OS44IiwicG9ydCI6NjU1MTQsImlkIjoiZDAzY2NjZmMtOWJlNi00M2I0LTg4ZDItMzAyMzg3MmJkNDNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.19:2222#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.244.136.19
@@ -30,4 +30,4 @@ vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?type=tcp&securi
 vless://838e226d-c328-4107-af74-88a071869d59@38.180.105.106:80?type=xhttp&security=reality&path=/fgvb&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=jv-iGCfpmBqc85L6LIL5fVP9Tx6-I_SKDCQYaXF9Sj4&sid=a506e8582e#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Scalaxy B.V. ┇ 38.180.105.106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbEZtblAydTZxWjRkR2tncTZuYkZV@38.180.146.42:22135#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.146.42
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 102.165.47.134
-trojan://waz0e67r-6bva-kg8z-4i8b-0buodr8ejbtj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://r10hlb0y-3zl4-ds71-nvnh-jrce9v751yd2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

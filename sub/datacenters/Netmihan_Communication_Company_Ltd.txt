@@ -1,10 +1,10 @@
-trojan://r4haoew7-eyll-30kk-e74g-ivzhr4kkci1m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://nk4r8ajp-62tu-oua2-dhoa-tnyc3uqbag4a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o31sc7y9-7a7o-4yod-686z-f5sr79fi0lpd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c33ab8tj-94p8-2ys3-btg8-cpukvx2do9tm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://03asgy0u-7ftv-t1v6-87r8-jqi43ixitb7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://9sgoc5xh-93wk-sdqq-x3vo-14stsg6gycw9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ue1cca4x-8pmt-tslt-552a-f29xmaevhwjf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://my2ceg1j-jx9j-lhbl-1zcs-xsx5c29014dj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.250.83
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV0bWloYW4gQ29tbXVuaWNhdGlvbiBDb21wYW55IEx0ZCBcdTI1MDcgMTg1Ljk0Ljk2LjEyIiwiYWRkIjoiMTg1Ljk0Ljk2LjEyIiwicG9ydCI6MTc2LCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vless://fdd1dfce-3292-4441-8f45-212ea9b7d250@89.42.211.170:80?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
 vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-trojan://ia6yqwah-akka-f5v2-qvvt-a1vpeobk4t0f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://d618ntyc-f6f1-ulav-obk7-9masb8qymbhm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

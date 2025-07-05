@@ -1,21 +1,21 @@
-trojan://dt1w0uh7-dizr-jf97-woj5-5k88iya7cbnm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://8v1ibvcc-08bi-8pud-g9cv-uf5oa3a5p2bo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s7zgiovs-oanb-sap3-334x-0rfklf7je226@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lkpt1hir-v968-syq8-hrpe-6ndyr50oghfj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z6jc91vd-uope-qcnd-ax0w-58n7wlo7v746@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://kvy0tmjg-yxkp-fscq-edwc-ry9gytato31g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://swlqtet8-1lxz-r0jg-0rja-rqw6brazzx41@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ihs7m5zt-8c01-lav4-e4s4-4f4zecttr5o4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.198
 vless://0035cf98-c747-4d31-8704-31583e0c4856@hi.ircloudmarket.com:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#DE 🇩🇪 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y2VlZmMzYi1lYWViLTQ4Y2MtYjk5Zi04YmM3ODhhZjc3ZjE@85.133.238.67:1935#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.238.67
 trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2051?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.201.194
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIzOC4yMzEiLCJhZGQiOiJwMS5waXNoZ2FtYW4tZXJ0ZWJhdC5zaG9wIiwicG9ydCI6NDYyMDksImlkIjoiN2ZhOGJmNDctMWJmYy00YTZkLWFmZjgtY2M3NjQwMWI2YjdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNjIuNjAuMjIxLjE1MiIsImFkZCI6IjYyLjYwLjIyMS4xNTIiLCJwb3J0IjozNjAwLCJpZCI6ImE0OWJiNzc5LTIyY2UtNDAzZC1hZjM1LTQxNWMzMTM4YWMyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODcuMjM2LjIwOC4xNjEiLCJhZGQiOiI4Ny4yMzYuMjA4LjE2MSIsInBvcnQiOjgwODgsImlkIjoiM2YzODU1N2YtMDI4Yi00YmViLWI3YzktOWVkNzk0OTk2NmNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNDUuOTQuMjEzLjI3IiwiYWRkIjoiNDUuOTQuMjEzLjI3IiwicG9ydCI6MjA4OSwiaWQiOiJiZmM1NDA3MS01Y2QyLTQ4YzctZTBlZC1iOWQ2OWU1YTQ1NGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODkuNDcuMjAwLjIwMiIsImFkZCI6Ijg5LjQ3LjIwMC4yMDIiLCJwb3J0IjoyMDgzLCJpZCI6IjkyYzZhNmU2LWUxMWYtNDc0My1hMTgyLTJkM2Q2MTg4MGU0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIzOC44MCIsImFkZCI6Ijg1LjEzMy4yMzguODAiLCJwb3J0IjoxMzk4NCwiaWQiOiIyYzkzOGI4OC1iYzAxLTQ4NzctYjMzMS1jZTAyMjc3N2NmYzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNjIuNjAuMjIxLjE1MiIsImFkZCI6IjYyLjYwLjIyMS4xNTIiLCJwb3J0IjozNjAwLCJpZCI6ImE0OWJiNzc5LTIyY2UtNDAzZC1hZjM1LTQxNWMzMTM4YWMyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODcuMjM2LjIwOC4xNjEiLCJhZGQiOiI4Ny4yMzYuMjA4LjE2MSIsInBvcnQiOjgwODgsImlkIjoiM2YzODU1N2YtMDI4Yi00YmViLWI3YzktOWVkNzk0OTk2NmNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNjIuNjAuMjIxLjE1OSIsImFkZCI6ImMyNC5ncmVlbmdlbXNlcnZlcnMuY29tIiwicG9ydCI6MzYwMCwiaWQiOiJhNDliYjc3OS0yMmNlLTQwM2QtYWYzNS00MTVjMzEzOGFjMmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA2Mi42MC4xODUuODciLCJhZGQiOiI2Mi42MC4xODUuODciLCJwb3J0IjoyMDg2LCJpZCI6ImRhY2VkNTQ4LTZhMzktOTkzYy1iZDFkLWU0OTIzNzg1MTZmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIwMS4yMzQiLCJhZGQiOiI4NS4xMzMuMjAxLjIzNCIsInBvcnQiOjU2MzIwLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9hcGkvdjEvc3RhdHVzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNjIuNjAuMTkzLjEyMSIsImFkZCI6IjYyLjYwLjE5My4xMjEiLCJwb3J0Ijo1NjMyMiwiaWQiOiJjNGVjNjdhOC0xZGNjLTQ3MWQtYTZkNy00ZDliOWVjMTcyNmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3YxL3N0YXR1cyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNDUuOTQuMjEzLjI3IiwiYWRkIjoiNDUuOTQuMjEzLjI3IiwicG9ydCI6MjA4OSwiaWQiOiJiZmM1NDA3MS01Y2QyLTQ4YzctZTBlZC1iOWQ2OWU1YTQ1NGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIwMy4xOTciLCJhZGQiOiI4NS4xMzMuMjAzLjE5NyIsInBvcnQiOjkwMDcsImlkIjoiZTFhNjAzNzQtZDkyZi00MWM2LWI4Y2QtYzAxNDViY2UwYjUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://8bd0228f-039d-44a8-8185-6b48365e31a3@62.60.193.102:2131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.102
 vless://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.63
@@ -32,9 +32,19 @@ vless://e69a2621-00e4-4623-bbef-b3a71aa10aa5@85.133.202.133:8800?type=tcp&securi
 vless://b8833bad-d3cd-4fc7-ab76-e611b7cfeaab@85.133.202.167:8000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.167
 vless://c6bbfbba-e017-4483-a7ad-6476b5086b74@89.44.240.39:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.39
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?type=ws&security=none&path=/6603a779fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.221
+vless://fba209ab-cb28-45bd-ba29-d6d12b335ebe@info1.gamavpn.li:43213?type=ws&security=tls&path=/?ed=2048&sni=info1.gamavpn.li&fp=firefox#IR 🇮🇷 ┇ VLESS-WS-TLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.251
+vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.163
+vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.87
+vless://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@ir053.v2netservice.uk:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.226
+vless://d9c956e3-7118-e7eb-50dc-19c53fc364fd@62.60.193.25:2030?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.25
+vless://ServerNett@62.60.221.201:43496?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.201
+vless://055636cc-dc0a-4917-8a42-f3fc8be47c06@85.133.202.35:5112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.35
+vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.19
+vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@vpncityy3.aliha.icu:9089?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.25
+vless://737d83d2-368e-430b-8292-7a7f1d38d783@power.dlmoviz.ir:2023?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.167
+vless://4de72cfb-700f-44cd-9692-84bdf7ee9319@c1.lightxpro.ir:1919?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.220.120
 vless://68bf28aa-da7b-4435-8d96-5478b1739dd7@85.133.202.113:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.113
 vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@62.60.221.215:12048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.215
-vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@45.94.213.19:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.19
 vless://1542fa4b-43dc-4f10-bec6-5242d10729c3@89.47.198.147:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.47.198.147
 vless://7d0d333c-1f8e-4a78-8e04-ffdc3adf80c4@87.236.208.80:8006?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.80
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.238.84
@@ -59,21 +69,6 @@ vless://643ae107-943f-4715-a1bd-28ab22209676@45.94.213.47:9090?type=tcp&security
 vless://454091f0-6b1b-4f00-898f-42dd0abce54d@45.94.213.209:51586?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.209
 vless://3b929ec4-7d7f-45ad-a90c-b217a8175272@45.94.213.4:8465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.4
 vless://e13e3c79-4597-4cda-bc8f-dad1eb659f5a@85.133.202.140:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.140
-vless://055636cc-dc0a-4917-8a42-f3fc8be47c06@85.133.202.35:5112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.35
-vless://168a9361-ef1c-499c-adee-f9fac59c5b4d@62.60.221.63:1120?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.63
-vless://16918c9b-2747-4e7f-d1aa-93d709efd475@mci.vipconfig.ir:17?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.4
-vless://17f01e1b-1078-40a9-b1d6-f74a15be9c82@45.94.213.145:80?type=ws&security=none&path=/Z8dI1GOhRwIUwfYIQvhnpS8QIOZ&sni=web.rubika.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.145
-vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@fp.emeonline.top:3489?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.117
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.241.220
-vless://fba209ab-cb28-45bd-ba29-d6d12b335ebe@info1.gamavpn.li:43213?type=ws&security=tls&path=/?ed=2048&sni=info1.gamavpn.li&fp=firefox#IR 🇮🇷 ┇ VLESS-WS-TLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.251
-vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.163
-vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.87
-vless://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@ir053.v2netservice.uk:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.226
-vless://d9c956e3-7118-e7eb-50dc-19c53fc364fd@62.60.193.25:2030?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.25
-vless://ServerNett@62.60.221.201:43496?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.201
-vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@vpncityy3.aliha.icu:9089?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.25
-vless://737d83d2-368e-430b-8292-7a7f1d38d783@power.dlmoviz.ir:2023?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.167
-vless://4de72cfb-700f-44cd-9692-84bdf7ee9319@c1.lightxpro.ir:1919?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.220.120
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@62.60.192.213:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.192.213
 vless://f13a952c-40b2-477d-c05b-8f5c08cafa4b@85.133.204.80:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.80
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
@@ -90,6 +85,10 @@ vless://736dadf2-add4-4070-adcc-191e3ad14ed7@85.133.204.58:3000?type=tcp&securit
 vless://7616fa4d-994e-4e1d-b9f6-a2a10ac655d1@jets.movizdl.ir:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.228
 vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.220.115
 vless://a6ce661b-d6ef-431b-904c-75086f4dc12f@87.236.208.206:2087?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.206
+vless://168a9361-ef1c-499c-adee-f9fac59c5b4d@62.60.221.63:1120?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.63
+vless://16918c9b-2747-4e7f-d1aa-93d709efd475@mci.vipconfig.ir:17?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.4
+vless://17f01e1b-1078-40a9-b1d6-f74a15be9c82@45.94.213.145:80?type=ws&security=none&path=/Z8dI1GOhRwIUwfYIQvhnpS8QIOZ&sni=web.rubika.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.145
+vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@fp.emeonline.top:3489?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.117
 vless://1a9b2294-3d9f-48fd-a092-ba0a91bf6d6f@62.60.185.134:1935?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.134
 vless://47da45ab-d702-48dc-b173-ec2db068f6fc@ios.mhzjtb.top:33520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.241.198
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.171
@@ -109,7 +108,7 @@ vless://a2f456b3-4afd-46ff-dbb4-dc8386fec081@k.networknim.cam:43829?type=tcp&sec
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@45.94.213.165:55700?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.165
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@45.94.213.188:55700?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.188
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@87.236.208.133:55700?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.133
-vless://059504a3-4dcd-472c-8c3c-4dff91f9163a@fi.ircloudmarket.com:4400?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.203.130
-vless://94e0acd7-aa2f-4a8a-abf6-921bbba18810@local.connectix-d1.info:44444?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 62.60.220.158
+vless://3d02439c-0618-4846-a2eb-7ed6fae26ffc@local.connectix-d1.info:44444?type=tcp&security=reality&sni=www.speedtest.net&fp=randomized&flow=xtls-rprx-vision&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 62.60.220.158
+vless://7e82278c-40cb-4b63-b29c-db0de34134bc@fi.ircloudmarket.com:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.203.130
 vless://a0efdc2c-d6a3-4e42-b008-524c69557f71@85.133.204.12:3972?type=tcp&security=reality&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.12
-trojan://1op1k8yr-n832-eipf-lfhr-41whobzw59ds@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3jjpvgwk-srrs-y10x-uz96-rs3yckqmaiqo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

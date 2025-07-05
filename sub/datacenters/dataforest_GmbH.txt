@@ -1,7 +1,7 @@
-trojan://clj4bslx-xsk6-q5pd-1tmo-7pez17l5breh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://fwr4h1qy-yimo-807p-qt3r-saff71nyv8nu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e3ns79yl-ui01-0az8-ledw-u2vhgqezs1j8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3r5xrmta-morh-jkgd-mwdo-uinytfqyy28x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sd7yt3ua-m7di-2h5i-uk4v-7u5v1ic3u1mb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://fa8z1erx-u4u1-0rxv-em0b-xyor6nuq5xxc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r6wyajkz-gw1h-xbo6-e7ck-qudcw9k5q46r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2vi08dxp-gtkz-k8z6-0mpy-lqhw9l3gocm3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&sid=0e#AE 🇦🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 31.58.144.164
 vless://52201103-6d69-4577-a65d-ced254d8c9d2@31.58.144.203:443?type=tcp&security=reality&sni=khanacademy.org&flow=xtls-rprx-vision&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324#AE 🇦🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 31.58.144.203
 vless://302e5ece-2eff-429d-a44e-4b3e93cf3898@31.58.144.130:443?type=xhttp&security=reality&path=/api/stream&sni=tgju.org&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - dataforest GmbH ┇ 31.58.144.130
@@ -25,4 +25,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWFlYTczNi0zYjRkLTQ2NDQtYTk5OS1mZTM4ZWRmYWU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNGE1OTRjNy01NTUxLTQyYTYtOTNiOC00NGNlYTNjNjIwMjQ@156.226.174.40:30004#SC 🇸🇨 ┇ SHADOWSOCKS-TCP-NTLS - dataforest GmbH ┇ 156.226.174.40
 trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t32.emoyes.top:8446?sni=www.python.org&peer=www.python.org&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS - dataforest GmbH ┇ 156.226.174.186
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZGF0YWZvcmVzdCBHbWJIIFx1MjUwNyAxNTYuMjI2LjE3NS42MiIsImFkZCI6ImRlMS5xaWFuZ2RvbmcueHl6IiwicG9ydCI6MTUzLCJpZCI6IjUyYzIyM2RkLWM2Y2MtM2EwYy1iODY1LTllNWUwZGRmZTEwYSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
-trojan://bo6euo8l-t545-17ww-7z3g-qyjcj0gzh3du@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q8w6cvz3-mmll-e1b1-c7za-1y6wcqmmlknv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

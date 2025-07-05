@@ -1,13 +1,13 @@
-trojan://u9sjjp03-pgie-xgel-q0me-k5l7nv4eeib9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://envgym1j-fm9z-6ycx-6ay7-ndx8scwdm7tv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2dvcajhf-hsaq-bigu-fdb5-ldgd6laslllf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://js8ozdcs-jzii-9oq7-d9ao-8djypyb0r7au@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://katllrvx-fzl4-8zvb-um7y-2cvgvd8gnb2v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://xynbw868-v8uu-oaoa-gvhx-l91k73pipnau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qd34m63g-npd9-fjo6-6cyb-4yzv1wssaw7a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wyxm00s8-9ayq-i3df-suwn-9yiifp6uszcu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@156.230.12.71:443?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS - 263 Global Communications Limited ┇ 156.230.12.71
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#SC 🇸🇨 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 154.85.18.233
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.247
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.194.0.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.3
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.194.0.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.213
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.247
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.63
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.194.0.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.177
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.194.0.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.77
@@ -109,4 +109,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWFlYTczNi0zYjRkLTQ2NDQtYTk5OS1mZTM4ZWRmYWU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNGE1OTRjNy01NTUxLTQyYTYtOTNiOC00NGNlYTNjNjIwMjQ@156.226.174.40:30004#SC 🇸🇨 ┇ SHADOWSOCKS-TCP-NTLS - dataforest GmbH ┇ 156.226.174.40
 trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t32.emoyes.top:8446?sni=www.python.org&peer=www.python.org&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS - dataforest GmbH ┇ 156.226.174.186
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZGF0YWZvcmVzdCBHbWJIIFx1MjUwNyAxNTYuMjI2LjE3NS42MiIsImFkZCI6ImRlMS5xaWFuZ2RvbmcueHl6IiwicG9ydCI6MTUzLCJpZCI6IjUyYzIyM2RkLWM2Y2MtM2EwYy1iODY1LTllNWUwZGRmZTEwYSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
-trojan://yunp72ik-b84t-a66x-c4tc-ndgevdiwnbo8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mcxs1t99-v02t-khk3-bf8y-guj2lubmydj7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

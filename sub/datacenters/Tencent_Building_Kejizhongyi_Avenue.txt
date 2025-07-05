@@ -1,13 +1,13 @@
-trojan://cp9aohj4-c9he-ecf2-c3yp-akobvhlhuoyv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://skw591mn-jl02-7gzn-yfp7-8ujh9l5lrskj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://42ch0f1g-z9pw-4ck5-6043-8a75uudnpqoz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r5k0g4dw-mhnl-t5yg-yhei-ivrkmx61ead7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f6o8mbnf-iwih-eykq-dsz1-ah45p3gf9kff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://id9uksvt-2pn1-rdr5-nlyo-c7ze9rkh9hhu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://w39m5h7u-8nlr-iope-prum-fr7omhrc2de8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bdtplovt-i3ul-2k6b-3fep-bc06m2ro7jm6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbmNlbnQgQnVpbGRpbmcsIEtlaml6aG9uZ3lpIEF2ZW51ZSBcdTI1MDcgNDMuMTMxLjYyLjEwMyIsImFkZCI6IjQzLjEzMS42Mi4xMDMiLCJwb3J0Ijo2NjYsImlkIjoiMTFjOWYzMGMtYzlhNC00ZTYxLWEzNGMtNGRkMzFkMDUwYjNmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 trojan://Aimer@43.154.34.74:1935?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.154.34.74
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.154.172.79
-trojan://95b@43.129.171.137:443?sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&peer=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.129.171.137
-trojan://Vad3.123a%252529asd1234-asdasd.asdazzS.123@43.154.83.213:443?sni=xx.tc.hk.go.107421.xyz&peer=xx.tc.hk.go.107421.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.154.83.213
 trojan://oIwjHDXpKePvYIg8@43.161.255.183:443?sni=myvps.lol&peer=myvps.lol&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.161.255.183
+trojan://Vad3.123a)asd1234-asdasd.asdazzS.123@43.154.83.213:443?sni=xx.tc.hk.go.107421.xyz&peer=xx.tc.hk.go.107421.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.154.83.213
+trojan://95b@43.129.171.137:443?sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&peer=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.129.171.137
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@43.154.222.216:19358?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.154.222.216
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUZW5jZW50IEJ1aWxkaW5nLCBLZWppemhvbmd5aSBBdmVudWUgXHUyNTA3IDQzLjE1NC45MC4xMzQiLCJhZGQiOiI0My4xNTQuOTAuMTM0IiwicG9ydCI6Mzg5MDYsImlkIjoiNmI2ZGQxMWEtNzk4Yy00MDFlLWJhNDYtZDYyNzJlMjlhY2EzIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaGs0LnZlcmljaGFpbnMuY28iLCJwYXRoIjoiL2hrNC9nZXREYXRhIiwidGxzIjoidGxzIiwic25pIjoiaGs0LnZlcmljaGFpbnMuY28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUZW5jZW50IEJ1aWxkaW5nLCBLZWppemhvbmd5aSBBdmVudWUgXHUyNTA3IDQzLjE1OS4xOTYuNCIsImFkZCI6IjQzLjE1OS4xOTYuNCIsInBvcnQiOjQ2OTk0LCJpZCI6IjAwZTM1ODU0LTg3MDYtNDcwZS1hZjMxLWUzMGU1NTdlN2U1ZSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
@@ -93,9 +93,9 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.253.94:443?type=ws&security=
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@43.134.250.63:58882?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.134.250.63
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.156.205.36:7777?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.205.36
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.160.193.138:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SG 🇸🇬 ┇ VLESS-TCP-RLT - Tencent Building, Kejizhongyi Avenue ┇ 43.160.193.138
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?sni=myvps.lol&peer=myvps.lol&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.162.125.204
 trojan://Aimer@170.106.152.78:443?sni=epccq.ambercc.filegear-sg.me&peer=epccq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 170.106.152.78
 trojan://Aimer@49.51.179.33:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 49.51.179.33
-trojan://oIwjHDXpKePvYIg8@myvps.lol:443?sni=myvps.lol&peer=myvps.lol&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.162.125.204
 trojan://oIwjHDXpKePvYIg8@43.162.127.44:443?sni=myvps.cfd&peer=myvps.cfd&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.162.127.44
 trojan://oIwjHDXpKePvYIg8@43.162.118.156:443?sni=myvps.cfd&peer=myvps.cfd&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.162.118.156
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.80.208
@@ -107,4 +107,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUZW5jZW50IEJ1aWxkaW5nLCBLZWppemhvbmd5aSBBdmVudWUgXHUyNTA3IDQzLjE1My40LjI0NiIsImFkZCI6IjQzLjE1My40LjI0NiIsInBvcnQiOjQ0MywiaWQiOiJiMjcyMDIyMy0zZWI2LTRkMjYtODYwYy1hODkxZTAyMDQ1YmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.103.203:443?type=ws&security=tls&path=/blue&sni=zdy033.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.103.203
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.130.34.184:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - Tencent Building, Kejizhongyi Avenue ┇ 43.130.34.184
-trojan://uv9al8dt-z56y-ne7v-tu08-99y1yzvm0yie@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fcu3zajs-pgam-k55v-i5ua-9b7lts9h6nrz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

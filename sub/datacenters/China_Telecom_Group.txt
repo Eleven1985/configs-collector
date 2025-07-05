@@ -1,7 +1,7 @@
-trojan://kwj21jg1-i5y8-znsu-dnrz-drpx148endmm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://t5iq2bcc-thou-4ico-g1a7-tshamxy5iknn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://imye7au9-58c5-huqw-xkk4-00i8qi96n0yl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1bhm6rcb-cr97-6xl9-hm9q-3p22gvwdvkrs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v4kwfckc-wfm8-iqjj-5yul-fiin1n9mg8wm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://csk7r8oh-i8zk-crss-pzrl-c7w29w06v5qt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xcx5c7s2-6hjk-5edr-u1k9-m7a9gk47vfke@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://quspaca5-htll-1shs-ulx8-3it2kfivzxr0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ@203.156.198.89:25339#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 203.156.198.89
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?sni=www.yrtok.com&peer=www.yrtok.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 203.156.253.12
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?sni=www.yrtok.com&peer=www.yrtok.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 203.156.253.11
@@ -37,4 +37,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVGVsZWNvbSBHcm91cCBcdTI1MDcgNTguMzIuMTYuMjMiLCJhZGQiOiI1OC4zMi4xNi4yMyIsInBvcnQiOjgwLCJpZCI6IjU0YzA4NThiLWRjMTEtNDg1Mi1mMTY3LTY0ZjU4YTFkOTNhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDaGluYSBUZWxlY29tIEdyb3VwIFx1MjUwNyA1OC4zMi45OC4xMiIsImFkZCI6IjU4LjMyLjk4LjEyIiwicG9ydCI6MjA1MywiaWQiOiJlZjA4ODc5ZC0wMjliLTRlYWMtYzk3OC1hNmM5OTU1YzQ1OTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzMTEuc2hhaHJpdmFyLnNob3AiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InMxMS5zaGFocml2YXIuc2hvcCJ9
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.44.255.81:443?type=ws&security=tls&path=/?ed=2560&sni=re1.ylks0033.dpdns.org#CN 🇨🇳 ┇ VLESS-WS-TLS - China Telecom Group ┇ 103.44.255.81
-trojan://0641c3xa-uqjq-032o-k2im-0r8mfiudkd0f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://71cpj4rv-2o2i-8b0x-ncvl-fvbnsqy44zlb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

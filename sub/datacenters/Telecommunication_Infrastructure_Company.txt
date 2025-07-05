@@ -1,7 +1,7 @@
-trojan://nie87wm4-zdo8-lfb6-xv0z-y7b9w74no86f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://jmy1qvns-l57n-62a4-ggru-p9oobc7tpvp5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pqygpz7v-lzhe-gcvt-exdt-0k7ca9nu2fu9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://onr9m4mc-2jpm-4osl-96w6-5mdtihz3dlzq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://paau5u1f-gpv6-9px0-4uuy-8e0jc7woi7od@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://sejm03st-3rj1-l331-4cio-e6pe5zfgwye8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://if2nmm5a-mquo-fyeq-3j6l-vixxnwvhsh47@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rg5zin5b-dfx1-8yo1-b92l-9ebuwu9vk5wr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
 vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:6784?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
@@ -12,4 +12,4 @@ vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
 vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
-trojan://zo2xwen8-428l-0zld-wbae-as8q5m1vb4vp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3dqntlhr-fyah-uhyb-06p9-zzkncv9pr4gm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

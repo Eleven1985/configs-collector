@@ -1,7 +1,7 @@
-trojan://7n4p9dkv-jo1r-pv5q-alxj-tpe7jo2pik5h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:03 ]
-trojan://ub2qptxo-o19f-kr6c-lsje-4u3flhy5o13q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3il4bosr-ozkz-82d8-n7w7-55o0tsc90j9l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ldhnb1fy-ghty-6pqv-q97k-he9ppp2zgfn9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pv2borcs-i2on-7h0r-j7rs-e7xj0x5jrh9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-05 | 09:24 ]
+trojan://p8534shq-vs5e-fuf6-1t7m-v6sed8s0eayb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z3vfzf2p-boy6-7kzh-71xj-i3tv799aaqa4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pba2e45n-nhrc-fvjr-92z8-pfzy3o91qi55@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTc1ZDY2Zi03Y2Y1LTQ3YWEtODNiZS1hOGU5NjljZGJlMmQ@rk1.boost1.top:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Eons Data Communications Limited ┇ 205.198.84.51
 trojan://giosZwLNqAUWxczWJDYqXQDgNLMYwbKI@ahgjs-4-tr-0.hkg-01.o-two.xyz:889?sni=o-two.bond&peer=o-two.bond&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Eons Data Communications Limited ┇ 103.152.221.186
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy36114.birpagi.cn:36114?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Eons Data Communications Limited ┇ 103.152.220.106
@@ -21,4 +21,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T1RCak9ETmpZekl3WkdKaE5EQTNOVE5qTlRsaE9XVmt
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRW9ucyBEYXRhIENvbW11bmljYXRpb25zIExpbWl0ZWQgXHUyNTA3IDM4LjE1MC4xMC42MSIsImFkZCI6IjM4LjE1MC4xMC42MSIsInBvcnQiOjM2NjA0LCJpZCI6ImMxYTczOGU1LTUxMjEtNDY5MS1hNzE4LWFmMTczMWZiMWY3NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy38115.birpagi.cn:38115?sni=cdn-debian.org&peer=cdn-debian.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Eons Data Communications Limited ┇ 38.181.72.154
 vless://0e0bc531-b3f6-4aa9-a96c-1ae06f6b52a5@205.198.68.10:23232?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Eons Data Communications Limited ┇ 205.198.68.10
-trojan://esnm6q3g-cift-fx1y-lv25-ijkfd5yc7q74@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://67erh982-66gl-rjiy-97q7-wfjt5jog7hy7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
